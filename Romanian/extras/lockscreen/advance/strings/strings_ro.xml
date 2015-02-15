@@ -1,0 +1,5 @@
+<resources>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="emergency_call">Apel de urgenţă</string>
+    <string name="unknown_number">Număr necunoscut</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Înainte</string>
+    <string name="continues">Continuaţi</string>
+    <string name="shutdown">Deconectaţi</string>
+    <string name="other_service_label">Alte servicii</string>
+    <string name="other_service_location">Acces la locaţie</string>
+    <string name="other_service_location_summary">Permiteţi hărţilor şi altor aplicaţii să obţină locaţia dvs.</string>
+    <string name="other_service_google_location">Serviciul localizare Google</string>
+    <string name="other_service_google_location_use">Locaţie şi Căutare Google</string>
+    <string name="other_service_google_location_use_summary">Permiteţi Google să utilizeze locaţia dvs. pentru a îmbunătăţi rezultatele căutărilor şi alte servicii</string>
+    <string name="other_service_google_location_use_help">Permiteți serviciului de localizare Google să colecteze date anonime de localizare. Colectarea va avea loc chiar și atunci când nu rulează nicio aplicație.</string>
+    <string name="other_service_permission_manager">Gestionaţi permisiunile aplicaţiilor</string>
+    <string name="other_service_permission_manager_summary">Monitorizaţi aplicaţiile pentru securitate şi confidenţialitate</string>
+    <string name="other_service_user_experience">Programul experiență de utilizare</string>
+    <string name="other_service_user_experience_summary0">Ajutaţi MIUI prin trimiterea datelor anonime de diagnosticare.</string>
+    <string name="other_service_user_experience_summary1">(vizualizaţi politica de confidențialitate)</string>
+    <string name="sim_card_detection_dialog_message">Detectare card SIM…</string>
+    <string name="sim_card_detection_label">Card SIM</string>
+    <string name="sim_card_detection_info"></string>
+    <string name="sim_card_detection_status_absent">Cardul SIM nu a fost detectat</string>
+    <string name="setup_complete_label">Gata!</string>
+    <string name="setup_complete_info"></string>
+    <string name="setup_complete_start">OK</string>
+    <string name="setup_complete_summary">Configurare funalizată!</string>
+</resources>

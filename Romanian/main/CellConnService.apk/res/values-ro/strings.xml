@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Anulaţi</string>
+    <string name="confirm_radio_title">SIM dezactivat</string>
+    <string name="confirm_radio_msg">%1$s este dezactivat. Doriţi să activaţi cardul SIM?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Modul avion este activat şi</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s este dezactivat. Doriţi să dezactivaţi modul avion şi să activaţi cardul SIM?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Modul avion este activat. Doriţi să dezactivaţi modul avion?</string>
+    <string name="confirm_radio_msg_single">Modul avion este activat, doriţi să-l dezactivaţi?</string>
+    <string name="confirm_pin_title">SIM blocat</string>
+    <string name="confirm_pin_msg">Cardul SIM selectat este blocat. Deblocaţi-l mai întâi.</string>
+    <string name="confirm_simmelock_title">SIM ME blocat</string>
+    <string name="confirm_simmelock_msg">Slotul SIM selectat este blocat. Deblocaţi-l mai întâi.</string>
+    <string name="confirm_fdn_title">FDN activat</string>
+    <string name="confirm_fdn_msg">FDN este activat.</string>
+    <string name="confirm_roaming_title">Avertizare roaming</string>
+    <string name="confirm_roaming_msg">Cardul SIM pe care doriţi să-l utilizaţi este în roaming. Niciun card SIM local disponibil. Continuaţi?</string>
+    <string name="confirm_roaming_withPrefer_msg">Cardul SIM pe care doriţi să-l utilizaţi este în roaming. Doriţi să continuaţi prin intermediul cardului SIM local?</string>
+    <string name="confirm_roaming_lbutton">Continaţi</string>
+    <string name="confirm_roaming_rbutton">Anulaţi</string>
+    <string name="confirm_roamingWithPrefer_lbutton">SIM local</string>
+    <string name="confirm_roamingWithPrefer_rbutton">SIM roaming</string>
+    <string name="confirm_radio_lbutton">Activaţi</string>
+    <string name="confirm_unlock_lbutton">Deblocaţi</string>
+    <string name="confirm_unlock_fail">Operaţie anulată</string>
+    <string name="confirm_turnon_radio_fail">Operaţie anulată</string>
+    <string name="confirm_permit_roaming_fail">Aţi anulat această acţiune pentru cardul SIM roaming</string>
+    <string name="confirm_sim_locked_message">Cardul SIM a fost blocat pentru totdeauna</string>
+    <string name="confirm_slot_locked_message">Slotul a fost blocat pentru totdeauna</string>
+</resources>

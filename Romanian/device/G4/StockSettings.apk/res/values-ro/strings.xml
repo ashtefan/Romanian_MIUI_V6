@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Setări dispozitiv</string>
+    <string name="system">Sistem</string>
+    <string name="engineermode_settings">Mod Inginer</string>
+    <string name="schedulepoweronoff_settings">Grafic conectare şi deconectare</string>
+    <string name="sound">Sunet</string>
+    <string name="camera_sound_switch">Comutare sunet cameră</string>
+    <string name="camera_sound">Sunet cameră</string>
+    <string name="record_sound">Sunet înregistrare video</string>
+    <string name="focus_sound">Sunet focusare</string>
+    <string name="flash_recovery">Actualizare Recuperare</string>
+    <string name="toolbox">Instrumente</string>
+    <string name="recovery_instruction">Redenumiţi imaginea Recuperării în recovery.img şi plasaţi-o pe cardul SD, apoi puteţi actualiza Recuperarea apăsând aici.</string>
+    <string name="device">Selectaţi dispozitivul dvs.</string>
+    <string name="standard_version_instruction">Setările actuale sunt pentru versiunea Standard. Dacă setarea nu corespunde versiunii telefonului mobil, selectați versiunea corespunzătoare după care dispozitivul va reporni.</string>
+    <string name="stronger_version_instruction">Setările actuale sunt pentru versiunea Advanced. Dacă setarea nu corespunde versiunii telefonului mobil, selectați versiunea corespunzătoare după care dispozitivul va reporni.</string>
+    <string name="network">Reţea</string>
+    <string name="network_selection">Selectare tip reţea</string>
+    <string name="factorymode_settings">Mod Fabrică</string>
+    <string name="adv_settings">Setări avansate</string>
+</resources>

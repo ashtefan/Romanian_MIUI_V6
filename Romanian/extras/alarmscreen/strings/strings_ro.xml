@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">Glisaţi pt. a închide</string>
+    <string name="snooze_message">Amânaţi pentru %d min.</string>
+</resources>

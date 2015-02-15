@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Raport probleme</string>
+    <string name="report_miui">Raport probleme</string>
+    <string name="menu_copy">Copiaţi</string>
+    <string name="menu_attach_screenshot">Ataşaţi captura ecranului</string>
+    <string name="menu_discard">Renunţaţi</string>
+    <string name="description">Descrieţi problema sau introduceţi descrierea dvs. aici</string>
+    <string name="btn_send">Trimiteţi</string>
+    <string name="err_type_reboot">Reporniri aleatorii</string>
+    <string name="err_type_force_close">Închideri forţate</string>
+    <string name="err_type_network">Probleme de reţea</string>
+    <string name="err_type_others">Altele</string>
+    <string name="err_type_power_consuming">Consum de energie</string>
+    <string name="err_type_call">Probleme de apelare</string>
+    <string name="err_type_suggestion">Sugestii</string>
+    <string name="err_type_data_lost">Pierderi date</string>
+    <string name="status_msg_pending_upload">Trimitere %d comentarii…</string>
+    <string name="status_msg_collecting_log">Obţinere jurnale</string>
+    <string name="action_submit">Trimiteţi</string>
+    <string name="section_err_type">Tip dificultate</string>
+    <string name="section_description">Descriere</string>
+    <string name="section_screenshot">Captură de ecran</string>
+    <string name="toast_report_sent_succeed">Raportul a fost trimis</string>
+    <string name="toast_report_sent_failed">Imposibil de trimis raportul</string>
+    <string name="toast_report_copied_to_clipboard">Raportul a fost copiat în clipboard</string>
+    <string name="toast_description_required">Descrierea este necesară</string>
+    <string name="toast_pending_log_collection">Colectare jurnale…</string>
+    <string name="toast_feedback_submitted">Raportul dvs. a fost trimis</string>
+    <string name="toast_feedback_pending_wlan">Mesajul dvs. va fi trimis atunci când veţi fi conectat la Wi-Fi</string>
+    <string name="discard_draft_dialog_title">Renunţaţi la schiţă?</string>
+    <string name="discard_draft_dialog_content">Orice modificări pe care le-ați făcut în acest raport vor fi pierdute.</string>
+    <string name="discard_draft_dialog_button_discard">Renunţaţi</string>
+    <string name="discard_draft_dialog_button_cancel">Anulaţi</string>
+    <string name="network_unavailable_dialog_title">Verificați conexiunea de date</string>
+    <string name="network_unavailable_dialog_content">Nu se poate conecta la rețea. Mesajul dvs. va fi trimis atunci când veţi avea o conexiune de date</string>
+    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="wlan_unavailable_dialog_title">Utilizare date</string>
+    <string name="wlan_unavailable_dialog_content">Trimiterea raportul dvs. va utiliza %s de date. Pentru a aştepta până ce te vă veţi conecta la Wi-Fi pentru a trimite, atingeți Aşteptaţi.</string>
+    <string name="wlan_unavailable_dialog_button_sent">Trimiteţi acum</string>
+    <string name="wlan_unavailable_dialog_button_ok">Aşteptaţi</string>
+    <string name="packaging_dialog_content">Creare raport…</string>
+</resources>

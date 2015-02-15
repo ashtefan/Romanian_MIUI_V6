@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_label">Busolă</string>
+    <string name="getting_location">Calibrare...</string>
+    <string name="location_east">Est</string>
+    <string name="location_north">Nord</string>
+    <string name="location_south">Sud</string>
+    <string name="location_west">Vest</string>
+    <string name="menu_calibrate">Calibraţi busola</string>
+    <string name="menu_calibrate_altitude">Calibraţi altitudinea</string>
+    <string name="calibrate_success">Calibrat</string>
+    <string name="calibrate_failed_no_location">Calibrare eşuată</string>
+    <string name="calibrate_failed_timeout">Calibrare eşuată: Conexiunea cu server-ul a expirat</string>
+    <string name="pressure_title">Presiune</string>
+    <string name="altitude_title">Altitudine</string>
+    <string name="dialog_calibrat_altitude">Calibrare...</string>
+    <string name="dialog_title_no_network">Nu s-a putut conecta la reţea</string>
+    <string name="latitude">Latitudine</string>
+    <string name="longitude">Longitudine</string>
+    <string name="direction_east">E</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_west">V</string>
+    <string name="direction_north_east">NE</string>
+    <string name="direction_north_west">NV</string>
+    <string name="direction_south_east">SE</string>
+    <string name="direction_south_west">SV</string>
+    <string name="guide_toast">Pentru a calibra busola mişcaţi telefonul conform imaginii de mai sus</string>
+</resources>
