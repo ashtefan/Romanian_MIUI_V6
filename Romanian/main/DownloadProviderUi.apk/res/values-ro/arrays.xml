@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="prefEntries_max_bytes_limit">
+     <string-array name="prefEntries_max_bytes_limit">
         <item>Nelimitat</item>
         <item>20 MO</item>
         <item>10 MO</item>
@@ -9,5 +9,5 @@
         <item>1 MO</item>
         <item>512 KO</item>
         <item>Doar Wi-Fi</item>
-    </string-array>
+     </string-array>
 </resources>

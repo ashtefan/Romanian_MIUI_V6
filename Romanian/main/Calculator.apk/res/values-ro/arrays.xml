@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="operatorDescs">
+     <string-array name="operatorDescs">
         <item>paranteză stânga</item>
         <item>paranteză dreapta</item>
         <item>factorial</item>
@@ -18,5 +18,5 @@
         <item>cosinus</item>
         <item>pi</item>
         <item>egal cu</item>
-    </string-array>
+     </string-array>
 </resources>

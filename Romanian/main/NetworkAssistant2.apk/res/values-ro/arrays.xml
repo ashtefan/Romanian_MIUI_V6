@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_uints">
-        <item>" O"</item>
-        <item>" KO"</item>
-        <item>" MO"</item>
-        <item>" GO"</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-        <item>"Ieri "</item>
-        <item>"Azi "</item>
-        <item>"În această lună "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-        <item>"Ieri: "</item>
-        <item>"Azi: "</item>
-        <item>"În această lună: "</item>
-    </string-array>
-    <string-array name="date_of_app_all">
+     <string-array name="date_of_app">
+        <item>Ieri (Date)</item>
+        <item>Azi (Date)</item>
+        <item>În această lună (Date)</item>
+     </string-array>
+     <string-array name="date_of_app_all">
         <item>Ieri (Date)</item>
         <item>Azi (Date)</item>
         <item>În această lună (Date)</item>
         <item>Ieri (Wi-Fi)</item>
         <item>Azi (Wi-Fi)</item>
         <item>În această lună (Wi-Fi)</item>
-    </string-array>
-    <string-array name="date_of_app">
-        <item>Ieri (Date)</item>
-        <item>Azi (Date)</item>
-        <item>În această lună (Date)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Ieri "</item>
+        <item>"Azi "</item>
+        <item>"În această lună "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Ieri: "</item>
+        <item>"Azi: "</item>
+        <item>"În această lună: "</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Utilizare date "</item>
+        <item>"Utilizare Wi-Fi "</item>
+     </string-array>
+     <string-array name="min_limit_pkg_default">
+        <item>1 MO</item>
+        <item>2 MO</item>
+        <item>3 MO</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
         <item>3 sec.</item>
         <item>4 sec.</item>
         <item>5 sec.</item>
@@ -37,23 +40,27 @@
         <item>7 sec.</item>
         <item>8 sec.</item>
         <item>9 sec.</item>
-    </string-array>
-    <string-array name="traffic_type">
-        <item>"Utilizare date "</item>
-        <item>"Utilizare Wi-Fi "</item>
-        <item>"Date salvate "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-        <item>"Utilizare date "</item>
-        <item>"Utilizare Wi-Fi "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Utilizare date "</item>
-        <item>"Utilizare Wi-Fi "</item>
-        <item>"Date salvate "</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Afiaşare acertizare</item>
+        <item>Avertizare şi dezactivare date</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
         <item>Obţineţi șablonul mesajului în mod automat</item>
         <item>Setaţi manual șablonul mesajului</item>
-    </string-array>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Utilizare date "</item>
+        <item>"Utilizare Wi-Fi "</item>
+        <item>"Date salvate "</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Utilizare date "</item>
+        <item>"Utilizare Wi-Fi "</item>
+        <item>"Date salvate "</item>
+     </string-array>
+     <string-array name="traffic_uints">
+        <item>" MO"</item>
+        <item>" GO"</item>
+     </string-array>
 </resources>

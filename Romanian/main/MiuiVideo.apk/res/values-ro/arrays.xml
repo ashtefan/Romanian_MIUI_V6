@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="channel_tabs">
+     <string-array name="channel_tabs">
         <item>Populare</item>
         <item>Clasament</item>
         <item>Cele mai noi</item>
-    </string-array>
-    <string-array name="channel_featured_tabs">
-        <item>Alese</item>
-        <item>Clasament</item>
-        <item>Cele mai noi</item>
-    </string-array>
-    <string-array name="home_tabs">
-        <item>On-line</item>
-        <item>Locale</item>
-    </string-array>
-    <string-array name="series_detail_tabs">
-        <item>Episod</item>
-        <item>Rezumat</item>
-    </string-array>
-   <string-array name="addon_list_tabs">
-        <item>Toate</item>
-        <item>Ale mele</item>
-    </string-array>
+     </string-array>
+     <string-array name="movie_channel_tabs">
+        <item>Recommended</item>
+        <item>Rank</item>
+        <item>Hot</item>
+        <item>Newest</item>
+     </string-array>
+     <string-array name="variety_channel_tabs">
+        <item>Recommended</item>
+        <item>Hot</item>
+     </string-array>
 </resources>
