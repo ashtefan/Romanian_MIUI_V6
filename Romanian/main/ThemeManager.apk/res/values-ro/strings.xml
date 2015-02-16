@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="account_id_not_login">Touch to sign in</string>
      <string name="account_info">Contul meu</string>
@@ -117,11 +116,7 @@
      <string name="resource_comment_edit_comment_waiting">Verificare istoric…</string>
      <string name="resource_comment_edit_text_default">Scrieţi un comentariu</string>
      <string name="resource_comment_edit_title">Editaţi comentariul: %1$s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Comments (%1$s) -->
-     <string name="resource_comment_entry_tips">Vizualizaţi comentariile</string>
+     <string name="resource_comment_entry_tips">Comentarii (%1$s)</string>
      <string name="resource_comment_expand_full_text">Extindeți tot textul▼</string>
      <string name="resource_comment_footer">Comentariile goale nu sunt afișate</string>
      <string name="resource_comment_good_comments">Pozitive</string>

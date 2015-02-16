@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="add_to_whitelist_button">Manage exceptions</string>
-     <string name="add_white_list">Add</string>
+     <string name="add_to_whitelist_button">Gestiune excepţii</string>
+     <string name="add_white_list">Adăugaţi</string>
      <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizată cu mai mult de o lună în urmă</string>
      <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizată cu mai mult de o săptămână în urmă</string>
      <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizată cu o săptămână în urmă</string>
@@ -9,7 +9,7 @@
      <string name="adjust_traffic_carrier_summary_two_day_before">Actualizată cu 2 zile în urmă</string>
      <string name="adjust_traffic_carrier_summary_yesterday">Actualizată ieri la %s</string>
      <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
-     <string name="alter_dialog_message">Connecting to data services when roaming internationally can result in steep charges from your carrier. Allow apps on exceptions list to connect to data services when roaming internationally?</string>
+     <string name="alter_dialog_message">Conectarea la serviciile de date în roaming internaţional poate cauza taxe mai mari din partea operatorului dvs. Permiteți aplicațiilor din lista excepțiilor să se conecteze la serviciile de date în roaming internațional?</string>
      <string name="app_detail">Detalii</string>
      <string name="app_mobile">Date</string>
      <string name="app_name">Utilizare date</string>
@@ -18,11 +18,11 @@
      <string name="background_traffic">În fundal: %s</string>
      <string name="begin_date">Data de resetare a ciclului de utilizare</string>
      <string name="cancel_button">Anulaţi</string>
-     <string name="chat_number">10 hours</string>
-     <string name="chat_uint">" hours"</string>
-     <string name="checkout_traffic_saving_history">View history</string>
-     <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
-     <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
+     <string name="chat_number">10 ore</string>
+     <string name="chat_uint">" ore"</string>
+     <string name="checkout_traffic_saving_history">Vizualizare istoric</string>
+     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
+     <string name="daily_limit_over_message">Ați depășit limita zilnică a datelor.</string>
      <string name="daily_pkg_traffic">Setați limita de utilizare în orele de vârf</string>
      <string name="data_usage_correction_timeout_body">Atingeți pentru a actualiza manual.</string>
      <string name="data_usage_correction_timeout_title">Timpul pentru sincronizarea utilizării datelor a expirat</string>
@@ -50,11 +50,11 @@
      <string name="datausage_purchase_get_captcha_again">Trimiteţi un cod nou</string>
      <string name="datausage_purchase_get_captcha_failed">Nu s-a putut obţine codul de verificare. Verificați conexiunea de date și încercați din nou.</string>
      <string name="datausage_purchase_goto_monthsetting">Editaţi informaţia despre abonament</string>
-     <string name="datausage_purchase_none_history">Empty</string>
-     <string name="datausage_purchase_order_failure">Purchase failed</string>
-     <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
-     <string name="datausage_purchase_order_history">History</string>
-     <string name="datausage_purchase_ordering">Procurare…</string>
+     <string name="datausage_purchase_none_history">Gol</string>
+     <string name="datausage_purchase_order_failure">Cumpărare eșuată</string>
+     <string name="datausage_purchase_order_failure_cause">Achiziția dvs. a eșuat, deoarece…</string>
+     <string name="datausage_purchase_order_history">Istoric</string>
+     <string name="datausage_purchase_ordering">Achiziţie…</string>
      <string name="datausage_purchase_pay_captcha_hint">Introduceți codul pe care îl primiți aici</string>
      <string name="datausage_purchase_pay_captcha_tips">După ce veți primi codul de verificare, introduceţi-l în caseta de mai sus și apăsați \"Procuraţi\" pentru a finaliza achiziția. Rețineți că codul este valabil doar pentru 10 minute.</string>
      <string name="datausage_purchase_pay_confirm">Procuraţi</string>
@@ -66,7 +66,7 @@
      <string name="datausage_purchase_result_failed">Imposibil de procurat date. Verificați cu operatorul dvs. pentru mai multe informații despre problemă.</string>
      <string name="datausage_purchase_result_ok">"Aţi procurat %s.
 Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de servicii"</string>
-     <string name="datausage_purchase_time_in">" on "</string>
+     <string name="datausage_purchase_time_in">" în "</string>
      <string name="datausage_purchase_title_confirm">Detalii despre ahiziţionare</string>
      <string name="datausage_purchase_title_order">Achiziţionaţi date suplimentare</string>
      <string name="datausage_purchase_title_pkglist">Achiziţionaţi date</string>
@@ -74,10 +74,10 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
      <string name="declaration_dialog_msg">Această caracteristică vă poate ajuta să urmăriți utilizarea datelor, dar nu vă garantează prevenirea costurilor suplimentare. Pentru rezultate optime, setați o limită conservatoare.</string>
      <string name="deleted_apps">Aplicaţii dezinstalate</string>
      <string name="detail_app_button">Informaţii aplicaţie</string>
-     <string name="dialog_app_roaming_message">"When you're roaming internationally, only apps you've added to the exceptions list can use data services. %1$s hasn't been added to the exceptions list. View exceptions list now?"</string>
-     <string name="dialog_app_roaming_title">"International roaming isn't enabled for %1$s"</string>
-     <string name="dialog_roaming_message">Apps on exceptions list will be able to connect to data services when roaming internationally. Add this app to exceptions list?</string>
-     <string name="dialog_roaming_title">International roaming</string>
+     <string name="dialog_app_roaming_message">Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat în lista excepțiilor pot utiliza serviciile de date. %1$s nu a fost adăugată în lista excepțiilor. Vizualizaţi lista excepțiilor acum?</string>
+     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
+     <string name="dialog_roaming_message">Aplicațiile din lista excepțiilor vor putea să se conecteze la serviciile de date în roaming internațional. Adăugaţi această aplicație în lista excepțiilor?</string>
+     <string name="dialog_roaming_title">Roaming internaţional</string>
      <string name="dual_setting_simcard1">SIM1</string>
      <string name="dual_setting_simcard2">SIM2</string>
      <string name="firewall_activity_lable">Restricționaţi utilizarea datelor</string>
@@ -87,10 +87,10 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
      <string name="firewall_fragment_tab_title_nonsys">Instalate</string>
      <string name="firewall_fragment_tab_title_sys">Sistem</string>
      <string name="firewall_rule_group_title_mobile">Date</string>
-     <string name="firewall_rule_group_title_roaming">International roaming</string>
+     <string name="firewall_rule_group_title_roaming">Roaming internaţional</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_service_network_blocked">Utilizarea reţelelor %2$s a fost restricţionată pentru %1$s</string>
-     <string name="five_percent_total_pkg">%s (5%% of your monthly mobile data)</string>
+     <string name="five_percent_total_pkg">%s (5%% din datele mobile lunare)</string>
      <string name="force_stop_dlg_text">Dacă restricționați datele mobile în fundal, unele aplicații și servicii nu vor funcționa decât dacă sunteți conectat la o rețea Wi-Fi.</string>
      <string name="force_stop_dlg_title">Restricționaţi datele în fundal</string>
      <string name="foreground_traffic">În prim plan: %s</string>
@@ -102,15 +102,15 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
      <string name="input_aviable_traffic">Setaţi limita de utilizare a datelor</string>
      <string name="input_traffic_pkg">Introduceţi utilizarea datelor</string>
      <string name="input_used_hint">Introduceţi utilizarea datelor</string>
-     <string name="input_used_max_hint">Enter data usage(less than %s)</string>
-     <string name="international_roaming_setting">International roaming</string>
-     <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
+     <string name="input_used_max_hint">Introduceţi utilizarea datelor (mai puţin decât %s)</string>
+     <string name="international_roaming_setting">Roaming internaţional</string>
+     <string name="international_roaming_whitelist_count">%d aplicații se pot conecta la serviciile de date în roaming internațional</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Gol</string>
-     <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
-     <string name="lock_screen_traffic_notify_body">Locked for %1$s | Used %2$s of mobile data</string>
+     <string name="lock_screen_setting_summary">Afişare notificare după utilizarea a 100KO</string>
+     <string name="lock_screen_traffic_notify_body">Blocat pentru %1$s | Utilizaţi %2$s din datele mobile</string>
      <string name="lock_screen_traffic_warn_title">Avetizare utilizare date</string>
-     <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
+     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
      <string name="main_alert_message_no_imsi">Niciun card SIM detectat</string>
      <string name="main_alert_message_no_mobile_package">Limita datelor mobile nu a fost setată</string>
      <string name="main_alert_message_slot_no_data_connection">"Slotul cardului SIM nu susţine
@@ -134,8 +134,8 @@ o conexiune de date mobilă"</string>
 Off-peak: %1$s remaining | %2$s used"</string>
      <string name="main_secondary_message_traffic_detail_normal">"
 Peak: %1$s%2$s remaining | %3$s used"</string>
-     <string name="main_secondary_message_traffic_over">over</string>
-     <string name="main_secondary_message_traffic_remain">remaining</string>
+     <string name="main_secondary_message_traffic_over">peste</string>
+     <string name="main_secondary_message_traffic_remain">rămas</string>
      <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
      <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
      <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
@@ -166,14 +166,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
      <string name="ok_button">OK</string>
      <string name="online_chat">Chat</string>
-     <string name="online_read">News</string>
-     <string name="online_songs">Music</string>
-     <string name="operator_name_cmcc">China Mobile</string>
-     <string name="operator_name_telcom">China Telecom</string>
-     <string name="operator_name_unicom">China Unicom</string>
-     <string name="operator_number_cmcc">10086</string>
-     <string name="operator_number_telcom">10000</string>
-     <string name="operator_number_unicom">10010</string>
+     <string name="online_read">Noutăţi</string>
+     <string name="online_songs">Muzică</string>
      <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
      <string name="permit_running_network">Permiteți datele în fundal</string>
      <string name="person_hotpot">Hotspot-uri mobile</string>

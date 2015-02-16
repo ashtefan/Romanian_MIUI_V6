@@ -1,4 +1,4 @@
-<resources>
-    <string name="slider_text">Glisaţi pt. a închide</string>
-    <string name="snooze_message">Amânaţi pentru %d min.</string>
-</resources>
+<strings>
+    <string name="slider_text" value="Glisaţi spre stânga pentru a închide" />
+    <string name="snooze_message" value="Amânaţi pentru %d min." />
+</strings>

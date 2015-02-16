@@ -1,0 +1,24 @@
+﻿<Config>
+	<Group text="General">
+		<NumberChoice text="Ceas" summary="Selectaţi fontul pentru ceas" id="TimeStyle" default="1">
+			<Item text="Plat" value="1"/>
+			<Item text="Aldin" value="2"/>
+			<Item text="Subţire" value="3"/>
+			<Item text="Stoc" value="4"/>
+		</NumberChoice>
+		<CheckBox text="Alarmă" summary="Afişarţi ora celei mai apropiate alarme" id="alarm_ifo" default="1"/>
+	</Group>
+	<Group text="Meteo">
+		<CheckBox text="Meteo" summary="Afişaţi datele meteo" id="weather_ifo" default="1"/>
+		<CheckBox text="Ascundere pictogramă" summary="Ascundeţi pictograma meteo" id="show_weather_icon" default="0"/>
+		<NumberChoice text="Opţiuni afişare" id="weather_text"  default="1">
+			<Item text="Temperatură şi descriere" value="1" />
+			<Item text="Doar temepratură" value="2" />
+		</NumberChoice>
+		<NumberChoice text="Stil pictograme" id="weather_icon"  default="1">
+			<Item text="1" value="1" />
+			<Item text="2" value="2" />
+			<Item text="3" value="3" />
+		</NumberChoice>
+	</Group>
+</Config>

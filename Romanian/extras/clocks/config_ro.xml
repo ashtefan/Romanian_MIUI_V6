@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Group text="Ceas">
+		<NumberChoice text="Font" summary="Schimbările fontului vor intra în vigoare atunci când obiectul widget va fi actualizat pe ecran." id="TimeStyles" default="1">
+			<Item text="Stoc" value="1"/>
+			<Item text="Aldin" value="2"/>
+			<Item text="Subțire" value="3"/>
+		</NumberChoice>
+	</Group>
+	<Group text="Meteo">
+		<CheckBox text="Activare date meteo" id="weather_ifos" default="0"/>
+		<NumberChoice text="Opţiuni afişare" id="style_weather"  default="1">
+			<Item text="Temperatură și descriere" value="1" />
+			<Item text="Doar temperatură" value="2" />
+		</NumberChoice>
+	</Group>
+</Config>

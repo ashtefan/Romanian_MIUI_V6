@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="accept">OK</string>
-     <string name="activate">Activate</string>
+     <string name="activate">Activare</string>
      <string name="activate_feature_call_log_sync">Jurnal apeluri</string>
      <string name="activate_feature_find_device">Găsire dispozitiv</string>
      <string name="activate_feature_mms_sync">Sincronizare SMS</string>
@@ -35,35 +34,27 @@
      <string name="activate_popup_desc_register_account_intl">Un mesaj text internaţional va fi trimis pentru activarea contului dvs. Mi</string>
      <string name="activate_popup_desc_sim_card">Un mesaj text va fi trimis pentru activarea cardului SIM ce va permite utilizarea %s (tarificare de la operator)</string>
      <string name="activate_popup_desc_sim_card_downlink">Pentru activarea %s, introduceţi numărul de telefon</string>
-     <string name="activate_popup_desc_upload_diagnosis_info">Report this problem to Mi? (Report ID : %s)</string>
-     <string name="activate_popup_link_diagnosis_detail">What information will be included?</string>
-     <string name="activate_popup_title_diagnosis_detail">Diagnosis info</string>
+     <string name="activate_popup_desc_upload_diagnosis_info">Raportați această problemă la Mi? (ID raport: %s)</string>
+     <string name="activate_popup_link_diagnosis_detail">Ce informații vor fi incluse?</string>
+     <string name="activate_popup_title_diagnosis_detail">Info diagnostic</string>
      <string name="activate_popup_title_failed_phone_error">Număr de telefon greşit</string>
      <string name="activate_popup_title_failed_query_info">Imposibil de găsit numărul</string>
      <string name="activate_popup_title_failed_receive_sms">Niciun răspuns</string>
      <string name="activate_popup_title_failed_send_sms">Imposibil de trimis mesajul text</string>
      <string name="activate_popup_title_failed_server">Eroare de server</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Activate %s -->
-     <string name="activate_popup_title_manual">Asociere card SIM</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Reactivate %s -->
-     <string name="activate_popup_title_new_sim_card">Activarea cardului SIM nou</string>
+     <string name="activate_popup_title_manual">Activare %s</string>
+     <string name="activate_popup_title_new_sim_card">Reactivare %s</string>
      <string name="activate_popup_title_register_account">Asociaţi cardul SIM</string>
-     <string name="activate_popup_title_upload_diagnosis_info">"Can't activate SIM card"</string>
+     <string name="activate_popup_title_upload_diagnosis_info">Nu se poate activa cardul SIM</string>
      <string name="activate_status_desc_acquire_phone_number">Obţinerea numărului de telefon de pe server</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">O eroare de server a avut loc în timpul obţinerii numărului de telefon</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">Nu a reuşit obținerea numărului de telefon</string>
      <string name="activate_status_desc_checking_xiaomi_account">Verificarea contului Mi pe server</string>
      <string name="activate_status_desc_checking_xiaomi_account_server_error">O eroare de server a avut loc în timpul creării contului Mi</string>
-     <string name="activate_status_desc_failed_getting_gateway">Nu s-a reuşit trimiterea mesajului</string>
+     <string name="activate_status_desc_failed_getting_gateway">Nu a reuşit trimiterea mesajului</string>
      <string name="activate_status_desc_getting_gateway">Interogare server</string>
-     <string name="activate_status_desc_getting_sim_info">Getting SIM card info</string>
-     <string name="activate_status_desc_getting_sim_info_fail">"Couldn't get SIM card info"</string>
+     <string name="activate_status_desc_getting_sim_info">Obţinere informaţii card SIM</string>
+     <string name="activate_status_desc_getting_sim_info_fail">Nu se pot obţine informaţiile cardului SIM</string>
      <string name="activate_status_desc_prepare_sending_sms">Scrierea mesajului de activare</string>
      <string name="activate_status_desc_query_activation_info">Interogare server</string>
      <string name="activate_status_desc_query_activation_info_downlink_sms_error">Serverul nu a reușit să trimită mesajul de activare.</string>
@@ -73,26 +64,26 @@
      <string name="activate_status_desc_registering_sim_account_server_error">O eroare de server a avut loc în timpul înregistrării cardului SIM</string>
      <string name="activate_status_desc_registering_xiaomi_account">Înregistrarea contului Mi pe server</string>
      <string name="activate_status_desc_registering_xiaomi_account_server_error">O eroare de server a avut loc în timpul înregistrării contului Mi</string>
-     <string name="activate_status_desc_registration">Registering SIM card</string>
-     <string name="activate_status_desc_registration_server_error">A server error occurred while registering SIM card</string>
+     <string name="activate_status_desc_registration">Înregistrare card SIM</string>
+     <string name="activate_status_desc_registration_server_error">O eroare de server a avut loc în timpul înregistrării cardului SIM</string>
      <string name="activate_status_desc_request_activation_sms">Solicitare mesaj de activare de la server</string>
      <string name="activate_status_desc_request_activation_sms_phone_error">Numărul de telefon introdus nu este valid</string>
      <string name="activate_status_desc_request_activation_sms_server_error">O eroare de server a avut loc în timpul solicitării mesajului de activare de la server</string>
      <string name="activate_status_desc_sending_sms">Trimitere mesaj de activare</string>
      <string name="activate_status_desc_sending_sms_fail">Nu a reuşit trimiterea mesajului de activare</string>
      <string name="activate_status_desc_sms_sent">Mesaj de activare trimis</string>
-     <string name="activate_status_desc_wait_for_phone_service">Waiting for service</string>
+     <string name="activate_status_desc_wait_for_phone_service">Aşteptare serviciu</string>
      <string name="activate_status_desc_wait_for_sms">Așteptarea mesajului de activare de pe server</string>
-     <string name="activate_status_desc_wait_for_sms_fail">Nu s-a reuşit primirea mesajului de activare de pe server</string>
+     <string name="activate_status_desc_wait_for_sms_fail">Nu a reuşit primirea mesajului de activare de pe server</string>
      <string name="activate_status_desc_wait_for_sms_success">Recepţionare cu succes a mesajului de activare de pe server</string>
      <string name="activate_status_title_activating">Activare cont</string>
      <string name="activate_status_title_activating_msim">Activare cu cardul SIM %s</string>
      <string name="app_name">Mi Cloud service framework</string>
-     <string name="error_device_id_message">"Invalid Device ID: %s
-Device ID must be valid IMEI or MAC address. Without device id, some account and cloud features will be unavailable."</string>
-     <string name="error_device_id_title">"Can't get valid Device ID"</string>
+     <string name="error_device_id_message">"ID dispozitiv nevalid: %s
+ID-ul dispozitivului tebuie să fie IMEI valid sau adresă MAC. Fără ID dispozitiv, unele caracteristici ale contului și norului vor fi indisponibile."</string>
+     <string name="error_device_id_title">Nu se poate obţine ID dispozitiv valid</string>
      <string name="sim_unactivated_title">Cardul SIM nu este asociat</string>
-     <string name="sync_notification_title_format">Current syncing item: %1$s</string>
+     <string name="sync_notification_title_format">Sincronizare: %1$s</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xmsf_activate_info">XMSF activate info</string>
+     <string name="xmsf_activate_info">Info activare XMSF</string>
 </resources>

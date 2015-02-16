@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="alert_message_delete_record">Ştergeți înregistrările selectate?</string>
      <string name="app_name">Recorder</string>
