@@ -79,83 +79,83 @@
         <item>1 săptămână</item>
      </string-array>
      <string-array name="repeat_choose_day">
-        <item>1st</item>
-        <item>2nd</item>
-        <item>3rd</item>
-        <item>4th</item>
-        <item>5th</item>
-        <item>6th</item>
-        <item>7th</item>
-        <item>8th</item>
-        <item>9th</item>
-        <item>10th</item>
-        <item>11th</item>
-        <item>12th</item>
-        <item>13th</item>
-        <item>14th</item>
-        <item>15th</item>
-        <item>16th</item>
-        <item>17th</item>
-        <item>18th</item>
-        <item>19th</item>
-        <item>20th</item>
-        <item>21st</item>
-        <item>22nd</item>
-        <item>23rd</item>
-        <item>24th</item>
-        <item>25th</item>
-        <item>26th</item>
-        <item>27th</item>
-        <item>28th</item>
-        <item>29th</item>
-        <item>30th</item>
-        <item>31st</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
      </string-array>
      <string-array name="repeat_choose_end">
-        <item>Never</item>
-        <item>Time</item>
-        <item>Count</item>
+        <item>Niciodată</item>
+        <item>Timp</item>
+        <item>Frecvenţă</item>
      </string-array>
      <string-array name="repeat_choose_month">
-        <item>Jan</item>
+        <item>Ian</item>
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
+        <item>Mai</item>
+        <item>Iun</item>
+        <item>Iul</item>
         <item>Aug</item>
         <item>Sep</item>
         <item>Oct</item>
-        <item>Nov</item>
+        <item>Noi</item>
         <item>Dec</item>
      </string-array>
      <string-array name="repeat_choose_week_left">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>prima</item>
+        <item>a doua</item>
+        <item>a treia</item>
+        <item>a patra</item>
+        <item>ultima</item>
      </string-array>
      <string-array name="repeat_choose_week_right">
-        <item>Mon - Fri</item>
+        <item>Lu - Vi</item>
         <item>Weekend</item>
-        <item>Whole week</item>
+        <item>Toată săptămâna</item>
      </string-array>
      <string-array name="repeat_choose_weekday">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thur</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Lu</item>
+        <item>Ma</item>
+        <item>Mi</item>
+        <item>Jo</item>
+        <item>Vi</item>
+        <item>Să</item>
+        <item>Du</item>
      </string-array>
      <string-array name="repeat_frequency_spinner">
-        <item>day</item>
-        <item>week</item>
-        <item>month</item>
-        <item>year</item>
+        <item>zi</item>
+        <item>săptămână</item>
+        <item>lună</item>
+        <item>an</item>
      </string-array>
      <string-array name="response_labels1">
         <item>Niciun răspuns</item>
@@ -248,92 +248,6 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-     </string-array>
-     <string-array name="timezone_values">
-        <item>Pacific/Majuro</item>
-        <item>Pacific/Midway</item>
-        <item>Pacific/Honolulu</item>
-        <item>America/Anchorage</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Tijuana</item>
-        <item>America/Phoenix</item>
-        <item>America/Chihuahua</item>
-        <item>America/Denver</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Chicago</item>
-        <item>America/Mexico_City</item>
-        <item>America/Regina</item>
-        <item>America/Bogota</item>
-        <item>America/New_York</item>
-        <item>America/Caracas</item>
-        <item>America/Barbados</item>
-        <item>America/Halifax</item>
-        <item>America/Manaus</item>
-        <item>America/Santiago</item>
-        <item>America/St_Johns</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Argentina/Buenos_Aires</item>
-        <item>America/Godthab</item>
-        <item>America/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/London</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Sarajevo</item>
-        <item>Africa/Windhoek</item>
-        <item>Africa/Brazzaville</item>
-        <item>Asia/Amman</item>
-        <item>Europe/Athens</item>
-        <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Europe/Helsinki</item>
-        <item>Asia/Jerusalem</item>
-        <item>Europe/Minsk</item>
-        <item>Africa/Harare</item>
-        <item>Asia/Baghdad</item>
-        <item>Europe/Moscow</item>
-        <item>Asia/Kuwait</item>
-        <item>Africa/Nairobi</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Baku</item>
-        <item>Asia/Tbilisi</item>
-        <item>Asia/Yerevan</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Oral</item>
-        <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Colombo</item>
-        <item>Asia/Katmandu</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Krasnoyarsk</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Australia/Perth</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Yakutsk</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Asia/Vladivostok</item>
-        <item>Pacific/Guam</item>
-        <item>Asia/Magadan</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
      </string-array>
      <string-array name="visibility">
         <item>Prestabilit</item>

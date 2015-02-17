@@ -7,9 +7,9 @@
      <string name="button_start_now">Descărcaţi</string>
      <string name="call_record">Înregistrări apel (%d)</string>
      <string name="cloud_record">Înregistrare în nor (%d)</string>
-     <string name="data_connection_body">Using your mobile data connection to download this file will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="data_connection_body">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
      <string name="data_connection_button_text">OK</string>
-     <string name="data_connection_title">Data usage warning</string>
+     <string name="data_connection_title">Avertizare utilizare date</string>
      <string name="delete">Ştergeţi</string>
      <string name="delete_dialog_message">Ştergeţi înregistrarea?</string>
      <string name="deleting_message">Ştergere…</string>
@@ -20,20 +20,20 @@
      <string name="duration_format_second">%s s</string>
      <string name="error_app_internal">O altă aplicație ar putea utiliza funcția de înregistrare. Verificaţi şi încercaţi din nou.</string>
      <string name="error_app_internal_title">Eroare înregistrare sunet</string>
-     <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
+     <string name="error_file_access">Fișierul nu există sau este deteriorat</string>
      <string name="error_filename_illegal_char">Numele fișierului conține cel puțin un caracter nevalid.</string>
      <string name="error_filename_too_long">Numele fişierului este prea lung</string>
      <string name="error_sdcard_access">Imposibil de a accesa stocarea internă sau externă</string>
-     <string name="error_sdcard_unmounted">Insert SD card now</string>
+     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
      <string name="fm_record">Înregistrări radio (%d)</string>
      <string name="low_battery_error">Acumulatorul telefonului are mai puțin de 5%. Ca înregistrarea să nu fie pierdută, ea a fost oprită și salvată. Deconectarea neașteptată poate duce la pierderea înregistrării, se recomandă ca înregistrarea să se efectuieze atunci când este acumulatorul este complet încărcat.</string>
      <string name="message_file_size_error">Înregistrarea a atins lungimea maximă susţinută de %s</string>
-     <string name="no_downloading_file">No files are downloading.</string>
+     <string name="no_downloading_file">Nu se descarcă fișiere.</string>
      <string name="no_file">Nicio înregistrare</string>
      <string name="notification_message_all_paused">Poate crește utilizarea datelor mobile</string>
      <string name="notification_playback">Redare…</string>
      <string name="notification_recording">Înregistrare…</string>
-     <string name="notification_recording_ticker">Phone muted</string>
+     <string name="notification_recording_ticker">Sunete dezactivate</string>
      <string name="notification_stopped">Înregistrare oprită</string>
      <string name="notification_title_all_paused">Descărcare în pauză</string>
      <string name="notification_warning">Stocare insuficientă (mai puţin de %d minute)…</string>
@@ -45,9 +45,9 @@
      <string name="preference_record_scenes_dialog_title">Selectaţi scena înregistrării</string>
      <string name="preference_record_type_dialog_title">Selectaţi tipul înregistrării</string>
      <string name="preference_record_type_title">Tip înregistrare</string>
-     <string name="preference_scenes">Recording type</string>
+     <string name="preference_scenes">Tip înregistrare</string>
      <string name="preference_silent_mode">Dezactivaţi soneria în timpul înregistrării</string>
-     <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
+     <string name="record_back_pressed_hint">Pentru a ori înregistrarea, atingeţi Înapoi din nou</string>
      <string name="record_download">Descărcaţi din Mi Cloud</string>
      <string name="record_download_activity">Descărcare înregistrări</string>
      <string name="record_download_complete">Finalizată</string>
@@ -55,7 +55,7 @@
      <string name="record_download_msg">Înregistrările pot fi redate numai după ce vor fi descărcate.</string>
      <string name="record_download_msg_reload">Această înregistrare nu există</string>
      <string name="record_download_paused">În pauză</string>
-     <string name="record_download_pending">Pending</string>
+     <string name="record_download_pending">În aşteptare</string>
      <string name="record_download_progress">%d%%</string>
      <string name="record_downloading_notification">Descărcare…</string>
      <string name="record_downloading_notification_complete">Descărcare finalizată</string>
@@ -83,13 +83,8 @@
      <string name="sync_records">Sincronizare cu Mi Cloud</string>
      <string name="timer_format" formatted="false">%02d:%02d</string>
      <string name="toast_file_is_downloading">Acest fişier se descarcă, aşteptaţi</string>
-     <string name="toast_max_record_time">Drată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
+     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
      <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: Using your mobile data connection to download this file (%s) will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees. To wait for a WLAN connection to download this file, touch %s. -->
-     <string name="wifi_recommended_body">Sunteţi pe cale de a descărca prin intermediul rețelei mobile:\nDescărcarea fișierului poate duce la costuri mai mari de date.</string>
+     <string name="wifi_recommended_body">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
      <string name="wifi_recommended_title">Memento utilizare date</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

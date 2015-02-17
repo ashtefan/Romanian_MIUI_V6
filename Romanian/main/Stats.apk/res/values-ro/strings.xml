@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Statistici</string>
-    <string name="main_title">Anonymous Usage Data</string>
-    <string name="main_desc">Opt-ing in to anonymous usage data submission allows the developers of Translation Group to track unique installations across devices. Information submitted includes a unique identifier, which does not compromise your privacy, device type and version information. Data is submitted on each device boot, for an example of data that is sent, please click Preview below.</string>
-    <string name="main_optin">Enable Reporting</string>
-    <string name="main_btn_preview">Preview</string>
-    <string name="main_btn_save">I know</string>
-    <string name="main_show_stats">Stats</string>
-    <string name="preview_id_lbl">Unique ID</string>
-    <string name="preview_device_lbl">Device</string>
-    <string name="preview_version_lbl">Version</string>
-    <string name="preview_done_btn">Done</string>
-    <string name="preview_country_lbl">Country</string>
-    <string name="preview_carrier_lbl">Carrier</string>
-    <string name="preview_miui_lbl">MIUI version</string>
-    <string name="preview_build_lbl">Builded with</string>
-    <string name="preview_repo_lbl">Translation repository</string>
-    <string name="notification_ticker">Statistics Opted-In</string>
-    <string name="notification_title">Statistics</string>
-    <string name="notification_desc">We collect anonymous statistics</string>
-    <string name="main_link">&lt;a href=http://kdeveloper.ru/stats/>Learn More&lt;/a></string>
+    <string name="main_title">Utilizare date anonim</string>
+    <string name="main_desc">Transmiterea datelor de utilizare anonim permite dezvoltatorilor să urmărească instalațiile unice pe toate dispozitivele. Informațiile prezentate includ un identificator unic, care să nu compromită informațiile dvs. de confidențialitate, tipul de dispozitiv și versiunea. Datele sunt prezentate la fiecare pornire a dispozitivului. Pentru un exemplu de date care sunt trimise apăsaţi pe vizualizarea de mai jos.</string>
+    <string name="main_optin">Activaţi raportarea</string>
+    <string name="main_btn_preview">Previzualizare</string>
+    <string name="main_btn_save">OK</string>
+    <string name="main_show_stats">Statistici</string>
+    <string name="preview_id_lbl">ID unic</string>
+    <string name="preview_device_lbl">Dispozitiv</string>
+    <string name="preview_version_lbl">Versiune</string>
+    <string name="preview_done_btn">OK</string>
+    <string name="preview_country_lbl">Ţară</string>
+    <string name="preview_carrier_lbl">Operator</string>
+    <string name="preview_miui_lbl">Versiune MIUI</string>
+    <string name="preview_build_lbl">Construit cu</string>
+    <string name="preview_repo_lbl">Repozitoriu traducere</string>
+    <string name="notification_ticker">Statistici activate</string>
+    <string name="notification_title">Statistici</string>
+    <string name="notification_desc">Noi colectăm statistici anonime</string>
+    <string name="main_link">&lt;a href=http://kdeveloper.ru/stats/>Mai multe&lt;/a></string>
 </resources>
