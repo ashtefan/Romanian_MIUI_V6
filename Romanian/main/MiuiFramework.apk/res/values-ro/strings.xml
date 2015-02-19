@@ -27,8 +27,8 @@
     <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
     <string name="status_bar_toggle_paper_mode">Mod lectură</string>
     <string name="status_bar_toggle_sync_auto">Sinccronizare</string>
-    <string name="status_bar_toggle_sync_manual">Sinccronizare</string>
-    <string name="status_bar_toggle_syncing">Sinccronizare</string>
+    <string name="status_bar_toggle_sync_manual">Sincronizare</string>
+    <string name="status_bar_toggle_syncing">Sincronizare</string>
     <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
     <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butonul Acasă și Alimentare simultan.</string>
     <string name="screen_button_enabled_message">Butoanele de navigare au fost activate.</string>
