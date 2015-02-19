@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zile de lucru juridice</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100 MO</item>
+        <item>300 MO</item>
+        <item>500 MO</item>
+        <item>1 GO</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>În fiecare zi</item>
+        <item>La fiecare 3 zile</item>
+        <item>La fiecare 7 zile</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
+        <item>Într-un minut</item>
+        <item>În 5 minute</item>
+        <item>În 10 minute</item>
+        <item>Niciodată</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Solicitare cu notificare</item>
+        <item>Curățare în fundal</item>
+        <item>Afişare notificare după curăţare</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Dimensiune</item>
+        <item>Nume</item>
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Utilizate frecvent</item>
+        <item>Dimensiune</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Dimensiune</item>
+        <item>Nume</item>
+     </string-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
+        <item>După 1 minut</item>
+        <item>După 5 minute</item>
+        <item>După 10 minute</item>
+        <item>Niciodată</item>
+     </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Performanţă înaltă</item>
+        <item>Echilibrat</item>
+     </string-array>
+     <string-array name="power_dialog_sleep_items">
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>Niciodată</item>
+     </string-array>
+     <string-array name="power_dialog_vibration_items">
+        <item>Fără vibrare</item>
+        <item>Vibrare în modul silenţios</item>
+        <item>Vibrare întotdeauna</item>
+     </string-array>
+     <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Dezactivare</item>
+        <item>Activare</item>
+        <item>Nu se schimbă</item>
+     </string-array>
+</resources>
