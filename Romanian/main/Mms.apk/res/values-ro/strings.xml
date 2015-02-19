@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="action_firewall_setting">Blocklist</string>
+     <string name="action_firewall_setting">Listă blocări</string>
      <string name="activity_not_found">Nu s-a găsit nicio aplicaţie pentru a îndeplini această acţiune</string>
      <string name="activity_not_found_uri">Nu s-a găsit nicio aplicaţie pentru a îndeplini această acţiune</string>
      <string name="addBlackList">Adăugaţi în lista blocărilor</string>
@@ -22,10 +22,10 @@
      <string name="adding_attachments">Aşteptaţi până când elementele sunt adăugate în slideshow.</string>
      <string name="adding_attachments_title">Se adaugă ataşamente</string>
      <string name="adding_recipients">Se adaugă destinatari…</string>
-     <string name="alert_dlg_cancel_button">Cancel</string>
+     <string name="alert_dlg_cancel_button">Anulaţi</string>
      <string name="alert_dlg_ok_button">OK</string>
      <string name="app_label">Mesagerie</string>
-     <string name="app_name">Devices</string>
+     <string name="app_name">Dispozitive</string>
      <string name="attach_image">Fotografii</string>
      <string name="attach_record_sound">Înregistraţi audio</string>
      <string name="attach_record_video">Realizaţi un videoclip</string>
@@ -34,7 +34,7 @@
      <string name="attach_subject">Subiect</string>
      <string name="attach_take_photo">Realizaţi o fotografie</string>
      <string name="attach_video">Videoclip</string>
-     <string name="audio_download_failed">"Can't download audio"</string>
+     <string name="audio_download_failed">Nu se poate descărca audio</string>
      <string name="audio_playing_seconds">%d\"</string>
      <string name="back_to_message_list">Înapoi la lista de mesaje</string>
      <string name="batch_adding_progress_message">Adăugare…</string>
@@ -50,7 +50,7 @@
      <string name="cannot_add_slide_anymore">Nu se pot adăuga mai multe slide-uri</string>
      <string name="cannot_forward_drm_obj">Obiectul DRM inclus în mesaj nu poate fi redirecţionat</string>
      <string name="cannot_get_details">Nu se pot obţine detaliile</string>
-     <string name="cannot_resend_audio">"Couldn't send recording"</string>
+     <string name="cannot_resend_audio">Nu se poate trimite înregistrarea</string>
      <string name="cannot_send_message">Mesajul nu poate fi trimis</string>
      <string name="cannot_send_message_reason">Mesajul dvs. nu are un destinatar valid</string>
      <string name="change_duration_activity">Modificaţi durata</string>
@@ -70,14 +70,14 @@
      <string name="confirm_delete_message">Ştergeţi mesajul?</string>
      <string name="confirm_dialog_locked_title">Ştergeţi mesajul blocat?</string>
      <string name="confirm_dialog_title">Ştergeţi?</string>
-     <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
-     <string name="confirm_dlg_title">Device management</string>
+     <string name="confirm_dlg__msg">Remarcă CMCC: serviciile de poștă gratuită CMCC nu vor fi furnizate dacă anulați serviciul. Sigur doriți să anulați?</string>
+     <string name="confirm_dlg_title">Gestionarea dispozitivului</string>
      <string name="confirm_export_dialog_description">Conversațiile anterioare cu acest contact nu vor mai fi ascunse</string>
      <string name="confirm_export_dialog_title">Eliminaţi din contacte private</string>
      <string name="confirm_no_block_positive">Nu blocaţi şi restabiliţi</string>
      <string name="confirm_no_block_title">Deblocaţi acest număr şi restabiliţi toate mesajele trimise de la acest număr?</string>
      <string name="confirm_rate_limit">Un număr mare de mesaje multimedia sunt trimise.</string>
-     <string name="confirm_restore_all_title">Restore all messages sent from this number?</string>
+     <string name="confirm_restore_all_title">Restabiliți toate mesajele trimise de pe acest număr?</string>
      <string name="confirm_restore_positive">Restabiliţi</string>
      <string name="confirm_restore_title">Restabiliţi mesajele selectate?</string>
      <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca un MMS, ceea ce poate duce la costuri suplimentare.</string>
@@ -117,11 +117,11 @@
      <string name="discard_message_reason">Mesajul dvs. va fi eliminat deoarece destinatarii săi nu sunt valizi.</string>
      <string name="discard_slideshow">Eliminaţi prezentarea</string>
      <string name="dl_failure_notification">Nu s-a putut descărca mesajul %1$s de la %2$s.</string>
-     <string name="done">Enter</string>
+     <string name="done">OK</string>
      <string name="download">Descărcaţi</string>
      <string name="download_later">Mesajele nu se pot descărca acum. Încercaţi din nou mai târziu.</string>
      <string name="downloading">Se descarcă</string>
-     <string name="downloading_file_can_not_play">Wait until recording has finished downloading</string>
+     <string name="downloading_file_can_not_play">Așteptați până înregistrarea se va termina de descărcat</string>
      <string name="duration_not_a_number">Durata trebuie să fie un număr</string>
      <string name="duration_sec">Durată (%s s)</string>
      <string name="duration_selector_title">"Durata diapozitivului "</string>
@@ -134,7 +134,7 @@
      <string name="edit_slideshow_activity">Modificaţi prezentarea</string>
      <string name="enable_password_protect">Necesită parolă</string>
      <string name="enable_visible_pattern_title">Faceţi modelul vizibil</string>
-     <string name="english_subject_limit">40 character limit</string>
+     <string name="english_subject_limit">Limită de 40 de caractere</string>
      <string name="enter_edit_mode">Editaţi mesajele</string>
      <string name="error_code_label">"Cod de eroare: "</string>
      <string name="error_state">Stare necorespunzătoare</string>
@@ -142,7 +142,7 @@
      <string name="error_timed_msg">Oră greşită</string>
      <string name="ex_type_mx">Mesagerie în nor</string>
      <string name="ex_type_sms">SMS/MMS</string>
-     <string name="exceed_message_size_limitation">S-a atins limita de dimensiune a mesajului.</string>
+     <string name="exceed_message_size_limitation">A fost atinsă limita de dimensiune a mesajului.</string>
      <string name="expire_on">Expiră la: %s</string>
      <string name="exporting_progress_private_message">Exportul mesajelor…</string>
      <string name="failed_to_add_media">Nu puteţi adăuga acest %1$s la mesajul dvs.</string>
@@ -152,11 +152,11 @@
      <string name="feedback_submit">Trimiteţi</string>
      <string name="festival">Răspunsuri rapide</string>
      <string name="festival_continue">OK</string>
-     <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
-     <string name="festival_networking_title">Notice</string>
-     <string name="festival_never_remind">"Don't show again"</string>
+     <string name="festival_networking_desc">Această caracteristică necesită conectare la internet pentru a funcţiona în mod normal.</string>
+     <string name="festival_networking_title">Remarcă</string>
+     <string name="festival_never_remind">Nu se afişează din nou</string>
      <string name="festival_sms_category_count_format">%s</string>
-     <string name="festival_sms_loading">Loading…</string>
+     <string name="festival_sms_loading">Încărcare…</string>
      <string name="fetion_prefix">[Fetion]</string>
      <string name="file_create_time">Creat:</string>
      <string name="file_share_message_description">Vreau să-ţi distribui câteva fișiere.</string>
@@ -168,11 +168,7 @@
      <string name="forward_prefix">"Redir.: "</string>
      <string name="found_old_messages">Încărcaţi mesajele din %1$s în %2$s?</string>
      <string name="found_old_messages_title">Încărcaţi mesajele de pe alte carduri SIM?</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Messages from the numbers below have been stored in your Mi Cloud. %sDownload them now? -->
-     <string name="found_wild_messages">Descărcați mesajele de pe alte carduri SIM?</string>
+     <string name="found_wild_messages">Mesaje de la numerele de mai jos au fost salvate în Mi Cloud. %s Descărcaţi acum?</string>
      <string name="found_wild_messages_title">Descărcare mesaje</string>
      <string name="from_label">"De la: "</string>
      <string name="group_message">Mesaje de grup</string>
@@ -180,13 +176,13 @@
      <string name="group_resend_message">Retrimiteţi (%d)</string>
      <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alt tip de conţinut</string>
      <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
-     <string name="guild_msim_switcher">Touch to switch SIM cards</string>
+     <string name="guild_msim_switcher">Atingeți pentru a comuta cartele SIM</string>
      <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s></string>
      <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
      <string name="hint_search_sms">%d mesaje</string>
-     <string name="hms_add_image_progress_message">Working…</string>
+     <string name="hms_add_image_progress_message">În lucru…</string>
      <string name="hms_first_use_tips">Pentru a recepţiona mesaje de serviciu, trebuie să vă conectaţi la o reţea Wi-Fi</string>
-     <string name="hms_uri_param_err">"URL can't be empty"</string>
+     <string name="hms_uri_param_err">URL nu poate fi gol</string>
      <string name="importing_progress_private_message">Importul mesajelor…</string>
      <string name="in_sms">Mesaj</string>
      <string name="insufficient_drm_rights">Drepturile DRM detectate sunt insuficiente.</string>
@@ -196,31 +192,31 @@
      <string name="invalid_recipient_message">Corectaţi destinatarii, altfel nu vor primi mesajul</string>
      <string name="kilobyte">KO</string>
      <string name="layout_selector_title">"Aspect prezentare "</string>
-     <string name="left_cancel">Swipe left to cancel</string>
+     <string name="left_cancel">Glisați spre stânga pentru a anula</string>
      <string name="loading_all_messages">Încărcarea mesajelor…</string>
      <string name="loading_conversations">Încarcare conversaţii…</string>
      <string name="loading_mms">Încărcare…</string>
-     <string name="manage_permission_app_label">Device permissions</string>
+     <string name="manage_permission_app_label">Permisiuni dispozitiv</string>
      <string name="me">Eu</string>
-     <string name="menu_add_black">Block this number</string>
-     <string name="menu_add_contact">Add to existing contact</string>
-     <string name="menu_call">Call</string>
+     <string name="menu_add_black">Blocaţi acest număr</string>
+     <string name="menu_add_contact">Adăugaţi la un contact existent</string>
+     <string name="menu_call">Apel</string>
      <string name="menu_compose_new">Scrieţi</string>
-     <string name="menu_contact">View contact info</string>
-     <string name="menu_delete_messages">Delete messages</string>
+     <string name="menu_contact">Vizualizare informaţii de contact</string>
+     <string name="menu_delete_messages">Ştergere mesaje</string>
      <string name="menu_edit">Modificaţi</string>
      <string name="menu_forward">Redirecţionaţi</string>
      <string name="menu_lock">Adăugaţi la favorite</string>
-     <string name="menu_mark">Mark</string>
-     <string name="menu_more">More</string>
-     <string name="menu_new_contact">New contact</string>
+     <string name="menu_mark">Marcaţi</string>
+     <string name="menu_more">Mai multe</string>
+     <string name="menu_new_contact">Contact nou</string>
      <string name="menu_new_manual">Introduceţi numărul de telefon</string>
      <string name="menu_pick_from_contact">Selectaţi din contacte</string>
      <string name="menu_preferences">Setări</string>
-     <string name="menu_send_as_common">Send as SMS</string>
+     <string name="menu_send_as_common">Trimiteţi ca SMS</string>
      <string name="menu_unlock">Eliminaţi din favorite</string>
      <string name="menu_view_contact">Vizualizaţi persoana din agendă</string>
-     <string name="menu_yellowpage">View %s</string>
+     <string name="menu_yellowpage">Vizualizaţi %s</string>
      <string name="message_class_label">"Clasa de mesaj: "</string>
      <string name="message_details_title">Detalii mesaj</string>
      <string name="message_download_failed_title">Mesajul nu a fost descărcat</string>
@@ -234,7 +230,7 @@
      <string name="message_saved_as_draft">Mesaj salvat ca mesaj nefinalizat</string>
      <string name="message_send_failed_title">Mesajul nu a fost trimis.</string>
      <string name="message_send_read_report">Un raport de citire va fi trimis</string>
-     <string name="message_sent">Sent</string>
+     <string name="message_sent">Trimis</string>
      <string name="message_size_label">"Dimensiune mesaj: "</string>
      <string name="message_too_big_for_audio">Mesajul este prea mare</string>
      <string name="message_too_big_for_video">Mesajul este prea mare pentru a ataşa un videoclip.</string>
@@ -246,14 +242,14 @@
      <string name="msg_type_hint_mms">Mesaj multimedia (MMS)</string>
      <string name="msg_type_hint_mx">Mesaj în nor</string>
      <string name="msg_type_hint_sms">Mesaj text</string>
-     <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
-     <string name="msglist_more_refreshing">Refreshing…</string>
-     <string name="msglist_no_more_to_refresh">Already up to date</string>
-     <string name="msglist_release_to_more">Release to view more</string>
+     <string name="msglist_continue_to_pull_for_more">Trageți în jos pentru a vedea mai multe</string>
+     <string name="msglist_more_refreshing">Reîmprospătare…</string>
+     <string name="msglist_no_more_to_refresh">Deja la zi</string>
+     <string name="msglist_release_to_more">Eliberați pentru a vizualiza mai multe</string>
      <string name="multimedia_message">Mesaj multimedia</string>
      <string name="multimedia_notification">Notificare mesaj multimedia</string>
      <string name="mx2_type_description">[%s]</string>
-     <string name="mx_activate_dlg_title">Activate Mi Message</string>
+     <string name="mx_activate_dlg_title">Activaţi Mi Message</string>
      <string name="mx_activate_error_malformed_info">You need to reactivate Mi Message.</string>
      <string name="mx_activate_error_server">"Couldn't activate"</string>
      <string name="mx_activate_error_sim_change">"Looks like you've swapped SIM cards. You need to reactivate Mi Message."</string>
