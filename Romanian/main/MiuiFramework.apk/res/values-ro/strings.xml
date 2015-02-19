@@ -102,5 +102,5 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="maml_component_customization_title">Setări</string>
     <string name="default_name">Prestabilit</string>
     <string name="resource_select">Selectaţi</string>
-    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa, sau dezactiva această caracteristică oricând în Setări suplimentare > Mod Lectură.</string>
+    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa, sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
 </resources>
