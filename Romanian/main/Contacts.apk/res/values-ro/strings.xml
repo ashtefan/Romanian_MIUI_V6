@@ -55,7 +55,7 @@
      <string name="callBack">Apelaţi din nou</string>
      <string name="callDetailTitle">Detaliile apelului</string>
      <string name="callDetailsDurationFormat" formatted="false">%s m %s s</string>
-     <string name="callNoAnswerTimeFormat">Rang %s times</string>
+     <string name="callNoAnswerTimeFormat">A sunat de %s ori</string>
      <string name="callShortcutActivityTitle">Alegeţi un număr pentru apelare</string>
      <string name="call_assistant">Apelaţi %s</string>
      <string name="call_callback">Apelaţi un număr cu apelare inversă</string>
@@ -148,20 +148,16 @@
      <string name="clear_default">Ştergeţi datele prestabilite</string>
      <string name="clear_digits">Ştergeţi numărul</string>
      <string name="click_close">Atingeţi pentru a închide</string>
-     <string name="clip_dialog_title">Dial copied number?</string>
-     <string name="close_dial_pad">Încşideţi tastele numerice</string>
+     <string name="clip_dialog_title">Apelaţi numărul copiat?</string>
+     <string name="close_dial_pad">Închideţi tastele numerice</string>
      <string name="cloud_antispam_mark">Marcaţi ca spam</string>
      <string name="cloud_antispam_title">Identificarea numerelor necunoscute</string>
      <string name="composer_failed_to_get_database_infomation">Nu s-au putut obţine informaţii din baza de date.</string>
      <string name="composer_has_no_exportable_contact">Nu există contacte din agendă care să poată fi exportate. Dacă aveţi contacte în agenda telefonului, este posibil ca exportul acestora de pe telefon să fie interzis de unii furnizori de date.</string>
      <string name="composer_not_initialized">Compozitorul vCard nu a pornit în mod corespunzător.</string>
-     <string name="config_export_dir">/mnt/sdcard</string>
      <string name="config_export_extensions_to_consider" />
-     <string name="config_export_file_extension">vcf</string>
      <string name="config_export_file_prefix" />
      <string name="config_export_file_suffix" />
-     <string name="config_export_vcard_type">v30_generic</string>
-     <string name="config_import_vcard_type">default</string>
      <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
      <string name="confirm_delete_selected_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
@@ -833,11 +829,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
      <string name="resource_comment_edit_comment_waiting">Verificare istoric…</string>
      <string name="resource_comment_edit_text_default">Scrieţi un comentariu</string>
      <string name="resource_comment_edit_title">Editaţi comentariul: %1$s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Comments (%1$s) -->
-     <string name="resource_comment_entry_tips">Vizualizaţi comentariile</string>
+     <string name="resource_comment_entry_tips">Comentarii (%1$s)</string>
      <string name="resource_comment_expand_full_text">Extindeți tot textul▼</string>
      <string name="resource_comment_footer">Comentariile goale nu sunt afișate.</string>
      <string name="resource_comment_good_comments">Pozitiv</string>
