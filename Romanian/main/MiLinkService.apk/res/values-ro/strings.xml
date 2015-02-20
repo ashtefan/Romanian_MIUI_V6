@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviciu UniPlay</string>
+    <string name="service_name">Serviciu UniPlay</string>
+    <string name="notification_rc_title">Telecomanda Xiaomi</string>
+    <string name="notification_rc_desc">Puteți utiliza telecomanda Xiaomi pentru controlul Xiaomi box și TV</string>
+</resources>
