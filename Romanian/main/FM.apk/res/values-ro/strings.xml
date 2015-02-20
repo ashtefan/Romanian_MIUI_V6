@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="alert_frequency_duplicate">This frequency already exists</string>
+     <string name="alert_frequency_duplicate">Această frecvență există deja</string>
      <string name="alert_invalid_frequency">Frecvenţă greşită</string>
      <string name="alert_message_delete_station">Această presetare va fi ștearsă</string>
      <string name="app_name">Radio FM</string>
@@ -11,16 +11,16 @@
      <string name="context_menu_title">%s MHz</string>
      <string name="dialog_sleep_title">Setaţi timpul deconectării automate</string>
      <string name="exit_fm">Ieşire</string>
-     <string name="fm_has_turned_off">FM radio turned off</string>
+     <string name="fm_has_turned_off">Radio FM oprit</string>
      <string name="fmradio_clear_confirm_msg">Toate presetările vor fi șterse</string>
      <string name="frequency_mhz_fomart">%s MHz</string>
-     <string name="group_favor">Presets</string>
-     <string name="group_other">Others</string>
+     <string name="group_favor">Presetări</string>
+     <string name="group_other">Altele</string>
      <string name="hint_frequency">Frecvenţă: %1$s ~ %2$s</string>
      <string name="hint_label">Etichetă</string>
      <string name="label_recording">Înregistrare: %s</string>
      <string name="menu_exit">Ieşire</string>
-     <string name="menu_headset">Switch to headset</string>
+     <string name="menu_headset">Comutaţi la cască</string>
      <string name="menu_new_station">Adăugaţi o staţie nouă</string>
      <string name="menu_record_list">Înregistrări</string>
      <string name="menu_record_start">Porniţi înregistrarea</string>
@@ -30,9 +30,9 @@
      <string name="menu_scan_start">Scanare staţii</string>
      <string name="menu_sleep">Deconectare automată</string>
      <string name="menu_sleep_cancel">Anulaţi deconectarea automată</string>
-     <string name="menu_speaker">Switch to speaker</string>
+     <string name="menu_speaker">Comutaţi la difuzor</string>
      <string name="msg_do_not_support_fm">Acest dispozitiv nu susţine Radio FM</string>
-     <string name="msg_fm_starting">Starting…</string>
+     <string name="msg_fm_starting">Pornire…</string>
      <string name="msg_noantenna_message">Pentru a îmbunătăți calitatea sunetului, conectați căștile</string>
      <string name="new_frequency">Frecvenţă nouă</string>
      <string name="next_station">Staţia următoare</string>
@@ -48,7 +48,7 @@
      <string name="toast_added_to_list">Adăugată în listă</string>
      <string name="toast_added_to_presets">Adăugată la presetări</string>
      <string name="toast_fm_error_startfailed">Eroare la înregistrare. O altă aplicație ar putea utiliza funcția de înregistrare. Verificați și încercați din nou.</string>
-     <string name="toast_fm_recorder_access_error">"Can't record while you're in Guest mode"</string>
+     <string name="toast_fm_recorder_access_error">Nu se poate înregistra în timp ce vă aflați în modul Vizitator</string>
      <string name="toast_fm_recorder_internal_error">Eroare înregistrare FM</string>
      <string name="toast_fm_recorder_storage_full">Imposibil de continuat înregistrarea: spaţiu insuficient</string>
      <string name="toast_fm_seeking">Căutare staţii, așteptați</string>
@@ -58,6 +58,6 @@
      <string name="toast_sleep_mode_exit">Deconectare automată anulată</string>
      <string name="turn_off_fm">Dezactivaţi FM</string>
      <string name="txt_divider">" | "</string>
-     <string name="txt_sleep_mode">Sleep mode</string>
+     <string name="txt_sleep_mode">Modul repaus</string>
      <string name="view_stations_list">Vizualizaţi lista staţiilor</string>
 </resources>
