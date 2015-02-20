@@ -7,18 +7,16 @@
      <string name="app_name">Explorer</string>
      <string name="background">Ascundeţi</string>
      <string name="big5_summary">Codare prestabilită în Chineză Tradiţională Windows</string>
-     <string name="big5_title">BIG5</string>
      <string name="bind_account">Sincronizare cont existent</string>
      <string name="bind_account_summary">Sincronizaţi contul KuaiPan existent cu contul dvs. Mi</string>
      <string name="binded_accout_description">Contul dvs. Mi a fost sincronizat cu KuaiPan. Acum puteți folosi contul dvs. Mi pentru a accesa datele pe care le-ați stocat în KuaiPan.</string>
      <string name="binded_accout_title">Conturi sincronizate</string>
      <string name="byteShort">B</string>
      <string name="cancel">Anulaţi</string>
-     <string name="category">Categories</string>
+     <string name="category">Categorii</string>
      <string name="category_all">Toate</string>
      <string name="category_apk">APK</string>
      <string name="category_bluetooth">Bluetooth</string>
-     <string name="category_default_number_text">(0)</string>
      <string name="category_document">Documente</string>
      <string name="category_favorite">Favorite</string>
      <string name="category_log">Jurnale</string>
@@ -26,9 +24,9 @@
      <string name="category_other">Altele</string>
      <string name="category_picture">Imagini</string>
      <string name="category_theme">Teme</string>
-     <string name="category_type_document">Documents</string>
+     <string name="category_type_document">Documente</string>
      <string name="category_type_meida">Media</string>
-     <string name="category_type_other">Other</string>
+     <string name="category_type_other">Altele</string>
      <string name="category_video">Video</string>
      <string name="category_zip">Arhive</string>
      <string name="choose_send_type">Selectaţi o metodă</string>
@@ -45,7 +43,7 @@
      <string name="confirm_know">OK</string>
      <string name="connect_network_setting_des">Aminteşte-mi la accesarea reţelei</string>
      <string name="copy_failed">Copiere eşuată</string>
-     <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
+     <string name="copy_file_to_kuaipan">Copiaţi fişierul în Kuaipan</string>
      <string name="create_kuaipan_shortcut_pref">Adăugaţi comandă rapidă pe ecranul de pornire</string>
      <string name="create_new_folder_desctiption">Creare dosar…</string>
      <string name="create_new_folder_failed">Imposibil de creat dosarul</string>
@@ -58,7 +56,7 @@
      <string name="decompress_success">Dezarhivare finalizată</string>
      <string name="decompress_to">Dezarhivaţi în</string>
      <string name="decompress_to_here">Dezarhivaţi aici</string>
-     <string name="delete_dialog_button">Delete</string>
+     <string name="delete_dialog_button">Ştergere</string>
      <string name="delete_failed">Ştergere eşuată</string>
      <string name="delete_file">Ştergeţi acest fişier?</string>
      <string name="delete_files">Ştergeţi %1$d fişiere?</string>
@@ -77,11 +75,11 @@
      <string name="download_failed">Descărcare eşuată</string>
      <string name="download_link_completed">%1$s partajat prin KuaiPan. Atingeți link-ul de mai jos pentru a vedea:</string>
      <string name="downloading">Descărcare…</string>
-     <string name="downloading_in_3g">Downloading on 3G…</string>
+     <string name="downloading_in_3g">Descărcare cu 3G…</string>
      <string name="enable_sd_card">Introduceți cardul SD sau dezactivaţi stocarea USB</string>
      <string name="error_filename_too_long">Numele fișierului introdus este prea lung</string>
      <string name="error_info_cant_send_folder">Imposibil de trimis acest tip de fișiere.</string>
-     <string name="error_open_file_failed_no_app_found">Nu s-a găsit nicio aplicaţie pt. a finaliza această acţiune</string>
+     <string name="error_open_file_failed_no_app_found">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
      <string name="fail_to_create_folder">Spațiu insuficient sau dosarul există deja</string>
      <string name="fail_to_create_folder_unknown">Imposibil de creat dosarul</string>
      <string name="fail_to_rename">Un fișier cu același nume există deja</string>
@@ -89,7 +87,7 @@
      <string name="favorite_ringtone">Tonuri de apel</string>
      <string name="favorite_screen_cap">Capturi de ecran</string>
      <string name="fileSizeSuffix">%1$s %2$s</string>
-     <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
+     <string name="file_already_downlaoded">Fişier salvat în \"%1$s\"</string>
      <string name="file_info_canread">Citire:</string>
      <string name="file_info_canwrite">Scriere:</string>
      <string name="file_info_ishidden">Ascuns:</string>
@@ -185,7 +183,7 @@
      <string name="no_file">Gol</string>
      <string name="no_more_space">Spaţiu insuficient</string>
      <string name="no_tasks">Nimic</string>
-     <string name="no_wifi">Nu s-a detectat nicio reţea</string>
+     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
      <string name="no_wifi_hint">Nicio conexiune</string>
      <string name="notif_server_starting">Pornire server FTP…</string>
      <string name="notif_title">Serverul FTP rulează</string>
@@ -194,7 +192,7 @@
 2. Încărcaţi-l în contul dvs. KuaiPan."</string>
      <string name="open_changed_file_title">Modificare aplicată</string>
      <string name="open_file_failed">Imposibil de deschis</string>
-     <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
+     <string name="operate_confirm_in_3g">Utilizați conexiunea de date mobile pentru a descărca acest fișier mare?</string>
      <string name="operating">Procesare…</string>
      <string name="operation_agree">OK</string>
      <string name="operation_cancel">Anulaţi</string>
@@ -234,7 +232,7 @@
      <string name="pan_settting">Setări KuaiPan</string>
      <string name="paused">Pauză</string>
      <string name="petabyteShort">PB</string>
-     <string name="phone">Phone</string>
+     <string name="phone">Telefon</string>
      <string name="pull_to_signin">Glisaţi în jos pentru a vă conecta</string>
      <string name="release_to_signin">Eliberaţi pentru a vă conecta</string>
      <string name="rename_description">Redenumire…</string>
@@ -269,14 +267,14 @@ Spațiu liber adăugat %1$s"</string>
      <string name="storage_sd_card">Card SD</string>
      <string name="storage_usb">Stocare USB</string>
      <string name="storage_warning">Imposibi lde utilizat stocarea externă</string>
-     <string name="sys_size_enable">" available"</string>
+     <string name="sys_size_enable">" disponibil"</string>
      <string name="system_alert">Conexiune internet</string>
      <string name="tab_category">Categorii</string>
-     <string name="tab_expand">Expand</string>
+     <string name="tab_expand">Extindeţi</string>
      <string name="tab_local">Local</string>
-     <string name="tab_path">FOLDERS</string>
+     <string name="tab_path">DOSARE</string>
      <string name="terabyteShort">TB</string>
-     <string name="toast_file_not_can_read">Nu s-a găsit nicio aplicaţie pt. a finaliza această acţiune</string>
+     <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
      <string name="tools">TOOLS</string>
      <string name="trans_task">Transfer în reţea</string>
      <string name="transing">În progres</string>
@@ -301,14 +299,10 @@ Spațiu liber adăugat %1$s"</string>
      <string name="user_guide_continue_use">OK</string>
      <string name="user_guide_download_other_version">Descărcaţi Kuaipan pentru Windows sau OSX</string>
      <string name="user_guide_kuaipan_copy">Accesaţi fișierele de pe mai multe dispozitive</string>
-     <string name="user_guide_kuaipan_lable">KuaiPan belongs to you</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Sign in with your Mi Account (%1$s) and download at mi.kuaipan.cn. -->
-     <string name="user_guide_other_version">De asemenea, disponibil pe alte platforme.</string>
-     <string name="user_guide_save_file">Save your files using KuaiPan</string>
-     <string name="user_guide_summary">A brief overview</string>
+     <string name="user_guide_kuaipan_lable">KuaiPan îți aparține</string>
+     <string name="user_guide_other_version">Conectați-vă cu contul dvs. Mi (%1$s) şi decărcaţi la mi.kuaipan.cn.</string>
+     <string name="user_guide_save_file">Salvați fișierele utilizând KuaiPan</string>
+     <string name="user_guide_summary">O scurtă trecere în revistă</string>
      <string name="user_guide_upload_to_kuaipan">Stocaţi elemente în Kuaipan de pe dispozitivul dvs.</string>
      <string name="utf8_summary">Codare prestabilită</string>
      <string name="utf8_title">UTF-8</string>
