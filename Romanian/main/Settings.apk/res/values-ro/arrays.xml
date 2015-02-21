@@ -430,7 +430,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>10 minute</item>
         <item>30 de minute</item>
      </string-array>
-     </string-array>
      <string-array name="security_settings_premium_sms_values">
         <item>Întrebaţi</item>
         <item>Nu permiteţi niciodată</item>

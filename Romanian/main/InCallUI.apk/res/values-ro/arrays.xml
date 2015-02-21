@@ -88,10 +88,6 @@
         <item>Chineză</item>
         <item>Ebraică</item>
     </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Doar domiciliu</item>
-        <item>Automat</item>
-    </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
@@ -101,9 +97,5 @@
         <item>TTY plin</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
-    </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Normală</item>
-        <item>Lung</item>
     </string-array>
 </resources>
