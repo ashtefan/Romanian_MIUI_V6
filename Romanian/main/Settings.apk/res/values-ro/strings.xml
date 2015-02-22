@@ -893,7 +893,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
      <string name="drive_mode_sms_report">Semnalare SMS</string>
      <string name="drive_mode_title">Setaţi semnalarea vocală şi răspunsul automat</string>
      <string name="drive_mode_voice_report">Semnalare vocală</string>
-     <string name="dtmf_tone_enable_title">Tonuri la atingerea tastaturii numerice</string>
+     <string name="dtmf_tone_enable_title">Tonuri la atingerea tastelor numerice</string>
      <string name="emergency_tone_summary">Setaţi comportamentul la efectuarea unui apel de urgenţă</string>
      <string name="emergency_tone_title">Ton de urgenţă</string>
      <string name="empty_list_msg">Nu aveţi instalată nicio aplicaţie terţă parte.</string>

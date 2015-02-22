@@ -226,7 +226,7 @@
      <string name="domain_address_title">Server</string>
      <string name="done">Return</string>
      <string name="doneButton">Finalizat</string>
-     <string name="dtmf_tone_enable_title">Tonuri la atingerea tastaturii numerice</string>
+     <string name="dtmf_tone_enable_title">Tonuri la atingerea tastelor numerice</string>
      <string name="dtmf_tones_summary">Setaţi lungimea tonurilor DTMF</string>
      <string name="dtmf_tones_title">Tonuri DTMF</string>
      <string name="dual_mic_summary">Suprimarea zgomotului de fundal în timpul apelurilor</string>

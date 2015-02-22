@@ -997,10 +997,10 @@ Doriţi să o închideţi?"</string>
     <string name="volume_notification">Volum notificare</string>
     <string name="volume_unknown">Volum</string>
     <string name="volume_icon_description_bluetooth">Volumul Bluetooth</string>
-    <string name="volume_icon_description_ringer">Volumul tonului de apel</string>
-    <string name="volume_icon_description_incall">Volumul apelului</string>
-    <string name="volume_icon_description_media">Volumul media</string>
-    <string name="volume_icon_description_notification">Volum notificare</string>
+    <string name="volume_icon_description_ringer">Ton de apel</string>
+    <string name="volume_icon_description_incall">Apel</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Notificare</string>
     <string name="ringtone_default">Ton de apel prestabilit</string>
     <string name="ringtone_default_with_actual">Ton de apel prestabilit (%1$s)</string>
     <string name="ringtone_silent">Niciunul</string>
