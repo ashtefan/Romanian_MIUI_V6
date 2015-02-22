@@ -322,7 +322,7 @@
      <string name="enable">Activaţi</string>
      <string name="enable_3G_service">Activare 3G</string>
      <string name="enable_antispam_strange_summary">Dezactivaţi primul sunet pentru numerele necunoscute</string>
-     <string name="enable_antispam_strange_title">Mute first ring</string>
+     <string name="enable_antispam_strange_title">Prima sonerie dezactivată</string>
      <string name="enable_disable_administrative">Administrativ</string>
      <string name="enable_disable_advertisements">Publicitate</string>
      <string name="enable_disable_atr">Informaţii locale de trafic</string>
@@ -348,7 +348,7 @@
      <string name="enable_in_progress">Aşteptaţi...</string>
      <string name="enable_pin">Activaţi/dezactivaţi codul PIN al cardului SIM</string>
      <string name="enable_pin_ok">Cod PIN activat pentru cardul SIM.</string>
-     <string name="enable_proximity_summary">Dezactivaţi ecranul în timpul apelurilor</string>
+     <string name="enable_proximity_summary">Închidere ecran în timpul apelurilor</string>
      <string name="enable_proximity_title">Senzor de proximitate</string>
      <string name="enable_sim_pin">Activaţi codul PIN al cardului SIM</string>
      <string name="enable_sip_dialog_message">Apelarea prin Internet este dezactivată, doriţi să o activaţi?</string>
@@ -409,7 +409,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
      <string name="gemini_3g_indic">3G</string>
      <string name="gemini_data_connection">Conexiune date</string>
      <string name="general_news_settings">Știri generale</string>
-     <string name="general_setting">Settings</string>
+     <string name="general_setting">Setări</string>
      <string name="get_pin2">Introduceţi codul PIN2</string>
      <string name="get_smsc_address_error">Imposibil de conectat la rețea.</string>
      <string name="get_smsc_address_timeout">Conexiune expirată</string>
@@ -1095,7 +1095,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
      <string name="voicemail_number_not_set">&lt;Nesetat></string>
      <string name="voicemail_provider">Servicii</string>
      <string name="voicemail_provider_summary">Alegeţi serviciul de mesagerie vocală</string>
-     <string name="voicemail_settings">Configurare</string>
+     <string name="voicemail_settings">Configurare mesagerie vocală</string>
      <string name="voicemail_settings_for">Setări pentru %s</string>
      <string name="voicemail_settings_number_hint">Introduceți numărul mesageriei vocale</string>
      <string name="voicemail_settings_number_label">Număr mesagerie vocală</string>
