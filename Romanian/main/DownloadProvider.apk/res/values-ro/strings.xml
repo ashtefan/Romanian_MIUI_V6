@@ -15,7 +15,7 @@
     <string name="download_running">În desfășurare</string>
     <string name="download_running_percent">În curs, %d%%</string>
     <string name="download_unknown_title">&lt;Fără titlu></string>
-    <string name="notif_text_engine_off">Accelerator Xunlei deyactivat.</string>
+    <string name="notif_text_engine_off">Accelerator Xunlei dezactivat.</string>
     <string name="notif_text_engine_on">Accelerare…</string>
     <string name="notif_title_file_size">Total %1$d fişiere</string>
     <string name="notif_title_multiple_downloading">Descărcare %1$d fişiere</string>
