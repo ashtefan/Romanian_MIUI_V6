@@ -42,7 +42,7 @@
         <item>9 sec.</item>
      </string-array>
      <string-array name="over_limit_traffic_waring_style">
-        <item>Afiaşare acertizare</item>
+        <item>Afişare avertizare</item>
         <item>Avertizare şi dezactivare date</item>
      </string-array>
      <string-array name="traffic_setting_sms_template">

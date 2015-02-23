@@ -18,7 +18,7 @@
      <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
      <string name="camera_error_title">Eroare Cameră foto</string>
      <string name="camera_label">Cameră</string>
-     <string name="camera_settings_label">Setări cameră</string>
+     <string name="camera_settings_label">Cameră</string>
      <string name="cannot_connect_camera_once">Nu se poate conecta la camera foto</string>
      <string name="cannot_connect_camera_twice">Încă nu se poate conecta la camera foto. Încercați să reporniți telefonul.</string>
      <string name="cannot_move_warning_message">Fotografiere, țineți dispozitivul nemişcat</string>

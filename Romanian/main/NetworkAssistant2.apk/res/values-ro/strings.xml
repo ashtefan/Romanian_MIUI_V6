@@ -41,7 +41,7 @@
      <string name="data_usage_restricted_title">Datele în fundal sunt restricționate</string>
      <string name="data_usage_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
      <string name="data_usage_warning_title">Avertizare utilizare date</string>
-     <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
+     <string name="datausage_ignore_app_list_count">Ignorare utilizare date de la %d aplicaţii</string>
      <string name="datausage_purchase_backto_ns">Înapoi</string>
      <string name="datausage_purchase_banner_title">%s ofertă de reîncărcare (exclusiv)</string>
      <string name="datausage_purchase_buy">Procuraţi</string>
@@ -107,7 +107,7 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
      <string name="international_roaming_whitelist_count">%d aplicații se pot conecta la serviciile de date în roaming internațional</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Gol</string>
-     <string name="lock_screen_setting_summary">Afişare notificare după utilizarea a 100KO</string>
+     <string name="lock_screen_setting_summary">Afişare notificare după utilizarea a 100 KO</string>
      <string name="lock_screen_traffic_notify_body">Blocat pentru %1$s | Utilizaţi %2$s din datele mobile</string>
      <string name="lock_screen_traffic_warn_title">Avetizare utilizare date</string>
      <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
@@ -127,8 +127,8 @@ o conexiune de date mobilă"</string>
      <string name="main_primary_message_traffic_cur_normal_warning">Avertisment utilizare a datelor</string>
      <string name="main_primary_message_traffic_enough">În limita de utilizare a datelor</string>
      <string name="main_primary_message_traffic_overlimit">Limita de utilizare a datelor depășită</string>
-     <string name="main_primary_message_traffic_overlimit_purchase">Este necesar să reîncărcaţi</string>
-     <string name="main_primary_message_traffic_purchase">Este necesar să reîncărcaţi</string>
+     <string name="main_primary_message_traffic_overlimit_purchase">Este necesar să supliniţi</string>
+     <string name="main_primary_message_traffic_purchase">Este necesar să supliniţi</string>
      <string name="main_primary_message_traffic_warning">Aproape de limita de utilizare a datelor</string>
      <string name="main_secondary_message_traffic_detail_leisure">"
 În afara orelor de vârf: rămas %1$s | utilizat %2$s"</string>
@@ -139,8 +139,8 @@ o conexiune de date mobilă"</string>
      <string name="main_secondary_message_traffic_used_leisure">Date utilizate în afara orelor de vârf: %s</string>
      <string name="main_secondary_message_traffic_used_noleisure">Date utilizate în orele de vârf %s | nu au mai rămas date în afara orelor de vârf</string>
      <string name="main_secondary_message_traffic_used_normal">Date utilizate în orele de vârf %s</string>
-     <string name="main_toolbar_firewall">Restricţionaţi</string>
-     <string name="main_toolbar_purchase">Reîncărcaţi</string>
+     <string name="main_toolbar_firewall">Restricţionare</string>
+     <string name="main_toolbar_purchase">Suplinire</string>
      <string name="main_toolbar_saving">Salvare</string>
      <string name="main_toolbar_statistic">Statistică</string>
      <string name="main_traffic_overlimit_text">Peste</string>
@@ -224,7 +224,7 @@ o conexiune de date mobilă"</string>
      <string name="pref_title_declaration">Act de renunțare</string>
      <string name="pref_title_mobile_traffic">Afişaţi utilizarea datelor în perioada cât a fost blocat</string>
      <string name="pref_title_network_diagnostics">Diagnosticare reţea</string>
-     <string name="pref_title_over_traffic_limit_warning">Când a depășit</string>
+     <string name="pref_title_over_traffic_limit_warning">La depășire</string>
      <string name="pref_title_traffic_limit_number">Dimensiune</string>
      <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei</string>
      <string name="pref_title_update_notification">Afişaţi utilizarea datelor în panoul notificărilor</string>
@@ -283,20 +283,20 @@ o conexiune de date mobilă"</string>
      <string name="tc_sms_report_geting_sms">Obţinere informaţii SMS…</string>
      <string name="tc_sms_report_notify_correction_body">Mergeţi la aplicația Utilizarea datelor în Centrul de securitate și încercați din nou manual.</string>
      <string name="tc_sms_report_notify_correction_failure_title">Nu se pot actualiza informaţiile despre utilizarea datelor</string>
-     <string name="tc_sms_report_notify_get_failure_body">"Couldn't submit data usage report. Make sure that you're connected to a Mobile network."</string>
-     <string name="tc_sms_report_notify_get_failure_title">"Can't get data usage report"</string>
-     <string name="tc_sms_report_notify_get_timeout_body">Process timed out. Confirm with your carrier that the SMS enquiry code you entered is correct.</string>
-     <string name="tc_sms_report_notify_get_timeout_title">"Can't get data usage report"</string>
-     <string name="tc_sms_report_receive_content">Data usage report SMS contents (Confirm data usage stats)</string>
-     <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/>Here's how:&lt;br/>1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/>2. Tap \"Get SMS template\"&lt;br/>3. Wait to receive SMS message from your carrier &lt;br/>4. Tap \"Upload to MIUI\"​"</string>
-     <string name="tc_sms_report_receive_num">Recipient number</string>
-     <string name="tc_sms_report_send_num">Carrier phone number</string>
-     <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
-     <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
-     <string name="tc_sms_report_tips_dialog_title">Data usage report SMS</string>
-     <string name="tc_sms_report_title">Report data usage bug</string>
-     <string name="tc_sms_report_toast_text">Getting info…</string>
-     <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
+     <string name="tc_sms_report_notify_get_failure_body">Nu a fost posibil de trimis raportul de utilizare a datelor. Asigurați-vă că sunteți conectat la o rețea mobilă.</string>
+     <string name="tc_sms_report_notify_get_failure_title">Nu se poate obține raportul de utilizare a datelor</string>
+     <string name="tc_sms_report_notify_get_timeout_body">Procesul a expirat. Confirmați cu operatorul dvs. dacă codul de solicitare SMS introdus este corect.</string>
+     <string name="tc_sms_report_notify_get_timeout_title">Nu se poate obține raportul de utilizare a datelor</string>
+     <string name="tc_sms_report_receive_content">Conținutul SMS raport de utilizare a datelor (Confirmați statistici de utilizare a datelor)</string>
+     <string name="tc_sms_report_receive_content_null">Ajutaţi-ne să îmbunătăţim această funcție!&lt;br/>Iată cum:&lt;br/>1. Mergeţi la \"Verificare comandă SMS\" şi \"Numărul destinatarului\"&lt;br/>2. Apăsaţi \"Obţinere şablon SMS\"&lt;br/>3. Așteptați primirea mesajului SMS de la operatorul dvs. &lt;br/>4. Apăsaţi \"Încărcare către MIUI\"​</string>
+     <string name="tc_sms_report_receive_num">Numărul destinatarului</string>
+     <string name="tc_sms_report_send_num">Numărul de telefon al operatorului</string>
+     <string name="tc_sms_report_summary">Ajutaţi-ne să îmbunătăţim această funcție prin trimiterea unui raport, atunci când informaţiile despre datele utilizate sunt incorecte sau eşuează actualizarea</string>
+     <string name="tc_sms_report_tips_dialog_message">Utilizarea datelor utilizează un SMS special formatat pentru a obține cele mai recente date utilizate de la operatorul dvs.. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format actualizat va fi încărcat la serverele noastre.</string>
+     <string name="tc_sms_report_tips_dialog_title">Raport de utilizare a datelor prin SMS</string>
+     <string name="tc_sms_report_title">Eroare raport utilizarea datelor</string>
+     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
+     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor prin SMS trimis.</string>
      <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
      <string name="ten_percent_total_pkg">%s (10%% din datele mobile lunare)</string>
      <string name="text_day"></string>
@@ -306,13 +306,13 @@ o conexiune de date mobilă"</string>
      <string name="timeshow_s">%d s</string>
      <string name="tips_dialog_title">Nu cunoaşteţi limita?</string>
      <string name="tips_message">Dacă sunteți incert cu privire la detaliile abonamentului dvs., aveți posibilitatea să le vizualizați prin apelarea %2$s (%1$s).</string>
-     <string name="title_limit_traffic_per_day">Daily data usage limit</string>
+     <string name="title_limit_traffic_per_day">Limita de utilizare zilnică a datelor</string>
      <string name="traffic_config_alert_body">"Contabilizarea operatorului dvs. arată că aţi utilizat %s
 Actualizați informațiile de utilizare a datelor?"</string>
      <string name="traffic_config_alert_body_extra">"
-You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
+Ați procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual."</string>
      <string name="traffic_config_alert_body_extra_notset">"
-You bought %s of additional data this month. This isn't reflected in the monthly data limit you set manually."</string>
+Ați procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual."</string>
      <string name="traffic_config_alert_body_leisure">"Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
      <string name="traffic_config_alert_body_leisure_notset">"
 Contabilizarea operatorului dvs. arată că aveţi %s din datele orelor de vârf. Nu aţi setat o limită pentru datele în afara orelor de vârf."</string>
@@ -327,14 +327,14 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="traffic_correction_start_correction">Sincronizare cu serverele operatorului…</string>
      <string name="traffic_correction_start_correction_failed">Solicitare eşuată, verificați setările operatorului</string>
      <string name="traffic_correction_success">Informaţia despre utilizarea datelor a fost actualizată</string>
-     <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
+     <string name="traffic_limit_error_alert_body">Contabilizarea operatorului dvs. arată că aveţi %1$s rămaşi în această lună. Este mai mult decât limita de %2$s setată manual.</string>
      <string name="traffic_limit_error_alert_iknow">OK</string>
-     <string name="traffic_limit_error_alert_reset">Reset limit</string>
-     <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
+     <string name="traffic_limit_error_alert_reset">Limită resetare</string>
+     <string name="traffic_limit_error_alert_title">Memento limita de date %s</string>
      <string name="traffic_none">Nimic</string>
-     <string name="traffic_over_purchase_body">Touch to view details.</string>
-     <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/>If you go over your plans data usage limit, your carrier could charge you additional fees.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up your balance.&lt;/U>&lt;/font>"</string>
-     <string name="traffic_over_purchase_title">Data limit exceeded</string>
+     <string name="traffic_over_purchase_body">Atingeți pentru a vizualiza detalii.</string>
+     <string name="traffic_over_purchase_link">"Ați atins limita de utilizare a datelor din planul dvs. mobil.&lt;br/>Dacă treceţi peste limita de utilizare a planului de date, operatorul ar putea percepe taxe suplimentare.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Apăsați pentru a suplimenta soldul.&lt;/U>&lt;/font>"</string>
+     <string name="traffic_over_purchase_title">Limita de date depășită</string>
      <string name="traffic_protection_data_usage_summary">Setaţi alerte de utilizare a datelor, pentru a evita depășirea limitelor de date lunare.</string>
      <string name="traffic_protection_label">Avertizare utilizare date</string>
      <string name="traffic_protection_next">Următorul</string>
@@ -342,8 +342,8 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="traffic_protection_text_hint">Setaţi limita de utilizare a datelor pentru %s</string>
      <string name="traffic_protection_unknown"><u>Setaţi mai târziu</u></string>
      <string name="traffic_protection_use_data">Date activate</string>
-     <string name="traffic_purchase_body">Tap to top up your balance.</string>
-     <string name="traffic_purchse_suggestion">Time to top up</string>
+     <string name="traffic_purchase_body">Apăsați pentru a suplimenta soldul.</string>
+     <string name="traffic_purchse_suggestion">E timpul pentru a suplimenta</string>
      <string name="traffic_saving_button_sorted">Detalii</string>
      <string name="traffic_saving_button_sorted_chose_simcard">Selectaţi cardul SIM</string>
      <string name="traffic_saving_button_start">Activaţi</string>
@@ -376,16 +376,16 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="traffic_saving_whitelist_btn_removed">Aplicaţie eliminată din listă</string>
      <string name="traffic_saving_whitelist_count">Utilizarea datelor pentru %d aplicaţii nu este restricţionată</string>
      <string name="traffic_saving_whitelist_no_app">Nicio aplicaţie</string>
-     <string name="traffic_setting_app_count">%d apps</string>
+     <string name="traffic_setting_app_count">%d aplicaţii</string>
      <string name="traffic_setting_completed">OK</string>
-     <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
-     <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
-     <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
-     <string name="traffic_setting_extra_pkg_title">Additional settings</string>
-     <string name="traffic_setting_extra_traffic_title">Additional settings</string>
+     <string name="traffic_setting_daily_limit_summary">Setaţi limita de utilizare a datelor</string>
+     <string name="traffic_setting_extra_pkg_oversea_summary">Ajustaţi planul de date și limitele de utilizare</string>
+     <string name="traffic_setting_extra_pkg_summary">Ajustaţi planul de date și limitele de utilizare</string>
+     <string name="traffic_setting_extra_pkg_title">Setări adiţionale</string>
+     <string name="traffic_setting_extra_traffic_title">Setări adiţionale</string>
      <string name="traffic_setting_fragment_area">Local</string>
      <string name="traffic_setting_fragment_brand">Marca</string>
-     <string name="traffic_setting_fragment_button1_text">Cancel</string>
+     <string name="traffic_setting_fragment_button1_text">Anulaţi</string>
      <string name="traffic_setting_fragment_button2_text">Salvaţi</string>
      <string name="traffic_setting_fragment_get_template_falure">Obţinere eşuată. Verificați conexiunea de date și încercați din nou.</string>
      <string name="traffic_setting_fragment_loading_text">Obţinere informaţii…</string>
@@ -398,10 +398,10 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="traffic_setting_fragment_sms_content_tips">Scrieţi mesajul aici</string>
      <string name="traffic_setting_fragment_template">Şablon mesaj</string>
      <string name="traffic_setting_fragment_title">Setări interogare utilizare date</string>
-     <string name="traffic_setting_open">On</string>
-     <string name="traffic_setting_step_num">Data plan settings</string>
-     <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
-     <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
+     <string name="traffic_setting_open">Activat</string>
+     <string name="traffic_setting_step_num">Setări plan de date</string>
+     <string name="traffic_setting_update_template_falure">Nu se poate conecta la rețea</string>
+     <string name="traffic_warning_purchase_title">Avertisment utilizare date mobile</string>
      <string name="usage_sorted_activity_lable">Utilizare date</string>
      <string name="usage_sorted_empty_text">Gol</string>
      <string name="usage_sorted_loading_text">Încărcare…</string>

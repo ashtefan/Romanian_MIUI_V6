@@ -112,10 +112,10 @@
      <string name="ftp_username_hint">Nume utilizator</string>
      <string name="gbk_summary">Codare prestabilită în Chineză Simplificată Windows</string>
      <string name="gbk_title">GBK</string>
-     <string name="gigabyteShort">GB</string>
+     <string name="gigabyteShort">GO</string>
      <string name="instruction">Introduceți următoarea adresă într-un client FTP:</string>
      <string name="instruction_pre">Atingeţi pentru a porni serverul FTP</string>
-     <string name="kilobyteShort">KB</string>
+     <string name="kilobyteShort">KO</string>
      <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">Spaţiu insuficient</string>
      <string name="kuaipan_prompt">Notă</string>
@@ -127,7 +127,7 @@
      <string name="loading">Încărcare…</string>
      <string name="login_reg_content">Stocați fișiere și sincronizaţi-le cu mai multe dispozitive.</string>
      <string name="login_reg_content0">Tot conţinutul dvs., oriunde aţi merge</string>
-     <string name="megabyteShort">MB</string>
+     <string name="megabyteShort">MO</string>
      <string name="menu_item_cleanup">Curăţare</string>
      <string name="menu_item_ftp">FTP</string>
      <string name="menu_item_search">Căutaţi</string>
@@ -253,7 +253,7 @@
      <string name="share_link_failed">Eroare generare link</string>
      <string name="show_message">Trebuie să descărcaţi acest fișier înainte de a-l putea deschide</string>
      <string name="sign_description">Conectare…</string>
-     <string name="signin_error">Nu s-a reușit conectarea la server. Verificați conexiunea la rețea.</string>
+     <string name="signin_error">Nu a reușit conectarea la server. Verificați conexiunea la rețea.</string>
      <string name="signin_success">"Bine aţi venit!
 Spațiu liber adăugat %1$s"</string>
      <string name="space_info">KuaiPan: %1$s disponibili, %2$s în total</string>
@@ -273,9 +273,9 @@ Spațiu liber adăugat %1$s"</string>
      <string name="tab_expand">Extindeţi</string>
      <string name="tab_local">Local</string>
      <string name="tab_path">DOSARE</string>
-     <string name="terabyteShort">TB</string>
+     <string name="terabyteShort">TO</string>
      <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
-     <string name="tools">TOOLS</string>
+     <string name="tools">INSTRUMENTE</string>
      <string name="trans_task">Transfer în reţea</string>
      <string name="transing">În progres</string>
      <string name="trash_box_capacity">Coş de reciclare %1$s</string>
