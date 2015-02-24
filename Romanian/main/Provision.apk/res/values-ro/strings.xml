@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="agree">Agree</string>
+     <string name="agree">De acord</string>
      <string name="congratulation_label" />
-     <string name="disagree">Cancel</string>
-     <string name="ime_privacy_policy">Privacy Policy for selected keyboard</string>
-     <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s</string>
-     <string name="input_method_category">"Choose the default keyboard that you'll use when writing emails, notes, and just about everywhere else. Note that you can install other third-party keyboards later."</string>
-     <string name="input_method_setting">Choose default keyboard</string>
-     <string name="install_preinstall_app">Loading apps…</string>
-     <string name="locale_picker_confirm_dialog_desc">"Set %s as your location? "</string>
-     <string name="locale_picker_confirm_dialog_title">Choose your location</string>
-     <string name="locale_picker_desc">"If you want to change your location later on, you'll need to reset your device to its factory settings."</string>
-     <string name="locale_picker_title">Choose your location</string>
-     <string name="miui_privacy_policy_no_network">"You don't have a network connection. View the Privacy Policy at %s"</string>
-     <string name="miui_terms_no_network">"You don't have a network connection. View the Terms of Service at %s"</string>
-     <string name="multisim_settings_category">SIM card settings</string>
-     <string name="multisim_settings_title">2 SIM cards detected</string>
-     <string name="network_access_warning">You need to connect to the internet to activate Mi services.</string>
+     <string name="disagree">Anulaţi</string>
+     <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
+     <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s</string>
+     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
+     <string name="input_method_setting">Selectați tastatura prestabilită</string>
+     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+     <string name="locale_picker_confirm_dialog_desc">"Setaţi %s ca locația dvs.? "</string>
+     <string name="locale_picker_confirm_dialog_title">Selectaţi locația</string>
+     <string name="locale_picker_desc">Dacă doriți să schimbați locația mai târziu, va trebui să resetați dispozitivul la setările din fabrică.</string>
+     <string name="locale_picker_title">Selectaţi locația</string>
+     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la rețea. Vizualizaţi Politica de confidențialitate la %s</string>
+     <string name="miui_terms_no_network">Nu aveți o conexiune la rețea. Vizualizaţi Termenii și condițiile la %s</string>
+     <string name="multisim_settings_category">Setări card SIM</string>
+     <string name="multisim_settings_title">2 carduri SIM detectate</string>
+     <string name="network_access_warning">Trebuie să vă conectaţi la internet pentru a activa serviciile Mi.</string>
      <string name="next">Înainte</string>
-     <string name="other_settings">Additional settings</string>
-     <string name="other_settings_location">Location</string>
-     <string name="other_settings_location_summary">Allow apps to access your location</string>
-     <string name="other_settings_user_experience">User Experience Program</string>
-     <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data (%s)</string>
-     <string name="other_settings_user_experience_summary1">view Privacy Policy</string>
-     <string name="page_layout_label">Adjust text size and layout for your Home screen, notification shade, dial pad, and more.</string>
-     <string name="page_layout_title">System layout</string>
-     <string name="pref_title_data_slot">Preferred data SIM card</string>
-     <string name="pref_title_voice_slot">Preferred voice SIM card</string>
-     <string name="privacy_policy">Privacy Policy</string>
+     <string name="other_settings">Setări adiţionale</string>
+     <string name="other_settings_location">Locaţie</string>
+     <string name="other_settings_location_summary">Permiteți aplicațiilor să acceseze locația dvs.</string>
+     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
+     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea MIUI prin trimiterea datelor de utilizare anonime (%s)</string>
+     <string name="other_settings_user_experience_summary1">Vizualizaţi Politica de confidențialitate</string>
+     <string name="page_layout_label">Ajustați dimensiunea textului și aspectul ecranului de pornire, panou notificări, tastatură și altele.</string>
+     <string name="page_layout_title">Schemă sistem</string>
+     <string name="pref_title_data_slot">Cardul SIM preferat pentru date</string>
+     <string name="pref_title_voice_slot">Cardul SIM preferat pentru voce</string>
+     <string name="privacy_policy">Politica de confidențialitate</string>
      <string name="provision_finish">OK</string>
-     <string name="provision_finish_restart">Restart</string>
+     <string name="provision_finish_restart">Repornire</string>
      <string name="provision_inputmethod_policy_description">"
-View the selected keyboard's "</string>
-     <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
-     <string name="setting_locale">Setting location…</string>
-     <string name="shut_down">Shut down</string>
-     <string name="sim_card_detecting">Checking for SIM card…</string>
-     <string name="sim_card_detection">Insert SIM card</string>
+Vizualizaţi "</string>
+     <string name="provision_inputmethod_policy_description1">Politica de confidențialitate a tastaturii selectate</string>
+     <string name="setting_locale">Setare locaţie…</string>
+     <string name="shut_down">Oprire</string>
+     <string name="sim_card_detecting">Verificare card SIM…</string>
+     <string name="sim_card_detection">Introduceţi un card SIM</string>
      <string name="sim_card_detection_info"></string>
-     <string name="sim_dectection_next">Continue</string>
-     <string name="sim_redetection">Check again</string>
-     <string name="summary_not_set">Not set</string>
+     <string name="sim_dectection_next">Continuaţi</string>
+     <string name="sim_redetection">Verificaţi din nou</string>
+     <string name="summary_not_set">Nu este setat</string>
      <string name="summary_sim_card">Card %1$d%2$s</string>
-     <string name="terms_of_use">Terms and Conditions</string>
-     <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it and what choices are available to you.
+     <string name="terms_of_use">Termeni și condiții</string>
+     <string name="terms_of_use_label">Confidențialitatea dvs. este foarte importanta pentru noi. Vă rugăm să citiți Termenii și condițiile și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI."</string>
-     <string name="title_congratulation">"You're ready to rock!"</string>
-     <string name="user_agreement">Terms of Service</string>
-     <string name="welcome">Welcome to</string>
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI."</string>
+     <string name="title_congratulation">Felicitări!</string>
+     <string name="user_agreement">Condiții de utilizare</string>
+     <string name="welcome">Bine aţi venit la</string>
 </resources>
