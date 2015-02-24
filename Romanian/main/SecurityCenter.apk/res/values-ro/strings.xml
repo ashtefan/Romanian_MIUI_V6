@@ -234,7 +234,7 @@
      <string name="hints_last_virus_scan_risk">Scanat %d zile înainte: suspicios</string>
      <string name="hints_last_virus_scan_safe">Scanat %d zile înainte: sigur</string>
      <string name="hints_last_virus_scan_today_risk">Scanat astăzi: suspicios</string>
-     <string name="hints_last_virus_scan_today_safe">Scanat astăzi: sigure</string>
+     <string name="hints_last_virus_scan_today_safe">Scanat astăzi: sigur</string>
      <string name="hints_last_virus_scan_today_virus">Scanat astăzi: periculos</string>
      <string name="hints_last_virus_scan_virus">Scanat %d zile înainte: periculos</string>
      <string name="hints_last_virus_scan_yesterday_risk">Scanat ieri: suspicios</string>
