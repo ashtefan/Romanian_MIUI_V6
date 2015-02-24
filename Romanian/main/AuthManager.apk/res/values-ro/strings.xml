@@ -246,13 +246,13 @@ Notă: Aplicaţiile cu această permisiune pot cauza instabilitate a sistemului,
      <string name="Privacy_App_Trust_Summary_On">MIUI are încredere în această aplicaţie</string>
      <string name="Privacy_App_Uninstall">Dezinstalaţi</string>
      <string name="Privacy_Perm_Count">Permisă: %1$d (de) ori. Refuzată: %2$d (de) ori</string>
-     <string name="Su_Enable_Dialog">%1$s înceracă să obţină permisiune Root de sistem care este dezactivată pt. asigurarea securităţii sistemului. Dacă trebuie s-o activaţi, accesaţi gestionare permisiuni în setări în Permisiuni.</string>
+     <string name="Su_Enable_Dialog">%1$s înceracă să obţină permisiune Root de sistem care este dezactivată pt. asigurarea securităţii sistemului. Dacă trebuie s-o activaţi, accesaţi gestiune permisiuni în setări în Permisiuni.</string>
      <string name="Su_Package_Forbidden">%1$s nu are acces root.</string>
      <string name="Su_Unavailable">Permisiunea Root este dezactivată în versiunea MIUI stable. Instalaţă versiunea MIUI development pentru activarea permisiunii Root.</string>
      <string name="SysOpt_Boost_AutoStart">Permiteţi pornirea automată</string>
      <string name="SysOpt_Boost_AutoStart_Group">Pornire automată</string>
      <string name="SysOpt_Boost_Boot">Boot</string>
      <string name="SysOpt_Boost_Receiver">În fundal</string>
-     <string name="app_name">Gestionare permisiuni</string>
+     <string name="app_name">Gestiune permisiuni</string>
      <string name="permisson_reject_notice_toast_text">\"%1$s\" nu are permisiunea %2$s. Puteţi să modificați permisiunile pentru aplicații în orice moment în Securitate > Permisiuni.</string>
 </resources>
