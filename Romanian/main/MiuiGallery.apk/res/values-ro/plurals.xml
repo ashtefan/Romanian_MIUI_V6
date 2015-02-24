@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> photos in &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> photo in &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografii din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografie din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> photos in both &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local and cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> photo in both &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local and cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografii din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografie din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videos in both &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local and cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> video in both &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local and cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclipuri din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclip din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videos in &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Delete &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videos in &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclipuri din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclip din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Delete %s photos?</item>
-        <item quantity="one">Delete %s photo?</item>
+        <item quantity="other">Ştergeţi %s fotografii?</item>
+        <item quantity="one">Ştergeţi %s fotografie?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Delete %s videos?</item>
-        <item quantity="one">Delete %s video?</item>
+        <item quantity="other">Ştergeţi %s videoclipuri?</item>
+        <item quantity="one">Ştergeţi %s videoclip?</item>
      </plurals>
      <plurals name="how_many_pics">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d fotografii</item>
+        <item quantity="one">%d fotografie</item>
      </plurals>
      <plurals name="how_many_sub_folders">
-        <item quantity="other">%d folders</item>
-        <item quantity="one">%d folder</item>
+        <item quantity="other">%d dosare</item>
+        <item quantity="one">%d dosar</item>
      </plurals>
      <plurals name="how_many_videos">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
      </plurals>
      <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"You don't have permission to delete these %d files."</item>
-        <item quantity="one">"You don't have permission to delete these %d file."</item>
+        <item quantity="other">Nu aveți permisiunea de a șterge aceste %d fişiere.</item>
+        <item quantity="one">Nu aveți permisiunea de a șterge acest %d fişier.</item>
      </plurals>
      <plurals name="number_of_images">
-        <item quantity="other">%1$d pictures</item>
-        <item quantity="zero">%1$d pictures</item>
-        <item quantity="one">%1$d picture</item>
+        <item quantity="other">%1$d imagini</item>
+        <item quantity="zero">%1$d imagini</item>
+        <item quantity="one">%1$d imagine</item>
      </plurals>
      <plurals name="number_of_items">
         <item quantity="other">%1$d elemente</item>
@@ -61,7 +61,7 @@
         <item quantity="one">%1$d</item>
      </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">You can select %d items</item>
-        <item quantity="one">You can select %d item</item>
+        <item quantity="other">Puteți selecta %d elemente</item>
+        <item quantity="one">Puteți selecta %d element</item>
      </plurals>
 </resources>
