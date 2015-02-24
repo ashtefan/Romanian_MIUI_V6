@@ -1887,7 +1887,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
      <string name="screen_key_long_press">Apăsarea lungă a tastelor</string>
      <string name="screen_key_long_press_action">Funcția de declanșare</string>
      <string name="screen_key_long_press_timeout">Durată apăsare lungă</string>
-     <string name="screen_key_press">Apăsați butoanele de navigare</string>
+     <string name="screen_key_press">Apăsarea butoanelor de navigare</string>
      <string name="screen_key_press_action">Funcția de declanșare</string>
      <string name="screen_never_timeout_title">Activ mereu</string>
      <string name="screen_on_proximity_sensor_summary">Blocarea automată a telefonului atunci când este plasat în buzunar</string>
