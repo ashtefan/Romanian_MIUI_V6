@@ -112,8 +112,8 @@
      <string name="cloud_tab_albums">Albume</string>
      <string name="cloud_tab_all">Toate</string>
      <string name="cloudfolder_already_exists">Dosarul cu acest nume există deja</string>
-     <string name="cloudfolder_cannot_start_with">Numele fişierului nu poate începe cu '%s'</string>
-     <string name="cloudfolder_contain_invalidate_char">Numele fişierului nu poate conţine '%s'</string>
+     <string name="cloudfolder_cannot_start_with">"Numele fişierului nu poate începe cu '%s'"</string>
+     <string name="cloudfolder_contain_invalidate_char">"Numele fişierului nu poate conţine '%s'"</string>
      <string name="cloudfolder_fail_to_load_data">Nu se pot încărca datele. Aşteptaţi un minut sau două și încercați din nou.</string>
      <string name="cloudfolder_loading_data">(Încărcare…)</string>
      <string name="cloudfolder_name_cannot_empty">Introduceţi numele dosarului</string>
