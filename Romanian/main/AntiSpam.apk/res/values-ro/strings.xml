@@ -285,7 +285,7 @@
      <string name="st_title_other_group">Altele</string>
      <string name="st_title_settings_other_group">Setări adiţionale</string>
      <string name="st_title_show_antispamnotification">Notificare pentru apelurile blocate</string>
-     <string name="st_title_sim_card">SIM %1$s %2$s</string>
+     <string name="st_title_sim_card">SIM%2$s %1$s</string>
      <string name="st_title_sim_unknown">Necunoscut</string>
      <string name="st_title_whitelist_numbers">Excepţii</string>
      <string name="sure">Confirmaţi</string>
