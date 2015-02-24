@@ -383,7 +383,7 @@
      <string name="power_center_battery_full">Acumulator complet încărcat</string>
      <string name="power_center_charge_time">%1$s până la încărcare</string>
      <string name="power_center_consume_rank">Utilizare acumulator</string>
-     <string name="power_center_consume_time">%1$s rămas</string>
+     <string name="power_center_consume_time">Rămas: %1$s</string>
      <string name="power_center_custom_summary_default">Îmbunătățiţi durata de viață a acumulatorului cu profiluri personalizate</string>
      <string name="power_center_custom_title">Profiluri acumulator</string>
      <string name="power_center_low_battery_summary_default">Comutare profiluri atunci când acumulatorul este descărcat</string>
@@ -413,7 +413,7 @@
      <string name="power_chooser_title">Profiluri acumulator</string>
      <string name="power_chooser_user_define_summary">Adăugaţi un profil</string>
      <string name="power_chooser_user_define_title">Adăugaţi un profil</string>
-     <string name="power_consume_other">Altele</string>
+     <string name="power_consume_other">Alte aplicaţii</string>
      <string name="power_consume_rank_hardware">Hardware</string>
      <string name="power_consume_rank_software">Aplicaţii</string>
      <string name="power_consume_rank_title">Utilizare acumulator</string>
