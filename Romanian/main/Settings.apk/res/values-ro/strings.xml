@@ -2150,7 +2150,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
      <string name="status_bar_settings_show_flow_info">Afişare utilizare date</string>
      <string name="status_bar_settings_show_network_speed">Afişare viteză de conexiune</string>
      <string name="status_bar_settings_show_notificationBar_notification">Se afişează în panoul notificărilor</string>
-     <string name="status_bar_settings_show_notification_icon">Afişare pictogramă notificări</string>
+     <string name="status_bar_settings_show_notification_icon">Afişare pictograme notificări</string>
      <string name="status_bar_settings_show_screenshot_notification">Afişare notificare captură de ecran</string>
      <string name="status_bar_settings_show_statusBar_notification">Afişare notificări plutitoare</string>
      <string name="status_bar_settings_show_statusBar_notification_summary">Afişare notificări plutitoare pe blocarea ecranului și peste tot</string>
