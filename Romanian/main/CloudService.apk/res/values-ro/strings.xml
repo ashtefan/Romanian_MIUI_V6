@@ -72,12 +72,12 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
      <string name="free_space_receive_fail">"Can't upgrade"</string>
      <string name="get_first_month_gb">Get %s of free space</string>
      <string name="get_this_month_gb">Get %s of free space this month</string>
-     <string name="google_100gb">100GB</string>
+     <string name="google_100gb">100 GO</string>
      <string name="google_cloud">Google Drive</string>
      <string name="google_cloud_eng">Google Drive</string>
      <string name="google_cloud_price">About RMB 143 per year</string>
-     <string name="header_data_and_synchronization">Data &amp; sync</string>
-     <string name="header_other_settings">Additional settings</string>
+     <string name="header_data_and_synchronization">Date şi sincronizare</string>
+     <string name="header_other_settings">Setări adiţionale</string>
      <string name="i_know">OK</string>
      <string name="less_flow_mode">Use mobile data to sync</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
@@ -246,11 +246,11 @@ Sync your photos, contacts, notes, and more across all your devices or access th
      <string name="total_space_upgraded_to">Total space:%s</string>
      <string name="unactivated_user">Signed out</string>
      <string name="upgrade_space">Add space</string>
-     <string name="upgrade_space_gb">GB</string>
+     <string name="upgrade_space_gb">GO</string>
      <string name="upgrade_space_mibipreyear">%s Mi Credits per year</string>
      <string name="upgrade_space_successful">Added %sGB</string>
      <string name="upgrade_space_successful_total">%sGB available</string>
-     <string name="upgrade_space_tb">TB</string>
+     <string name="upgrade_space_tb">TO</string>
      <string name="user_agreement">User Agreement</string>
      <string name="user_agreement_p6">"
 Your use of this feature is subject to "</string>
@@ -261,7 +261,6 @@ Your use of this feature is subject to "</string>
      <string name="verify">Verify</string>
      <string name="view_storage_title">Storage space</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmpp_server_addr" />
 </resources>
