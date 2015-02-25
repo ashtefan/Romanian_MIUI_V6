@@ -45,7 +45,7 @@
      <string name="download_error">Nereuşit</string>
      <string name="download_error_insufficient_space">Spaţiu insuficient</string>
      <string name="download_filesize_unknown">necunoscut</string>
-     <string name="download_in_process">Descărcare</string>
+     <string name="download_in_process">Se descarcă</string>
      <string name="download_info_count_deleted_tasks">%s descărcări eliminate</string>
      <string name="download_info_start_deleted_tasks">Ştergeţi descărcările</string>
      <string name="download_list_get_free_vip">Xunlei trial</string>
