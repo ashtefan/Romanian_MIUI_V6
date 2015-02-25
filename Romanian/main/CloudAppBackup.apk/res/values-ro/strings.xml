@@ -12,7 +12,7 @@
     <string name="sdcard_no_enough_space">Spaţiu insuficient</string>
     <string name="retry">Reîncercaţi</string>
     <string name="cloud_app_backup_title">Rezervare date aplicații</string>
-    <string name="cloud_app_mine">Alegeţi aplicațiilor pentru rezervare</string>
+    <string name="cloud_app_mine">Selectaţi aplicațiile pentru rezervare</string>
     <string name="cloud_app_backup_summary">Rezervare automată a datelor aplicațiilor atunci când dispozitivul se încarcă și este conectat la Wi-Fi</string>
     <string name="cloud_app_function_summary">După ce creaţi o copie de rezervă a aplicațiilor în Mi Cloud, le puteți restabili pe orice dispozitiv</string>
     <string name="cloud_app_restore_action_bar_title">Informaţii  backup %1$s</string>
@@ -61,13 +61,13 @@
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="miui_device_name">Android</string>
     <string name="backup_immediately">Rezervaţi acum</string>
-    <string name="app_installed">Instalată</string>
-    <string name="app_not_installed">Dezinstalată</string>
-    <string name="stop_backup">Stop</string>
+    <string name="app_installed">Instalate</string>
+    <string name="app_not_installed">Dezinstalate</string>
+    <string name="stop_backup">Opriţi</string>
     <string name="already_enable_backup">Rezervaţi această aplicație</string>
     <string name="already_disable_backup">Rezervaţi această aplicație</string>
-    <string name="enable_backup">Pornit</string>
-    <string name="disable_backup">Oprit</string>
+    <string name="enable_backup">Activat</string>
+    <string name="disable_backup">Dezactivat</string>
     <string name="dialog_disable_backup">Nu rezervaţi această aplicație?</string>
     <string name="no_backup">Nicio copie de rezervă</string>
     <string name="confirm_disable_backup">Nu rezervaţi  %s?</string>
@@ -84,7 +84,7 @@
     <string name="restore_from_cloud">Restabilire din Mi Cloud</string>
     <string name="backup_to_cloud">Rezervaţi datele aplicațiilor</string>
     <string name="restoreing_file_tile">restabilire %d fișiere</string>
-    <string name="listview_empty_no_results">Niciun rezultat</string>
+    <string name="listview_empty_no_results">Nimic</string>
     <string name="dialog_prompt_stop_backup">Opriţi copierea de rezervă?</string>
     <string name="menu_item_sort">Sortare după</string>
     <string name="menu_item_sort_name">Nume</string>
