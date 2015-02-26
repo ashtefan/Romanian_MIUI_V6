@@ -95,7 +95,7 @@
      <string name="button_optimizer">OK</string>
      <string name="button_text_accept">Acceptaţi</string>
      <string name="button_text_accept_timer">Acceptaţi (%d)</string>
-     <string name="button_text_add_to_white_list">Adăugaţi la excepţii</string>
+     <string name="button_text_add_to_white_list">Ad. la excepţii</string>
      <string name="button_text_backup_uninstall">Rezervare şi dezinstalare</string>
      <string name="button_text_cancel">Anulaţi</string>
      <string name="button_text_cancel_clean">Anulaţi</string>
@@ -128,7 +128,7 @@
      <string name="cache_sort_type_item_name">După nume</string>
      <string name="cache_sort_type_item_size">După dimensiune</string>
      <string name="cache_title_empty_folder">Dosare goale (%d)</string>
-     <string name="cache_title_empty_folder2">Dosar gol</string>
+     <string name="cache_title_empty_folder2">Dosare goale</string>
      <string name="cache_title_system_cache">Cache de sistem</string>
      <string name="call_and_contact">Apeluri şi Contacte</string>
      <string name="cancel">Anulaţi</string>
@@ -176,8 +176,8 @@
      <string name="dialog_title_load_cleanup_engine_error">Ceva a mers prost</string>
      <string name="dialog_title_stop_virus_scan">Opriţi scanare viruşi</string>
      <string name="dialog_title_uninstall_apps">Dezinstalaţi</string>
-     <string name="empty_title_ad">Niciun fișier de anunțuri găsit</string>
-     <string name="empty_title_apk">Niciun pachet de instalare găsit</string>
+     <string name="empty_title_ad">Niciun fișier de anunțuri</string>
+     <string name="empty_title_apk">Niciun pachet de instalare</string>
      <string name="empty_title_auto_start_list">Nicio aplicaţie cu pornire automată</string>
      <string name="empty_title_garbage_cache">Cache gol</string>
      <string name="empty_title_garbage_white_list">Nicio excepţie</string>
@@ -186,7 +186,7 @@
      <string name="empty_title_manual_item_white_list">Nicio excepţie</string>
      <string name="empty_title_perm_apps">Nicio aplicație cu această permisiune</string>
      <string name="empty_title_permission_apps_list">Nicio aplicaţie</string>
-     <string name="empty_title_residual">Niciun reziduu găsit</string>
+     <string name="empty_title_residual">Niciun reziduu</string>
      <string name="empty_title_risk_list">Nicio aplicație riscantă</string>
      <string name="empty_title_root_apps">Nicio aplicație cu permisiune root</string>
      <string name="empty_title_system_cache_list">Cache de sistem gol</string>
