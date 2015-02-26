@@ -14,7 +14,7 @@
      <string name="accessibility_video_capture_button">VideoCaptureButton</string>
      <string name="accessibility_video_pause_button">VideoPauseButton</string>
      <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
-     <string name="burst_shoot_exit_button_text">Close Burst Shoot</string>
+     <string name="burst_shoot_exit_button_text">Dezactivaţi fotografierea în serie</string>
      <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
      <string name="camera_error_title">Eroare Cameră foto</string>
      <string name="camera_label">Cameră</string>
@@ -111,12 +111,12 @@
      <string name="pref_camera_countdown_entry_10s">10s</string>
      <string name="pref_camera_countdown_entry_3s">3s</string>
      <string name="pref_camera_countdown_entry_5s">5s</string>
-     <string name="pref_camera_countdown_title">Numărătoare inversă</string>
+     <string name="pref_camera_countdown_title">Temporizator</string>
      <string name="pref_camera_delay_capture_entry_10s">10s</string>
      <string name="pref_camera_delay_capture_entry_3s">3s</string>
      <string name="pref_camera_delay_capture_entry_5s">5s</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
-     <string name="pref_camera_delay_capture_title">Numărătoare inversă</string>
+     <string name="pref_camera_delay_capture_title">Temporizator</string>
      <string name="pref_camera_exposuretime_entry_0.5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -262,7 +262,7 @@
      <string name="pref_camera_zsl_entry_off">Activat</string>
      <string name="pref_camera_zsl_entry_on">Dezactivat</string>
      <string name="pref_capture_settings">Camera</string>
-     <string name="pref_face_beauty_title">Tonuri evidențiate</string>
+     <string name="pref_face_beauty_title">Înfrumuseţare</string>
      <string name="pref_front_mirror_entry_auto">Automat</string>
      <string name="pref_front_mirror_entry_off">Oprit</string>
      <string name="pref_front_mirror_entry_on">Pornit</string>
@@ -315,9 +315,9 @@
      <string name="simple_mode_button_asd_hdr">Dezactivaţi captarea HDR</string>
      <string name="simple_mode_button_text_audio_capture">Dezactivaţi înregistrarea vocii</string>
      <string name="simple_mode_button_text_color_effect">Dezactivaţi filtrele</string>
-     <string name="simple_mode_button_text_countdown">Dezactivaţi numărătoarea inversă</string>
-     <string name="simple_mode_button_text_delay_capture">Dezactivaţi numărătoarea inversă</string>
-     <string name="simple_mode_button_text_face_beauty">Dezactivaţi tonurile pielii</string>
+     <string name="simple_mode_button_text_countdown">Dezactivaţi temporizatorul</string>
+     <string name="simple_mode_button_text_delay_capture">Dezactivaţi temporizatorul</string>
+     <string name="simple_mode_button_text_face_beauty">Dezactivaţi înfrumusețarea</string>
      <string name="simple_mode_button_text_fast_video">Dezactivaţi camera mişcare lentă</string>
      <string name="simple_mode_button_text_hand_night">Dezactivaţi modul nocturn</string>
      <string name="simple_mode_button_text_hdr">Dezactivaţi modul HDR</string>
@@ -334,7 +334,7 @@
      <string name="tap_to_focus">Atingeţi pentru focusare</string>
      <string name="time_lapse_error">Dimensiune video greşită pentru înregistrarea în intervale de timp</string>
      <string name="toast_burst_snap_finished_end">fotografii</string>
-     <string name="toast_burst_snap_finished_start">Fotografiere în serie finalizată:</string>
+     <string name="toast_burst_snap_finished_start">Fotografiere în serie</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
      <string name="toast_cannot_preview_image_when_screen_locked">Nu se pot vizualiza imaginile în timp ce dispozitivul este blocat</string>
      <string name="toast_start_audio_capture">Faceţi un sunet pentru a declanșa obturator</string>

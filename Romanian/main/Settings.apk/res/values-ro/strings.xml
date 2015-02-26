@@ -2142,7 +2142,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
      <string name="status_bar_settings_custom_notification">Gestiune notificări</string>
      <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
      <string name="status_bar_settings_expandable_under_keyguard">Afișare pe blocarerea ecranului</string>
-     <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a sorta</string>
+     <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a alege un comutator</string>
      <string name="status_bar_settings_no_carrier">Niciunul</string>
      <string name="status_bar_settings_notification_bar">Panou notificări</string>
      <string name="status_bar_settings_show_carrier">Afişare nume operator</string>

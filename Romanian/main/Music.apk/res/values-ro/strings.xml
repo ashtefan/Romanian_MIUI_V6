@@ -82,7 +82,7 @@
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
      <string name="empty_page_no_album">Niciun album.</string>
      <string name="empty_page_no_artist">Niciun artist.</string>
-     <string name="empty_page_no_document">Niciun document ce conţine audio.</string>
+     <string name="empty_page_no_document">Niciun fişier audio.</string>
      <string name="empty_page_no_track">Nicio melodie.</string>
      <string name="enabled">Activat</string>
      <string name="eq_auto">Personalizată</string>
@@ -121,15 +121,15 @@
      <string name="filter_by_duration_format">%2$d min. %5$2d sec.</string>
      <string name="filter_by_duration_max">5 min.</string>
      <string name="filter_by_duration_min">0 sec.</string>
-     <string name="filter_by_duration_prefix">"Durata minimă: "</string>
-     <string name="filter_by_duration_summary">Excludeţi fişierele audio scurte</string>
+     <string name="filter_by_duration_prefix">"Se ascund fişierele mai scurte decât "</string>
+     <string name="filter_by_duration_summary">Se ascund fişierele audio scurte</string>
      <string name="filter_by_folder">Filtrare după dosar</string>
      <string name="filter_by_folder_summary">Selectaţi dosarele pentru afișare</string>
      <string name="filter_by_size">Filtrare după dimensiune</string>
      <string name="filter_by_size_max">2 MO</string>
      <string name="filter_by_size_min">0 KO</string>
-     <string name="filter_by_size_prefix">"Dimensiunea minimă: "</string>
-     <string name="filter_by_size_summary">Nu afişaţi fişierele audio mici</string>
+     <string name="filter_by_size_prefix">"Se ascund fişierele mai mici decât "</string>
+     <string name="filter_by_size_summary">Se ascund fişierele audio mici</string>
      <string name="find_music">Descoperiţi melodii</string>
      <string name="format_not_support">Acest format nu este acceptat.</string>
      <string name="format_unsupported">Acest format nu este acceptat</string>
@@ -181,7 +181,7 @@
      <string name="music_quality">Muzică de calitate</string>
      <string name="music_settings">Muzică</string>
      <string name="my_account">Cont Mi</string>
-     <string name="my_music">Local</string>
+     <string name="my_music">Muzica mea</string>
      <string name="my_music_empty">Lista de redare este goală</string>
      <string name="my_music_empty_goto_online">Nu au fost găsite melodii</string>
      <string name="my_playlist">Lista mea de redare</string>
@@ -205,7 +205,7 @@
      <string name="not_selected">Selectaţi o melodie</string>
      <string name="nowplaying_menu_item_delete">Ştergeţi</string>
      <string name="ok">OK</string>
-     <string name="online_music">On-line</string>
+     <string name="online_music">Descoperiţi</string>
      <string name="online_playlist_is_empty">Listă de redare goală</string>
      <string name="order_process_fail">Nu a fost posibil de autorizat contul dvs. Așteptați câteva minute și încercați din nou.</string>
      <string name="payment_fail">Achitare eşuată</string>
@@ -240,7 +240,7 @@
      <string name="select_local_album">Selectaţi un album</string>
      <string name="select_local_lyric">Selectaţi versurile</string>
      <string name="select_lyric">Selectaţi versurile</string>
-     <string name="send_to">Utilizaţi</string>
+     <string name="send_to">Distribuiţi</string>
      <string name="send_to_title">Trimiteţi la (%1$s)</string>
      <string name="set_album_successful">Album salvat</string>
      <string name="set_as_ring">Setare ca ton de apel</string>

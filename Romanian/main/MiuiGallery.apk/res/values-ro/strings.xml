@@ -214,7 +214,7 @@
      <string name="facetan">Bronz</string>
      <string name="fail_hint">Operaţiune eşuată</string>
      <string name="fail_init_gallery_db_helper">Nu s-a reușit încărcarea bazei de date</string>
-     <string name="fail_to_download_n_items">Imposibil de descărcat %s elemente</string>
+     <string name="fail_to_download_n_items">Imposibil de descărcat %s</string>
      <string name="fail_to_pick_email">Niciun e-mail valid</string>
      <string name="fail_to_sync_album">Sincronizarea albumului a eşuat. Verificați conexiunea la rețea şi încercaţi din nou.</string>
      <string name="file_not_exist_message">Fişier inexistent</string>

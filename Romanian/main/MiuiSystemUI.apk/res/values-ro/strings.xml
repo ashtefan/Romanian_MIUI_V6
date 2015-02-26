@@ -49,7 +49,7 @@
      <string name="app_label">UI sistem</string>
      <string name="audio_effect_custom">Configuraţi</string>
      <string name="audio_effect_info">Optimizaţi audio</string>
-     <string name="audio_effect_settings">Setaţi tipul căştilor</string>
+     <string name="audio_effect_settings">Selectaţi tipul căştilor</string>
      <string name="battery_low_percent_format">Rămas: %d%%</string>
      <string name="battery_low_title">Conectaţi încărcătorul</string>
      <string name="battery_profiles">Utilizaţi profiluri acumulator</string>
@@ -105,7 +105,7 @@ Dacă reactivaţi datele, puteţi fi taxat(ă) de către operator."</string>
      <string name="headset_custom">Personalizaţi</string>
      <string name="headset_info">Personalizaţi funcţiile butonului</string>
      <string name="headset_settings">Căşti conectate</string>
-     <string name="hint_for_long_press_app_switch_key">Apăsaţi lung pentru a afişa meniul</string>
+     <string name="hint_for_long_press_app_switch_key">Apăsați și țineți apăsat pentru meniu</string>
      <string name="invalid_charger">"Încărcarea USB nu este acceptată.
 Utilizați doar încărcătorul furnizat de producător."</string>
      <string name="label_view">Afişaţi</string>
@@ -189,7 +189,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
      <string name="usb_debugging_title">Permiteţi depanarea USB?</string>
      <string name="usb_device_confirm_prompt">Deschideţi %1$s la conectarea acestui dispozitiv USB?</string>
      <string name="usb_device_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
-     <string name="usb_mode_dont_ask">Nu întreba din nou</string>
+     <string name="usb_mode_dont_ask">Memorizează această alegere</string>
      <string name="usb_mode_mount_storage_title">Activaţi stocarea USB?</string>
      <string name="usb_mode_notification">Stocare USB</string>
      <string name="usb_mtp_text">Fişiere</string>
