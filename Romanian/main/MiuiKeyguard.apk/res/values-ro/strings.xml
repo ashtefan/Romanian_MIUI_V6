@@ -29,7 +29,7 @@
      <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
      <string name="lockscreen_access_pattern_detected">Finalizat</string>
      <string name="lockscreen_access_pattern_start">Început</string>
-     <string name="lockscreen_charging_msg">Încărcare</string>
+     <string name="lockscreen_charging_msg">Se încarcă</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
      <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi introdus incorect parola dvs. de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul datelor de conectare la contul Mi.
 
