@@ -17,14 +17,14 @@
     <string name="recognize_fail">Nu se poate citi codul</string>
     <string name="place_barcode_into_rectangle">Aliniați codul în cadru de mai jos</string>
     <string name="barcode_into_rectangle">Aliniați codul în cadru de mai jos</string>
-    <string name="open_flash_error">Nu se poate porni lanterna</string>
-    <string name="close_flash_error">Nu se poate opri lanterna</string>
+    <string name="open_flash_error">Nu se poate porni bliţul</string>
+    <string name="close_flash_error">Nu se poate opri bliţul</string>
     <string name="scan_fail">Nu a putut fi scana codul</string>
     <string name="vcard_prompt">Nici un nume asociat cu acest card.</string>
     <string name="copy_succeed">Copiat</string>
     <string name="fail_generate_barcode">Nu am putut crea codul</string>
     <string name="scan_result">Cod QR scanat</string>
-    <string name="flash_lable">Lanternă</string>
+    <string name="flash_lable">Bliţ</string>
     <string name="picker_lable">Fotografie</string>
     <string name="camera_error">E ceva în neregulă cu camera foto</string>
     <string name="url_is_safety">Acest site este în siguranță.</string>
