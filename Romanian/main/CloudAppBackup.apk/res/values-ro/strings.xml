@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Backup aplicaţii în nor</string>
+    <string name="app_name">Rezervare aplicaţii în nor</string>
     <string name="button_cancel">Anulaţi</string>
     <string name="button_ok">OK</string>
     <string name="button_next">Înainte</string>
     <string name="button_continue">Continuaţi</string>
-    <string name="button_stop">Stop</string>
+    <string name="button_stop">Opriţi</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="sdcard_unmounted">Niciun card SD detectat</string>
@@ -15,13 +15,13 @@
     <string name="cloud_app_mine">Selectaţi aplicațiile pentru rezervare</string>
     <string name="cloud_app_backup_summary">Rezervare automată a datelor aplicațiilor atunci când dispozitivul se încarcă și este conectat la Wi-Fi</string>
     <string name="cloud_app_function_summary">După ce creaţi o copie de rezervă a aplicațiilor în Mi Cloud, le puteți restabili pe orice dispozitiv</string>
-    <string name="cloud_app_restore_action_bar_title">Informaţii  backup %1$s</string>
+    <string name="cloud_app_restore_action_bar_title">Informaţii copie de rezervă %1$s</string>
     <string name="cloud_app_current_device">Dispozitiv actual</string>
     <string name="cloud_app_other_devices">Alte dispozitive</string>
     <string name="cloud_app_delete_data">Ștergere copie de rezervă</string>
-    <string name="cloud_app_backup_date">"Rezervat pe "</string>
+    <string name="cloud_app_backup_date">"Rezervat la "</string>
     <string name="cloud_app_total_size">Dimensiune: %1$s</string>
-    <string name="cloud_app_version_size">Versiune %1$s , %2$s</string>
+    <string name="cloud_app_version_size">Versiune: %1$s, %2$s</string>
     <string name="cloud_app_restore_prompt">Suprascrieţi datele actuale ale aplicațiilor și utilizatorului cu datele pe care le-aţi rezervat anterior?</string>
     <string name="cloud_app_remove_prompt">Toate datele %1$s vor fi șterse.</string>
     <string name="cloud_app_restore_app_and_data">Restabilirea datelor aplicațiilor și utilizatorului</string>
@@ -30,17 +30,17 @@
     <string name="cloud_app_restore_wifi_prompt">Pentru a restabili datele aplicațiilor și utilizatorului, conectați-vă la o rețea Wi-Fi.</string>
     <string name="cloud_app_no_data">Nu există date</string>
     <string name="cloud_app_invalid_op_when_removing">Nu puteți vizualiza datele din nor in timp ce se elimină.</string>
-    <string name="cloud_app_remove_pending">Așteaptare...</string>
+    <string name="cloud_app_remove_pending">Așteptare...</string>
     <string name="cloud_app_remove_progress">Ştergere...</string>
     <string name="cloud_app_remove_success">Aplicații eliminate</string>
-    <string name="cloud_app_restore_pending">Așteaptare...</string>
+    <string name="cloud_app_restore_pending">Așteptare...</string>
     <string name="cloud_app_restore_progress">Restabilire...</string>
-    <string name="cloud_app_backup_pending">Așteaptare...</string>
-    <string name="cloud_app_backup_progress">Back-up...</string>
+    <string name="cloud_app_backup_pending">Așteptare...</string>
+    <string name="cloud_app_backup_progress">Rezervare...</string>
     <string name="cloud_app_remove_error">Nu a putut fi șters</string>
     <string name="cloud_app_restore_error">Nu a putut fi restabilit</string>
     <string name="cloud_app_restore_success">Aplicații restabilite</string>
-    <string name="cloud_app_backup_success">Rezervare aplicaţii terminată</string>
+    <string name="cloud_app_backup_success">Rezervarea aplicaţiilor a fost finalizată</string>
     <string name="cloud_app_wait_wifi">Așteptare conexiune Wi-Fi</string>
     <string name="cloud_app_backup_cancel">Anulare...</string>
     <string name="cloud_app_restore_cancel">Anulare...</string>
@@ -48,9 +48,9 @@
     <string name="cloud_app_backup_cancel_prompt_title">Opriţi rezervarea?</string>
     <string name="cloud_app_restore_cancel_prompt_title">Opriţi restabilirea?</string>
     <string name="cloud_app_remove_cancel_prompt_title">Opriţi ștergerea?</string>
-    <string name="cloud_app_backup_cancel_prompt_message">Rezervarea nu a fost terminată. Opriţi oricum?</string>
-    <string name="cloud_app_restore_cancel_prompt_message">Restabilirea nu a fost terminată. Opriţi oricum?</string>
-    <string name="cloud_app_remove_cancel_prompt_message">Ştergerea nu a fost terminată. Opriți oricum?</string>
+    <string name="cloud_app_backup_cancel_prompt_message">Rezervarea nu a fost finalizată. Opriţi oricum?</string>
+    <string name="cloud_app_restore_cancel_prompt_message">Restabilirea nu a fost finalizată. Opriţi oricum?</string>
+    <string name="cloud_app_remove_cancel_prompt_message">Ştergerea nu a fost finalizată. Opriți oricum?</string>
     <string name="cloud_app_check_data">Comunicare cu Mi Cloud...</string>
     <string name="cloud_app_no_network">Nu se poate conecta la rețea</string>
     <string name="button_restore">Restabiliţi</string>
@@ -75,7 +75,7 @@
     <string name="datasize_unknown">dimensiune necunoscută</string>
     <string name="recovering">Recuperare %s</string>
     <string name="start_recover">Recuperaţi %s</string>
-    <string name="latest_backup_time">Ultima rezervare pe %s</string>
+    <string name="latest_backup_time">Ultima rezervare: %s</string>
     <string name="latest_backup_time_loading">Se încarcă...</string>
     <string name="start_backup_to_micloud">Rezervare aplicații în Mi Cloud</string>
     <string name="backing_up_to_micloud">Rezervare...</string>
@@ -83,9 +83,9 @@
     <string name="no_app_to_backup">Nicio aplicație de rezervat</string>
     <string name="restore_from_cloud">Restabilire din Mi Cloud</string>
     <string name="backup_to_cloud">Rezervaţi datele aplicațiilor</string>
-    <string name="restoreing_file_tile">restabilire %d fișiere</string>
+    <string name="restoreing_file_tile">Se restabilesc %d (de) fișiere</string>
     <string name="listview_empty_no_results">Nimic</string>
-    <string name="dialog_prompt_stop_backup">Opriţi copierea de rezervă?</string>
+    <string name="dialog_prompt_stop_backup">Opriţi rezervarea?</string>
     <string name="menu_item_sort">Sortare după</string>
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_size">Dimensiune</string>
