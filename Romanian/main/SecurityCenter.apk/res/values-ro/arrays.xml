@@ -54,7 +54,7 @@
         <item>Niciodată</item>
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
-        <item>Performanţă înaltă</item>
+        <item>Performanţă</item>
         <item>Echilibrat</item>
      </string-array>
      <string-array name="power_dialog_sleep_items">
@@ -74,6 +74,6 @@
      <string-array name="power_dialog_wifi_internet_state_items">
         <item>Dezactivare</item>
         <item>Activare</item>
-        <item>Nu se schimbă</item>
+        <item>Nu se modifică</item>
      </string-array>
 </resources>
