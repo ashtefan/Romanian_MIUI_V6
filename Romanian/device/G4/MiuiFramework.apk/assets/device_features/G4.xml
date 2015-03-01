@@ -21,7 +21,7 @@
     <bool name="support_emulated_storage">false</bool>
     <bool name="support_internal_sdcard">false</bool>
     <bool name="support_power_mode">false</bool>
-    <bool name="support_dolby">true</bool>
+    <bool name="support_dolby">false</bool>
     <bool name="support_screen_color">false</bool>
     <bool name="support_wapi">true</bool>
     <bool name="is_mediatek">true</bool>
@@ -36,7 +36,7 @@
     <bool name="support_screen_effect">false</bool>
     <bool name="support_agps">true</bool>
     <bool name="support_feedback_level">true</bool>
-    <bool name="enable_miui_lite">true</bool>
+    <bool name="enable_miui_lite">false</bool>
     <bool name="support_steps_provider">false</bool>
     <string name="vendor">mediatek</string>
 </features>

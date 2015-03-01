@@ -21,7 +21,7 @@
     <bool name="support_emulated_storage">false</bool>
     <bool name="support_internal_sdcard">false</bool>
     <bool name="support_power_mode">false</bool>
-    <bool name="support_dolby">true</bool>
+    <bool name="support_dolby">false</bool>
     <bool name="support_screen_color">false</bool>
     <bool name="support_wapi">true</bool>
     <bool name="is_mediatek">true</bool>
