@@ -2097,7 +2097,7 @@ Codul PIN poate fi incorect."</string>
      <string name="sms_over_ims_off">Opriţi SMS prin IMS</string>
      <string name="sms_over_ims_on">Porniţi SMS prin IMS</string>
      <string name="sms_received_sound_dialog_title">Alegeţi sunetul pt. SMS recepţionat</string>
-     <string name="sms_received_sound_title">Mesaj recepţionat</string>
+     <string name="sms_received_sound_title">SMS recepţionat</string>
      <string name="sort_order_alpha">Sortaţi după nume</string>
      <string name="sort_order_size">Sortaţi după dimensiune</string>
      <string name="sound_category_call_ringtone_vibrate_title">Ton de sonerie şi vibraţii</string>
