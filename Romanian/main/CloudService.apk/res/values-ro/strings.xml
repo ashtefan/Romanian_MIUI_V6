@@ -10,7 +10,7 @@
      <string name="apple_cloud">Servicii Apple Cloud</string>
      <string name="apple_cloud_eng">iCloud</string>
      <string name="apple_cloud_price">Aproximativ 72 RMB pe an</string>
-     <string name="bad_authentication">Nume de utilizator sau parolă greşite</string>
+     <string name="bad_authentication">Cont sau parolă greşite</string>
      <string name="btn_return">Înapoi</string>
      <string name="button_cancel">Anulaţi</string>
      <string name="buy_space_expire">Spațiul achiziționat va expira în %s</string>
@@ -58,7 +58,7 @@ Localizaţi, blocaţi, sau sau resetați dispozitivul la "</string>
      <string name="find_device_dspt_provision_4">Dacă comutaţi cardurile SIM, un mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
      <string name="find_device_enabling">Activare…</string>
      <string name="find_device_error_network">Verificați conexiunea de date și încercați din nou.</string>
-     <string name="find_device_error_server">Ceva nu a mers bine cu serverele noastre.</string>
+     <string name="find_device_error_server">Eroare de server</string>
      <string name="find_device_noise_title">Sunet localizare dispozitiv</string>
      <string name="find_device_notice_p1">Accesaţi</string>
      <string name="find_device_notice_p2">i.mi.com</string>
@@ -113,7 +113,7 @@ Atunci când norul este plin, datele vechi nu vor merge nicăieri. Cu toate aces
 
 Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru a face loc pentru cele noi, fie puteți achiziționa spațiu de stocare suplimentar."</string>
      <string name="micloud_full_influence_title">Când Mi Cloud este plin…</string>
-     <string name="micloud_main_data_unsynced">%d (de) elemente aşteaptă sincronizarea</string>
+     <string name="micloud_main_data_unsynced">%d aşteaptă sincronizarea</string>
      <string name="micloud_main_detail">Vizualizaţi detaliile</string>
      <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
      <string name="micloud_main_network_abnormal">Nu se poate conecta la rețea</string>
@@ -122,7 +122,7 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
      <string name="micloud_main_space_full">Spațiu de stocare insuficient.</string>
      <string name="micloud_main_space_risk">%d (de) elemente sincronizate.</string>
      <string name="micloud_main_stop_sync">Opriţi sincronizarea</string>
-     <string name="micloud_main_suggest_sync">Unele elemente nu au sincronizate cu Mi Cloud</string>
+     <string name="micloud_main_suggest_sync">Nu a fost posibil de sincronizat totul</string>
      <string name="micloud_main_sync_exception">Eroare sincronizare</string>
      <string name="micloud_main_sync_now">Sincronizaţi acum</string>
      <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>
@@ -131,7 +131,8 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
      <string name="micloud_main_synced_data_count">%d (de) elemente sincronizate</string>
      <string name="micloud_main_syncing">Sincronizare…</string>
      <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare.</string>
-     <string name="micloud_main_wlan_sync_data_count">%d elem. aşteaptă conex. Wi-Fi</string>
+     <string name="micloud_main_wlan_sync_data_count">"%d (de) elemente aşteaptă 
+sincronizarea prin Wi-Fi"</string>
      <string name="micloud_more">Aflaţi mai multe</string>
      <string name="micloud_other_product_price">Comparaţi prețurile</string>
      <string name="micloud_proceed">Continuaţi</string>
@@ -151,7 +152,7 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
      <string name="micloud_title_dspt" formatted="false">"Total %s
  utilizat %s | rămas %s"</string>
      <string name="micloud_title_dspt_remain">Rămas: %s</string>
-     <string name="micloud_title_full_dspt">Ați atins limita de stocare!</string>
+     <string name="micloud_title_full_dspt">Ați atins limita de stocare</string>
      <string name="micloud_unlogin_for_time_summary" />
      <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
      <string name="micloud_upgrade_space">Obțineți mai mult spațiu de stocare</string>

@@ -4,7 +4,7 @@
      <string name="add_task">Adaugaţi sarcini</string>
      <string name="adding_upload_tasks">Adaugare sarcini…</string>
      <string name="already_signin_description">Sunteţi conectat deja</string>
-     <string name="app_name">Explorer</string>
+     <string name="app_name">Explorer fişiere</string>
      <string name="background">Ascundeţi</string>
      <string name="big5_summary">Codare prestabilită în Chineză Tradiţională Windows</string>
      <string name="bind_account">Sincronizare cont existent</string>
@@ -314,4 +314,23 @@ Spațiu liber adăugat %1$s"</string>
      <string name="wifi_state">Reţea Wi-Fi</string>
      <string name="xiaomi_account">Cont Xiaomi</string>
      <string name="yes">Da</string>
+     <string name="files">Fişiere</string>
+     <string name="get_cloud_space">Adăugaţi 500 GO</string>
+     <string name="kp_category_all">Categorii</string>
+     <string name="kp_category_doc">Word</string>
+     <string name="kp_category_excel">Excel</string>
+     <string name="kp_category_ppt">PowerPoint</string>
+     <string name="kp_category_pdf">PDF</string>
+     <string name="kp_category_txt">Text</string>
+     <string name="no_display_file">Nu se poate afişa %1$s</string>
+     <string name="delete_selected_tasks">Ştergeţi cele selectate?</string>
+     <string name="kuaipan_data_formater_with_year">Luna M ziua d anul YYYY</string>
+     <string name="kuaipan_data_formater_without_year">Luna M ziua d</string>
+     <string name="kuaipan_photo_locate">Localizată %1$s</string>
+     <string name="kuaipan_photo_folder_divider">,</string>
+     <string name="kuaipan_photo_more_folder_count">%1$s</string>
+     <string name="kuaipan_root_fooder">Acasă</string>
+     <string name="kuaipan_cloud_photo">Fotografii KuaiPan</string>
+     <string name="kuaipan_create_shortcut_success">Comandă rapidă creată</string>
+     <string name="kuaipan_delete_success">Fotografie ştearsă</string>
 </resources>
