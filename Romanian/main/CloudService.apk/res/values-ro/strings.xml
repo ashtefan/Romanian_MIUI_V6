@@ -95,7 +95,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
      <string name="micloud_detail_lastest">Sincronizat</string>
      <string name="micloud_detail_pending">Aştetare</string>
      <string name="micloud_detail_preference_syncing">Sincronizare</string>
-     <string name="micloud_detail_preference_wlan">Sincronizare în Wi-Fi</string>
+     <string name="micloud_detail_preference_wlan">Sincronizare prin Wi-Fi</string>
      <string name="micloud_detail_success">Sincronizat</string>
      <string name="micloud_detail_syncing">Sincronizare</string>
      <string name="micloud_detail_wlan">%d așteaptă sincronizarea</string>
@@ -114,7 +114,7 @@ Atunci când norul este plin, datele vechi nu vor merge nicăieri. Cu toate aces
 Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru a face loc pentru cele noi, fie puteți achiziționa spațiu de stocare suplimentar."</string>
      <string name="micloud_full_influence_title">Când Mi Cloud este plin…</string>
      <string name="micloud_main_data_unsynced">%d (de) elemente aşteaptă sincronizarea</string>
-     <string name="micloud_main_detail">Vizualizare detalii</string>
+     <string name="micloud_main_detail">Vizualizaţi detaliile</string>
      <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
      <string name="micloud_main_network_abnormal">Nu se poate conecta la rețea</string>
      <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
@@ -131,7 +131,7 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
      <string name="micloud_main_synced_data_count">%d (de) elemente sincronizate</string>
      <string name="micloud_main_syncing">Sincronizare…</string>
      <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare.</string>
-     <string name="micloud_main_wlan_sync_data_count">%d (de) elemente aşteaptă sincronizarea prin Wi-Fi</string>
+     <string name="micloud_main_wlan_sync_data_count">%d elem. aşteaptă conex. Wi-Fi</string>
      <string name="micloud_more">Aflaţi mai multe</string>
      <string name="micloud_other_product_price">Comparaţi prețurile</string>
      <string name="micloud_proceed">Continuaţi</string>
@@ -233,7 +233,7 @@ Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele
      <string name="sync_on">Activat</string>
      <string name="sync_resend_sms_dspt_provision">" Dacă comutaţi cardurile SIM, operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a reactiva acest serviciu."</string>
      <string name="sync_setting">Utilizare date mobile</string>
-     <string name="sync_standard">SMS-uri și istoric apeluri</string>
+     <string name="sync_standard">Mesaje SMS și istoric apeluri</string>
      <string name="sync_sub_1_intl_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS internaţional utilizat pentru a activa acest serviciu.</string>
      <string name="sync_sub_1_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
      <string name="sync_sub_1_sms_1_intl_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS local şi unul internaţional utilizate pentru a activa acest serviciu.</string>
