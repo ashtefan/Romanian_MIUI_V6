@@ -246,8 +246,8 @@ Pentru a activa contul, urmați
     <string name="account_user_name">Nume</string>
     <string name="account_user_avatar">Imaginea de profil</string>
     <string name="account_user_gender">Sex</string>
-    <string name="account_user_gender_female">Femeie</string>
-    <string name="account_user_gender_male">Bărbat</string>
+    <string name="account_user_gender_female">Feminin</string>
+    <string name="account_user_gender_male">Masculin</string>
     <string name="account_user_birthday">Zi de naştere</string>
     <string name="account_user_id">ID cont Mi</string>
     <string name="account_user_details">Informaţii utilizator</string>
@@ -282,7 +282,7 @@ Pentru a activa contul, urmați
     <string name="micloud_sync_state_syncing">Sincronizare</string>
     <string name="micloud_sync_state_stop">Oprit</string>
     <string name="micloud_sync_state_need_wifi">Utilizaţi Wi-Fi pentru sincronizare</string>
-    <string name="micloud_space_info">%s disponibil</string>
+    <string name="micloud_space_info">Disponibil: %s</string>
     <string name="loading_micloud_sync_data">Încărcare…</string>
     <string name="account_learn_more_title">Creaţi un cont Mi</string>
     <string name="cloud_service_dspt">Sincronizaţi fotografiile, contactele, notele, aplicațiile și altele între toate dispozitivele.</string>
