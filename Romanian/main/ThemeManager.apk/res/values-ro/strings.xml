@@ -44,7 +44,7 @@
      <string name="gift_operation_fail_dlg_abandon">Anulaţi</string>
      <string name="gift_operation_fail_dlg_retry">Încercaţi din nou</string>
      <string name="gift_operation_waiting">Doar o secundă…</string>
-     <string name="gift_owned">Local</string>
+     <string name="gift_owned">Achiziționat</string>
      <string name="gift_present">Oferiţi</string>
      <string name="gift_present_dlg_anonymous">Cadou anonim</string>
      <string name="gift_present_dlg_input_hint">ID/Telefon cont Mi</string>
@@ -181,7 +181,7 @@
      <string name="resource_exchange_wrong_format_by_local">Formatul codului introdus este incorect</string>
      <string name="resource_exchange_wrong_format_by_server">Codul nu a fost cerificat. Asiguraţi-vă că l-aţi introdus corect.</string>
      <string name="resource_expand_full_text">Extindeţi</string>
-     <string name="resource_failed_to_load_list">Nu se poate încărca lista</string>
+     <string name="resource_failed_to_load_list">Nu se pot încărca temele.</string>
      <string name="resource_get_auth_checking">Verificare autorizare…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Zece dispozitive au fost deja autorizate în acest cont</string>
      <string name="resource_get_auth_exceed_max_limit_title">Numărul de dispozitive autorizate a fost depășit</string>
@@ -223,7 +223,7 @@
      <string name="resource_ringtone_playing_error">Eroare de redare</string>
      <string name="resource_ringtone_volume_mute">Modul silenţios este activat</string>
      <string name="resource_save_to_note">Salvaţi în Note</string>
-     <string name="resource_search_list_empty">Nu a fost găsit nimic</string>
+     <string name="resource_search_list_empty">Nu a fost găsit nimic.</string>
      <string name="resource_see_more">Mai multe</string>
      <string name="resource_select">Selectaţi</string>
      <string name="resource_select_ringtone_confirm">Selectaţi acest sunet?</string>

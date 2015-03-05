@@ -113,7 +113,7 @@ Pentru a activa contul, urmați
     <string name="passport_wrong_captcha">Codul introdus nu este corect</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
     <string name="passport_trust_device">Aveți încredere în acest dispozitiv</string>
-    <string name="passport_vcode_prompt_long">Introduceti codul de verificare generat de token-ul Securitate Mi</string>
+    <string name="passport_vcode_prompt_long">Introduceti codul de verificare</string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_checking_input">Verificare…</string>
     <string name="passport_login_title">Conectaţi-vă la contul dvs. Mi</string>
@@ -146,7 +146,7 @@ Pentru a activa contul, urmați
     <string name="forget_password"><u>Am uitat parola</u></string>
     <string name="password">Introduceți parola</string>
     <string name="vcode">Cod de verificare</string>
-    <string name="bad_authentication">Nume de utilizator sau parolă greşite</string>
+    <string name="bad_authentication">Cont sau parolă greşite</string>
     <string name="micloud_account_name">Cont Mi</string>
     <string name="micloud_reg_new">Creaţi un cont Mi</string>
     <string name="micloud_error_empty_pwd">Introduceți parola</string>
@@ -205,7 +205,7 @@ Pentru a activa contul, urmați
     <string name="hide_mibi_info">Informaţiile de spre Creditele Mi au fost ascunse</string>
     <string name="failed_get_mibi_info">Nu se poate obține soldul</string>
     <string name="mipay_center">Portofel</string>
-    <string name="mi_service">Suport</string>
+    <string name="mi_support_service">Suport</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Adăugaţi un cont Sina Weibo</string>
     <string name="bind_weibo_description">Găsiţi şi sincronizați prietenii din Sina Weibo</string>
@@ -231,7 +231,7 @@ Pentru a activa contul, urmați
     <string name="wrong_captcha">Codul introdus nu este corect</string>
     <string name="wrong_vcode">Codul de verificare introdus este incorect</string>
     <string name="trust_device">Aveți încredere în acest dispozitiv</string>
-    <string name="vcode_prompt_long">Introduceti codul de verificare generat de token-ul Securitate Mi</string>
+    <string name="vcode_prompt_long">Introduceti codul de verificare</string>
     <string name="vcode_notification_title">Verificarea este incompletă</string>
     <string name="checking_input">Verificare…</string>
     <string name="wipe_data_dialog_title">Unele elemente nu au fost sincronizate</string>
@@ -268,7 +268,7 @@ Pentru a activa contul, urmați
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Conturi</string>
     <string name="account_bind_devices">Dispozitive</string>
-    <string name="account_dspt_provision">"Utilizaţi contul dvs. Mi pentru a vă conecta la Mi Cloud, Magazin Teme MIUI, precum și alte servicii Mi de oriunde. "</string>
+    <string name="account_dspt_provision">"Conectaţi-vă la Mi Cloud, Magazin Teme MIUI, precum și alte servicii Mi de oriunde. "</string>
     <string name="account_dspt_provision2">Aflaţi mai multe</string>
     <string name="login_title">Conectaţi-vă la contul dvs. Mi</string>
     <string name="btn_return">Înapoi</string>
@@ -316,4 +316,6 @@ Pentru a activa contul, urmați
     <string name="get_device_list_failed">Nu se pot obține dispozitivele</string>
     <string name="delete_device_failed">Nu se poate elimina dispozitivul</string>
     <string name="empty_device_list_notice">Niciun dispozitiv</string>
+    <string name="user_avatar_uploading">Încărcare…</string>
+    <string name="user_avatar_update_title">Actualizaţi imaginea profilului</string>
 </resources>

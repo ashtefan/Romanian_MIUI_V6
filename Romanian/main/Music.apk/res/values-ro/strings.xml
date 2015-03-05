@@ -19,7 +19,7 @@
      <string name="artist_search_title">Artist</string>
      <string name="artist_view">Artist</string>
      <string name="audio_picker_title">Selectaţi o melodie</string>
-     <string name="auto_download_in_wifi">Melodiile favorite vor fi descărcate automat prin Wi-Fi</string>
+     <string name="auto_download_in_wifi"> Se descarcă melodiile favorite prin Wi-Fi</string>
      <string name="available_playlist_name_format">Listă de redare nouă %d</string>
      <string name="avoid_to_use_traffic_summary">Nu se utilizează rețeaua de telefonie mobilă pentru a reda muzica</string>
      <string name="avoid_to_use_traffic_title">Se utilizează doar Wi-Fi pentru a reda muzica</string>
@@ -136,6 +136,7 @@
      <string name="fragment_more">Mai multe</string>
      <string name="fragment_title_artist">ARTIŞTI</string>
      <string name="fragment_title_artist_album">ALBUME</string>
+     <string name="fragment_title_personal">PERSONAL</string>
      <string name="fragment_title_bill">LISTE DE REDARE</string>
      <string name="fragment_title_channel">FM</string>
      <string name="fragment_title_recommend">RECOMANDATE</string>
@@ -252,7 +253,7 @@
      <string name="similar_songs">Melodii similare</string>
      <string name="sleep_mode">Temporizator</string>
      <string name="sleep_mode_canceled">Temporizator oprit</string>
-     <string name="sleep_mode_summary">Se opreşte redarea după un timp scurs</string>
+     <string name="sleep_mode_summary">Se opreşte redarea după un timp anumit</string>
      <string name="sleep_mode_title">Temporizator</string>
      <string name="song_name">Melodie</string>
      <string name="song_not_find">Nu se poate conecta la rețea, sau această melodie nu este disponibilă.</string>
@@ -284,4 +285,12 @@
      <string name="unknown_artist_name">Artist necunoscut</string>
      <string name="valid_period">"Valid : "</string>
      <string name="vip_recommend_title">Obţineţi muzică de calitate superioară</string>
+     <string name="server_error">Eroare de server. Încercați din nou mai târziu</string>
+     <string name="impunity_declaration_positive_text">Acceptaţi</string>
+     <string name="impunity_declaration_negative_text">Refuzaţi</string>
+     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
+     <string name="no_enough_info">Nu sunt suficiente informaţii despre melodie</string>
+     <string name="disallow_add_to_personal_radio">Radio personal este doar în citire</string>
+     <string name="today_update">Muzică actualizată</string>
+     <string name="click_to_view_new_local_audios">Apăsați pentru a vizualiza detaliile.</string>
 </resources>
