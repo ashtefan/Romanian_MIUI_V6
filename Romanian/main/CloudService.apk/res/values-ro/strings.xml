@@ -259,7 +259,7 @@ Utilizarea acestei caracteristici este supusă "</string>
      <string name="user_agreement_title">Condiţiile de utilizare Mi Cloud</string>
      <string name="vcode">Cod de verificare</string>
      <string name="verify">Verificare</string>
-     <string name="view_storage_title">Spaţiu de stocare</string>
+     <string name="view_storage_title">Spaţiul de stocare</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmpp_server_addr" />
