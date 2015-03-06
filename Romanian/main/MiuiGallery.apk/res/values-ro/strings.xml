@@ -254,7 +254,7 @@
      <string name="home_page_tab_cloud">Nor</string>
      <string name="home_page_tab_local">Locale</string>
      <string name="home_page_tab_photo">Fotografii</string>
-     <string name="image_download_item_title">Descărcaţi imaginea (%s)</string>
+     <string name="image_download_item_title">Descărcaţi fişierul (%s)</string>
      <string name="image_quota_fulfiled">Prea multe imagini. Ştergeţi unele imagini şi înceraţi din nou.</string>
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Import finalizat</string>
@@ -394,7 +394,6 @@
      <string name="photo_paint_adjust">Adjustare</string>
      <string name="photo_paint_crop">Decupare</string>
      <string name="photo_paint_effect">Efect</string>
-     <string name="photo_saved">Fotografia salvată în %s</string>
      <string name="photo_size">Dimensiune</string>
      <string name="photoeditor_name">Foto Studio</string>
      <string name="photos">Fotografii</string>
@@ -584,4 +583,36 @@
      <string name="yellow_page">Registru</string>
      <string name="yes">Da</string>
      <string name="yunyi_pocket_camera">Pocket Camera</string>
+     <string name="early_bird">Brannan</string>
+     <string name="brannan">EarlyBird</string>
+     <string name="cool">​Cool</string>
+     <string name="rise">Rise</string>
+     <string name="cool_portrait">CoolPortrait</string>
+     <string name="old">​Old</string>
+     <string name="camera_black_white">cameraBlackWhite</string>
+     <string name="black_white">BlackWhite</string>
+     <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
+     <string name="home_page_tab_face">Chip</string>
+     <string name="photo_save_succeed">Salvat cu succes</string>
+     <string name="face_album">Album feţe</string>
+     <string name="face_albumset_use_tip">"Ajutor pentru a găsi acele chipuri frumoase，
+ceea ce face simplu vizualizarea și gestionarea imaginilor"</string>
+    <string name="face_albumset_detecting_tip">"Detectare chipuri...
+albumele cu chipuri vor fi disponibile în curând"</string>
+    <string name="face_albumset_empty">"Nu au fost detectate chipuri
+încercați să faceţi mai multe fotografii"</string>
+     <string name="start_to_use_face_albumset">Începeţi să utilizaţi albumele cu chipuri</string>
+     <string name="face_album_not_named">Fără nume</string>
+     <string name="rename_face_album">Schimbaţi numele</string>
+     <string name="rename_fail_msg">Schimbare nume eşuată</string>
+     <string name="merge_album_positive_button_text">Îmbinaţi</string>
+     <string name="confirm_merge_face_albums">" "<Data> Îmbinaţi acest album cu albumul &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+     <string name="create_new_face">Chip nou</string>
+     <string name="preparing_data">Pregătire date...</string>
+     <string name="ignore_face">Ignoraţi acest chip</string>
+     <string name="who_is_this">Cine este aceasta?</string>
+     <string name="view_face_album">Vizualizaţi albumul</string>
+     <string name="name_wrong">Nu este %s</string>
+     <string name="face_album_rename_hint">Introduceţi un nume</string>
+     <string name="face_move_dialog_title">Selectaţi un album cu chipuri</string>
 </resources>

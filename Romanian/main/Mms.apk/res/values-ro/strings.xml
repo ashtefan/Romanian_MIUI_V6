@@ -540,5 +540,7 @@
      <string name="yes">OK</string>
      <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
      <string name="pref_show_sms_template_summary">Se copiază și completează în mod automat codurile de verificare</string>
-
+     <string name="pref_title_sms_validity_period">Perioada de valabilitate SMS</string>
+     <string name="pref_title_mms_validity_period">Perioada de valabilitate MMS</string>
+     <string name="open_url_with_web">Permiteţi deschiderea URL cu Web?</string>
 </resources>

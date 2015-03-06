@@ -8,10 +8,10 @@
      <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
      <string name="input_method_setting">Selectați tastatura prestabilită</string>
      <string name="install_preinstall_app">Încărcare aplicaţii…</string>
-     <string name="locale_picker_confirm_dialog_desc">"Setaţi %s ca locația dvs.? "</string>
-     <string name="locale_picker_confirm_dialog_title">Selectaţi locația</string>
-     <string name="locale_picker_desc">Dacă doriți să schimbați locația mai târziu, va trebui să resetați dispozitivul la setările din fabrică.</string>
-     <string name="locale_picker_title">Selectaţi locația</string>
+     <string name="locale_picker_confirm_dialog_desc">"Setaţi %s ca localizare a dvs.? "</string>
+     <string name="locale_picker_confirm_dialog_title">Selectaţi localizarea</string>
+     <string name="locale_picker_desc">Dacă doriți să schimbați localizarea mai târziu, va trebui să resetați dispozitivul la setările din fabrică.</string>
+     <string name="locale_picker_title">Selectaţi localizarea</string>
      <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la rețea. Vizualizaţi Politica de confidențialitate la %s</string>
      <string name="miui_terms_no_network">Nu aveți o conexiune la rețea. Vizualizaţi Termenii și condițiile la %s</string>
      <string name="multisim_settings_category">Setări card SIM</string>
@@ -34,7 +34,7 @@
      <string name="provision_inputmethod_policy_description">"
 Vizualizaţi "</string>
      <string name="provision_inputmethod_policy_description1">Politica de confidențialitate a tastaturii selectate</string>
-     <string name="setting_locale">Setare locaţie…</string>
+     <string name="setting_locale">Setare localizare…</string>
      <string name="shut_down">Oprire</string>
      <string name="sim_card_detecting">Verificare card SIM…</string>
      <string name="sim_card_detection">Introduceţi un card SIM</string>

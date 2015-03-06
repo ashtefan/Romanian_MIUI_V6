@@ -1902,7 +1902,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
      <string name="screen_saturation">Saturaţie</string>
      <string name="screen_timeout">Inactivitate</string>
      <string name="screen_timeout_summary">După %1$s de inactivitate</string>
-     <string name="screen_timeout_title">Mod durată inactivitate ecran</string>
+     <string name="screen_timeout_title">Durată inactivitate ecran</string>
      <string name="screensaver_settings_button">Setări</string>
      <string name="screensaver_settings_disabled_prompt">Pentru a controla ceea ce se întâmplă când telefonul este andocat şi/sau în modul inactiv, activaţi Daydream.</string>
      <string name="screensaver_settings_dream_start">Începeţi acum</string>
@@ -2645,7 +2645,7 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
      <string name="wifi_disabled_help">Reţeaua s-a deconectat din cauza conexiunii slabe. Pentru ajustarea setărilor, mergeţi la Setări > Wi-Fi, meniul Avansat.</string>
      <string name="wifi_disabled_network_failure">S-a evitat o conexiune de internet slabă</string>
      <string name="wifi_disabled_password_failure">Problemă la autentificare</string>
-     <string name="wifi_disconnected_notification_summary">Nu sunteţi conectat la Wi-Fi.</string>
+     <string name="wifi_disconnected_notification_summary">Nu mai sunteţi conectat la Wi-Fi.</string>
      <string name="wifi_disconnected_notification_title">Wi-Fi deconectat</string>
      <string name="wifi_display_autonomous_go">Activare GO anonim</string>
      <string name="wifi_display_certification">Certificare Ecran wireless</string>
@@ -2955,4 +2955,5 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
      <string name="zone_auto_summaryOn">Utilizaţi fusul orar furnizat de reţea</string>
      <string name="zone_list_menu_sort_alphabetically">Sortaţi în ordine alfabetică</string>
      <string name="zone_list_menu_sort_by_timezone">Sortaţi după fusul orar</string>
+     <string name="wifi_datanetwork_switch_not_remind">Nu se afișează din nou</string>
 </resources>

@@ -33,7 +33,7 @@
      <string name="enableAll">Sincronizaţi tot</string>
      <string name="enable_cloud_service_notification">Trebuie să activați Mi Cloud</string>
      <string name="enable_find_device_error">Nu se poate opri Localizarea dispozitivului. %1$s</string>
-     <string name="enable_micloud">Înscrieți-vă sau creați un cont</string>
+     <string name="enable_micloud">Utilizaţi Mi Cloud</string>
      <string name="enable_sync">Activaţi</string>
      <string name="enable_sync_dspt">Sincronizare dezactivată</string>
      <string name="error_data_in_transfer">Sincronizarea se va finaliza peste %s ore.</string>
