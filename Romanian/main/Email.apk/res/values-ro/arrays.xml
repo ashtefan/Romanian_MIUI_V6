@@ -1,55 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="general_preference_text_zoom_summary_array">
+     <string-array name="compose_modes">
+        <item>Răspundeţi</item>
+        <item>Răspundeţi la toate</item>
+        <item>Redirecţionaţi</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
         <item>Text foarte mic</item>
         <item>Text mic</item>
         <item>Text de dimensiuni normale</item>
         <item>Text mare</item>
         <item>Text foarte mare</item>
-    </string-array>
-   <string-array name="compose_modes">
-        <item>Răspundeţi</item>
-        <item>Răspundeţi la toate</item>
-        <item>Redirecţionaţi</item>
-    </string-array>
-    <string-array name="sync_status">
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>Prestabilit</item>
+        <item>Format</item>
+        <item>Nume</item>
+        <item>Expeditor</item>
+        <item>Dată</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Utilizate frecvent</item>
+        <item>Toate dosarele</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Noi</item>
+        <item>Vechi</item>
+        <item>Lista conversaţiilor</item>
+     </string-array>
+     <string-array name="prefEntries_removal_action">
+        <item>Afișaţi doar opţiunea Arhivaţi</item>
+        <item>Afișaţi doar opţiunea Ştergeţi</item>
+        <item>Afișaţi doar opţiunea Arhivaţi şi Ştergeţi</item>
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
+        <item>Afișaţi conversaţiile noi după ce ștergeți</item>
+        <item>Afișaţi conversaţiile vechi după ce ștergeți</item>
+        <item>Afișaţi lista conversaţiilor după ce ștergeți</item>
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
+        <item>Afișaţi doar opţiunea Arhivaţi</item>
+        <item>Afișaţi doar opţiunea Ştergeţi</item>
+        <item>Afișaţi doar opţiunea Arhivaţi şi Ştergeţi</item>
+     </string-array>
+     <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>mobile:</item>
+        <item>Phone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
+        <item>Adresă:</item>
+        <item>Tel:</item>
+        <item>Nume:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Cod poştal:</item>
+     </string-array>
+     <string-array name="signature_special_string_array">
+        <item>Disclaimer:</item>
+        <item>Email Disclaimer</item>
+        <item>Sent via WPSMail</item>
+        <item>Sent from</item>
+        <item>Sent with</item>
+        <item>Thanks,</item>
+        <item>Best Regards</item>
+     </string-array>
+     <string-array name="signature_special_string_array_next">
+        <item>Thanks,</item>
+        <item>Best Regards</item>
+        <item>Sent from my</item>
+        <item>Original email</item>
+        <item>Sent from my</item>
+        <item>Sent from</item>
+        <item>From</item>
+        <item>This email</item>
+        <item>Disclaimer</item>
+        <item>Email Disclaimer</item>
+     </string-array>
+     <string-array name="sync_status">
         <item>Reuşită</item>
         <item>Nicio conexiune</item>
         <item>Imposibil de conectat</item>
         <item>Eroare de securitate</item>
         <item>Imposibil de sincronizat</item>
         <item>Eroare internă</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>Sistem</item>
-        <item>Utilizate frecvent</item>
-        <item>Toate dosarele</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Noi</item>
-        <item>Vechi</item>
-        <item>Lista conversaţiilor</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Afișaţi conversaţiile noi după ce ștergeți</item>
-        <item>Afișaţi conversaţiile vechi după ce ștergeți</item>
-        <item>Afișaţi lista conversaţiilor după ce ștergeți</item>
-    </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Afișaţi doar opţiunea Arhivaţi</item>
-        <item>Afișaţi doar opţiunea Ştergeţi</item>
-        <item>Afișaţi doar opţiunea Arhivaţi şi Ştergeţi</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Afișaţi doar opţiunea Arhivaţi</item>
-        <item>Afișaţi doar opţiunea Ştergeţi</item>
-        <item>Afișaţi doar opţiunea Arhivaţi şi Ştergeţi</item>
-    </string-array>
-    <string-array name="menu_att_mgr_sort_string_array">
-        <item>Prestabilit</item>
-        <item>Format</item>
-        <item>Nume</item>
-        <item>Expeditor</item>
-        <item>Dată</item>
-    </string-array>
+     </string-array>
 </resources>
