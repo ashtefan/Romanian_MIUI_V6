@@ -47,9 +47,9 @@
      <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
-        <item>Email:</item>
-        <item>mobile:</item>
-        <item>Phone:</item>
+        <item>E-mail:</item>
+        <item>mobil:</item>
+        <item>Telefon:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
@@ -72,25 +72,25 @@
         <item>Cod poştal:</item>
      </string-array>
      <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
-        <item>Email Disclaimer</item>
-        <item>Sent via WPSMail</item>
-        <item>Sent from</item>
-        <item>Sent with</item>
-        <item>Thanks,</item>
-        <item>Best Regards</item>
+        <item>Act de renunțare:</item>
+        <item>Act de renunțare e-mail</item>
+        <item>Trimis prin WPSMail</item>
+        <item>Trimis de la</item>
+        <item>Trimis cu</item>
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
      </string-array>
      <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
+        <item>Trimis de la</item>
+        <item>E-mail original</item>
+        <item>Trimis de la</item>
+        <item>Trimis de la</item>
+        <item>De la</item>
+        <item>Acest e-mail</item>
+        <item>Act de renunțare</item>
+        <item>Act de renunțare e-mail</item>
      </string-array>
      <string-array name="sync_status">
         <item>Reuşită</item>
