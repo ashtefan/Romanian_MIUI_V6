@@ -128,7 +128,7 @@
      <string name="is_setting_wallpaper_toast">Setare imagine de fundal…</string>
      <string name="is_system_wallpaper_message">Nu se pot șterge resurse de sistem</string>
      <string name="loading_desktop">Încărcare lansator…</string>
-     <string name="local_wallpaper">Descărcată</string>
+     <string name="local_wallpaper">Descărcate</string>
      <string name="lock_screen_failed_message">Aplicare eşuată</string>
      <string name="lock_screen_success_message">Aplicată</string>
      <string name="menu_add">Adăugaţi</string>
@@ -159,7 +159,7 @@
      <string name="permlab_read_settings">Citeşte setări ale Paginii de pornire şi comenzilor rapide</string>
      <string name="permlab_uninstall_shortcut">Dezinstalează comenzi rapide</string>
      <string name="permlab_write_settings">Scrie setări şi comenzi rapide pentru Ecranul de pornire</string>
-     <string name="photo_adjust">Previzualizaţi</string>
+     <string name="photo_adjust">Previzualizare</string>
      <string name="photo_confirm">Aplicaţi</string>
      <string name="photo_load_failed">Încărcarea fotografiei a eşuat</string>
      <string name="pref_cell_layout_size">Aspect pictograme</string>
