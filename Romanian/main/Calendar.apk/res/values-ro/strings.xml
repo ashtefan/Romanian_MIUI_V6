@@ -118,8 +118,8 @@
      <string name="empty_event">Evenimentul gol nu s-a creat</string>
      <string name="enter_calendar">În calendar</string>
      <string name="event_account">Cont</string>
-     <string name="event_action_delete">Delete</string>
-     <string name="event_action_edit">Edit</string>
+     <string name="event_action_delete">Ştergeţi</string>
+     <string name="event_action_edit">Editaţi</string>
      <string name="event_all_day_label">Toată ziua</string>
      <string name="event_create">Eveniment nou</string>
      <string name="event_date_format">d/MM</string>
