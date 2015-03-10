@@ -36,7 +36,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
      <string name="install_failed_system_incompatible">Această aplicaţie nu este compatibilă cu MIUI</string>
      <string name="install_failed_verify_failed">Pachetul nu a trecut de verificare şi nu pot fi instalat.</string>
      <string name="install_failed_verify_timeout">La verificarea pachetului timpul limită a expirat.</string>
-     <string name="installing">Instalare…</string>
+     <string name="installing">Se instalează…</string>
      <string name="launch">Deschideţi</string>
      <string name="lift_ban">Dezactivaţi interdicţia</string>
      <string name="low_risk_perms">Permisiuni cu risc scăzut</string>
@@ -83,7 +83,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
      <string name="uninstall_failed_retained_app_msg">Această aplicație a fost modificată și nu poate fi dezinstalată în forma sa actuală</string>
      <string name="uninstall_update_text">Această aplicaţie vaf fi înlocuită cu versiune MIUI</string>
      <string name="uninstall_update_title">Dezinstalaţi actualizarea</string>
-     <string name="uninstalling">Dezinstalare…</string>
+     <string name="uninstalling">Se dezinstalează…</string>
      <string name="unknown">Necunoscut</string>
      <string name="unknown_apps_dlg_text">"Din motive de securitate, telefonul dvs. nu permite instalarea aplicaţiilor obţinute din surse necunoscute. Nu putem garanta siguranța sau validitatea oricărei din aplicațiile pe care le descărcați din surse necunoscute. Vă asumaţi întreaga responsabilitate pentru orice daune sau pierderi ulterioare.
 
