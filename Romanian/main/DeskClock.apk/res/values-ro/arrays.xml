@@ -46,8 +46,8 @@
      <string-array name="cities_names_miui">
         <item>Abidjan</item>
         <item>Accra</item>
-        <item>Addis Ababa</item>
-        <item>Algiers</item>
+        <item>Addis Abeba</item>
+        <item>Alger</item>
         <item>Blantyre</item>
         <item>Brazzaville</item>
         <item>Cairo</item>
@@ -146,13 +146,13 @@
         <item>Amman</item>
         <item>Anadyr</item>
         <item>Aqtau</item>
-        <item>Baghdad</item>
+        <item>Bagdad</item>
         <item>Bahrain</item>
         <item>Baku</item>
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Damasc</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
@@ -160,12 +160,12 @@
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
         <item>Jakarta</item>
-        <item>Jerusalem</item>
+        <item>Ierusalim</item>
         <item>Kabul</item>
         <item>Karachi</item>
         <item>Kathmandu</item>
         <item>Kuala Lumpur</item>
-        <item>Kuwait</item>
+        <item>Kuweit</item>
         <item>Macau</item>
         <item>Manila</item>
         <item>Muscat</item>
@@ -175,7 +175,7 @@
         <item>Rangoon</item>
         <item>Riyadh</item>
         <item>Saigon</item>
-        <item>Seoul</item>
+        <item>Seul</item>
         <item>Shanghai</item>
         <item>Singapore</item>
         <item>Taipei</item>
@@ -185,7 +185,7 @@
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
         <item>Canary</item>
-        <item>Cape Verde</item>
+        <item>Capul Verde</item>
         <item>Reykjavik</item>
         <item>Stanley</item>
         <item>Adelaide</item>
@@ -205,32 +205,32 @@
         <item>Andorra</item>
         <item>Athens</item>
         <item>Belfast</item>
-        <item>Belgrade</item>
+        <item>Belgrad</item>
         <item>Berlin</item>
         <item>Bratislava</item>
-        <item>Brussels</item>
-        <item>Bucharest</item>
-        <item>Budapest</item>
-        <item>Chisinau</item>
-        <item>Copenhagen</item>
+        <item>Bruxelles</item>
+        <item>Bucureşti</item>
+        <item>Budapesta</item>
+        <item>Chişinău</item>
+        <item>Copenhaga</item>
         <item>Dublin</item>
         <item>Gibraltar</item>
         <item>Helsinki</item>
         <item>Isle of Man</item>
         <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
+        <item>Lisabona</item>
+        <item>Londra</item>
         <item>Luxembourg</item>
         <item>Madrid</item>
         <item>Malta</item>
         <item>Minsk</item>
         <item>Monaco</item>
-        <item>Moscow</item>
+        <item>Moscova</item>
         <item>Oslo</item>
         <item>Paris</item>
-        <item>Prague</item>
+        <item>Praga</item>
         <item>Riga</item>
-        <item>Rome</item>
+        <item>Roma</item>
         <item>San Marino</item>
         <item>Sarajevo</item>
         <item>Simferopol</item>
@@ -241,11 +241,11 @@
         <item>Vatican</item>
         <item>Vienna</item>
         <item>Vilnius</item>
-        <item>Warsaw</item>
+        <item>Varșovia</item>
         <item>Zagreb</item>
         <item>Zurich</item>
         <item>Antananarivo</item>
-        <item>Maldives</item>
+        <item>Maldive</item>
         <item>Mauritius</item>
         <item>Auckland</item>
         <item>Fiji</item>
@@ -304,7 +304,7 @@
         <item>Lahore</item>
         <item>"Sana'a"</item>
         <item>Barcelona</item>
-        <item>Munich</item>
+        <item>Munchen</item>
         <item>Milan</item>
         <item>Frankfurt</item>
         <item>Hanoi</item>
@@ -330,9 +330,9 @@
         <item>Salvador</item>
         <item>Gurgaon</item>
         <item>Manchester</item>
-        <item>Kyiv</item>
+        <item>Kiev</item>
         <item>St. Petersburg</item>
-        <item>Kraków</item>
+        <item>Cracovia</item>
         <item>Wroclaw</item>
         <item>Hamburg</item>
         <item>Oulu</item>
