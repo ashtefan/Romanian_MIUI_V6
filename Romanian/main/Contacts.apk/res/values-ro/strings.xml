@@ -462,7 +462,7 @@ Motivul: „%s”"</string>
      <string name="keep_local_btn">Utilizaţi stocarea internă a telefonului</string>
      <string name="label_custom_type">Personalizat</string>
      <string name="label_duplicate_count">(%1$d)</string>
-     <string name="label_no_duplicate_contacts">Niciun contact dublatat</string>
+     <string name="label_no_duplicate_contacts">Niciun contact duplicat</string>
      <string name="label_notes">Note</string>
      <string name="label_sip_address">Apel prin internet</string>
      <string name="launcherDialer">Telefon</string>
