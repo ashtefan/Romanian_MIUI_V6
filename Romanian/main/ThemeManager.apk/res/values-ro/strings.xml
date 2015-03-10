@@ -76,7 +76,7 @@
      <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
      <string name="loading_resource_detail_info">Încărcare…</string>
      <string name="lockscreen_wallpaper">Blocare ecran</string>
-     <string name="lockstyle_personal_settings">Personalizaţi</string>
+     <string name="lockstyle_personal_settings">Personalizare</string>
      <string name="long_ringtone_resource">Lungi</string>
      <string name="mi_wallpaper">Imagini de fundal MIUI</string>
      <string name="my_gifts">Cadouri</string>
@@ -306,7 +306,7 @@
      <string name="theme_fresh_man_notifaction">Noi teme disponibile</string>
      <string name="theme_immediately_apply_tip">Aplicaţi actualizarea temei acum?</string>
      <string name="theme_import_from_sdcard">Importaţi de pe cardul SD</string>
-     <string name="theme_multiple_button_title_customize">Personalizaţi</string>
+     <string name="theme_multiple_button_title_customize">Personalizare</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Nu</string>
      <string name="theme_purchased_list_empty">Nu ați achiziționat nicio temă.</string>
