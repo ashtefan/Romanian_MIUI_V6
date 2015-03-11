@@ -71,7 +71,7 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="copy">Copiere</string>
     <string name="paste">Inserare</string>
     <string name="replace">Înlocuire</string>
-    <string name="alwaysUsePrompt">Reține această alegere</string>
+    <string name="alwaysUsePrompt">Se memorizează această alegere</string>
     <string name="call_record_sample_prefix_miui">Apel</string>
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
     <string name="unknown_caller">Număr necunoscut</string>
