@@ -26,7 +26,7 @@
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
     <string name="status_bar_toggle_paper_mode">Mod lectură</string>
-    <string name="status_bar_toggle_sync_auto">Sinccronizare</string>
+    <string name="status_bar_toggle_sync_auto">Sincronizare</string>
     <string name="status_bar_toggle_sync_manual">Sincronizare</string>
     <string name="status_bar_toggle_syncing">Sincronizare</string>
     <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
@@ -38,7 +38,7 @@
     <string name="reboot_progress">Repornire…</string>
     <string name="memory_clear_result">%1$s goliţi | %2$s disponibili</string>
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
-    <string name="device_xiaomi">Mi Phone</string>
+    <string name="device_xiaomi">Telefon Mi</string>
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
     <string name="miui_device_name">Android</string>
@@ -60,11 +60,11 @@
 
 Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="force_exit_message">%1$s a fost oprit(ă)</string>
-    <string name="force_exit_skip_message">"Nu se poate opri %1$s deoarece este necesar(ă) pentru sistem."</string>
+    <string name="force_exit_skip_message">Nu se poate opri %1$s deoarece este necesar(ă) pentru sistem.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
-    <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butonul Acasă și Alimentare simultan.</string>
-    <string name="perm_send_push_dspt">Se permit mesaje push Mi</string>
-    <string name="perm_send_push_lab">Trimitere mesaj push</string>
+    <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butonul Domiciliu și Alimentare simultan.</string>
+    <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>
+    <string name="perm_send_push_lab">Trimitere mesaj de tip push</string>
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="cut">Decupare</string>
@@ -82,9 +82,9 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="caller_info_name_delimiter">" sau "</string>
     <string name="sim_added_reboot_title">Cardul SIM se va activa după ce reporniți dispozitivul.</string>
     <string name="sim_added_reboot_confirm">Repornire</string>
-    <string name="yellow_page_unable_send_sms">Nu se poate trimite SMS-ul</string>
+    <string name="yellow_page_unable_send_sms">Nu se poate trimite mesajul SMS</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
-    <string name="yellow_page_sms_send_failed">Nu se poate trimite SMS-ul</string>
+    <string name="yellow_page_sms_send_failed">Nu se poate trimite mesajul</string>
     <string name="yellow_page_sms_sending">Trimitere…</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">Nu se pot trimite mesaje în modul Vizitator</string>
     <string name="group_name_contacts">Contacte</string>
@@ -96,7 +96,7 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="auto_start_warning_deny">Refuzaţi</string>
     <string name="key_btn_space">Spaţiu</string>
     <string name="key_btn_ok">OK</string>
-    <string name="no_notification_tips">Nicio notificare.</string>
+    <string name="no_notification_tips">Nicio notificare</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="maml_component_customization_title">Setări</string>
