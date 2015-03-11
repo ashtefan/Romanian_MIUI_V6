@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="about_fraud_num_online_identification">About block telemarketers</string>
      <string name="about_smart_antispam_summary">Despre această caracteristică</string>
@@ -204,11 +203,7 @@ Please check your tracking number."</string>
      <string name="mark_title_null_hint">Trebuie să introduceți o etichetă</string>
      <string name="menu_add_black_list">Adăugaţi în lista de blocare</string>
      <string name="menu_add_to_favorite">Add to favorites</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Dial IP call -->
-     <string name="menu_call_ip_number">Apel IP (apelare %s)</string>
+     <string name="menu_call_ip_number">Apel IP</string>
      <string name="menu_copy_text">Copiaţi în clipboard</string>
      <string name="menu_correct_yellow_page">Report an issue</string>
      <string name="menu_delete_call_log">Ştergeţi jurnalul apelurilor</string>
