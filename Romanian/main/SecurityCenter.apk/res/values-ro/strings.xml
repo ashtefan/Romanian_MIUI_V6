@@ -320,8 +320,8 @@
      <string name="menu_item_shortcut_summary">Plasaţi caracteristici pe ecranul de pornire</string>
      <string name="menu_item_shortcut_title">Gestiune comenzi rapide</string>
      <string name="menu_item_uninstall">Dezinstalaţi</string>
-     <string name="menu_item_virus_cloud_scan_summary">Încărcați numele şi detaliile aplicaţiilor și scanaţi utilizând definiții de viruși on-line</string>
-     <string name="menu_item_virus_cloud_scan_title">Utilizați definiţii viruşi on-line</string>
+     <string name="menu_item_virus_cloud_scan_summary">Se încarcă denumirile şi detaliile aplicaţiilor și se scanează utilizând definiții de viruși on-line</string>
+     <string name="menu_item_virus_cloud_scan_title">Utilizare definiţii de viruşi on-line</string>
      <string name="menu_item_virus_install_monitor_summary">Se verifică aplicațiile pentru viruși înainte de instalare</string>
      <string name="menu_item_virus_install_monitor_title">Scanare aplicații înainte de instalare</string>
      <string name="menu_item_virus_lib_auto_update_summary">Actualizat pe %s</string>
@@ -543,7 +543,7 @@
      <string name="pref_category_title_module_settings">Setări module</string>
      <string name="pref_category_title_other_clean_settings">Setări adiţionale</string>
      <string name="pref_category_title_reference_settings">Setări adiţionale</string>
-     <string name="pref_category_title_securitycenter_settings">General</string>
+     <string name="pref_category_title_securitycenter_settings">Generale</string>
      <string name="pref_category_title_virus_lib_auto_update">Definiţii de viruşi</string>
      <string name="pref_content_cleanup_white_list_none">Nimic</string>
      <string name="pref_summary_auto_clean_and_alert">Setaţi curăţarea automată</string>
@@ -555,7 +555,7 @@
      <string name="pref_summary_garbage_cleanup_check_time">Programarea unei rutine de curăţat</string>
      <string name="pref_summary_garbage_process_mode">Setaţi notificări pentru curăţare în curs</string>
      <string name="pref_summary_lock_screen_memory_clean">Curățare automată atunci când dispozitivul dvs. este blocat</string>
-     <string name="pref_summary_open_optimizer_cloud_scan">Încărcați și comparați numele de fișiere necunoscute cu definiții on-line</string>
+     <string name="pref_summary_open_optimizer_cloud_scan">Se încarcă și se compară denumirile fișierelor necunoscute cu definițiile on-line</string>
      <string name="pref_title_auto_clean_and_alert">Curăţare automată</string>
      <string name="pref_title_auto_clean_content_choose">Selectaţi elementele pentru curățare</string>
      <string name="pref_title_auto_update_cleanup_db">Actualizare automată</string>
@@ -567,7 +567,7 @@
      <string name="pref_title_garbage_process_mode">Notificări</string>
      <string name="pref_title_lock_screen_memory_clean">Curăţare la blocarea ecranului</string>
      <string name="pref_title_manual_check_cleanup_db_update">Verificare pentru actualizări</string>
-     <string name="pref_title_open_optimizer_cloud_scan">Încărcaţi</string>
+     <string name="pref_title_open_optimizer_cloud_scan">Încărcare</string>
      <string name="process_kernel_label">Sistem de operare Android</string>
      <string name="process_mediaserver_label">Server media</string>
      <string name="protection_category_dangerous_title">Riscuri (%d)</string>
@@ -672,7 +672,7 @@
      <string name="title_telecom_operator">Utilizare contabilizare operator</string>
      <string name="title_usb_no">Depanare USB dezactivată</string>
      <string name="title_usb_yes">Depanare USB activată</string>
-     <string name="title_virus_cloudscan">Utilizați definiții de viruși on-line</string>
+     <string name="title_virus_cloudscan">Utilizare definiții de viruși on-line</string>
      <string name="title_virus_no">Au fost găsiţi viruşi</string>
      <string name="title_virus_update_no">Actualizare automată definiții viruși dezactivată</string>
      <string name="title_virus_update_yes">Actualizare automată definiții viruși activată</string>
@@ -700,8 +700,8 @@
      <string name="toast_virus_in_cloud_scanning">Nu se poate opri scanarea în nor</string>
      <string name="uninstall_confirm_title">Dezinstalați această aplicație</string>
      <string name="usage_type_audio">Audio</string>
-     <string name="usage_type_cpu">Procesor total</string>
-     <string name="usage_type_cpu_foreground">Procesor în prim plan</string>
+     <string name="usage_type_cpu">Procesor utilizat în total</string>
+     <string name="usage_type_cpu_foreground">Procesor utilizat în prim-plan</string>
      <string name="usage_type_data_recv">Date primite</string>
      <string name="usage_type_data_send">Date trimise</string>
      <string name="usage_type_data_wifi_recv">Date Wi-Fi primite</string>
