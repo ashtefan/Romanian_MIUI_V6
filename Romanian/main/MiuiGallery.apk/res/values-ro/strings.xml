@@ -58,10 +58,10 @@
      <string name="auto_create_recent_album">Creare automată albume favorite</string>
      <string name="auto_create_recent_album_confirm">Galeria va șterge datele albumelor favorite. Favoritele marcate manual nu vor fi afectate.</string>
      <string name="auto_create_recent_album_over_ten_times">Un album va fi marcat ca Favorit automat după ce va fi deschis de mai mult de 10 ori</string>
-     <string name="auto_upload_album_comfirm_to_share">Acest album va fi încărcat în mod automat.</string>
-     <string name="auto_upload_guide_msssage">" "<Data> Încărcare automată a fotografiilor de la alte aplicații în MI Cloud. Vizualizaţi setările în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Încărcare automată&lt;/b>&lt;/font>. </Data>" "</string>
-     <string name="auto_upload_guide_title">Încărcare automată</string>
-     <string name="auto_upload_title">Încărcare automată</string>
+     <string name="auto_upload_album_comfirm_to_share">Acest album va fi sincronizat în mod automat.</string>
+     <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa, sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
+     <string name="auto_upload_guide_title">Sincronizare fotografii cu Mi Cloud</string>
+     <string name="auto_upload_title">Sincronizare automată</string>
      <string name="autofix">Reparare automată</string>
      <string name="autohomemain">Autohomemain</string>
      <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
@@ -83,7 +83,7 @@
      <string name="camera_view_none_message">Imaginile şi videoclipurile captate cu aplicaţia Cameră se vor afişa aici.</string>
      <string name="cancel">Anulaţi</string>
      <string name="cancel_hint">Operaţiune anulată</string>
-     <string name="cannot_delete_sharer_photo">Imposibil de şters %s (de) elemente încărcate de alţi membri.</string>
+     <string name="cannot_delete_sharer_photo">Imposibil de şters %s (de) elemente adăugate de alţi membri.</string>
      <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
      <string name="cannot_send_message">Imposibil de trimis mesajul</string>
      <string name="cannot_send_message_reason">Niciun destinatar valid</string>
@@ -173,7 +173,7 @@
      <string name="documentary">Documentar</string>
      <string name="done">Terminat</string>
      <string name="doodle">Mâzgălitură</string>
-     <string name="doodle_tooltip">Atingeţi fotografia pentru mâzgălitură</string>
+     <string name="doodle_tooltip">Atingeţi pentru mâzgălitură</string>
      <string name="download">Descărcaţi</string>
      <string name="download_fail">Descărcare eşuată</string>
      <string name="download_fail_confirm_continue">Descărcarea %s a eşuat. Continuaţi?</string>
@@ -234,13 +234,13 @@
      <string name="frame_semicircle">Semicerc</string>
      <string name="frame_white">Alb</string>
      <string name="free">Gratuit</string>
-     <string name="gallery_cloud_provider_name">Albume</string>
+     <string name="gallery_cloud_provider_name">Fotografii Mi Cloud</string>
      <string name="gallery_setting">Galerie</string>
      <string name="get_album_info_in_process">Obţinere informaţii album…</string>
      <string name="global_setting">Setări</string>
      <string name="go_setting">Vizualizaţi setările</string>
      <string name="grain">Zgomot</string>
-     <string name="grayscale">Alb/negru</string>
+     <string name="grayscale">Nuanțe de gri</string>
      <string name="group_by">Grupate după</string>
      <string name="group_by_album">După album</string>
      <string name="group_by_faces">După persoane</string>
@@ -251,7 +251,7 @@
      <string name="height">Înălţime</string>
      <string name="highlight">Luminozitate</string>
      <string name="home_my_captured_items">" fotografii"</string>
-     <string name="home_page_tab_cloud">Nor</string>
+     <string name="home_page_tab_cloud">Mi Cloud</string>
      <string name="home_page_tab_local">Locale</string>
      <string name="home_page_tab_photo">Fotografii</string>
      <string name="image_download_item_title">Descărcaţi fişierul (%s)</string>
@@ -360,7 +360,7 @@
      <string name="open_public_message">Generaţi un URL pentru a-l partaja cu prietenii dvs.</string>
      <string name="open_public_title">Partajaţi public</string>
      <string name="open_single_image_failure">Încărcarea imaginii a eşuat</string>
-     <string name="open_sync_title">Activaţi sincronizarea</string>
+     <string name="open_sync_title">Sincronizare cu Mi Cloud</string>
      <string name="operation_add_picture">Adăugaţi fotografii</string>
      <string name="operation_add_secret">Adăugaţi în album ascuns</string>
      <string name="operation_delete_confirm_message_folder">"Dosarele şi fişierele din el vor fi, de asemenea, şterse. "</string>
@@ -391,9 +391,9 @@
      <string name="photo_page_save_image">Salvaţi</string>
      <string name="photo_page_save_uri_image_fail">Salvare eşuată</string>
      <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Fotografii</string>
-     <string name="photo_paint_adjust">Adjustare</string>
+     <string name="adjust">Ajustare</string>
      <string name="photo_paint_crop">Decupare</string>
-     <string name="photo_paint_effect">Efect</string>
+     <string name="effect">Efect</string>
      <string name="photo_size">Dimensiune</string>
      <string name="photoeditor_name">Foto Studio</string>
      <string name="photos">Fotografii</string>
@@ -442,7 +442,7 @@
      <string name="retry_to_request_qr_code">Reîncercaţi</string>
      <string name="rotate">Rotire</string>
      <string name="rotate_tooltip">Trageţi fotografia pentru a roti</string>
-     <string name="same_name_album_exists_alert">Fotografiile vor fi încărcate într-un album existent cu același nume.</string>
+     <string name="same_name_album_exists_alert">Fotografiile vor fi adăugate într-un album existent cu același nume.</string>
      <string name="saturation">Saturaţie</string>
      <string name="save">Salvaţi</string>
      <string name="save_error">Nu se poate salva imaginea trunchiată</string>
@@ -460,7 +460,7 @@
      <string name="seconds">" secunde"</string>
      <string name="secret_album_display_name">Album secret</string>
      <string name="select_all">Selectaţi tot</string>
-     <string name="select_auto_upload_albums">Selectaţi albume pentru încărcare</string>
+     <string name="select_auto_upload_albums">Selectaţi albumele pentru sincronizare</string>
      <string name="select_image">Selectaţi o fotografie</string>
      <string name="select_item">Mod editare</string>
      <string name="select_too_much_to_send_tips">Nu puteţi trimite aşa de multe elemente (maxim %d elemente).</string>
@@ -521,13 +521,13 @@
      <string name="sync_album_error">Nu s-au putut sincroniza fotografiile în acest album. Verificaţi conexiunea de date şi încercați din nou.</string>
      <string name="sync_album_in_proecess">Sincronizare album…</string>
      <string name="sync_album_set_error">Nu s-a putut sincroniza aceste albume. Verificaţi conexiunea de date şi încercați din nou.</string>
-     <string name="sync_album_summary">Încărcaţi fotografiile şi capturile ecranului în Mi Cloud</string>
+     <string name="sync_album_summary">Sincronizare cu Mi Cloud</string>
      <string name="sync_history_power_on">Sincronizaţi istoricul imaginilor doar atunci când telefonul se încarcă</string>
      <string name="sync_in_progress_message">Sincronizare…</string>
-     <string name="sync_only_in_wifi">Încărcaţi doar prin Wi-Fi</string>
+     <string name="sync_only_in_wifi">Sincronizaţi doar prin Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Dezactivarea acestei opțiuni poate crește utilizarea datelor mobile.</string>
-     <string name="sync_only_in_wifi_summary">Galeria va utiliza rețeaua mobilă pentru a încărca imagini atunci când această opțiune este dezactivată</string>
-     <string name="sync_third_party_app_pic_summary">Se încarcă fotografiile din unele dosare în nor în mod automat</string>
+     <string name="sync_only_in_wifi_summary">Nu se utilizează niciodată datele mobile pentru a sincroniza fotografiile</string>
+     <string name="sync_third_party_app_pic_summary">Se sincronizează fotografiile din alte aplicaţii în Mi Cloud</string>
      <string name="system_album">Album de sistem</string>
      <string name="tab_all_text">Setaţi ambele</string>
      <string name="tab_lockscreen_text">Fundal blocare ecran</string>
@@ -584,35 +584,32 @@
      <string name="yes">Da</string>
      <string name="yunyi_pocket_camera">Pocket Camera</string>
      <string name="early_bird">Brannan</string>
-     <string name="brannan">EarlyBird</string>
+     <string name="brannan">Dimineață</string>
      <string name="cool">​Cool</string>
-     <string name="rise">Rise</string>
-     <string name="cool_portrait">CoolPortrait</string>
+     <string name="rise">Răsărit</string>
+     <string name="cool_portrait">Portret</string>
      <string name="old">​Old</string>
-     <string name="camera_black_white">cameraBlackWhite</string>
-     <string name="black_white">BlackWhite</string>
+     <string name="camera_black_white">Alb-negru</string>
+     <string name="black_white">Alb-negru</string>
      <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
      <string name="home_page_tab_face">Chip</string>
      <string name="photo_save_succeed">Salvat cu succes</string>
-     <string name="face_album">Album feţe</string>
-     <string name="face_albumset_use_tip">"Ajutor pentru a găsi acele chipuri frumoase，
-ceea ce face simplu vizualizarea și gestionarea imaginilor"</string>
-    <string name="face_albumset_detecting_tip">"Detectare chipuri...
-albumele cu chipuri vor fi disponibile în curând"</string>
-    <string name="face_albumset_empty">"Nu au fost detectate chipuri
-încercați să faceţi mai multe fotografii"</string>
-     <string name="start_to_use_face_albumset">Începeţi să utilizaţi albumele cu chipuri</string>
+     <string name="face_album">Persoane</string>
+     <string name="face_albumset_use_tip">Utilizați detectarea feței pentru a sorta fotografiile după persoanele care sunt în ele</string>
+    <string name="face_albumset_detecting_tip">Doar o secundă…</string>
+    <string name="face_albumset_empty">Gol</string>
+     <string name="start_to_use_face_albumset">Sortare după persoane</string>
      <string name="face_album_not_named">Fără nume</string>
      <string name="rename_face_album">Schimbaţi numele</string>
      <string name="rename_fail_msg">Schimbare nume eşuată</string>
      <string name="merge_album_positive_button_text">Îmbinaţi</string>
-     <string name="confirm_merge_face_albums">" "<Data> Îmbinaţi acest album cu albumul &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
-     <string name="create_new_face">Chip nou</string>
-     <string name="preparing_data">Pregătire date...</string>
-     <string name="ignore_face">Ignoraţi acest chip</string>
+     <string name="confirm_merge_face_albums">" "<Data> Îmbinaţi acest album cu &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+     <string name="create_new_face">Persoană nouă</string>
+     <string name="preparing_data">Doar o secundă…</string>
+     <string name="ignore_face">Ignoraţi această persoană</string>
      <string name="who_is_this">Cine este aceasta?</string>
      <string name="view_face_album">Vizualizaţi albumul</string>
      <string name="name_wrong">Nu este %s</string>
-     <string name="face_album_rename_hint">Introduceţi un nume</string>
-     <string name="face_move_dialog_title">Selectaţi un album cu chipuri</string>
+     <string name="face_album_rename_hint">Introduceţi numele</string>
+     <string name="face_move_dialog_title">Selectaţi un album</string>
 </resources>

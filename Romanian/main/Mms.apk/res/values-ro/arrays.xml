@@ -83,6 +83,6 @@
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maxim</item>
-        <item>Două zile</item>
+        <item>2 zile</item>
     </string-array>
 </resources>

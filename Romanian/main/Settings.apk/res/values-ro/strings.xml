@@ -613,7 +613,7 @@ Activați ferestrele plutitoare?"</string>
 Criptarea poate dura cel puţin o oră. Trebuie să începeţi cu un acumulator încărcat şi să ţineţi telefonul conectat până la finalizarea criptării. Întreruperea procesului de criptare poate duce la pierderea tuturor datelor sau a unor părţi din acestea."</string>
      <string name="crypt_keeper_dialog_need_password_message">Trebuie să setaţi un cod PIN sau o parolă pentru blocarea ecranului înainte de a începe criptarea.</string>
      <string name="crypt_keeper_dialog_need_password_title">Nu există un cod PIN sau o parolă pentru blocarea ecranului</string>
-     <string name="crypt_keeper_encrypt_summary">Necesită un cod PIN numeric sau o parolă de decriptare a telefonului la fiecare pornire a acestuia</string>
+     <string name="crypt_keeper_encrypt_summary">Necesită o parolă numerică, sau o parolă amestecată pentru decriptarea telefonului dvs. la fiecare pornire a acestuia</string>
      <string name="crypt_keeper_encrypt_title">Criptaţi telefonul</string>
      <string name="crypt_keeper_encrypted_summary">Criptat</string>
      <string name="crypt_keeper_enter_password">Introduceţi parola</string>
@@ -781,7 +781,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
      <string name="dialog_content_login">Vă conectaţi la contul dvs. Mi pentru a actualiza?</string>
      <string name="dialog_no">Nu</string>
      <string name="dialog_title_color_calibration">Presetare corecţie culoare</string>
-     <string name="dialog_title_font_size">Dimensiune font</string>
+     <string name="dialog_title_font_size">Dimensiune text</string>
      <string name="dialog_title_hdmi_color_calibration">Presetare corecţie culoare</string>
      <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
      <string name="dialog_yes">Da</string>
@@ -1854,8 +1854,8 @@ Atenţie: această operație nu poate fi anulată."</string>
      <string name="ringtone_title">Ton de apel</string>
      <string name="ringtone_uniform_setting_title">Setări Dual SIM</string>
      <string name="roaming">Roaming de date</string>
-     <string name="roaming_disable">Conectaţi-vă la serviciile de date în roaming</string>
-     <string name="roaming_enable">Conectaţi-vă la servicii de date în roaming</string>
+     <string name="roaming_disable">Utilizaţi datele mobile în roaming</string>
+     <string name="roaming_enable">Utilizaţi datele mobile în roaming</string>
      <string name="roaming_reenable_message">Aţi pierdut conectivitatea la date deoarece aţi părăsit reţeaua de domiciliu neavând activat roamingul.</string>
      <string name="roaming_reenable_title">Permiteţi roamingul de date?</string>
      <string name="roaming_turn_it_on_button">Activaţi</string>
@@ -2257,7 +2257,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
      <string name="title_dolby_control">Dolby digital plus</string>
      <string name="title_font">Font</string>
      <string name="title_font_current">Se utilizează</string>
-     <string name="title_font_size">Dimensiune font</string>
+     <string name="title_font_size">Dimensiune text</string>
      <string name="title_hdmi_color_calibration">Presetare corecţie culoare</string>
      <string name="title_layout_current">Selectaţi dimensiunea fontului</string>
      <string name="title_local_resource">Resurse locale</string>
@@ -2956,4 +2956,16 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
      <string name="zone_list_menu_sort_alphabetically">Sortaţi în ordine alfabetică</string>
      <string name="zone_list_menu_sort_by_timezone">Sortaţi după fusul orar</string>
      <string name="wifi_datanetwork_switch_not_remind">Nu se afișează din nou</string>
+     <string name="location_access_on">Activat</string>
+     <string name="location_access_off">Dezactivat</string>
+     <string name="privacy_mode_title">Permisiuni</string>
+     <string name="privacy_mode_summary">Datele de utilizator vor fi ascunse de utilizator</string>
+     <string name="device_security_settings_title">Securitate</string>
+     <string name="enable_crypt_keeper_encrypt">Activaţi criptarea</string>
+     <string name="bluetooth_unlock_state_label">Stare:</string>
+     <string name="bluetooth_unlock_state_disconnected">Deconectat</string>
+     <string name="bluetooth_unlock_state_key_error">Eroare de cheie</string>
+     <string name="bluetooth_unlock_state_too_far">Nu este suficient de aproape</string>
+     <string name="bluetooth_unlock_state_ok">Reuşit</string>
+     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
 </resources>

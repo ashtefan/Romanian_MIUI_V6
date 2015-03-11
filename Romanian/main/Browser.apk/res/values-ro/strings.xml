@@ -461,7 +461,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="pref_development_trace">Activați urmărirea</string>
      <string name="pref_development_viewport">Utilizați fereastra largă</string>
      <string name="pref_development_visual_indicator">Activați indicator vizual</string>
-     <string name="pref_enable_adblock_notification">Afişare notificări despre anunțurile blocte</string>
+     <string name="pref_enable_adblock_notification">Afişare notificări despre anunțurile blocate</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Închideți cu ultima filă</string>
      <string name="pref_extras_reset_default">Resetaţi la valorile prestabilite</string>
      <string name="pref_extras_reset_default_dlg">Restabiliţi setările la valorile prestabilite?</string>

@@ -156,7 +156,7 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">Detalii %1$s</string>
      <string name="resource_download">Descărcaţi</string>
-     <string name="resource_download_notification_content">Apăsați pentru a vizualiza.</string>
+     <string name="resource_tab_to_view">Apăsați pentru a vizualiza.</string>
      <string name="resource_download_notification_title_many">%1$s tele descărcate</string>
      <string name="resource_download_notification_title_one">Temă descărcat</string>
      <string name="resource_download_trial">Încercaţi gratuit</string>
@@ -206,7 +206,7 @@
      <string name="resource_online">%1$s on-line</string>
      <string name="resource_pack_confirm">Chiar dacă ați achiziționat deja %1$d componente din această temă, este totuşi mai ieftin, decât, dacă ați procura pachetul complet.</string>
      <string name="resource_pack_discount_info">%1$s salvat</string>
-     <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
+     <string name="resource_pack_get_auth_has_been_undercarriaged">Această temă nu mai este disponibilă.</string>
      <string name="resource_pack_price_info">%1$s original</string>
      <string name="resource_pack_warning">Ați achiziționat deja %1$d elemente din această temă. Ar fi mai ieftin, dacă ați procura restul componentelor individual.</string>
      <string name="resource_present">Cadou</string>
@@ -335,4 +335,5 @@
      <string name="wallpaper_set_as_destop">Setaţi ca imagine de fundal</string>
      <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal blocare ecran</string>
      <string name="wallpaper_settings">Setări imagine de fundal</string>
+     <string name="gift_received_notification_title">%s v-a dăruit o temă.</string>
 </resources>
