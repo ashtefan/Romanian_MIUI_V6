@@ -27,7 +27,7 @@
      <string name="cloud_space_upgrade_title">Mai mult spațiu pentru Mi Cloud</string>
      <string name="cloud_sync_setting_summary_standard">Sincronizare MMS, fotografii şi videoclipuri atunci când este conexiune Wi-Fi</string>
      <string name="cloud_sync_setting_summary_wlan">Sincronizare doar atunci când este conexiune Wi-Fi</string>
-     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs.,</string>
+     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs.</string>
      <string name="contact">Contacte</string>
      <string name="disable_find_device_error">Nu se poate opri Localizarea dispozitivului. %1$s</string>
      <string name="enableAll">Sincronizaţi tot</string>
@@ -101,7 +101,8 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
      <string name="micloud_detail_wlan">%d așteaptă sincronizarea</string>
      <string name="micloud_detail_wlan_contact">%d (de) fotografii de contact așteaptă sincronizarea</string>
      <string name="micloud_detail_wlan_mms">%d (de) mesaje MMS așteaptă sincronizarea</string>
-     <string name="micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul,</string>
+     <string name="micloud_dspt">" Utilizaţi Mi Cloud pentru a sincroniza datele,
+ pentru a localiza dispozitivul"</string>
      <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
      <string name="micloud_first_login_summary" />
      <string name="micloud_first_login_title" />
@@ -136,7 +137,7 @@ sincronizarea prin Wi-Fi"</string>
      <string name="micloud_more">Aflaţi mai multe</string>
      <string name="micloud_other_product_price">Comparaţi prețurile</string>
      <string name="micloud_proceed">Continuaţi</string>
-     <string name="micloud_sec_dspt">și partajaţi lucruri prietenilor.</string>
+     <string name="micloud_sec_dspt">și pentru a partaja lucruri prietenilor.</string>
      <string name="micloud_setting_browser_summary">Marcaje, istoric şi file</string>
      <string name="micloud_setting_contact_summary">Contacte şi fotografii de profil</string>
      <string name="micloud_setting_gallery_summary">Fotografii şi videoclipuri</string>
