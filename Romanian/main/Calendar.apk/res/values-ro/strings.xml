@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="accessibility_add_attendee">Adăugaţi participant</string>
-     <string name="accessibility_add_reminder">Adăugaţi memento</string>
+     <string name="accessibility_add_attendee">Adăugaţi un participant</string>
+     <string name="accessibility_add_reminder">Adăugaţi un memento</string>
      <string name="accessibility_all_day">Eveniment cotidian</string>
      <string name="accessibility_pick_end_date">Dată sfârşit</string>
      <string name="accessibility_pick_end_time">Până la</string>
@@ -14,7 +14,7 @@
      <string name="accessibility_reminder_type">Tip memento</string>
      <string name="accessibility_remove_attendee">Eliminaţi participantul</string>
      <string name="accessibility_remove_reminder">Eliminaţi mementoul</string>
-     <string name="accessibility_repeats">Repetiţie</string>
+     <string name="accessibility_repeats">Repetare</string>
      <string name="accessibility_sync_cal">Sincronizaţi calendarul</string>
      <string name="account_and_calendar">Cont şi calendar</string>
      <string name="account_and_calendar_to_display">Cont şi calendar de afişat</string>
@@ -75,11 +75,11 @@
 • Creaţi în siguranţă copii de rezervă pentru evenimentele dvs."</string>
      <string name="creating_event">Eveniment creat</string>
      <string name="creating_event_with_guest">Invitaţiile vor fi trimise</string>
-     <string name="cta_notice_checkbox">Numi afişa asta din nou</string>
-     <string name="cta_notice_message">\"Amintirea despre data naşterii\" în Calendar vă va aminti ziua de naștere a contactelor înainte de timp, însă va accesa contactele dvs., sunteţi de acord?</string>
+     <string name="cta_notice_checkbox">Nu se afişează din nou</string>
+     <string name="cta_notice_message">\"Notificarea despre data naşterii\" în Calendar vă va reaminti despre ziua de naștere a contactelor înainte de timp, însă va accesa contactele dvs. Sunteţi de acord?</string>
      <string name="cta_notice_ok">De accord</string>
-     <string name="cta_notice_title">Amintire</string>
-     <string name="cta_notify_settings">Aminteşte-mi la accesarea contactelor</string>
+     <string name="cta_notice_title">Notificare</string>
+     <string name="cta_notify_settings">Se notifică la accesarea contactelor</string>
      <string name="custom">Personalizat (nu se poate personaliza pe telefon)</string>
      <string name="daily">Zilnic</string>
      <string name="data_notice_change_settings">Modificare setări</string>
@@ -108,7 +108,7 @@
      <string name="edit_event_confirm_message">Renunțați la modificări?</string>
      <string name="edit_event_from_label">De la</string>
      <string name="edit_event_label">Detalii</string>
-     <string name="edit_event_reminder_off_toast">Reminders are turned off</string>
+     <string name="edit_event_reminder_off_toast">Mementourile sunt dezactivate</string>
      <string name="edit_event_show_all">Afişaţi-le pe toate</string>
      <string name="edit_event_to_label">Până la</string>
      <string name="edit_label">Editaţi</string>
@@ -167,17 +167,17 @@
      <string name="miui_chinese_week_range_single" />
      <string name="miui_menu_create_event">Nou</string>
      <string name="modify_all">Modificaţi toate evenimentele din serie</string>
-     <string name="modify_all_following">Modificaţi acest eveniment şi pe toate cele viitoare.</string>
+     <string name="modify_all_following">Modificaţi acest eveniment şi pe cele viitoare.</string>
      <string name="modify_event">Modificaţi doar acest eveniment</string>
      <string name="month_medium_april">Apr.</string>
      <string name="month_medium_august">Aug.</string>
      <string name="month_medium_december">Dec.</string>
-     <string name="month_medium_february">Feb.</string>
+     <string name="month_medium_february">Febr.</string>
      <string name="month_medium_january">Ian.</string>
      <string name="month_medium_july">Iul.</string>
      <string name="month_medium_june">Iun.</string>
-     <string name="month_medium_march">Mar.</string>
-     <string name="month_medium_may">Mai.</string>
+     <string name="month_medium_march">Mart.</string>
+     <string name="month_medium_may">Mai</string>
      <string name="month_medium_november">Noi.</string>
      <string name="month_medium_october">Oct.</string>
      <string name="month_medium_september">Sept.</string>
@@ -240,15 +240,15 @@
      <string name="reminders_label">Adăugaţi memento</string>
      <string name="repeat_activity_label">Repetare</string>
      <string name="repeat_custom_activity_label">Personalizat</string>
-     <string name="repeat_custom_prompt">fiecare %1$s la %2$s</string>
-     <string name="repeat_custom_prompt_daily">fiecare %1$s</string>
+     <string name="repeat_custom_prompt">în fiecare %1$s pe %2$s</string>
+     <string name="repeat_custom_prompt_daily">în fiecare %1$s</string>
      <string name="repeat_custom_prompt_sentence">Evenimentul se va repeta %1$s</string>
      <string name="repeat_custom_prompt_splitter">", "</string>
      <string name="repeat_custom_string_prefix">Personalizat</string>
      <string name="repeat_custom_string_suffix">" (%1$s)"</string>
      <string name="repeat_end_label">Nu se mai repetă după</string>
      <string name="repeat_end_times_unit">" ori"</string>
-     <string name="repeat_interval_dialog_title">Fiecare %1$s</string>
+     <string name="repeat_interval_dialog_title">În fiecare %1$s</string>
      <string name="repeat_interval_frequency">%1$d %2$ss</string>
      <string name="repeat_interval_frequency_single">%1$s</string>
      <string name="repeat_label_choose_day">Selectaţi ziua</string>
@@ -257,7 +257,7 @@
      <string name="repeat_label_choose_week">Selectaţi săptămâna</string>
      <string name="repeat_label_day">Zi</string>
      <string name="repeat_label_frequency">Frecvenţă</string>
-     <string name="repeat_label_interval">Fiecare</string>
+     <string name="repeat_label_interval">În fiecare</string>
      <string name="repeat_label_week">Săptămână</string>
      <string name="repeat_month_day_splitter">" "</string>
      <string name="repeat_week_info">" %1$s %2$s"</string>
