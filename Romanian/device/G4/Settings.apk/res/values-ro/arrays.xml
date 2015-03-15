@@ -388,6 +388,7 @@ Note: Only for Ubuntu 8.04!"</item>
      <string-array name="screen_key_long_press_action">
         <item>Niciuna</item>
         <item>Afişarea aplicaţiilor recente</item>
+        <item>Lansare Asistent</item>
         <item>Lansare Google now</item>
         <item>Închiderea aplicaţie curente</item>
         <item>Afişare meniu</item>
