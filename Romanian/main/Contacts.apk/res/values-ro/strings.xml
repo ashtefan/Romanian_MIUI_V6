@@ -40,11 +40,8 @@
      <string name="auto_nickname">Automat</string>
      <string name="auto_set_nickname">Automat</string>
      <string name="batch_delete">Ştergere în serie</string>
-     <string name="batch_delete_msg">Ştergeţi %d contacte? \n\nDatele de contact stocate în contul dvs. Mi vor fi, de asemenea, șterse.</string>
      <string name="bluetooth_connection_failed_toast">Conexiune bluetooth întreruptă</string>
      <string name="blurbJoinContactDataWith">Alegeţi contactul de îmbinat cu %s:</string>
-     <string name="btn_delete_multi_contacts">Ştergeţi %d contacte</string>
-     <string name="btn_delete_one_contact">Ştergeţi contactul</string>
      <string name="btn_rotation">Rotire</string>
      <string name="btn_split_contact">Separaţi</string>
      <string name="button_cancel_scan">Stop</string>
@@ -55,7 +52,6 @@
      <string name="callBack">Apelaţi din nou</string>
      <string name="callDetailTitle">Detaliile apelului</string>
      <string name="callDetailsDurationFormat" formatted="false">%s m %s s</string>
-     <string name="callNoAnswerTimeFormat">A sunat de %s ori</string>
      <string name="callShortcutActivityTitle">Alegeţi un număr pentru apelare</string>
      <string name="call_assistant">Apelaţi %s</string>
      <string name="call_callback">Apelaţi un număr cu apelare inversă</string>
@@ -161,7 +157,6 @@
      <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
      <string name="confirm_delete_selected_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
-     <string name="confirm_delete_sim_entry_miui">Ştergeţi  %d contacte selectate de pe cardul SIM?</string>
      <string name="confirm_export_message">Lista dvs. cu contacte va fi exportată în fişierul: %s.</string>
      <string name="confirm_export_title">Exportaţi Agenda?</string>
      <string name="connections">Conexiuni</string>
@@ -349,8 +344,6 @@
      <string name="event_edit_field_hint_text">Dată</string>
      <string name="export_sim_contact_finish">Export finalizat</string>
      <string name="export_sim_contact_finish_failure">Transferate: %1$d Rămase: %2$d</string>
-     <string name="export_sim_contact_finish_success">Copiate %d contacte</string>
-     <string name="export_sim_contacts_dialog_message">Cardul SIM poate stoca %d contacte</string>
      <string name="export_to_sdcard">Export pe stocare</string>
      <string name="export_to_sim">Export pe cardul SIM</string>
      <string name="export_to_sim1">Exportaţi pe cardul SIM 1</string>

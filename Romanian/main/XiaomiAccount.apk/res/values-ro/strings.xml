@@ -318,4 +318,5 @@ Pentru a activa contul, urmați
     <string name="empty_device_list_notice">Niciun dispozitiv</string>
     <string name="user_avatar_uploading">Încărcare…</string>
     <string name="user_avatar_update_title">Actualizaţi imaginea profilului</string>
+    <string name="micloud_sync_state_pending">În aşteptare</string>
 </resources>

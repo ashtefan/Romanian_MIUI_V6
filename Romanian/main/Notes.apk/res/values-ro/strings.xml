@@ -106,4 +106,12 @@
      <string name="widget_content_loading">Încărcare…</string>
      <string name="widget_havenot_content">Nu s-a găsit nicio notă asociată. Atingeţi pentru a crea o notă asociată. Redimensionaţi prin apăsare lungă și tragere spre margine.</string>
      <string name="widget_under_privacy_mode">Nu se pot vizualiza notele în modul Vizitator</string>
+     <string name="welcome_note_for_cm">"Și multe alte caracteristici!
+  - Sincronizare cu Mi Cloud
+  - Salvare la ieşire
+  - Setare memento-uri
+
+Pentru a afla mai multe, vizitați
+http://www.miui.com/forum.php?lang=1
+"</string>
 </resources>

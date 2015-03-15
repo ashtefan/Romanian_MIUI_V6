@@ -791,4 +791,5 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="webview_find_on_page">Găsiți pe pagină</string>
      <string name="webviewchromium_private_browsing_warning">Funcția nu este susţinută în această versiune Android.</string>
      <string name="week_picker_dialog_title">Setaţi săptămâna</string>
+     <string name="action_menu_text_fullscreen">Ecran complet</string>
 </resources>

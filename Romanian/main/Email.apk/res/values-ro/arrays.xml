@@ -13,11 +13,11 @@
         <item>Text foarte mare</item>
      </string-array>
      <string-array name="menu_att_mgr_sort_string_array">
-        <item>Prestabilit</item>
+        <item>Recent vizualizate</item>
         <item>Format</item>
         <item>Nume</item>
         <item>Expeditor</item>
-        <item>Dată</item>
+        <item>Data recepţionării</item>
      </string-array>
      <string-array name="moveto_folder_sections">
         <item>Sistem</item>
@@ -25,8 +25,8 @@
         <item>Toate dosarele</item>
      </string-array>
      <string-array name="prefEntries_autoAdvance">
-        <item>Noi</item>
-        <item>Vechi</item>
+        <item>Mesaje noi</item>
+        <item>Mesaje vechi</item>
         <item>Lista conversaţiilor</item>
      </string-array>
      <string-array name="prefEntries_removal_action">

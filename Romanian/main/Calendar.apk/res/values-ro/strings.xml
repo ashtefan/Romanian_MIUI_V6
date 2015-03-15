@@ -300,7 +300,6 @@
      <string name="tomorrow_at_time_fmt">Mâine la %s</string>
      <string name="topic_event_list_header_label">Evenimente viitoare</string>
      <string name="topic_list_header_label">Lista de abonamente</string>
-     <string name="user_notice_online_agreement">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
      <string name="user_notice_online_ok">Acceptați și continuați</string>
      <string name="user_notice_online_title">Termeni și condiții</string>
      <string name="view_all_matches">View all Fixtures</string>
@@ -318,9 +317,14 @@
      <string name="widget_select_style">Selectaţi un stil</string>
      <string name="work_day_indication"></string>
      <string name="wuxing">Cinci</string>
-     <string name="xiaomi_calendar_display_name">Calendar</string>
+     <string name="xiaomi_calendar_display_name">Calendar Cont Mi</string>
      <string name="xingxiu">Stele</string>
      <string name="yearly">Anual (în fiecare %s)</string>
      <string name="yearly_plain">Anual</string>
      <string name="zhushen">Zei</string>
+     <string name="sync_notice_title">Solicitare sincronizare</string>
+     <string name="sync_notice_message">Nu aţi sincronizat încă calendarul Mi, activaţi comutatorul acum?</string>
+     <string name="sync_notice_ok">OK</string>
+     <string name="sync_notice_ok_toast_message">Calendarul local va fi sincronizat cu Mi Cloud</string>
+     <string name="sync_notice_cancel_toast_message">Calendarul local nu va fi sincronizat cu Mi Cloud</string>
 </resources>
