@@ -77,8 +77,8 @@
      <string name="autoip_current_areacode">Prefixul actual al zonei</string>
      <string name="autoip_current_areacode_summary">Prefixul locației actuale</string>
      <string name="autoip_exception">Numerele care nu necesită prefix IP</string>
-     <string name="autoip_exception_summary">%d total</string>
-     <string name="autoip_exception_summary_more">, %d total</string>
+     <string name="autoip_exception_summary">În total %d</string>
+     <string name="autoip_exception_summary_more">, %d în total</string>
      <string name="autoip_no_exceptions">Adăugați numere care nu necesită un prefix IP</string>
      <string name="autoip_prefix">Prefix IP</string>
      <string name="autoip_prefix_summary">Prefixul IP al operatorului este %s</string>
