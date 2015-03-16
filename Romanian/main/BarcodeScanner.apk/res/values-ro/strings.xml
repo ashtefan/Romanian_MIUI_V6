@@ -70,7 +70,7 @@
     <string name="wifi_connect_not_found">Nicio rețele Wi-Fi detectată</string>
     <string name="wifi_connect_current_connetion">Conectat la Wi-Fi</string>
     <string name="back">Înapoi</string>
-    <string name="allow_check_website_security">Verificați securitate site web</string>
+    <string name="allow_check_website_security">Verificare securitate site web</string>
     <string name="accept">Conectare</string>
     <string name="cancel">Anulaţi</string>
     <string name="tips_message">Conectați-vă la internet pentru a verifica dacă site-ul pe care doriţi să-l vizitaţi este securizat.</string>
