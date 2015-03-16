@@ -89,7 +89,7 @@
      <string name="badPin">Codul PIN vechi pe care l-aţi introdus nu este corect. Încercaţi din nou.</string>
      <string name="badPin2">Vechiul cod PIN2 introdus nu este corect. Încercaţi din nou.</string>
      <string name="badPuk2">Codul PUK2 introdus nu este corect. Încercaţi din nou.</string>
-     <string name="bad_pin2">The old PIN2 you entered is incorrect.</string>
+     <string name="bad_pin2">Codul PIN2 vechi pe care l-aţi introdus nu este corect.</string>
      <string name="bf_news_settings">Știri despre afaceri şi financiare</string>
      <string name="buttonTxtContinue">Continuaţi</string>
      <string name="callDurationFormat">%1$s minute %2$s secunde</string>
