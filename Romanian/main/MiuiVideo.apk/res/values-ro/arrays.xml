@@ -6,13 +6,13 @@
         <item>Cele mai noi</item>
      </string-array>
      <string-array name="movie_channel_tabs">
-        <item>Recommended</item>
-        <item>Rank</item>
+        <item>Recomandate</item>
+        <item>Clasament</item>
         <item>Hot</item>
-        <item>Newest</item>
+        <item>Cele mai noi</item>
      </string-array>
      <string-array name="variety_channel_tabs">
-        <item>Recommended</item>
+        <item>Recomandate</item>
         <item>Hot</item>
      </string-array>
 </resources>
