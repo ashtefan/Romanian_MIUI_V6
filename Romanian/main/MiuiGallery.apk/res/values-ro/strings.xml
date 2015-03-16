@@ -544,7 +544,7 @@
      <string name="times">Ore</string>
      <string name="tint">Nuanţă</string>
      <string name="title">Nume fişier</string>
-     <string name="to_count">%d total</string>
+     <string name="to_count">În total %d</string>
      <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
      <string name="try_to_send">Trimiteţi</string>
      <string name="ubifocus_data_missing">O parte din datele pentru această imagine lipsesc</string>
