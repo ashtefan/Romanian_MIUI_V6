@@ -20,14 +20,14 @@
     <string name="open_flash_error">Nu se poate porni bliţul</string>
     <string name="close_flash_error">Nu se poate opri bliţul</string>
     <string name="scan_fail">Nu a putut fi scana codul</string>
-    <string name="vcard_prompt">Nici un nume asociat cu acest card.</string>
+    <string name="vcard_prompt">Niciun nume asociat cu acest card.</string>
     <string name="copy_succeed">Copiat</string>
     <string name="fail_generate_barcode">Nu am putut crea codul</string>
     <string name="scan_result">Cod QR scanat</string>
     <string name="flash_lable">Bliţ</string>
     <string name="picker_lable">Fotografie</string>
     <string name="camera_error">E ceva în neregulă cu camera foto</string>
-    <string name="url_is_safety">Acest site este în siguranță.</string>
+    <string name="url_is_safety">Acest site este sigur.</string>
     <string name="url_is_unsafety">Acest site prezintă un risc pentru securitatea datelor dvs.</string>
     <string name="url_is_phish">Acest site a fost suspectat de phishing de date.</string>
     <string name="url_is_unknown">Nu se poate confirma dacă acest site este sigur.</string>
@@ -36,7 +36,7 @@
     <string name="website_details">Detalii site web:</string>
     <string name="contact_details">Detalii contact:</string>
     <string name="wechat_details">Detalii WeChat:</string>
-    <string name="qr_code_details">Detalii cod QR code:</string>
+    <string name="qr_code_details">Detalii cod QR:</string>
     <string name="import_contact">Importare contact</string>
     <string name="secure_access_web_url">Continuaţi pe site-ul web</string>
     <string name="not_recommend_access_web_url">Continuaţi pe site-ul web oricum</string>
@@ -78,5 +78,5 @@
     <string name="not_tips">Memorizare preferință</string>
     <string name="settings">Setări</string>
     <string name="not_insert_contact">Nu se poate adăuga contactul</string>
-    <string name="choose_picture">Alegeţi codul QR al imaginii</string>
+    <string name="choose_picture">Selectaţi codul QR al imaginii</string>
 </resources>
