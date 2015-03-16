@@ -17,8 +17,8 @@
     <string name="download_unknown_title">&lt;Fără titlu></string>
     <string name="notif_text_engine_off">Accelerator Xunlei dezactivat.</string>
     <string name="notif_text_engine_on">Accelerare…</string>
-    <string name="notif_title_file_size">Total %1$d fişiere</string>
-    <string name="notif_title_multiple_downloading">Se descarcă %1$d fişiere</string>
+    <string name="notif_title_file_size">În total %1$d (de) fişiere</string>
+    <string name="notif_title_multiple_downloading">Se descarcă %1$d (de) fişiere</string>
     <string name="notif_title_single_downloading">Se descarcă %1$s</string>
     <string name="notification_download_complete">Descărcare finalizată</string>
     <string name="notification_download_failed">Descărcare nereuşită</string>
