@@ -4,7 +4,7 @@
      <string name="apps_search_activity" />
      <string name="clear_shortcuts">Eliminaţi istoricul căutării</string>
      <string name="clear_shortcuts_agree">Eliminare istoric</string>
-     <string name="clear_shortcuts_disagree">Nu se eliminează istoricul</string>
+     <string name="clear_shortcuts_disagree">Nu se elimină istoricul</string>
      <string name="clear_shortcuts_prompt">"Istoricul tuturor căutărilor va fi eliminat.
 
 Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</string>
