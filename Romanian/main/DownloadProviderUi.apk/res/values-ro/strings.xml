@@ -70,8 +70,8 @@
      <string name="download_title">Descărcări</string>
      <string name="download_title_sorted_by_date">Descărcări – sortate după dată</string>
      <string name="download_title_sorted_by_size">Descărcări – sortate după dimensiune</string>
-     <string name="download_wait_connect">Download waiting to connect</string>
-     <string name="download_when_network_connected">Descărcare utilizând conexiunea de date</string>
+     <string name="download_wait_connect">Descărcare în aşteptarea conexiunii</string>
+     <string name="download_when_network_connected">Se descarcă utilizând conexiunea de date</string>
      <string name="downloads_operating">Operare…</string>
      <string name="dredge_xunlei_account">Deschidere membru Xunlei</string>
      <string name="editmode_menu_delete">Ştergeţi</string>
