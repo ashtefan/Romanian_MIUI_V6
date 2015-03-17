@@ -104,7 +104,7 @@
      <string name="cloud_be_shared_guide_title">Acest album este partajat de un prieten</string>
      <string name="cloud_camera_display_name">Cameră</string>
      <string name="cloud_folder_chooser_move">Ștergeți imaginile din albumul original</string>
-     <string name="cloud_gallery_recyclebin_full">Coşul de reciclare este plin, goliţi coşul de reciclare la i.xiaomi.com.</string>
+     <string name="cloud_gallery_recyclebin_full">Coşul de reciclare este plin, goliţi coşul de reciclare la i.mi.com.</string>
      <string name="cloud_gallery_space_full">Spaţiu insuficient în Mi Cloud</string>
      <string name="cloud_media_set_set">Albume în nor</string>
      <string name="cloud_owner_album_share_guide">Partajaţi acest album cu prietenii</string>
@@ -482,7 +482,7 @@
      <string name="set_screensaver_path_title">Slideshow screensaver</string>
      <string name="set_wallpaper">Setare imagine de fundal…</string>
      <string name="settings">Setări</string>
-     <string name="settings_i_xiaomi_com">Stocaţi și vizualizaţi imaginile pe i.xiaomi.com</string>
+     <string name="settings_i_xiaomi_com">Stocaţi și vizualizaţi imaginile pe i.mi.com</string>
      <string name="shadow">Umbre</string>
      <string name="share_album">Distribuiţi albumul</string>
      <string name="share_album_owner">Proprietar</string>
