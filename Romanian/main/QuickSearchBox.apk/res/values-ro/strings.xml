@@ -3,8 +3,8 @@
      <string name="app_name">Căutare</string>
      <string name="apps_search_activity" />
      <string name="clear_shortcuts">Eliminaţi istoricul căutării</string>
-     <string name="clear_shortcuts_agree">Eliminaţi istoricul</string>
-     <string name="clear_shortcuts_disagree">"Nu eliminaţi istoricul"</string>
+     <string name="clear_shortcuts_agree">Eliminare istoric</string>
+     <string name="clear_shortcuts_disagree">Nu se eliminează istoricul</string>
      <string name="clear_shortcuts_prompt">"Istoricul tuturor căutărilor va fi eliminat.
 
 Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</string>
@@ -26,18 +26,17 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
      <string name="google_search_label">Google</string>
      <string name="google_settings_category_title">Căutare Google</string>
      <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
      <string name="menu_help">Ajutor</string>
      <string name="menu_settings">Setări căutare</string>
      <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutării?</string>
-     <string name="remove_from_history_failed">"Nu se poate elimina elementul din istoric."</string>
-     <string name="search_in_app_store">Căutaţi în market</string>
+     <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
+     <string name="search_in_app_store">Căutaţi în magazin</string>
      <string name="search_in_web">Căutaţi în web</string>
-     <string name="search_settings">Setări căutare</string>
+     <string name="search_settings">Căutare setări</string>
      <string name="search_sources">Elemente de căutat</string>
      <string name="search_sources_summary">Selectaţi ce doriţi să căutaţi pe telefon</string>
      <string name="search_widget">Căutare</string>
-     <string name="send_secret_code">Send secret code</string>
+     <string name="send_secret_code">Trimiteţi codul secret</string>
      <string name="system_search_category_title">Telefon</string>
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
