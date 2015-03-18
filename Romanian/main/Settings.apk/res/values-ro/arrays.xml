@@ -560,10 +560,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Dispozitiv conectat</item>
      </string-array>
      <string-array name="whetstone_level_entries">
-        <item>Oprit</item>
-        <item>Redus</item>
-        <item>Mediu</item>
-        <item>Ridicat</item>
+        <item>Dezactivată</item>
+        <item>Redusă</item>
+        <item>Medie</item>
+        <item>Ridicată</item>
      </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Conectare automată</item>
