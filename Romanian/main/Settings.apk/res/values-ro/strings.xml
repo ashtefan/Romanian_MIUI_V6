@@ -158,7 +158,7 @@ Activați ferestrele plutitoare?"</string>
      <string name="app_not_found_dlg_text">Aplicaţia nu a fost găsită în lista de aplicaţii instalate.</string>
      <string name="app_not_found_dlg_title" />
      <string name="app_not_supported_in_limited">Această aplicație nu este acceptată pentru profilurile cu permisiuni limitate</string>
-     <string name="app_notifications_switch_label">Afişaţi notificările</string>
+     <string name="app_notifications_switch_label">Afişare notificări</string>
      <string name="app_ops_never_used">(Nu este utilizată niciodată)</string>
      <string name="app_ops_running">Rulează</string>
      <string name="app_ops_settings">Operații ale aplicației</string>
@@ -2126,10 +2126,10 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
      <string name="stable_build">" | Stabil"</string>
      <string name="status_awake_time">Durată de activitate</string>
      <string name="status_bar_and_notification_bar">Panou notificări şi bară de stare</string>
-     <string name="status_bar_filter_item_description">Pentru a configura notificările, accesaţi Setări generale > Notificări > Gestiune notificări</string>
-     <string name="status_bar_filter_item_preview_image">Previzualizaţi</string>
-     <string name="status_bar_key_position_custom">Poziție taste personalizată</string>
-     <string name="status_bar_screen_button_key">Taste virtuale</string>
+     <string name="status_bar_filter_item_description">Pentru a configura notificările, mergeţi la Setări > Panou notificări > Gestiune notificări</string>
+     <string name="status_bar_filter_item_preview_image">Previzualizare</string>
+     <string name="status_bar_key_position_custom">Poziție personalizată a butoanelor</string>
+     <string name="status_bar_screen_button_key">Butoane virtuale</string>
      <string name="status_bar_screen_key_back">Butonul Înapoi</string>
      <string name="status_bar_screen_key_home">Butonul Acasă</string>
      <string name="status_bar_screen_key_menu">Butonul Meniu</string>
@@ -2141,7 +2141,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
      <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
      <string name="status_bar_settings_custom_notification">Gestiune notificări</string>
      <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
-     <string name="status_bar_settings_expandable_under_keyguard">Afișare pe blocarerea ecranului</string>
+     <string name="status_bar_settings_expandable_under_keyguard">Se afișează pe blocarerea ecranului</string>
      <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a alege un comutator</string>
      <string name="status_bar_settings_no_carrier">Niciunul</string>
      <string name="status_bar_settings_notification_bar">Panou notificări</string>
@@ -2150,10 +2150,10 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
      <string name="status_bar_settings_show_flow_info">Afişare utilizare date</string>
      <string name="status_bar_settings_show_network_speed">Afişare viteză de conexiune</string>
      <string name="status_bar_settings_show_notificationBar_notification">Se afişează în panoul notificărilor</string>
-     <string name="status_bar_settings_show_notification_icon">Afişare pictograme notificări</string>
+     <string name="status_bar_settings_show_notification_icon">Se afişează pictogramele notificărilor</string>
      <string name="status_bar_settings_show_screenshot_notification">Afişare notificare captură de ecran</string>
-     <string name="status_bar_settings_show_statusBar_notification">Afişare notificări plutitoare</string>
-     <string name="status_bar_settings_show_statusBar_notification_summary">Afişare notificări plutitoare pe blocarea ecranului și peste tot</string>
+     <string name="status_bar_settings_show_statusBar_notification">Se afişează notificările plutitoare</string>
+     <string name="status_bar_settings_show_statusBar_notification_summary">Se afişează notificările plutitoare peste tot</string>
      <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Bară de stare</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>
