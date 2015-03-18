@@ -73,7 +73,7 @@
     <!--whether the device supports feedback level-->
     <bool name="support_feedback_level">false</bool>
     <!--whether the device supports miui lite-->
-    <bool name="enable_miui_lite">false</bool>
+    <bool name="enable_miui_lite">true</bool>
     <!--whether the device supports steps_provider-->
     <bool name="support_steps_provider">false</bool>
     <!--whether the device supports hifi-->
