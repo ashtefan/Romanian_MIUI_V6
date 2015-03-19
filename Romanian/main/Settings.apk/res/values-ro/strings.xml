@@ -901,7 +901,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
      <string name="enable_adb_summary">Mod de depanare când este conectat USB</string>
      <string name="enable_compatibility">Scalaţi aplicaţia</string>
      <string name="enable_drive_mode">Activaţi modul Automobil</string>
-     <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
+     <string name="enable_mobile_data_when_opening_hotspot">Activaţi, de asemenea, conexiunea de date mobile?</string>
      <string name="enable_opengl_traces_title">Monitorizări OpenGL</string>
      <string name="enable_service_title">Utilizați %1$s?</string>
      <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la shell local</string>
