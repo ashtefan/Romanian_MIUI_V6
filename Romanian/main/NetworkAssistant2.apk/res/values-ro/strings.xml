@@ -107,8 +107,8 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
      <string name="international_roaming_whitelist_count">%d aplicații pot utiliza datele mobile în roaming internațional</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Gol</string>
-     <string name="lock_screen_setting_summary">Afişare notificare după utilizarea a 100 KO la blocarea ecranului</string>
-     <string name="lock_screen_traffic_notify_body">Blocat pentru %1$s | Utilizaţi %2$s din datele mobile</string>
+     <string name="lock_screen_setting_summary">Se afişează o notificare atunci când sunt utilizaţi peste 100 KO în mai puțin de două zile</string>
+     <string name="lock_screen_traffic_notify_body">Blocat pentru %2$s la %1$s, date utilizate %3$s</string>
      <string name="lock_screen_traffic_warn_title">Notificări pe blocarea ecranului</string>
      <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
      <string name="main_alert_message_no_imsi">Niciun card SIM detectat</string>
@@ -405,4 +405,10 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="usage_sorted_activity_lable">Utilizare date</string>
      <string name="usage_sorted_empty_text">Gol</string>
      <string name="usage_sorted_loading_text">Încărcare…</string>
+     <string name="timeshow_m">%d m</string>
+     <string name="timeshow_h">%.1f h</string>
+     <string name="timeshow_h_int">%d h</string>
+     <string name="lock_screen_traffic_guide_notification_title">Date mobile utilizate: %s</string>
+     <string name="lock_screen_traffic_guide_notification_summary">Date mobile utilizate în perioada blocării ecranului.</string>
+    < string name="lock_screen_traffic_purchase_textview">Procuraţi date mobile</string>
 </resources>

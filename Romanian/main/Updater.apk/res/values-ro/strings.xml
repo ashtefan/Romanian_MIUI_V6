@@ -185,4 +185,10 @@ Participaţi la sondaj marţea viitoare"</string>
      <string name="view_upgrade_tutorial">Vizualizaţi tutorialul</string>
      <string name="weekly_build">Săptămânal</string>
      <string name="worst_update">Cea mai rea actualizare dintotdeauna</string>
+     <string name="install_failed">Actualizare eşuată</string>
+     <string name="recovery_failed_title">Utilizaţi Mi PC Suite pentru a actualiza sistemul</string>
+    <string name="recovery_failed_msg">"Dispozitivul nu are suficientă memorie pentru a intra în modul Recuperare și pentru a actualiza sistemul dvs. Încercați să folosiți Mi PC Suite:
+http://zhushou.xiaomi.com"</string>
+    <string name="recovery_failed_button">OK</string>
+    <string name="recovery_failed_notification_msg">Nu se poate intra în modul Recuperare</string>
 </resources>
