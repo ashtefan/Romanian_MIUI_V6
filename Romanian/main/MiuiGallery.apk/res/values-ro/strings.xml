@@ -233,7 +233,7 @@
      <string name="frame_movie">Film</string>
      <string name="frame_semicircle">Semicerc</string>
      <string name="frame_white">Alb</string>
-     <string name="free">Gratuit</string>
+     <string name="free">Formă liberă</string>
      <string name="gallery_cloud_provider_name">Fotografii Mi Cloud</string>
      <string name="gallery_setting">Galerie</string>
      <string name="get_album_info_in_process">Obţinere informaţii album…</string>
@@ -511,7 +511,7 @@
      <string name="slideshow_interval_dialog_title">Intervalul de timp trebuie să fie mai mare de 0 secunde</string>
      <string name="slideshow_interval_invalid">Intervalul trebuie să fie între 1 şi 3600 secunde</string>
      <string name="slideshow_repeat_mode">Repetare</string>
-     <string name="square">Square</string>
+     <string name="square">Părat</string>
      <string name="start_slide_show">Porniţi slideshow</string>
      <string name="storage_all_volumes">Toate stocările</string>
      <string name="storage_no_space">Spațiu insuficient</string>
