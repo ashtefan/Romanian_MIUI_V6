@@ -36,7 +36,7 @@
     <string name="shutdown_progress">Închidere…</string>
     <string name="reboot_confirm_title">Telefonul dvs. va reporni.</string>
     <string name="reboot_progress">Repornire…</string>
-    <string name="memory_clear_result">%1$s goliţi | %2$s disponibili</string>
+    <string name="memory_clear_result">%1$sO goliţi | %2$sO disponibili</string>
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="device_hongmi">Redmi</string>

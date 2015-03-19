@@ -335,4 +335,6 @@ Spațiu liber adăugat %1$s"</string>
      <string name="kuaipan_delete_success">Fotografie ştearsă</string>
      <string name="action_mode_deselect_all">Deselectaţi tot</string>
      <string name="action_mode_select_all">Selectaţi tot</string>
+     <string name="can_not_send_with_too_many">Nu se pot trimite multe elemente</string>
+     <string name="kuaipan_delete_guide_des">Ștergeți ghidul?</string>
 </resources>

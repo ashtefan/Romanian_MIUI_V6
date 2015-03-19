@@ -76,4 +76,14 @@
         <item>Activare</item>
         <item>Nu se modifică</item>
      </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Lansator</item>
+        <item>Telefon</item>
+        <item>Mesaje</item>
+        <item>Browser</item>
+        <item>Cameră</item>
+        <item>Galerie</item>
+        <item>Muzică</item>
+        <item>E-mail</item>
+     </string-array>
 </resources>

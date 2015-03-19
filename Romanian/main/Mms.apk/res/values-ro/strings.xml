@@ -543,4 +543,8 @@
      <string name="pref_title_mms_validity_period">Perioada de valabilitate MMS</string>
      <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
      <string name="block_messaging_entry_title">SMS blocat</string>
+     <string name="select_copy_text">Selectaţi și copiaţi textul mesajului</string>
+     <string name="message_expired">Expirat</string>
+     <string name="message_contact">Contact:</string>
+     <string name="message_number">Număr de telefon:</string>
 </resources>

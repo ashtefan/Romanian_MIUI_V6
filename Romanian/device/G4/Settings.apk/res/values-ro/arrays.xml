@@ -680,4 +680,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Animaţie la scara 5x</item>
         <item>Animaţie la scara 10x</item>
      </string-array>
+     <string-array name="pink_panel_led_color_entries">
+        <item>Lilac</item>
+        <item>Rubin</item>
+        <item>Portocaliu</item>
+        <item>Verde</item>
+        <item>Purpuriu</item>
+    </string-array>
 </resources>

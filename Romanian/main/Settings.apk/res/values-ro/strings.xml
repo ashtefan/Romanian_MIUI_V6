@@ -901,7 +901,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
      <string name="enable_adb_summary">Mod de depanare când este conectat USB</string>
      <string name="enable_compatibility">Scalaţi aplicaţia</string>
      <string name="enable_drive_mode">Activaţi modul Automobil</string>
-     <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
+     <string name="enable_mobile_data_when_opening_hotspot">Activaţi, de asemenea, conexiunea de date mobile?</string>
      <string name="enable_opengl_traces_title">Monitorizări OpenGL</string>
      <string name="enable_service_title">Utilizați %1$s?</string>
      <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la shell local</string>
@@ -957,7 +957,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
      <string name="font_size_preview">MIUI</string>
      <string name="font_size_save">OK</string>
      <string name="font_size_small">Mic</string>
-     <string name="font_size_summary">Modificaţi dimensiunea fontului sistemului de operare.</string>
+     <string name="font_size_summary">Se modifică dimensiunea fontului pentru textul de pe ecranul de pornire, panou notificări, taste numerice, etc.</string>
      <string name="font_size_summary1">"
 Dacă textul sistemul dvs. este încă prea mic, încercați să utilizați "</string>
      <string name="font_size_summary2">Lite mode</string>
@@ -2968,4 +2968,9 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
      <string name="bluetooth_unlock_state_too_far">Nu este suficient de aproape</string>
      <string name="bluetooth_unlock_state_ok">Reuşit</string>
      <string name="wifi_type_approval_dialog_title">NTC NO.</string>
+     <string name="agps_roaming">A-GPS în roaming</string>
+     <string name="agps_roaming_summary">Utilizaţi A-GPS în roaming, poate cauza taxe suplimentare</string>
+     <string name="agps_roaming_dia_title">Utilizaţi A-GPS în roaming</string>
+     <string name="agps_roaming_dia">Utilizarea A-GPS în roaming poate crește utilizarea datelor mobile. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+
 </resources>

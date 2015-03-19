@@ -233,7 +233,7 @@
      <string name="frame_movie">Film</string>
      <string name="frame_semicircle">Semicerc</string>
      <string name="frame_white">Alb</string>
-     <string name="free">Gratuit</string>
+     <string name="free">Formă liberă</string>
      <string name="gallery_cloud_provider_name">Fotografii Mi Cloud</string>
      <string name="gallery_setting">Galerie</string>
      <string name="get_album_info_in_process">Obţinere informaţii album…</string>
@@ -393,7 +393,7 @@
      <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Fotografii</string>
      <string name="adjust">Ajustare</string>
      <string name="photo_paint_crop">Decupare</string>
-     <string name="effect">Efect</string>
+     <string name="effect">Filtre</string>
      <string name="photo_size">Dimensiune</string>
      <string name="photoeditor_name">Foto Studio</string>
      <string name="photos">Fotografii</string>
@@ -411,7 +411,7 @@
      <string name="preparing_data_to_delete">Pregătire imagini pentru ștergere…</string>
      <string name="priority_storage">Salvaţi pe cardul SD</string>
      <string name="priority_storage_summary">Atunci când este introdus cardul SD, descarcă fișiere pe cardul SD în mod automat.</string>
-     <string name="projection">Proiecţie</string>
+     <string name="projection">Transmitere</string>
      <string name="public_url_descript">Oricine poate vizualiza albumul folosind acest URL</string>
      <string name="publish_failed">Publicare eşuată</string>
      <string name="publish_succeeded">Album publicat</string>
@@ -511,7 +511,7 @@
      <string name="slideshow_interval_dialog_title">Intervalul de timp trebuie să fie mai mare de 0 secunde</string>
      <string name="slideshow_interval_invalid">Intervalul trebuie să fie între 1 şi 3600 secunde</string>
      <string name="slideshow_repeat_mode">Repetare</string>
-     <string name="square">Square</string>
+     <string name="square">Pătrat</string>
      <string name="start_slide_show">Porniţi slideshow</string>
      <string name="storage_all_volumes">Toate stocările</string>
      <string name="storage_no_space">Spațiu insuficient</string>
@@ -583,14 +583,14 @@
      <string name="yellow_page">Registru</string>
      <string name="yes">Da</string>
      <string name="yunyi_pocket_camera">Pocket Camera</string>
-     <string name="early_bird">Brannan</string>
-     <string name="brannan">Dimineață</string>
-     <string name="cool">​Cool</string>
-     <string name="rise">Răsărit</string>
+     <string name="early_bird">Earlybird</string>
+     <string name="brannan">Brannan</string>
+     <string name="cool">Rece</string>
+     <string name="rise">Cald</string>
      <string name="cool_portrait">Portret</string>
-     <string name="old">​Old</string>
+     <string name="old">Vintage</string>
      <string name="camera_black_white">Alb-negru</string>
-     <string name="black_white">Alb-negru</string>
+     <string name="black_white">Alb-negru plat</string>
      <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
      <string name="home_page_tab_face">Chip</string>
      <string name="photo_save_succeed">Salvat cu succes</string>
