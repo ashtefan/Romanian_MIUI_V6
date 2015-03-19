@@ -9,7 +9,7 @@
     <!--whether install the fm app-->
     <bool name="support_fm">true</bool>
     <!--whether the device supports oldman mode-->
-    <bool name="support_oldman_mode">false</bool>
+    <bool name="support_oldman_mode">true</bool>
     <!--whether the device is dual sim card-->
     <bool name="support_dual_sim_card">true</bool>
     <!-- whether the device has dual systems-->
