@@ -31,8 +31,8 @@
     <string name="date_time">%2$s, %1$s</string>
     <string name="byteShort">" O"</string>
     <string name="kilobyteShort">" KO"</string>
-    <string name="megabyteShort">" MB"</string>
-    <string name="gigabyteShort">" GB"</string>
+    <string name="megabyteShort">" MO"</string>
+    <string name="gigabyteShort">" GO"</string>
     <string name="terabyteShort">" TO"</string>
     <string name="petabyteShort">" PO"</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>

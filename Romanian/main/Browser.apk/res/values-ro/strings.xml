@@ -73,7 +73,7 @@
      <string name="autofill_profile_successful_delete">Textul pentru completarea automată a fost şters</string>
      <string name="autofill_profile_successful_save">Textul pentru completare automată a fost salvat</string>
      <string name="autofill_setup_dialog_message">Browserul poate completa automat formulare web ca acesta. Doriţi să configuraţi textul pentru completarea automată?</string>
-     <string name="autofill_setup_dialog_negative_toast">Puteţi configura oricând textul dvs. pentru completarea automată din ecranul Browser > Setări > General</string>
+     <string name="autofill_setup_dialog_negative_toast">Puteţi configura oricând textul dvs. pentru completarea automată în Browser > Setări > Ecran general</string>
      <string name="autologin_bar_error">Nu a fost posibil de conectat</string>
      <string name="autologin_bar_hide_text">Ascundeţi</string>
      <string name="autologin_bar_login_text">Conectare</string>
@@ -483,7 +483,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="pref_general_autofill_title">Completare automată</string>
      <string name="pref_general_exit_setting_title">Setări ieşire</string>
      <string name="pref_general_setting_title">Setări</string>
-     <string name="pref_general_title">General</string>
+     <string name="pref_general_title">Generale</string>
      <string name="pref_gesture_title">Gesturi</string>
      <string name="pref_images_preload_dialogtitle">Preîncărcare imagini</string>
      <string name="pref_images_preload_summary">: Permiteţi browserului să preîncarce imaginile în fundal atunci când serverul permite</string>
