@@ -296,7 +296,7 @@
      <string name="usa">US TV</string>
      <string name="use_cellular_network">Notificare utilizare conexiune de date</string>
      <string name="use_cellular_network_summary">Utilizarea conexiunii de date mobile pentru a descărca videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita planului dvs., operatorul ar putea percepe taxe suplimentare.</string>
-     <string name="use_cellular_offlinedownload_summary">e afişează o notificare atunci când se utilizează datele mobile pentru a descărca videoclipuri</string>
+     <string name="use_cellular_offlinedownload_summary">Se afişează o notificare atunci când se utilizează datele mobile pentru a descărca videoclipuri</string>
      <string name="use_cellular_offlinedownload_title">Notificare descărcare</string>
      <string name="use_cellular_play_summary">Se afişează o notificare atunci când se utilizează datele mobile pentru a viziona videoclipuri</string>
      <string name="use_cellular_play_title">Notificare despre flux</string>
