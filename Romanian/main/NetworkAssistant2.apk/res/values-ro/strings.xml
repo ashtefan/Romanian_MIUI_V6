@@ -410,5 +410,5 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="timeshow_h_int">%d h</string>
      <string name="lock_screen_traffic_guide_notification_title">Date mobile utilizate: %s</string>
      <string name="lock_screen_traffic_guide_notification_summary">Date mobile utilizate în perioada blocării ecranului.</string>
-    < string name="lock_screen_traffic_purchase_textview">Procuraţi date mobile</string>
+     <string name="lock_screen_traffic_purchase_textview">Procuraţi date mobile</string>
 </resources>
