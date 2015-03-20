@@ -14,7 +14,7 @@
      <string name="app_mobile">Date</string>
      <string name="app_name">Utilizare date</string>
      <string name="app_version">Versiune</string>
-     <string name="app_wifi">WI-FI</string>
+     <string name="app_wifi">Wi-Fi</string>
      <string name="background_traffic">În fundal: %s</string>
      <string name="begin_date">Data de resetare a ciclului de utilizare</string>
      <string name="cancel_button">Anulaţi</string>
@@ -109,7 +109,7 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
      <string name="list_empty_text">Gol</string>
      <string name="lock_screen_setting_summary">Se afişează o notificare atunci când sunt utilizaţi peste 100 KO în mai puțin de două zile</string>
      <string name="lock_screen_traffic_notify_body">Blocat pentru %2$s la %1$s, date utilizate %3$s</string>
-     <string name="lock_screen_traffic_warn_title">Notificări pe blocarea ecranului</string>
+     <string name="lock_screen_traffic_warn_title">Notificări la blocarea ecranului</string>
      <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
      <string name="main_alert_message_no_imsi">Niciun card SIM detectat</string>
      <string name="main_alert_message_no_mobile_package">Limita datelor mobile nu a fost setată</string>
@@ -196,7 +196,7 @@ o conexiune de date mobilă"</string>
      <string name="pref_daily_adjust">Setaţi limita de date în orele de vârf</string>
      <string name="pref_daily_traffic">Limita orelor de vârf</string>
      <string name="pref_data_usage_ignore_settings">Ignorare utilizare date</string>
-     <string name="pref_data_usage_ignore_settings_summary">Nu se duce evidența unui grup select a utilizării datelor de aplicații</string>
+     <string name="pref_data_usage_ignore_settings_summary">Nu se duce evidența utilizării datelor de aplicații</string>
      <string name="pref_data_usage_not_set">Setaţi limita utilizării datelor</string>
      <string name="pref_free_adjust">Setaţi limita de date în afara orelor de vârf</string>
      <string name="pref_free_traffic_exceed_limit">Anunţă-mă atunci când utilizarea datelor a atins limita</string>
@@ -372,7 +372,7 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="traffic_saving_whitelist_btn_add">Adăugaţi</string>
      <string name="traffic_saving_whitelist_btn_add_app">Adăugaţi</string>
      <string name="traffic_saving_whitelist_btn_added">Adăugată</string>
-     <string name="traffic_saving_whitelist_btn_remove">Eliminată</string>
+     <string name="traffic_saving_whitelist_btn_remove">Eliminaţi</string>
      <string name="traffic_saving_whitelist_btn_removed">Aplicaţie eliminată din listă</string>
      <string name="traffic_saving_whitelist_count">Utilizarea datelor pentru %d aplicaţii nu este restricţionată</string>
      <string name="traffic_saving_whitelist_no_app">Nicio aplicaţie</string>
