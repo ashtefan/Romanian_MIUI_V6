@@ -33,20 +33,20 @@
         <item quantity="one">%1$s imprimantă găsită</item>
      </plurals>
      <plurals name="show_cit_countdown">
-        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
-        <item quantity="one">"You're %1$d step away from entering CIT."</item>
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a porni CIT.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a porni CIT.</item>
      </plurals>
      <plurals name="show_dev_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
      </plurals>
      <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d steps away from entering phone info."</item>
-        <item quantity="one">"You're %1$d step away from entering phone info."</item>
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile telefonului.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile telefonului.</item>
      </plurals>
      <plurals name="show_rep_countdown">
-        <item quantity="other">"You're %1$d steps away from reporting bug."</item>
-        <item quantity="one">"You're %1$d step away from reporting bug."</item>
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a raporta o problemă.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a raporta o problemă.</item>
      </plurals>
      <plurals name="wrong_pin_code">
         <item quantity="other">Codul PIN pentru cardul SIM este incorect. V-au mai rămas %d încercări.</item>
