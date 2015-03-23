@@ -166,10 +166,10 @@ Utilizați doar încărcătorul furnizat de producător."</string>
      <string name="status_bar_recent_guide_all">Glisaţi în sus pt. a închide, glisaţi în jos pt. a bloca</string>
      <string name="status_bar_recent_guide_bottom">Glisaţi în jos pt. a bloca</string>
      <string name="status_bar_recent_guide_top">Glisaţi în sus pt. a închide</string>
-     <string name="status_bar_recent_memory_info1">%1$sB din %2$sB disponibili</string>
+     <string name="status_bar_recent_memory_info1">Disponibil: %1$sO din %2$sO</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Reveniţi la înregistrare</string>
-     <string name="status_bar_recording_pause">Înregistrare în pauză</string>
+     <string name="status_bar_recording_pause">Înregistrare întreruptă</string>
      <string name="status_bar_settings_airplane">Mod Avion</string>
      <string name="status_bar_settings_battery_meter_format">%d%%</string>
      <string name="status_bar_settings_signal_meter_disconnected">Fără conex. internet</string>
