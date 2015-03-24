@@ -79,4 +79,5 @@
     <string name="settings">Setări</string>
     <string name="not_insert_contact">Nu se poate adăuga contactul</string>
     <string name="choose_picture">Selectaţi codul QR al imaginii</string>
+    <string name="continue_to_website">Continuaţi pe site-ul web</string>
 </resources>

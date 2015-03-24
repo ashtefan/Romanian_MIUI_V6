@@ -239,7 +239,7 @@
      <string name="resource_title">Detalii resursă</string>
      <string name="resource_title_category">Categorii</string>
      <string name="resource_title_hot_subject">Populare</string>
-     <string name="resource_title_local">Locale</string>
+     <string name="resource_title_local">Off-line</string>
      <string name="resource_title_rank">Top</string>
      <string name="resource_title_select_ringtone">Selectaţi tonul de apel</string>
      <string name="resource_title_subject">Recomandate</string>
@@ -326,7 +326,7 @@
      <string name="theme_yes">Da</string>
      <string name="third_party_pickers_activity_title">Setaţi %1$s</string>
      <string name="title_component">Editaţi tema</string>
-     <string name="title_system_resource">Resurse locale</string>
+     <string name="title_system_resource">Off-line</string>
      <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
      <string name="wallpaper_crop">Decupaţi</string>
      <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>

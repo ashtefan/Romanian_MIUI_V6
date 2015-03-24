@@ -478,7 +478,7 @@
      <string name="head_only_enable_dialog_positive">Activaţi</string>
      <string name="head_only_enable_dialog_title">Economisire date mobile</string>
      <string name="header_category_account">Conturi</string>
-     <string name="header_category_other">Setări adiţionale</string>
+     <string name="header_category_other">Feedback</string>
      <string name="header_label_general_preferences">Generale</string>
      <string name="help_and_info">Ajutor</string>
      <string name="hide_atts_remaining">Ascundeţi %1$d ataşamente</string>
@@ -938,4 +938,11 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
      <string name="save_power_summary">Economisire acumulator în  timpul prestabilit</string>
      <string name="save_power_title">Economisire acumulator</string>
      <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
+     <string name="sdcard_cannot_use">Cardul de stocare nu poate fi utilizat</string>
+     <string name="upload_log">Încărcați jurnale de diagnosticare</string>
+     <string name="upload_log_failed">Încărcare eşuată</string>
+     <string name="upload_log_success">Încărcare reuşită</string>
+     <string name="upload_log_title">Încărcați jurnalele de diagnosticare?</string>
+     <string name="uploading_logs">Încărcare jurnale</string>
+     <string name="you_are_in_mobile_network">În prezent utilizați o rețea de telefonie mobilă, fiţi atent la trafic!</string>
 </resources>

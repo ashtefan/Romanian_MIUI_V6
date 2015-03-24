@@ -125,18 +125,18 @@
      <string name="label_callwait">Apel în aşteptare</string>
      <string name="loding">Încărcare date</string>
      <string name="log_count">(%d)</string>
-     <string name="mark_agent">Intermediar</string>
+     <string name="mark_agent">Agent</string>
      <string name="mark_agent_block">Raportat ca intermediar</string>
      <string name="mark_banking_insurance">Investiții și Asigurări</string>
      <string name="mark_banking_insurance_block">Raportat ca vânzări de asigurări</string>
      <string name="mark_express">Curier</string>
      <string name="mark_express_block">Raportat ca curier</string>
-     <string name="mark_fraud">Fraudulos</string>
+     <string name="mark_fraud">Fraudă</string>
      <string name="mark_fraud_block">Raportat ca fraudă</string>
      <string name="mark_meal">Livrare alimente</string>
      <string name="mark_meal_block">Raportat ca livrare alimente</string>
      <string name="mark_number_info">Rețineți că, uneori, aceste apeluri pot fi utile (de exemplu atunci când sunteți în căutarea unui apartament). Blocaţi numai numerele de la care nu doriți să primiți apeluri.</string>
-     <string name="mark_sell">Vânzări</string>
+     <string name="mark_sell">Telemarketer</string>
      <string name="mark_sell_block">Raportat ca vânzări</string>
      <string name="marked_by_others">"alţi %d (de) utilizatori l-au etichetat ca "</string>
      <string name="marked_by_user">"l-aţi etichetat ca "</string>
@@ -302,4 +302,13 @@
      <string name="user_define_title">Adăugaţi reguli</string>
      <string name="whitelist_prefix_add_hint">Adăugaţi toate numerele cu acest prefix în lista excepţiilor</string>
      <string name="wl_no_whitelist">Nicio excepţie</string>
+     <string name="mark_number_setting_guide_title">Blocare numere raportate</string>
+     <string name="mark_number_setting_guide_content1">Blocaţi apelurile de la numerele raportate?</string>
+     <string name="mark_number_setting_guide_content2">Se blochează automat apelurile de la numerele care au fost raportate de către alți utilizatori</string>
+     <string name="mark_number_setting_guide_content3">Aţi raportat un număr ca %1$s. Doriţi să blocați apelurile de la numerele raportate ca %2$s?</string>
+     <string name="mark_number_setting_guide_forward">Setări listă blocări</string>
+     <string name="mark_number_fraud">Fraudă</string>
+     <string name="mark_number_agent">Agent</string>
+     <string name="mark_number_sell">Telemarketer</string>
+     <string name="mark_number_banking">Vânzări de asigurări</string>
 </resources>

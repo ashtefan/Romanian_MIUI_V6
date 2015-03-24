@@ -20,11 +20,11 @@
         <item>Foarte mare</item>
      </string-array>
      <string-array name="welcome_notes_content">
-        <item>"Acum puteți nota cu ușurință ideile, memo-uri, gânduri, folosind
+        <item>"Apăsați pentru a crea o notă
 "</item>
-        <item>"Atașare poze sau contacte
+        <item>"Pentru a adăuga o imagine sau pentru a afişa căsuţele, apăsați butonul de mai jos
 "</item>
-        <item>"Verificare sarcini cu degetul
+        <item>"Apăsați și țineți apăsat o notă pentru a o fixa, muta, sau șterge
 "</item>
         <item>"Și multe alte caracteristici!
   - Sincronizare cu Mi Cloud

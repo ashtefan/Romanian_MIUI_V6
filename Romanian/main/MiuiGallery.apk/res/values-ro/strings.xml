@@ -376,7 +376,7 @@
      <string name="operation_unset_as_screensaver">Anulaţi screensaver</string>
      <string name="orientation">Orientare</string>
      <string name="original">Original</string>
-     <string name="original_scale">Scară originală</string>
+     <string name="original_scale">Original</string>
      <string name="other_category">Setări adiţionale</string>
      <string name="owner_album_subtitle">Partajat cu %1$s (de) utilizatori</string>
      <string name="paint_cancel_context">Renunțaţi la modificările efectuate la această imagine?</string>
@@ -582,7 +582,7 @@
      <string name="wps">WPS</string>
      <string name="yellow_page">Registru</string>
      <string name="yes">Da</string>
-     <string name="yunyi_pocket_camera">Pocket Camera</string>
+     <string name="yunyi_pocket_camera">Cameră sport</string>
      <string name="early_bird">Earlybird</string>
      <string name="brannan">Brannan</string>
      <string name="cool">Rece</string>
@@ -612,4 +612,11 @@
      <string name="name_wrong">Nu este %s</string>
      <string name="face_album_rename_hint">Introduceţi numele</string>
      <string name="face_move_dialog_title">Selectaţi un album</string>
+     <string name="sports_camera">Cameră sport</string>
+     <string name="always_rotate_alert_title">Activare rotire automată a imaginilor</string>
+     <string name="always_rotate_alert_msg">Dezactivaţi-o în setările galeriei</string>
+     <string name="always_rotate_alert_positive_button_text">Activaţi</string>
+     <string name="saturation_abbr">S</string>
+     <string name="highlight_abbr">L</string>
+     <string name="contrast_abbr">C</string>
 </resources>

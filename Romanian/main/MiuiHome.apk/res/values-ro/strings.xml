@@ -229,4 +229,5 @@
      <string name="widget_favorite_contacts_style">Schimbaţi dimensiunea</string>
      <string name="widget_gadget_player">Muzică</string>
      <string name="widget_global_search">Căutare</string>
+     <string name="cloud_app_restore_title">În așteptare</string>
 </resources>
