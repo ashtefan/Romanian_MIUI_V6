@@ -723,4 +723,12 @@
      <string name="title_default_app">%s MIUI nu este setată ca aplicaţie prestabilită</string>
      <string name="summary_default_app">%s nu este setată ca aplicaţie de sistem prestabilită</string>
      <string name="toast_default_app">%1$s este setată ca %2$s prestabilită de sistem</string>
+     <string name="notification_title_cmcc_app_check">%d (de) zile de la ultima verificare</string>
+     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
+     <string name="title_cmcc_app_check">Verificarea nu este completă</string>
+     <string name="summary_cmcc_app_check">Unele aplicații nu au putut fi verificate</string>
+     <string name="cmcc_app_check_dialog_title">Sistem reparat</string>
+     <string name="cmcc_app_check_dialog_message">Reporniți dispozitivul pentru a finaliza reparația.</string>
+     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
+     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
 </resources>

@@ -213,4 +213,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
      <string name="user_guide_for_notification">Glisaţi în jos cu un deget pentru a deschide panoul notificărilor</string>
      <string name="user_guide_for_toggle">Lista comutatoarelor poate fi derulată orizontal</string>
      <string name="user_guide_for_toggle_list">Gestionaţi comutatoarele</string>
+     <string name="media_projection_dialog_text">%s va începe captarea a tot ce este afișat pe ecran.</string>
+     <string name="media_projection_remember_text">Nu se afişează din nou</string>
+     <string name="media_projection_action_text">Porniţi</string>
 </resources>

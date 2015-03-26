@@ -613,8 +613,8 @@
      <string name="face_album_rename_hint">Introduceţi numele</string>
      <string name="face_move_dialog_title">Selectaţi un album</string>
      <string name="sports_camera">Cameră sport</string>
-     <string name="always_rotate_alert_title">Activare rotire automată a imaginilor</string>
-     <string name="always_rotate_alert_msg">Dezactivaţi-o în setările galeriei</string>
+     <string name="always_rotate_alert_title">Rotire automată a imaginilor</string>
+     <string name="always_rotate_alert_msg">Puteți activa, sau dezactiva această caracteristică oricând în setările galeriei</string>
      <string name="always_rotate_alert_positive_button_text">Activaţi</string>
      <string name="saturation_abbr">S</string>
      <string name="highlight_abbr">L</string>

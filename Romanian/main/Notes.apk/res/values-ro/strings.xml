@@ -38,7 +38,7 @@
      <string name="login_sync">Conectare şi sincronizare</string>
      <string name="menu_create_folder">Dosar nou</string>
      <string name="menu_delete">Ştergeţi</string>
-     <string name="menu_move">Mutaţi</string>
+     <string name="menu_folders">Dosare</string>
      <string name="menu_move_parent_folder">Dosarul sursă</string>
      <string name="menu_send_to_desktop">Plasaţi pe desktop</string>
      <string name="menu_send_wechat">Trimiteţi la WeChat</string>

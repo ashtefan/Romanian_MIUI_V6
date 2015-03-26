@@ -428,14 +428,14 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="check_network_state">Verificaţi starea reţelei</string>
      <string name="current_network_state_not_need_diagnose">Normal</string>
      <string name="apn_exception_title">Verificaţi configuraţiile APN</string>
-     <string name="apn_exception_summary">APN setat incorect</string>
+     <string name="apn_exception_summary">Testare configuraţii APN operator</string>
      <string name="dns_exception_title">Testare DNS</string>
      <string name="dns_exception_summary">Setările DNS ale router-ului nu sunt disponibile.</string>
      <string name="wifi_exception_title">Testare reţea Wi-Fi</string>
      <string name="wifi_exception_summary">Testaţi o reţea Wi-Fi disponibilă</string>
      <string name="signal_exception_title">Semnal de rețea slab</string>
      <string name="signal_exception_summary">Nu se poate conecta la rețea în această zonă.</string>
-     <string name="usbsharenet_exception_title">Testare rețea ShareNet USB</string>
+     <string name="usbsharenet_exception_title">Testare rețea partajată prin USB</string>
      <string name="usbsharenet_exception_summary">Nu se poate testa rețea partajată de Mi PC Suite.</string>
      <string name="gateway_exception_title">Testare router</string>
      <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
@@ -443,7 +443,7 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
      <string name="arrearage_exception_summary">Contabilizarea operatorului dvs. arată că trebuie să supliniţi contul</string>
      <string name="see_detail">Detalii</string>
      <string name="choose">Selectaţi</string>
-     <string name="pay_charge">Suplinire</string>
-     <string name="replace_dns">Înlocuire automată</string>
+     <string name="pay_charge">Achiziţionaţi date suplimentare</string>
+     <string name="replace_dns">Înlocuire DNS în mod automat</string>
      <string name="load_fail">Nu se poate încărca</string>
 </resources>

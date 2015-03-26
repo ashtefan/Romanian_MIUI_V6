@@ -55,10 +55,13 @@
     <string name="download_network_is_not_available">Nu se poate conecta la rețea</string>
     <string name="play_local_sound">Redare off-line: %1$s</string>
     <string name="no_network_text">Nu se poate conecta la rețea.</string>
-    <string name="use_fm_radio_failed">Acest dispozitiv nu poate utiliza Radio FM</string>
+    <string name="metered_network_text">Apăsați pentru a obține conținut radio într-o rețea sensibilă la utilizarea datelor.</string>
+    <string name="use_fm_radio_failed">Aceste dispozitive nu pot utiliza Radio FM</string>
     <string name="no_network_button_radio">Utilizaţi Radio FM</string>
-    <string name="no_network_button_refresh">Actualizaţi</string>
+    <string name="no_network_button_refresh">Obţineţi conținut bogat</string>
     <string name="no_display_history_text">Niciun istoric</string>
+    <string name="no_display_channel_text">Resursă lipsă, niciun sunet</string>
+    <string name="no_display_other_text">Niciun rezultat</string>
     <string name="favorite">Favorit</string>
     <string name="unfavorite">Nefavorit</string>
     <string name="like_channel">Programe similare %1$s</string>
@@ -93,9 +96,11 @@
     <string name="dialog_title_tone_quality">Calitate flux</string>
     <string name="share">Distribuiţi</string>
     <string name="qingting_logo"> | Qingting FM</string>
+    <string name="channel_off">Programul nu există deja</string>
     <string name="impunity_declaration_title">Conexiune internet</string>
     <string name="impunity_declaration">Radio trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="impunity_declaration_ignore">Nu se afișează din nou</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Refuzaţi</string>
+    <string name="share_in_development" />
 </resources>
