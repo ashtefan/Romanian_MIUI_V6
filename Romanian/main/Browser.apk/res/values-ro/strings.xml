@@ -21,7 +21,7 @@
      <string name="action_menu_text_bandwidth_on">Lărgime de bandă/Activat</string>
      <string name="action_menu_text_bookmark">Adăugaţi un marcaj</string>
      <string name="action_menu_text_exit">Ieşire</string>
-     <string name="action_menu_text_history">Istoric marcaje</string>
+     <string name="action_menu_text_history">Marcaje/istoric</string>
      <string name="action_menu_text_nightmode">Mod nocturn</string>
      <string name="action_menu_text_nightmode_off">Mod nocturn</string>
      <string name="action_menu_text_nightmode_on">Mod nocturn</string>
@@ -34,7 +34,7 @@
      <string name="adblock_rules_restore">Deblocaţi</string>
      <string name="adblock_websites_settings_empyt_hint">Nu ați blocat niciun site.</string>
      <string name="adblock_websites_settings_title">Site-uri blocate</string>
-     <string name="add_bookmark">"Adăugaţi un marcaj "</string>
+     <string name="add_bookmark">" Adăugaţi un marcaj"</string>
      <string name="add_bookmark_group">Adăugaţi un grup</string>
      <string name="add_folder">Adăugaţi un grup</string>
      <string name="add_new_bookmark">Adăugaţi un marcaj</string>
@@ -774,7 +774,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="webapp_settings_title">Setări</string>
      <string name="webapp_splashview_loading">Încărcare...</string>
      <string name="webapp_webapp_favortes_title">Favorite</string>
-     <string name="webpage_bookmark_title">Marcaj</string>
+     <string name="webpage_bookmark_title">Marcaje</string>
      <string name="webpage_history_title">Istoric</string>
      <string name="webpage_title">Marcaje şi istoric</string>
      <string name="website_settings_clear_all">Ştergeţi toate datele</string>
