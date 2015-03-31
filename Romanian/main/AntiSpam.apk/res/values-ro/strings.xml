@@ -284,7 +284,7 @@
      <string name="st_title_open_antispam">Listă blocări</string>
      <string name="st_title_other_group">Altele</string>
      <string name="st_title_settings_other_group">Setări adiţionale</string>
-     <string name="st_title_show_antispamnotification">Notificare pentru apelurile blocate</string>
+     <string name="st_title_show_antispamnotification">Notificare apeluri blocate</string>
      <string name="st_title_sim_card">SIM%2$s %1$s</string>
      <string name="st_title_sim_unknown">Necunoscut</string>
      <string name="st_title_whitelist_numbers">Excepţii</string>
@@ -311,4 +311,8 @@
      <string name="mark_number_agent">Agent</string>
      <string name="mark_number_sell">Telemarketer</string>
      <string name="mark_number_banking">Vânzări de asigurări</string>
+     <string name="antispam_notification_setting_title">Notificări</string>
+     <string name="antispam_notificaiton_type_show_all">Se afişează când un apel este blocat</string>
+     <string name="antispam_notificaiton_type_show_except_blacklist">Se afişează când un apel din lista excepţiilor este blocat</string>
+     <string name="antispam_notificaiton_type_show_none">Nu se afișează notificări</string>
 </resources>

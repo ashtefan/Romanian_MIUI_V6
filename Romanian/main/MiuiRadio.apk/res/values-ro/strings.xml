@@ -103,4 +103,6 @@
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Refuzaţi</string>
     <string name="share_in_development" />
+    <string name="action_item_delete">Ştergeţi</string>
+    <string name="confirm_delete_history_text">Ştergeţi elementele selectate?</string>
 </resources>
