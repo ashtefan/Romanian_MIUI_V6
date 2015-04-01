@@ -2055,7 +2055,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
     <string name="show_touches_summary">Afişaţi feedback vizual pentru atingeri</string>
     <string name="show_user_info_on_lockscreen_label">Informații utilizator pe ecranul de blocare</string>
     <string name="silent_mode_title">Modul silenţios</string>
-    <string name="sim_bad_pin">Cod PIN incorect</string>
+    <string name="sim_bad_pin">Introduceți un cod PIN format din 4-8 cifre</string>
     <string name="sim_change_failed">"Nu se poate schimba codul PIN.
 Codul PIN poate fi incorect."</string>
     <string name="sim_change_failed_enable_sim_lock">Activaţi blocarea cardului SIM</string>
@@ -2126,8 +2126,9 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="stable_build">" | Stabil"</string>
     <string name="status_awake_time">Durată de activitate</string>
     <string name="status_bar_and_notification_bar">Panou notificări şi bară de stare</string>
-    <string name="status_bar_filter_item_description">Pentru a configura notificările, mergeţi la Setări > Panou notificări > Gestiune notificări</string>
-    <string name="status_bar_filter_item_preview_image">Previzualizare</string>
+    <string name="status_bar_settings_notification_led">Indicator luminos intermitent</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Sunet şi vibrare</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Se afişează notificări plutitoare pe blocarea ecranului și în general peste tot</string>
     <string name="status_bar_key_position_custom">Poziție personalizată a butoanelor</string>
     <string name="status_bar_screen_button_key">Butoane virtuale</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>
@@ -2149,11 +2150,11 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_show_carrier_summary">Se afișează doar pe blocarea ecranului</string>
     <string name="status_bar_settings_show_flow_info">Afişare utilizare date</string>
     <string name="status_bar_settings_show_network_speed">Afişare viteză de conexiune</string>
-    <string name="status_bar_settings_show_notificationBar_notification">Se afişează în panoul notificărilor</string>
+    <string name="status_bar_settings_enable_notification">Se permit notificările</string>
     <string name="status_bar_settings_show_notification_icon">Se afişează pictogramele notificărilor</string>
     <string name="status_bar_settings_show_screenshot_notification">Afişare notificare captură de ecran</string>
-    <string name="status_bar_settings_show_statusBar_notification">Se afişează notificările plutitoare</string>
-    <string name="status_bar_settings_show_statusBar_notification_summary">Se afişează notificările plutitoare peste tot</string>
+    <string name="status_bar_settings_show_home_message">Simbol pictogramă</string>
+    <string name="status_bar_settings_show_keyguard_notification">Se afişează notificările plutitoare</string>
     <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Bară de stare</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>

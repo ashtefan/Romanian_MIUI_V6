@@ -549,4 +549,12 @@
     <string name="message_expired">Expirat</string>
     <string name="message_contact">Contact:</string>
     <string name="message_number">Număr de telefon:</string>
+    <string name="recipients_over_size">Prea mulţi destinatari.</string>
+    <string name="pref_title_storage_status">Starea stocării mesajelor</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
+    <string name="storage_dialog_mms_size">Dimensiune MMS:</string>
+    <string name="storage_dialog_attachments">Ataşamente MMS:</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_dialog_database">Baza de date:</string>
+    <string name="storage_dialog_available_space">Spaţiu disponibil:</string>
 </resources>
