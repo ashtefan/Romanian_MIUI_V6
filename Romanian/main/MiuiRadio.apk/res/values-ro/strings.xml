@@ -13,6 +13,7 @@
     <string name="presonal_center">Cont</string>
     <string name="local_list_item_history">Istoric</string>
     <string name="access_history">Istoric</string>
+    <string name="local_program">Programe locale</string>
     <string name="hotlist_name">Recomandate</string>
     <string name="updated">" actualizat"</string>
     <string name="load_failed">Nu se poate conecta la reţea</string>
@@ -60,7 +61,8 @@
     <string name="no_network_button_radio">Utilizaţi Radio FM</string>
     <string name="no_network_button_refresh">Obţineţi conținut bogat</string>
     <string name="no_display_history_text">Niciun istoric</string>
-    <string name="no_display_channel_text">Resursă lipsă, niciun sunet</string>
+    <string name="no_download_text">Nicio descărcare</string>
+    <string name="no_display_channel_text">Resurse lipsă, niciun sunet</string>
     <string name="no_display_other_text">Niciun rezultat</string>
     <string name="favorite">Favorit</string>
     <string name="unfavorite">Nefavorit</string>

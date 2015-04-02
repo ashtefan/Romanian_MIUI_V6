@@ -557,4 +557,7 @@
     <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_dialog_database">Baza de date:</string>
     <string name="storage_dialog_available_space">Spaţiu disponibil:</string>
+    <string name="over_max_mms_size">MMS prea mare.</string>
+    <string name="pref_title_send_delivery_reports">Trimiteţi raport de livrare</string>
+    <string name="pref_summary_send_delivery_reports">Trimiteţi raport de livrare pentru mesajele primite</string>
 </resources>

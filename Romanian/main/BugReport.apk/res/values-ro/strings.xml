@@ -110,4 +110,6 @@
     <string name="wifi_problem4">Nu se poate conecta la rețea</string>
     <string name="toast_feedback_collect_store">Colectare jurnale…</string>
     <string name="submit_dialog_not_wifi_content">Feedback-ul dvs., împreună cu jurnalurile erorilor și imagini atașate, vor fi trimise la serverele Mi, atunci când dispozitivul este conectat la Wi-Fi.</string>
+    <string name="network_disconnected">Nicio reţea</string>
+    <string name="toast_fill_brackets">Completați în paranteze</string>
 </resources>

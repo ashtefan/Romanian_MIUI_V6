@@ -9,8 +9,8 @@
     <string name="input_method_setting">Selectați tastatura prestabilită</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
     <string name="locale_picker_title">Selectaţi localizarea</string>
-    <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la rețea. Vizualizaţi Politica de confidențialitate la %s</string>
-    <string name="miui_terms_no_network">Nu aveți o conexiune la rețea. Vizualizaţi Termenii și condițiile la %s</string>
+    <string name="miui_privacy_policy_no_network">Nu aveți conexiune internet. Vizualizaţi Politica de confidențialitate la %s.</string>
+    <string name="miui_terms_no_network">Nu aveți conexiune internet. Vizualizaţi Termenii și condițiile la %s.</string>
     <string name="multisim_settings_category">Setări card SIM</string>
     <string name="multisim_settings_title">2 carduri SIM detectate</string>
     <string name="network_access_warning">Trebuie să vă conectaţi la internet pentru a activa serviciile Mi.</string>
@@ -40,7 +40,7 @@ Vizualizaţi "</string>
     <string name="sim_redetection">Verificaţi din nou</string>
     <string name="summary_not_set">Nu este setat</string>
     <string name="summary_sim_card">Card %1$d</string>
-    <string name="summary_sim_card_with_operator">Card %1$d, %2$s</string>
+    <string name="summary_sim_card_with_operator">Card %1$d: %2$s</string>
     <string name="terms_of_use">Termeni și condiții</string>
     <string name="terms_of_use_label">Confidențialitatea dvs. este foarte importanta pentru noi. Vă rugăm să citiți Termenii și condițiile și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
 

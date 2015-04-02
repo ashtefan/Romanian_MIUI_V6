@@ -2162,7 +2162,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_toggle_layout_style_applying">Schimbare stil…</string>
     <string name="status_bar_settings_toggle_layout_style_compact">Bară</string>
     <string name="status_bar_settings_toggle_layout_style_single_page">Pagină</string>
-    <string name="status_bar_settings_toggle_position">Poziţie comutatoare</string>
+    <string name="status_bar_settings_toggle_position">Poziţii comutatoare</string>
     <string name="status_bar_style_settings">Notificări</string>
     <string name="status_bt_address">Adresă Bluetooth</string>
     <string name="status_data_state">Starea reţelei mobile</string>
