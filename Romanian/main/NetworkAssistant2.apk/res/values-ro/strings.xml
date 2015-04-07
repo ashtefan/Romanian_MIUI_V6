@@ -131,11 +131,11 @@ o conexiune de date mobilă"</string>
     <string name="main_primary_message_traffic_purchase">Este necesar să supliniţi</string>
     <string name="main_primary_message_traffic_warning">Aproape de limita de utilizare a datelor</string>
     <string name="main_secondary_message_traffic_detail_leisure">"
-În afara orelor de vârf: rămas %1$s | utilizat %2$s"</string>
+În afara orelor de vârf: %1$s | utilizat %2$s"</string>
     <string name="main_secondary_message_traffic_detail_normal">"
-În orele de vârf: rămas %1$s%2$s | utilizat %3$s"</string>
-    <string name="main_secondary_message_traffic_over">peste</string>
-    <string name="main_secondary_message_traffic_remain">rămas</string>
+În orele de vârf: %1$s%2$s | utilizat %3$s"</string>
+    <string name="main_secondary_message_traffic_over">"peste "</string>
+    <string name="main_secondary_message_traffic_remain">"rămas "</string>
     <string name="main_secondary_message_traffic_used_leisure">Date utilizate în afara orelor de vârf: %s</string>
     <string name="main_secondary_message_traffic_used_noleisure">Date utilizate în orele de vârf %s | nu au mai rămas date în afara orelor de vârf</string>
     <string name="main_secondary_message_traffic_used_normal">Date utilizate în orele de vârf %s</string>
@@ -448,4 +448,5 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
     <string name="load_fail">Nu se poate încărca</string>
     <string name="add_miservice_dialog_title">MIUI service framework</string>
     <string name="add_miservice_dialog_content">%s necesită să adăugați MIUI service framework la lista de excepții. Puteți primi notificări de la aplicațiile MIUI și alte aplicații.</string>
+    <string name="repair_loading_text">Încărcare…</string>
 </resources>
