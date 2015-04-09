@@ -52,7 +52,8 @@
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Conectarea dvs. la %s a eşuat; motivul invocat de server a fost: %s Doriţi să actualizaţi numele de utilizator şi/sau parola?</string>
     <string name="account_settings_login_dialog_title">Nu s-a putut conecta</string>
     <string name="account_settings_mail_check_frequency_label">Frecvență</string>
-    <string name="account_settings_name_label">Numele dvs.</string>
+    <string name="account_settings_mibill_resolve_label">Analizarea situațiilor de e-mail</string>
+    <string name="account_settings_name_label">Porecla</string>
     <string name="account_settings_notifications">Setări notificare</string>
     <string name="account_settings_notify_label">Notificări</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>
@@ -140,7 +141,7 @@
     <string name="account_setup_names_headline">Contul este configurat, iar e-mailul funcţionează corect!</string>
     <string name="account_setup_names_title">Configurare cont</string>
     <string name="account_setup_names_user_name_empty_error">Acest câmp nu poate rămâne necompletat.</string>
-    <string name="account_setup_names_user_name_label">Numele dvs. (afişat în mesajele de trimitere)</string>
+    <string name="account_setup_names_user_name_label">Porecla (afişat în mesajele de trimitere)</string>
     <string name="account_setup_need_password_verification">Contul dvs. are autentificare cu parolă secundară. Este necesară autentificarea.</string>
     <string name="account_setup_not_disturb_title">Nu deranjaţi</string>
     <string name="account_setup_options_background_attachments_label">Doresc să se descarce automat ataşamentele când sunt conectat(ă) la Wi-Fi</string>
@@ -379,7 +380,7 @@
     <string name="done_action">Finalizat</string>
     <string name="donot_disturb_endtime_title">Până la</string>
     <string name="donot_disturb_starttime_title">De la</string>
-    <string name="donot_disturb_summary">Nu deranjați în timpul prestabilit</string>
+    <string name="donot_disturb_summary">Notificările pentru e-mailurile care sosesc vor fi reduse la tăcere</string>
     <string name="donot_disturb_title">Nu deranjaţi</string>
     <string name="downlaod_cancel_confirm_download">Opriţi</string>
     <string name="downlaod_cancel_continue_download">Nu se opreşte</string>
@@ -736,7 +737,7 @@ CC: %4$s
     <string name="preferences_default_reply_all_summary">Utilizați ca setare prestabilită pentru răspunsurile la mesaje</string>
     <string name="preferences_default_reply_all_title">Răspundeți tuturor</string>
     <string name="preferences_signature_dialog_title">Semnătură</string>
-    <string name="preferences_signature_summary_not_set">Nesetată</string>
+    <string name="preferences_signature_summary_not_set">Nimic</string>
     <string name="preferences_signature_title">Semnătură</string>
     <string name="prefetched_got_it">OK</string>
     <string name="preview_attachment">Previzualizaţi</string>
@@ -933,10 +934,10 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_correct_address_tips">Introduceţi adresa de e-mail</string>
     <string name="outbox_alert_description_insufficient_storage_error">Stocare insuficientă pe serverul de e-mail</string>
-    <string name="reduce_the_receiving_frequencye_summary">Scăderea ratei de sincronizare a e-mailului în timpul prestabilit</string>
-    <string name="reduce_the_receiving_frequencye_title">Scăderea ratei de sincronizare a e-mailului în timpul prestabilit</string>
-    <string name="save_power_summary">Economisire acumulator în  timpul prestabilit</string>
-    <string name="save_power_title">Economisire acumulator</string>
+    <string name="reduce_the_receiving_frequencye_summary">Se sincronizează inbox-ul mai rar în timp ce Nu deranjați este activat</string>
+    <string name="reduce_the_receiving_frequencye_title">Se sincronizează mai rar</string>
+    <string name="save_power_summary">Notificările pentru e-mailurile care sosesc vor fi reduse la tăcere</string>
+    <string name="save_power_title">Nu derajaţi</string>
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
     <string name="sdcard_cannot_use">Cardul de stocare nu poate fi utilizat</string>
     <string name="upload_log">Încărcare jurnale</string>
@@ -953,4 +954,14 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Conectaţi-vă la Gmail</string>
     <string name="open_proxy_in_settings">Gmail nu este disponibil în locația curentă. Puteți trimite și primi mesaje, în continuare, folosind un server proxy. Activați, sau dezactivaţi această opţiune în Setări.</string>
+    <string name="mibill_privacy_policy_button1">Nu acum</string>
+    <string name="mibill_privacy_policy_button2">Acceptaţi</string>
+    <string name="mibill_privacy_policy_description">Portofel Mi va analiza toate declarațiile de e-mail primite în aplicația E-mail și va gestiona toate facturile de card de credit pentru dvs. Acest serviciu este dezactivat pentru căsuța poștală a companiei.</string>
+    <string name="mibill_privacy_policy_link">Acceptaţi <a href="https://www.mipay.com/res/doc/eula/email.html">Acordul de utilizare a serviciului Facturi card de credit</a></string>
+    <string name="mibill_privacy_policy_title">Portofel Mi analează declarațiile de e-mail</string>
+    <string name="toast_bar_fail_synchronization">Conexiune la rețea anormală. Încercați din nou mai târziu</string>
+    <string name="toast_bar_insufficient_memory_space">Spaţiu de stocare insuficient în telefon, sincronizarea e-mailului a eşuat</string>
+    <string name="toast_bar_invalid_account">Cont expirat, reautentificaţi-vă</string>
+    <string name="toast_bar_no_connection_network">Rețeaua nu este conectată, apăsaţi pentru a configura</string>
+    <string name="toast_bar_open_gmail_synchronization">Nu mai este limitată utilizarea Gmail, faceți clic pentru a utiliza</string>
 </resources>

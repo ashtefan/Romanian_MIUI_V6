@@ -50,8 +50,13 @@
     <string name="find_device_disabled_title">Localizare dispozitiv dezactivată</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Găsiți, blocaţi, sau resetați dispozitivul de la distanță</string>
-    <string name="find_device_dspt_provision">"Găsiți
-Localizaţi, blocaţi, sau sau resetați dispozitivul la "</string>
+    <string name="find_device_dspt_provision">"Dacă pierdeți dispozitivul, puteţi să accesaţi %s pentru a-l localiza, bloca, sau reseta. Puteți activa, sau dezactiva această opţiune în Setări.
+"</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">Nu se utilizează</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Utilizaţi Mi Cloud</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">Nu utilizaţi Mi Cloud?</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Aplicațiile MIUI au nevoie de Mi Cloud pentru a rezerva fotografiile, contactele, notele, etc. Mi Cloud este gratuit și gata de utilizare.</string>
+    <string name="sync_dspt_entrance_provision_skip"><u>Omiteţi acest pas</u></string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Puteți activa, sau dezactiva această caracteristică oricând în Setări.</string>
@@ -64,7 +69,9 @@ Localizaţi, blocaţi, sau sau resetați dispozitivul la "</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
 Dacă comutaţi cardurile SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
-    <string name="find_device_send_sms_alert">Dacă comutaţi cardurile SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
+    <string name="find_device_send_sms_alert">"
+
+Dacă comutaţi cardurile SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție."</string>
     <string name="find_device_status_ok">Găsiți dispozitivul de oriunde pe i.mi.com</string>
     <string name="find_device_stop_noise">Atingeţi OK pentru a opri sunetul</string>
     <string name="find_device_success_title">Localizare dispozitiv</string>
@@ -217,7 +224,7 @@ Această caracteristică criptează și încarcă ID-ul dispozitivului dvs. pe s
     <string name="sub_sync_item_sms_title_wifi_only">Utilizaţi doar Wi-Fi pentru sincronizarea MMS</string>
     <string name="success_upgraded_space">%s adăugat</string>
     <string name="sync_dspt">Sincronizare</string>
-    <string name="sync_dspt_entrance_provision">"Sincronizaţi fotografiile, contactele și mesajele, sau localizați dispozitivul. "</string>
+    <string name="sync_dspt_entrance_provision">"Sincronizaţi fotografiile, contactele, istoricul apelurilor și mesajele între toate dispozitivele dvs. Accesaţi lucrurile pe care le-aţi sincronizat din orice browser la adresa %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Aflaţi mai multe</string>
     <string name="sync_dspt_provision">"Sincronizare
 Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
@@ -254,10 +261,10 @@ Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele
     <string name="upgrade_space_tb">TO</string>
     <string name="user_agreement">Acordul de utilizare</string>
     <string name="user_agreement_p6">"
-Utilizarea acestei caracteristici este supusă "</string>
-    <string name="user_agreement_p7">"Condiţiilor de utilizare Mi Cloud"</string>
+Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
+    <string name="user_agreement_p7">Condiţiile de utilizare Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
-    <string name="user_agreement_title">Condiţiile de utilizare Mi Cloud</string>
+    <string name="user_agreement_title">Condiţii de utilizare Mi Cloud</string>
     <string name="vcode">Cod de verificare</string>
     <string name="verify">Verificare</string>
     <string name="view_storage_title">Spaţiul de stocare</string>

@@ -27,22 +27,22 @@
      <string-array name="prefEntries_autoAdvance">
         <item>Mesaje noi</item>
         <item>Mesaje vechi</item>
-        <item>Lista conversaţiilor</item>
+        <item>Inbox</item>
      </string-array>
      <string-array name="prefEntries_removal_action">
-        <item>Afișaţi doar opţiunea Arhivaţi</item>
-        <item>Afișaţi doar opţiunea Ştergeţi</item>
-        <item>Afișaţi doar opţiunea Arhivaţi şi Ştergeţi</item>
+        <item>Se afișează doar opţiunea Arhivaţi</item>
+        <item>Se afișează doar opţiunea Ştergeţi</item>
+        <item>Se afișează opţiunile Arhivaţi şi Ştergeţi</item>
      </string-array>
      <string-array name="prefSummaries_autoAdvance">
-        <item>Afișaţi conversaţiile noi după ce ștergeți</item>
-        <item>Afișaţi conversaţiile vechi după ce ștergeți</item>
-        <item>Afișaţi lista conversaţiilor după ce ștergeți</item>
+        <item>Se afișează conversaţiile noi după ștergere</item>
+        <item>Se afișează conversaţiile vechi după ștergere</item>
+        <item>Se afișează inbox-ul după ștergere</item>
      </string-array>
      <string-array name="prefSummaries_removal_action_summary">
-        <item>Afișaţi doar opţiunea Arhivaţi</item>
-        <item>Afișaţi doar opţiunea Ştergeţi</item>
-        <item>Afișaţi doar opţiunea Arhivaţi şi Ştergeţi</item>
+        <item>Se afișează doar opţiunea Arhivaţi</item>
+        <item>Se afișează doar opţiunea Ştergeţi</item>
+        <item>Se afișează opţiunile Arhivaţi şi Ştergeţi</item>
      </string-array>
      <string-array name="signature_normal_string_array">
         <item>Blog:</item>

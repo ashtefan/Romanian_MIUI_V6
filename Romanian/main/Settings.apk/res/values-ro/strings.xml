@@ -2977,4 +2977,22 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="music_dolby_mode_off">Dezactivat</string>
     <string name="music_dolby_mode_music">Muzică</string>
     <string name="music_dolby_mode_movie">Film</string>
+    <string name="locale_settings">Localizare</string>
+    <string name="country_name">%s (sistem)</string>
+    <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="screen_paper_mode_adjust_level">Ajustaţi Modul lectură</string>
+    <string name="screen_paper_mode_update_white_pkg_list_title">Actualizare listă</string>
+    <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizarea listei aplicațiilor ce utilizează Modul lectură prin rețea</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termeni și condiții</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pentru a actualiza lista aplicațiilor ce pot utiliza Modul lectură, trebuie să vă conectați la rețea. Sunteți de acord?</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Nu se mai întreabă</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">De acord</string>
+    <string name="screen_paper_mode_range_title">Gamă</string>
+    <string name="screen_paper_mode_global_title">Global</string>
+    <string name="screen_paper_mode_global_summary">Utilizați Modul lectură la nivel global, nu personalizat</string>
+    <string name="screen_paper_mode_local_title">Local</string>
+    <string name="screen_paper_mode_local_summary">Utilizați Modul lectură la nivel local, apăsaţi pe săgeata dreapta pentru a personaliza</string>
+    <string name="screen_paper_mode_set_apps_title">Modul lectură personalizat</string>
+    <string name="screen_paper_mode_apps_loading">Încărcare…</string>
+    <string name="skip_lock_screen_confirm_msg">Următoarele caracteristici vor fi dezactivate pentru blocarea ecranului: notificările, controalele Muzicii, glisarea la stânga pentru accesarea Camerei și glisarea la dreapta pentru accesarea Mi Home.</string>
 </resources>

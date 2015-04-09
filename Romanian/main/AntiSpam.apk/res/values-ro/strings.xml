@@ -312,7 +312,7 @@
      <string name="mark_number_sell">Telemarketer</string>
      <string name="mark_number_banking">Vânzări de asigurări</string>
      <string name="antispam_notification_setting_title">Notificări</string>
-     <string name="antispam_notificaiton_type_show_all">Se afişează când un apel este blocat</string>
-     <string name="antispam_notificaiton_type_show_except_blacklist">Se afişează când un apel din lista excepţiilor este blocat</string>
-     <string name="antispam_notificaiton_type_show_none">Nu se afișează notificări</string>
+     <string name="antispam_notificaiton_type_show_all">Toate numerele</string>
+     <string name="antispam_notificaiton_type_show_except_blacklist">Numerele din lista excepţiilor</string>
+     <string name="antispam_notificaiton_type_show_none">Niciodată</string>
 </resources>

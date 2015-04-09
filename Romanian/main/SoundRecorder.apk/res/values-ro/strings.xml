@@ -90,4 +90,5 @@
      <string name="rename_no_more_tip">niciun sfat</string>
      <string name="record_picker_title">Selectaţi o înregistrare</string>
      <string name="preference_tip_rename">Afişarea dialogului de redenumire după oprirea înregistrării</string>
+     <string name="record_mark_point">%s semn</string>
 </resources>
