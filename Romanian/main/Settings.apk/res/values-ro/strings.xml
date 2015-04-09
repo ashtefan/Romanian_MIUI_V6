@@ -2153,7 +2153,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_enable_notification">Se permit notificările</string>
     <string name="status_bar_settings_show_notification_icon">Se afişează pictogramele notificărilor</string>
     <string name="status_bar_settings_show_screenshot_notification">Afişare notificare captură de ecran</string>
-    <string name="status_bar_settings_show_home_message">Simbol pictogramă</string>
+    <string name="status_bar_settings_show_home_message">Insignă pictogramă</string>
     <string name="status_bar_settings_show_keyguard_notification">Se afişează notificările plutitoare</string>
     <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Bară de stare</string>
