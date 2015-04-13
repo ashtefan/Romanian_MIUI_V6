@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_toggle_ac">Acces</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_brightness">Luminozitate</string>
+    <string name="status_bar_toggle_auto_brightness">Automat</string>
+    <string name="status_bar_toggle_data">Date</string>
+    <string name="status_bar_toggle_divider">Mai multe</string>
+    <string name="status_bar_toggle_flight_mode">Avion</string>
+    <string name="status_bar_toggle_gps">GPS</string>
+    <string name="status_bar_toggle_lock">Blocare</string>
+    <string name="status_bar_toggle_mute">Silenţios</string>
+    <string name="status_bar_toggle_network_type">Reţea</string>
+    <string name="status_bar_toggle_privacy_mode">Vizitator</string>
+    <string name="status_bar_toggle_reboot">Repornire</string>
+    <string name="status_bar_toggle_rotate">Rotire</string>
+    <string name="status_bar_toggle_screen_button">Dezactivare</string>
+    <string name="status_bar_toggle_screenshot">Captură ecran</string>
+    <string name="status_bar_toggle_shutdown">Alimentare</string>
+    <string name="status_bar_toggle_sync">Sincronizare</string>
+    <string name="status_bar_toggle_torch">Lanternă</string>
+    <string name="status_bar_toggle_vibrate">Vibrare</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_power_mode">Performanţă</string>
+    <string name="status_bar_toggle_drive_mode">Automobil</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
+    <string name="status_bar_toggle_paper_mode">Mod lectură</string>
+    <string name="status_bar_toggle_sync_auto">Sincronizare</string>
+    <string name="status_bar_toggle_sync_manual">Sincronizare</string>
+    <string name="status_bar_toggle_syncing">Sincronizare</string>
+    <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
+    <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butonul Acasă și Alimentare simultan.</string>
+    <string name="screen_button_enabled_message">Butoanele de navigare au fost activate.</string>
     <string name="miui">MIUI</string>
 </resources>
