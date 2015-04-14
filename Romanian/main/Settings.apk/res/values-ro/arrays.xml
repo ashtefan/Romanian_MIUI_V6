@@ -258,13 +258,13 @@
         <item>Verificaţi întotdeauna</item>
      </string-array>
      <string-array name="led_color_entries">
-        <item>Albastră</item>
-        <item>Roşie</item>
-        <item>Galbenă</item>
+        <item>Albastru</item>
+        <item>Roşu</item>
+        <item>Galben</item>
         <item>Verde</item>
         <item>Cyan</item>
-        <item>Albă</item>
-        <item>Violetă</item>
+        <item>Alb</item>
+        <item>Violet</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 secunde</item>
@@ -298,12 +298,12 @@
         <item>Slabă</item>
      </string-array>
      <string-array name="mi1_led_color_entries">
-        <item>Albastră</item>
-        <item>Roşie</item>
+        <item>Albastru</item>
+        <item>Roşu</item>
         <item>Verde</item>
         <item>Roz</item>
-        <item>Violetă</item>
-        <item>Purpurie</item>
+        <item>Violet</item>
+        <item>Purpuriu</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP şi versiuni Windows mai vechi</item>
