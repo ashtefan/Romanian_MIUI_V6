@@ -62,7 +62,7 @@
     <string name="no_network_button_refresh">Obţineţi conținut bogat</string>
     <string name="no_display_history_text">Niciun istoric</string>
     <string name="no_download_text">Nicio descărcare</string>
-    <string name="no_display_channel_text">Resurse lipsă, niciun sunet</string>
+    <string name="no_display_channel_text">Niciun program</string>
     <string name="no_display_other_text">Niciun rezultat</string>
     <string name="favorite">Favorit</string>
     <string name="unfavorite">Nefavorit</string>

@@ -81,7 +81,7 @@
     <string name="confirm_restore_positive">Restabiliţi</string>
     <string name="confirm_restore_title">Restabilire mesaje</string>
     <string name="confirm_restore_message">Restabiliţi mesajele selectate?</string>
-    <string name="confirm_restore_checkbox">Mesajele debloca trimite din acest număr</string>
+    <string name="confirm_restore_checkbox">Restabiliţi mesajele blocate</string>
     <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca un MMS, ceea ce poate duce la costuri suplimentare.</string>
     <string name="context_menu_add_calendar">Afişaţi în Calendar</string>
     <string name="context_menu_add_contact">Adăugaţi la contacte</string>
@@ -558,6 +558,7 @@
     <string name="storage_dialog_database">Baza de date:</string>
     <string name="storage_dialog_available_space">Spaţiu disponibil:</string>
     <string name="over_max_mms_size">MMS prea mare.</string>
-    <string name="pref_title_send_delivery_reports">Trimiteţi raport de livrare</string>
-    <string name="pref_summary_send_delivery_reports">Trimiteţi raport de livrare pentru mesajele primite</string>
+    <string name="pref_title_send_delivery_reports">Trimiteţi mesaje de livrare</string>
+    <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a livrării către expeditor, atunci când primiți un mesaj multimedia</string>
+    <string name="storage_unavailable">Spaţiu indisponibil</string>
 </resources>

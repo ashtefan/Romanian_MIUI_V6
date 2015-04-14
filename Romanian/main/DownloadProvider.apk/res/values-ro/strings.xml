@@ -57,4 +57,9 @@
 
 Atingeţi %s  pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi."</string>
     <string name="wifi_required_title">Descărcare prea mare pentru reţeaua operatorului</string>
+    <string name="warning_tip_title">Avertisment utilizare a datelor</string>
+    <string name="warning_tip_content">Dvs. nu mai sunteţi conectat la Wi-Fi. Utilizarea conexiunii de date mobile pentru a finaliza această descărcare va crește utilizarea datelor. Dacă treceţi peste limita planului de date, operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="warning_tip_cancel">Descărcaţi</string>
+    <string name="warning_tip_ok">Întrerupeţi</string>
+    <string name="dialog_not_show_again">Nu se mai afişează</string>
 </resources>

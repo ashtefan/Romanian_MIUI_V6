@@ -128,16 +128,16 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
     <string name="micloud_main_set_internet">Reţea</string>
     <string name="micloud_main_space_full">Spațiu de stocare insuficient.</string>
     <string name="micloud_main_space_risk">%d (de) elemente sincronizate.</string>
-    <string name="micloud_main_stop_sync">Opriţi sincronizarea</string>
+    <string name="micloud_main_stop_sync">Sincronizare oprită</string>
     <string name="micloud_main_suggest_sync">Nu a fost posibil de sincronizat totul</string>
-    <string name="micloud_main_sync_exception">Eroare sincronizare</string>
+    <string name="micloud_main_sync_exception">Eroare de sincronizare</string>
     <string name="micloud_main_sync_now">Sincronizaţi acum</string>
     <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>
-    <string name="micloud_main_sync_pause">Pauză sincronizare</string>
-    <string name="micloud_main_sync_stop">Opriţi sincronizarea</string>
+    <string name="micloud_main_sync_pause">Sincronizare întreruptă</string>
+    <string name="micloud_main_sync_stop">Sincronizare oprită</string>
     <string name="micloud_main_synced_data_count">%d (de) elemente sincronizate</string>
     <string name="micloud_main_syncing">Sincronizare…</string>
-    <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare.</string>
+    <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare</string>
     <string name="micloud_main_wlan_sync_data_count">"%d (de) elemente aşteaptă 
 sincronizarea"</string>
     <string name="micloud_more">Aflaţi mai multe</string>
