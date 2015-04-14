@@ -42,7 +42,7 @@
      <string name="add_ql_bm_title">Adăugaţi</string>
      <string name="add_quicklink_to_popular">Adăugaţi la pagina de pornire</string>
      <string name="add_quicklinks">Adăugaţi la pagina de pornire</string>
-     <string name="add_to_bookmark">Adăugaţi la marcaje</string>
+     <string name="add_to_bookmark">La marcaje</string>
      <string name="add_to_desk">Plasaţi pe ecranul de pornire</string>
      <string name="add_to_desk_success">Plasaţi pe ecranul de pornire</string>
      <string name="add_to_quicklink">Pagina de pornire</string>
@@ -564,7 +564,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="profiler_stopped_toast">Profiler finalizat. Rezultate salvate în %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Se setează imaginea de fundal…</string>
      <string name="qr_code_title">Cod QR</string>
-     <string name="quicklink_bookmark_save">Salvaţi această pagină pe</string>
+     <string name="quicklink_bookmark_save">Salvaţi această pagină</string>
      <string name="quicklink_not_saved">Nu a fost posibil de adăugat la pagina de start</string>
      <string name="quicklink_saved">Salvat pe pagina de pornire</string>
      <string name="quicklink_saved_before">Acest site web a fost adăugat</string>
