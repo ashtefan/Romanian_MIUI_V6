@@ -297,4 +297,9 @@ Ultima rezervare: %2$s"</string>
     <string name="cloud_back_up_button_ok">Oprire forţată</string>
     <string name="cloud_back_up_network_unavailable">Nu a putut fi eliminat. Conectați-vă la Wi-Fi și încercați din nou.</string>
     <string name="cloud_back_up_remove_success">Copie de rezervă ştearsă</string>
+    <string name="activate_number_change_dialog_message">Selectați numărul major ce necesită activare. La efectuarea unui apel VoIP, apelantul va vedea acest număr</string>
+    <string name="mx_dspt_provision_with_voip">Apelaţi alți utilizatori MIUI gratuit, utilizând conexiunea la internet. Puteți activa, sau dezactiva oricând această opţiune în Setări.</string>
+    <string name="mx_sub_dspt_provision_with_voip">Apelare prin internet</string>
+    <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
+    <string name="voip_dspt">Mi Voice</string>
 </resources>
