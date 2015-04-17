@@ -291,10 +291,15 @@
      <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
      <string name="no_enough_info">Nu sunt suficiente informaţii despre melodie</string>
      <string name="disallow_add_to_personal_radio">Radio personal este doar în citire</string>
-     <string name="today_update">Muzică actualizată</string>
      <string name="click_to_view_new_local_audios">Apăsați pentru a vizualiza detaliile.</string>
      <string name="action_item_favorite">Favorit</string>
      <string name="more_about_artist">Mai multe despre %s</string>
      <string name="play_all_song">Redaţi tot</string>
      <string name="download_all_song">Descărcaţi tot</string>
+     <string name="delete">Ştergeţi</string>
+     <string name="only_online_can_select_quality">Doar pentru melodiile on-line se poate selecta calitatea</string>
+     <string name="remove">Eliminaţi</string>
+     <string name="sort_by_language">Limbă</string>
+    <string name="sort_by_name">Nume</string>
+    <string name="sort_by_time">Dată</string>
 </resources>
