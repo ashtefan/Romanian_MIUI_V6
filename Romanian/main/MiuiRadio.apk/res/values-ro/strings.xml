@@ -13,7 +13,7 @@
     <string name="presonal_center">Cont</string>
     <string name="local_list_item_history">Istoric</string>
     <string name="access_history">Istoric</string>
-    <string name="local_program">Descărcate</string>
+    <string name="local_program">Off-line</string>
     <string name="hotlist_name">Recomandate</string>
     <string name="updated">" actualizat"</string>
     <string name="load_failed">Nu se poate conecta la reţea</string>
