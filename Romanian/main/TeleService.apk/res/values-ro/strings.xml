@@ -614,6 +614,7 @@ necondiţionat activată"</string>
     <string name="network_setting_all_forbidden_dialog">Nicio rețea disponibilă. Încercați trecerea la serviciu 3G, sau faceți clic pe o rețea interzisă pentru a vă înregistra manual.</string>
     <string name="network_settings_auto_select_title">Conexiune reţea</string>
     <string name="network_settings_automatically_option">Se alege automat rețeaua preferată (%s)</string>
+    <string name="network_settings_turn_off">oprit</string>
     <string name="network_settings_confirm_message">Reţea inaccesibilă.</string>
     <string name="network_settings_data_connected_change">Trebuie să dezactivaţi datele mobile în timp ce treceţi la o altă rețea.</string>
     <string name="network_settings_duringcall">Operația nu este permisă în timpul apelului</string>
