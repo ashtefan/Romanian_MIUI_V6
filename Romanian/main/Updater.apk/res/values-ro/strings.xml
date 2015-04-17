@@ -191,4 +191,22 @@ Participaţi la sondaj marţea viitoare"</string>
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_notification_msg">Nu se poate intra în modul Recuperare</string>
+    <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Accesaţi forumul MIUI&lt;/a&gt;" "</string>
+    <string name="vote_beta">Programul Feedback Beta</string>
+    <string name="vote_error1">"Se pare că nu sunteți un membru
+al Programului Feedback Beta"</string>
+    <string name="vote_error2">"Nu se poate trimite feedback-ul.
+Actualizaţi dispozitivul și încercați din nou"</string>
+    <string name="vote_error3">"Nu se poate conecta.
+Încercați să vă conectați la contul dvs. Mi din nou."</string>
+    <string name="vote_error4">Aţi trimis deja feedback-ul</string>
+    <string name="vote_error5">"Ceva a mers prost
+Nu se poate trimite feedback-ul"</string>
+    <string name="vote_error_nonetwork">Nu se poate conecta la rețea</string>
+    <string name="vote_experience">Experienţă forum</string>
+    <string name="vote_hint">Obţineţi 20 de puncte de experienţă pentru forumul MIUI atunci când votaţi</string>
+    <string name="vote_join">Votat</string>
+    <string name="vote_not_recommend">Nu se recomandă</string>
+    <string name="vote_recommend">Se recomandă această actualizare</string>
+    <string name="vote_submit">Trimiteţi</string>
 </resources>
