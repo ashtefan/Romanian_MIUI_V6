@@ -27,12 +27,12 @@
         <item>Praf</item>
         <item>Negură</item>
         <item>Ploaie ce îngheaţă</item>
-        <item>Datele lipsesc</item>
+        <item>Datele meteo lipsesc</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Cel mai slab</item>
         <item>Slab</item>
-        <item>Mid-range</item>
+        <item>Mediu</item>
         <item>Puternic</item>
         <item>Cel mai puternic</item>
     </string-array>
