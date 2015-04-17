@@ -345,7 +345,7 @@
     <string name="mine_info_account_summary_none">Neconectat</string>
     <string name="share">Partajaţi</string>
     <string name="all_episode">Toate episoadele</string>
-    <string name="total_episode">%1$s episaode</string>
+    <string name="total_episode">%1$s episoade</string>
     <string name="play_source_fetching">Conectare</string>
     <string name="data_buffering">Tamponare</string>
     <string name="online_video_oneweek">Săptămâna trecută</string>
