@@ -1,1 +1,1 @@
-# Romanian_MIUI_V6
+Romanian XMLs for MIUI V6
