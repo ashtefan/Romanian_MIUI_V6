@@ -2973,10 +2973,10 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="agps_roaming_summary">Utilizaţi A-GPS în roaming, poate cauza taxe suplimentare</string>
     <string name="agps_roaming_dia_title">Utilizaţi A-GPS în roaming</string>
     <string name="agps_roaming_dia">Utilizarea A-GPS în roaming poate crește utilizarea datelor mobile. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="music_title_dolby_control">DOLBY</string>
+    <string name="music_title_dolby_control">Dolby digital plus</string>
     <string name="music_dolby_mode_off">Dezactivat</string>
     <string name="music_dolby_mode_music">Muzică</string>
-    <string name="music_dolby_mode_movie">Film</string>
+    <string name="music_dolby_mode_movie">Video</string>
     <string name="locale_settings">Localizare</string>
     <string name="country_name">%s (sistem)</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
