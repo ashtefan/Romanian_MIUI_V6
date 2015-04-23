@@ -679,8 +679,8 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Sincronizaţi filele deschise ale browser-ului pe diferite dispozitive</string>
      <string name="sub_sync_item_browser_title_history">Sincronizare istoric browser</string>
      <string name="sub_sync_item_browser_title_history_summary">Sincronizaţi istoricul browser-ului</string>
-     <string name="sub_sync_item_browser_title_novel">Sincronizare romane din browser</string>
-     <string name="sub_sync_item_browser_title_novel_summary">Sincronizaţi romanele din browser</string>
+     <string name="sub_sync_item_browser_title_novel">Sincronizare cărţi</string>
+     <string name="sub_sync_item_browser_title_novel_summary">Sincronizaţi cărţile din browser</string>
      <string name="sub_sync_item_browser_title_webapp">Sincronizare aplicații web</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Sincronizaţi aplicațiile web adăugate și favoritele</string>
      <string name="suggest_access_appstore">Magazin Mi</string>
@@ -792,4 +792,6 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
      <string name="webviewchromium_private_browsing_warning">Funcția nu este susţinută în această versiune Android.</string>
      <string name="week_picker_dialog_title">Setaţi săptămâna</string>
      <string name="action_menu_text_fullscreen">Ecran complet</string>
+     <string name="sub_sync_item_browser_title_useful">Sincronizarea paginii de pornire</string>
+    <string name="sub_sync_item_browser_title_useful_summary">Sincronizaţi site-urile ce le-aţi adăugat la pagina de pornire</string>
 </resources>
