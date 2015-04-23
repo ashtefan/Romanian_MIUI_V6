@@ -26,7 +26,7 @@
     <string name="cloud_space_upgrade_no_quota_info">Nu a fost posibil de obținut informații despre stocare</string>
     <string name="cloud_space_upgrade_title">Mai mult spațiu pentru Mi Cloud</string>
     <string name="cloud_sync_setting_summary_standard">Utilizați conexiunea de date mobile pentru a sincroniza contactele, mesajele, istoricul apelurilor, notele, setările Wi-Fi, datele Browser-ului și listele de redare</string>
-    <string name="cloud_sync_setting_summary_wlan">Toate datele se vor sincroniza doar atunci când este conexiune Wi-Fi</string>
+    <string name="cloud_sync_setting_summary_wlan">Se sincronizează datele doar atunci când este conexiune Wi-Fi</string>
     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs. și pentru a partaja lucruri prietenilor</string>
     <string name="contact">Contacte</string>
     <string name="disable_find_device_error">Nu se poate opri Localizarea dispozitivului. %1$s</string>
@@ -297,7 +297,7 @@ Ultima rezervare: %2$s"</string>
     <string name="cloud_back_up_button_ok">Oprire forţată</string>
     <string name="cloud_back_up_network_unavailable">Nu a putut fi eliminat. Conectați-vă la Wi-Fi și încercați din nou.</string>
     <string name="cloud_back_up_remove_success">Copie de rezervă ştearsă</string>
-    <string name="activate_number_change_dialog_message">Selectați numărul major ce necesită activare. La efectuarea unui apel VoIP, apelantul va vedea acest număr</string>
+    <string name="activate_number_change_dialog_message">Selectați numărul de telefon care va fi vizibil pentru alte dispozitive atunci când utilizați VoIP</string>
     <string name="mx_dspt_provision_with_voip">Apelaţi alți utilizatori MIUI gratuit, utilizând conexiunea la internet. Puteți activa, sau dezactiva oricând această opţiune în Setări.</string>
     <string name="mx_sub_dspt_provision_with_voip">Apelare prin internet</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
