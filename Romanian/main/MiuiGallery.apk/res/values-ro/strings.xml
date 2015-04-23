@@ -99,14 +99,14 @@
      <string name="cloud_album_more_settings">Sincronizare cu Mi Cloud</string>
      <string name="cloud_album_set_create">Nou</string>
      <string name="cloud_album_set_scan_qr_code">Cod QR</string>
-     <string name="cloud_albums">Albume în nor</string>
+     <string name="cloud_albums">Mi Cloud</string>
      <string name="cloud_be_shared_guide_message">Vizualizaţi fotografiile prietenilor şi adăugați fotografii în album.</string>
      <string name="cloud_be_shared_guide_title">Acest album este partajat de un prieten</string>
      <string name="cloud_camera_display_name">Cameră</string>
      <string name="cloud_folder_chooser_move">Ștergeți imaginile din albumul original</string>
      <string name="cloud_gallery_recyclebin_full">Coşul de reciclare este plin, goliţi coşul de reciclare la i.mi.com.</string>
      <string name="cloud_gallery_space_full">Spaţiu insuficient în Mi Cloud</string>
-     <string name="cloud_media_set_set">Albume în nor</string>
+     <string name="cloud_media_set_set">Mi Cloud</string>
      <string name="cloud_owner_album_share_guide">Partajaţi acest album cu prietenii</string>
      <string name="cloud_screenshots_display_name">Capturi de ecran</string>
      <string name="cloud_tab_albums">Albume</string>
@@ -292,7 +292,7 @@
      <string name="loading_suspend">Descărcare întreruptă. Va fi reluată atunci când Wi-Fi va fi disponibil.</string>
      <string name="loading_thumbnail">Încărcare miniaturi…</string>
      <string name="loading_video">Descărcare videclip…</string>
-     <string name="local_albums">Imagini locale</string>
+     <string name="local_albums">Off-line</string>
      <string name="local_time">(Local)</string>
      <string name="location">Locaţie</string>
      <string name="locations">Locaţii</string>
@@ -471,7 +471,7 @@
      <string name="sepia">Sepia</string>
      <string name="set_hidden_album">Ascundeţi albumul</string>
      <string name="set_label_all_albums">Toate albumele</string>
-     <string name="set_label_local_albums">Albume locale</string>
+     <string name="set_label_local_albums">Off-line</string>
      <string name="set_label_mtp_devices">Dispozitive MTP</string>
      <string name="set_lock_and_wallpaper">Setare ca imagine de fundal…</string>
      <string name="set_lock_or_wallpaper">Setaţi ca imagine de fundal</string>
@@ -547,7 +547,7 @@
      <string name="to_count">În total %d</string>
      <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
      <string name="try_to_send">Trimiteţi</string>
-     <string name="ubifocus_data_missing">O parte din datele pentru această imagine lipsesc</string>
+     <string name="ubifocus_data_missing">Datele pentru această imagine lipsesc</string>
      <string name="ubifocus_guide_text">Atingeți și mențineți apăsat pentru a reorienta</string>
      <string name="ubifocus_map_error">>O parte din datele pentru această imagine conţine erori</string>
      <string name="ubifocus_refocus_data_missing">Imposibil de reorientat din cauza că o parte din datele pentru această imagine lipsesc</string>
