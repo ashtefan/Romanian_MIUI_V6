@@ -17,6 +17,7 @@
      <string name="add_2sec_pause">Pauză de 2 secunde</string>
      <string name="add_account">Adăugaţi un cont</string>
      <string name="add_blacklist">Blocaţi</string>
+     <string name="add_blacklist_dialog_title">Adăugaţi la lista blocărilor</string>
      <string name="add_connection_button">Adăugaţi o conexiune</string>
      <string name="add_contact_dlg_message_fmt">Adăugaţi „%s” la contacte?</string>
      <string name="add_field">Adăugaţi alt câmp</string>
@@ -789,6 +790,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
      <string name="relationLabelsGroup">Relaţie</string>
      <string name="removePhoto">Eliminaţi fotografia</string>
      <string name="remove_blacklist">Deblocaţi</string>
+     <string name="remove_blacklist_dialog_title">Eliminaţi din lista blocărilor</string>
      <string name="remove_duplicate">MIUI vă va ajuta să găsiţi şi să îmbinaţi contactele dublate.\n\nApăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
      <string name="resource_account_abnormal_state">Eroare cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
      <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>
