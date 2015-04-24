@@ -231,6 +231,6 @@
     <string name="widget_global_search">Căutare</string>
     <string name="cloud_app_restore_title">În așteptare</string>
     <string name="failed_to_load_image">Nu se poate încărca imaginea</string>
-    <string name="mtzgadget_missing_text">Nu mai este furnizat, adăugați din nou</string>
+    <string name="mtzgadget_missing_text">Obiectul widget nu este disponibil</string>
     <string name="configure_wallpaper">Setări</string>
 </resources>

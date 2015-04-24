@@ -154,10 +154,10 @@
      <string name="update_comment_title">Comentariu</string>
      <string name="update_downfull_no_info_sum">Așteptați un minut sau două și încercați din nou.</string>
      <string name="update_downfull_no_info_title">Nu se poate descărca actualizarea</string>
-     <string name="update_feedback">Feedback</string>
-     <string name="update_feedback_end">Aţi ratat feedback-ul din această săptămână</string>
+     <string name="update_feedback">Evaluaţi această actualizare</string>
+     <string name="update_feedback_end">Aţi ratat votarea din această săptămână</string>
      <string name="update_feedback_end_sum">Vă puteți alătura în fiecare marți.</string>
-     <string name="update_feedback_expired">"Ne pare rău că aţi ratat ocazia de a participa la feedback!
+     <string name="update_feedback_expired">"Aţi ratat votarea din această săptămână.
 Participaţi la sondaj marţea viitoare"</string>
      <string name="update_feedback_need_account">Trebuie să vă conectați la contul dvs. Mi</string>
      <string name="update_feedback_need_network">Conectați-vă mai întâi la rețea</string>

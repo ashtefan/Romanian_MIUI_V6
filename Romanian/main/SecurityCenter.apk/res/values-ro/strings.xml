@@ -95,7 +95,7 @@
     <string name="button_optimizer">OK</string>
     <string name="button_text_accept">Acceptaţi</string>
     <string name="button_text_accept_timer">Acceptaţi (%d)</string>
-    <string name="button_text_add_to_white_list">Ad. la excepţii</string>
+    <string name="button_text_add_to_white_list">Excepţie</string>
     <string name="button_text_backup_uninstall">Rezervare şi dezinstalare</string>
     <string name="button_text_cancel">Anulaţi</string>
     <string name="button_text_cancel_clean">Anulaţi</string>

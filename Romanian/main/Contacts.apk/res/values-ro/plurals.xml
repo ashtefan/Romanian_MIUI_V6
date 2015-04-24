@@ -109,6 +109,14 @@
         <item quantity="other">Ştergeţi %d (de) contacte?</item>
         <item quantity="one">Ştergeţi %d contact?</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blocaţi aceste %1$d numere?</item>
+        <item quantity="one">Blocaţi acest număr?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Deblocaţi aceste %1$d numere?</item>
+        <item quantity="one">Deblocaţi acest număr?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">A sunat de %d ori</item>
         <item quantity="one">A sunat %d dată</item>

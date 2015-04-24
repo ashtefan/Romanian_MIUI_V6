@@ -10,9 +10,6 @@
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
     <string name="miui_device_name">Android</string>
-    <string name="app_no_notification">Gol</string>
-    <string name="app_notificaiton_on_notificationBar">Panou notificări</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Blocare ecran, panou notificări</string>
     <string name="lockscreen_access_pattern_start">Model început</string>
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>

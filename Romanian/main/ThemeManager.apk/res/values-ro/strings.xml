@@ -336,4 +336,5 @@
      <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal blocare ecran</string>
      <string name="wallpaper_settings">Setări imagine de fundal</string>
      <string name="gift_received_notification_title">%s v-a dăruit o temă.</string>
+     <string name="resource_select_ringtone_confirm_picker">Selectaţi acest sunet?</string>
 </resources>

@@ -285,9 +285,9 @@ Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
 Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
     <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
 Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
-    <string name="cloud_back_up_title">Rezervare ecran de pornire</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Se crează o copie de rezervă a aspectului ecranului de pornire și a aplicațiilor la fiecare %1$s atunci cînd există o conexiune Wi-Fi</string>
-    <string name="cloud_back_up_open_info">"Se crează o copie de rezervă a aspectului ecranului de pornire și a aplicațiilor la fiecare %1$s atunci cînd există o conexiune Wi-Fi
+    <string name="cloud_back_up_title">Rezervarea aspectului ecranului de pornire</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Se rezervă aspectul ecranului de pornire atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s</string>
+    <string name="cloud_back_up_open_info">"Se rezervă aspectul ecranului de pornire atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s.
 Ultima rezervare: %2$s"</string>
     <string name="cloud_back_up_interval_long">7 zile</string>
     <string name="cloud_back_up_interval_short">1 oră</string>
@@ -302,4 +302,5 @@ Ultima rezervare: %2$s"</string>
     <string name="mx_sub_dspt_provision_with_voip">Apelare prin internet</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
     <string name="voip_dspt">Mi Voice</string>
+    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
 </resources>

@@ -1185,4 +1185,6 @@ indisponibil"</string>
     <string name="mismatch_pin2">Codurile PIN2 nu se potrivesc. Încercaţi din nou.</string>
     <string name="invalid_pin2">Introduceți un cod PIN2 din 4-8 cifre.</string>
     <string name="invalid_puk2">Introduceți un cod PUK2 din 8 cifre.</string>
+    <string name="flash_when_ring_summary">Bliţul luminează intermitent în timpul apelurilor primite</string>
+    <string name="flash_when_ring_title">Utilizare bliţ</string>
 </resources>

@@ -64,4 +64,8 @@
         <item quantity="other">Puteți selecta %d elemente</item>
         <item quantity="one">Puteți selecta %d element</item>
      </plurals>
+     <plurals name="more_face">
+        <item quantity="other">%1$s (de) fețe noi pot, de asemenea, aparține %2$s >></item>
+        <item quantity="one">%1$s față nouă poate, de asemenea, aparține %2$s >></item>
+    </plurals>
 </resources>

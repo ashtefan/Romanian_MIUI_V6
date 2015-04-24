@@ -102,7 +102,7 @@ Dacă reactivaţi datele, puteţi fi taxat(ă) de către operator."</string>
      <string name="ext_media_unmountable_notification_title">Card SD deteriorat</string>
      <string name="gps_notification_found_text">Locaţie setată prin GPS</string>
      <string name="gps_notification_searching_text">Se caută GPS</string>
-     <string name="headset_custom">Personalizaţi</string>
+     <string name="headset_custom">Revocaţi</string>
      <string name="headset_info">Personalizaţi funcţiile butonului</string>
      <string name="headset_settings">Căşti conectate</string>
      <string name="hint_for_long_press_app_switch_key">Apăsați și țineți apăsat pentru meniu</string>

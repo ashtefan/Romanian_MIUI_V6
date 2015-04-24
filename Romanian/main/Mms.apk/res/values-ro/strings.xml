@@ -504,7 +504,7 @@
     <string name="toast_feedback_finish">Raportul dvs. va fi trimis atunci când vă veţi conecta la Wi-Fi</string>
     <string name="toast_feedback_max">Nu puteți trimite mai mult de 3 rapoarte pe zi</string>
     <string name="toast_feedback_start">Colectare de date pt. jurnal…</string>
-    <string name="too_many_attachments">Există o limită de %1$s (de) fişiere ataşate. Doar primele %2$s vor fi adăugate.</string>
+    <string name="too_many_attachments">Nu se pot depăși %1$s (de) ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi decât %2$s (de) destinatari.</string>
     <string name="too_many_unsent_mms">Mesajul nu poate fi trimis chiar acum. Există prea multe mesaje multimedia netrimise.</string>
     <string name="try_to_send">Încercaţi să trimiteţi</string>
@@ -541,8 +541,8 @@
     <string name="yes">OK</string>
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="pref_show_sms_template_summary">Se copiază și completează în mod automat codurile de verificare</string>
-    <string name="pref_title_sms_validity_period">Perioada de valabilitate SMS</string>
-    <string name="pref_title_mms_validity_period">Perioada de valabilitate MMS</string>
+    <string name="pref_title_sms_validity_period">Expirare SMS</string>
+    <string name="pref_title_mms_validity_period">Expirare MMS</string>
     <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
     <string name="block_messaging_entry_title">SMS blocat</string>
     <string name="select_copy_text">Selectaţi și copiaţi textul mesajului</string>

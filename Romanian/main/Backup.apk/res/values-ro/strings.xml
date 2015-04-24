@@ -157,7 +157,7 @@
      <string name="system_backup">Copii de rezervă</string>
      <string name="system_backup_info">Setări sistem, aspect desktop etc.</string>
      <string name="task_backup_cancel_progress">Anulare creare copie de rezervă…</string>
-     <string name="task_backup_finished_local">Creare copie de rezervă finalizată</string>
+     <string name="task_backup_finished_local">"Rezervat "</string>
      <string name="task_canceled">Creare copie de rezervă anulată</string>
      <string name="task_canceled_all_local">Anulați</string>
      <string name="task_canceled_local"> %s a fost anulată</string>
@@ -173,7 +173,7 @@
      <string name="task_progress">Progres</string>
      <string name="task_restore_cancel_dialog">Oprirea acum poate duce la pierderi de date.</string>
      <string name="task_restore_cancel_progress">Anulare…</string>
-     <string name="task_restore_finished_local">Restabilire finalizată</string>
+     <string name="task_restore_finished_local">"Restabilit "</string>
      <string name="task_restore_none">Nimic de restabilit</string>
      <string name="task_running_backup_dialog">Creare copie de rezervă în fundal. Apăsaţi OK pt. a vizualiza.</string>
      <string name="task_running_backup_hint">Această sarcină deja rulează în fundal</string>

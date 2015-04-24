@@ -613,7 +613,7 @@ Activați ferestrele plutitoare?"</string>
 Criptarea poate dura cel puţin o oră. Trebuie să începeţi cu un acumulator încărcat şi să ţineţi telefonul conectat până la finalizarea criptării. Întreruperea procesului de criptare poate duce la pierderea tuturor datelor sau a unor părţi din acestea."</string>
     <string name="crypt_keeper_dialog_need_password_message">Trebuie să setaţi un cod PIN sau o parolă pentru blocarea ecranului înainte de a începe criptarea.</string>
     <string name="crypt_keeper_dialog_need_password_title">Nu există un cod PIN sau o parolă pentru blocarea ecranului</string>
-    <string name="crypt_keeper_encrypt_summary">Necesită o parolă numerică, sau o parolă amestecată pentru decriptarea telefonului dvs. la fiecare pornire a acestuia</string>
+    <string name="crypt_keeper_encrypt_summary">Necesită o parolă pentru decriptarea telefonului dvs. la fiecare pornire.</string>
     <string name="crypt_keeper_encrypt_title">Criptaţi telefonul</string>
     <string name="crypt_keeper_encrypted_summary">Criptat</string>
     <string name="crypt_keeper_enter_password">Introduceţi parola</string>
@@ -2970,7 +2970,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="bluetooth_unlock_state_ok">Reuşit</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="agps_roaming">A-GPS în roaming</string>
-    <string name="agps_roaming_summary">Utilizaţi A-GPS în roaming, poate cauza taxe suplimentare</string>
+    <string name="agps_roaming_summary">Utilizaţi datele mobile pentru A-GPS în roaming</string>
     <string name="agps_roaming_dia_title">Utilizaţi A-GPS în roaming</string>
     <string name="agps_roaming_dia">Utilizarea A-GPS în roaming poate crește utilizarea datelor mobile. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="music_title_dolby_control">Dolby digital plus</string>
@@ -2984,7 +2984,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizare listă</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizarea listei aplicațiilor ce utilizează modul lectură prin rețea</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termeni și condiții</string>
-    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pentru a actualiza lista aplicațiilor ce pot utiliza modul lectură, trebuie să vă conectați la rețea. Sunteți de acord?</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pentru a actualiza lista aplicațiilor ce pot utiliza modul lectură, trebuie să vă conectați la internet.</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Nu se mai afişează</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Acceptaţi</string>
     <string name="screen_paper_mode_range_title">Setări</string>
@@ -2994,5 +2994,11 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="screen_paper_mode_local_summary">Utilizați modul lectură pentru aplicaţiile selectate</string>
     <string name="screen_paper_mode_set_apps_title">Aplicaţiile modului lectură</string>
     <string name="screen_paper_mode_apps_loading">Încărcare…</string>
-    <string name="skip_lock_screen_confirm_msg">Următoarele caracteristici vor fi dezactivate pentru blocarea ecranului: notificările, controalele Muzicii, glisarea la stânga pentru accesarea Camerei și glisarea la dreapta pentru accesarea Mi Home.</string>
+    <string name="skip_lock_screen_confirm_msg">Notificările, controalele muzicale, Camera și Mi Home vor fi dezactivate pe blocarea ecranului.</string>
+    <string name="status_bar_app_disable_notification">Gol</string>
+    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Blocarea ecranului, panoul notificărilor</string>
+    <string name="status_bar_app_enable_on_notificationBar">Panoul notificărilor</string>
+    <string name="title_font2">Font</string>
+    <string name="title_font_current2">Selectaţi fontul sistemului</string>
+    <string name="title_layout_current2">Selectaţi dimensiunea fontului</string>
 </resources>

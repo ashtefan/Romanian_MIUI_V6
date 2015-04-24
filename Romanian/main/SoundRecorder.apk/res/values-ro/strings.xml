@@ -71,7 +71,7 @@
      <string name="recording_stopped">Înregistrare oprită</string>
      <string name="rename">Redenumiţi</string>
      <string name="rename_dialog_title">Redenumiţi înregistrarea</string>
-     <string name="rename_duplicate">O înregistrare cu acelaşi nume există deja.</string>
+     <string name="rename_duplicate">O altă înregistrare cu acelaşi nume există deja.</string>
      <string name="retry">Reîncercaţi</string>
      <string name="sound_recorder_settings">Setări</string>
      <string name="start">Reluaţi</string>
@@ -87,8 +87,8 @@
      <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
      <string name="wifi_recommended_body" formatted="false">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
      <string name="wifi_recommended_title">Memento utilizare date</string>
-     <string name="rename_no_more_tip">niciun sfat</string>
+     <string name="rename_no_more_tip">Nu se afişează din nou</string>
      <string name="record_picker_title">Selectaţi o înregistrare</string>
-     <string name="preference_tip_rename">Afişarea dialogului de redenumire după oprirea înregistrării</string>
-     <string name="record_mark_point">%s semn</string>
+     <string name="preference_tip_rename">Denumire înregistrare în mod manual</string>
+     <string name="record_mark_point">Semn %s</string>
 </resources>
