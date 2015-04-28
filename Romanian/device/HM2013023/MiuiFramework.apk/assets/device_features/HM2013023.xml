@@ -30,8 +30,6 @@
     <bool name="support_screen_paper_mode">false</bool>
     <!--whether the device supports led light-->
     <bool name="support_led_light">true</bool>
-    <!--whether the device supports erase application-->
-    <bool name="support_erase_application">true</bool>
     <!--whether the device supports button light-->
     <bool name="support_button_light">false</bool>
     <!--whether the device supports emulated storage-->
@@ -74,14 +72,16 @@
     <bool name="enable_miui_lite">true</bool>
     <!--whether the device supports steps_provider-->
     <bool name="support_steps_provider">false</bool>
+    <!--whether the device support hall sensor-->
+    <bool name="support_hall_sensor">false</bool>
     <!--whether the device supports hifi-->
     <bool name="support_hifi">false</bool>
     <!--whether the device supports agps parameters-->
     <bool name="support_agps_paras">true</bool>
     <!--whether the device supports agps roaming-->
     <bool name="support_agps_roaming">false</bool>
-    <!--whether the device support hall sensor-->
-    <bool name="support_hall_sensor">false</bool>
     <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
     <string name="vendor">mediatek</string>
+    <!-- whether compass support tilt rotate calibrate  -->
+    <bool name="support_rotate_calibrate">false</bool>
 </features>

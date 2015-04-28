@@ -43,4 +43,7 @@
      <string name="using_camera_confirm_message">Busola trebuie să utilizeze conexiunea la rețea și camera dispozitivului pentru a lucra în mod normal.</string>
      <string name="using_camera_confirm_ok">De acord</string>
      <string name="using_camera_confirm_title">Permisiune acces</string>
+     <string name="calibrate_title">Calibrare busolă</string>
+    <string name="calibrate_tip">Înclinați dispozitivul astfel ca bila să se rostogolească în jurul cercului</string>
+    <string name="calibrate_rotate_again">Încercaţi din nou</string>
 </resources>

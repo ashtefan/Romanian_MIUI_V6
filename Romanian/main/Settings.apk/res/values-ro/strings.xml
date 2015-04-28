@@ -3001,4 +3001,5 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="title_font2">Font</string>
     <string name="title_font_current2">Selectaţi fontul sistemului</string>
     <string name="title_layout_current2">Selectaţi dimensiunea fontului</string>
+    <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
 </resources>
