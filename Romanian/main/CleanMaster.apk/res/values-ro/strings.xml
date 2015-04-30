@@ -163,4 +163,6 @@
     <string name="white_list_large_file_header">Fişiere mari: %d</string>
     <string name="white_list_residual_header">Reziduuri: %d</string>
     <string name="white_list_title">Excepţii</string>
+    <string name="hints_garbage_handle_item_content">%1$d elemente, %2$s</string>
+    <string name="hints_garbage_handle_item_empty_content">Gol</string>
 </resources>

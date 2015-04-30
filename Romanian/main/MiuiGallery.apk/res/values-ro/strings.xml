@@ -448,7 +448,7 @@
     <string name="save_photo">Salvaţi fotografia modificată?</string>
     <string name="saving_failure">Fotografia nu poate fi salvată</string>
     <string name="saving_image">Salvare imagine…</string>
-    <string name="scan_barcode_guide">Pentru a obţine codul QR, atingeţi pictograma partajare în colţul drept de sus.</string>
+    <string name="scan_barcode_guide">Pentru a obţine codul QR, atingeţi pictograma Partajare.</string>
     <string name="scan_barcode_to_join">Scanaţi un cod QR pentru a adăuga un album</string>
     <string name="scan_qr_code_buttom_text">Scanaţi codul QR pentru a vizualiza acest album.</string>
     <string name="scan_qr_code_failure">Scanare eşuată</string>

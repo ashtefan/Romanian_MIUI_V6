@@ -100,7 +100,7 @@
     <string name="qingting_logo"> | Qingting FM</string>
     <string name="channel_off">Programul nu există deja</string>
     <string name="impunity_declaration_title">Conexiune internet</string>
-    <string name="impunity_declaration">Radio trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
+    <string name="impunity_declaration">Radio trebuie să se conecteze la internet şi poziţionare pentru a funcţiona în mod normal.</string>
     <string name="impunity_declaration_ignore">Nu se afișează din nou</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Refuzaţi</string>

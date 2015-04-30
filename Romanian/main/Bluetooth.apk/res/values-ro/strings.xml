@@ -167,4 +167,8 @@
     <string name="map_unknownName">Nume necunoscut</string>
     <string name="map_localPhoneName">Numele meu</string>
     <string name="map_defaultnumber">000000</string>
+    <string name="bluetooth_connected">Conectat</string>
+    <string name="bluetooth_connecting">Conectare…</string>
+    <string name="bluetooth_disconnected">Deconectat</string>
+    <string name="bluetooth_disconnecting">Deconectare…</string>
 </resources>

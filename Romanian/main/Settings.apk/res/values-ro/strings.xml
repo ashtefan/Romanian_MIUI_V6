@@ -3001,5 +3001,12 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="title_font2">Font</string>
     <string name="title_font_current2">Selectaţi fontul sistemului</string>
     <string name="title_layout_current2">Selectaţi dimensiunea fontului</string>
-    <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+    <string name="fluency_mode">Optimizare performanţă sistem</string>
+    <string name="fluency_mode_confirm_title">Reporniţi acum?</string>
+    <string name="fluency_mode_confirm_will_fluency_mode_text">Este necesar să reporniţi dispozitivul dvs. pentru a aplica aceste setări.</string>
+    <string name="fluency_mode_confirm_will_normal_mode_text">Activarea animațiilor și utilizarea memoriei suplimentare pot provoca scăderea performanței pe unele dispozitive.</string>
+    <string name="fluency_mode_enabled_name">Optimizare performanţă sistem</string>
+    <string name="fluency_mode_summary">Dezactivaţi animațiile de sistem și reduceţi utilizarea memoriei</string>
+    <string name="gesture_wakeup_title">Atingere dublă pentru trezire</string>
 </resources>
