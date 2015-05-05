@@ -449,5 +449,5 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
     <string name="add_miservice_dialog_title">MIUI service framework</string>
     <string name="add_miservice_dialog_content">%s necesită să adăugați MIUI service framework la lista de excepții. Puteți primi notificări de la aplicațiile MIUI și alte aplicații.</string>
     <string name="repair_loading_text">Încărcare…</string>
-    <string name="root">Root</string>
+    <string name="root">Acces Root</string>
 </resources>

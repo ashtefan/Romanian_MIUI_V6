@@ -1954,6 +1954,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
     <string name="search_date_time">dată oră</string>
     <string name="search_description">Setări căutare</string>
     <string name="search_display">ecran</string>
+    <string name="search_fluency_mode">optimizare performanţă sistem</string>
     <string name="search_font">font</string>
     <string name="search_gps">gps</string>
     <string name="search_handy_mode">handy mode</string>

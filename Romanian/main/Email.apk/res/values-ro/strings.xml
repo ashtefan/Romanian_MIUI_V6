@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Folders">Dosare</string>
     <string name="abc_action_bar_home_description">Acasă</string>
     <string name="abc_action_bar_up_description">În sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe opţiuni</string>
@@ -967,4 +966,12 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="SMTP_password_text">Parolă</string>
     <string name="SMTP_username_text">Nume de utilizator</string>
     <string name="folder_synchronization_mail_settings">Setări de sincronizare dosar</string>
+    <string name="account_settings_using_ringtone">Ton de sonerie</string>
+    <string name="folder_list_display_all">Se afişează toate dosarele</string>
+    <string name="folder_list_display_only_import">Se afişează doar dosarele importante</string>
+    <string name="imap_password_error">Eroare a parolei serverului de intrare</string>
+    <string name="outbox_alert_description_cannot_authenticate">Eroare de sistem %s</string>
+    <string name="outbox_alert_description_reject_by_server">Respins de %s</string>
+    <string name="outbox_alert_description_time_out">Conexiune la rețea eşuată</string>
+    <string name="smtp_password_error">>Eroare a parolei serverului de ieşire</string>
 </resources>
