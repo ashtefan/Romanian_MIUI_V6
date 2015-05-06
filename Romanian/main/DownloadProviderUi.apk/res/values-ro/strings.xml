@@ -44,7 +44,7 @@
      <string name="download_complete">Finalizat</string>
      <string name="download_error">Nereuşit</string>
      <string name="download_error_insufficient_space">Spaţiu insuficient</string>
-     <string name="download_filesize_unknown">necunoscut</string>
+     <string name="download_filesize_unknown">Necunoscut</string>
      <string name="download_in_process">Se descarcă</string>
      <string name="download_info_count_deleted_tasks">%s descărcări eliminate</string>
      <string name="download_info_start_deleted_tasks">Ştergeţi descărcările</string>
@@ -137,7 +137,7 @@
      <string name="turn_off_xunlei_title">Dezactivaţi acceleratorul de descărcare Xunlei</string>
      <string name="unbind_xunlei_2_success">Cont Xunlei adăugat</string>
      <string name="unbind_xunlei_success">Deconectat din contul Xunlei</string>
-     <string name="valid_in_this_month">valabil în această lună</string>
+     <string name="valid_in_this_month">Valabil pentru această lună</string>
      <string name="vip_auto_speedup">Acceleratorul descărcărilor Xunlei este activat</string>
      <string name="xunlei_brand">Suport oferit de Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
