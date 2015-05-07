@@ -229,9 +229,9 @@
     <string name="pref_camera_settings_category">Setări cameră foto</string>
     <string name="pref_camera_settings_title">Setări</string>
     <string name="pref_camera_sharpness_title">Precizie</string>
-    <string name="pref_camera_show_gender_age_entry_alias">Afişare vârstă cu înfrumusețare</string>
+    <string name="pref_camera_show_gender_age_entry_alias">Afişare vârstă când înfrumusețarea este activată</string>
     <string name="pref_camera_show_gender_age_entry_off">Oprit</string>
-    <string name="pref_camera_show_gender_age_entry_on">Afişare vârstă şi sex cu înfrumusețare</string>
+    <string name="pref_camera_show_gender_age_entry_on">Afişare vârstă şi sex când înfrumusețarea este activată</string>
     <string name="pref_camera_show_gender_age_title">Recunoașterea feței</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Îmbunătăţire automată</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Dezactivată</string>

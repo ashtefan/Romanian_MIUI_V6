@@ -450,4 +450,7 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
     <string name="add_miservice_dialog_content">%s necesită să adăugați MIUI service framework la lista de excepții. Puteți primi notificări de la aplicațiile MIUI și alte aplicații.</string>
     <string name="repair_loading_text">Încărcare…</string>
     <string name="root">Acces Root</string>
+    <string name="firewall_network_restrict_notify_message">Atingeţi pentru a modifica setările.</string>
+    <string name="firewall_network_restrict_notify_title">%1$s nu are permisiunea să se conecteze la %2$s.</string>
+    <string name="traffic_correction_success_notify_message">Atingeţi pentru a vizualiza detaliile.</string>
 </resources>

@@ -3009,5 +3009,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="fluency_mode_confirm_will_normal_mode_text">Activarea animațiilor și utilizarea memoriei suplimentare pot provoca scăderea performanței pe unele dispozitive.</string>
     <string name="fluency_mode_enabled_name">Optimizare performanţă sistem</string>
     <string name="fluency_mode_summary">Dezactivaţi animațiile de sistem și reduceţi utilizarea memoriei</string>
-    <string name="gesture_wakeup_title">Atingere dublă pentru trezire</string>
+    <string name="gesture_wakeup_title">Atingere dublă a ecranului pentru trezirea dispozitvului</string>
+    <string name="install_no_market_app_summary">Permiteţi instalarea aplicațiilor din alte surse decât din Magazinul aplicaţii</string>
+    <string name="install_no_market_app_title">Surse necunoscute</string>
 </resources>

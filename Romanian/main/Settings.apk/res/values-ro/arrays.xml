@@ -691,4 +691,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Verde</item>
         <item>Purpuriu</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Se cere permisiunea pentru aplicații riscante</item>
+        <item>Se permite</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Se cere permisiunea</item>
+        <item>Se permite</item>
+    </string-array>
 </resources>

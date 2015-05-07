@@ -1187,4 +1187,5 @@ indisponibil"</string>
     <string name="invalid_puk2">Introduceți un cod PUK2 din 8 cifre.</string>
     <string name="flash_when_ring_summary">Bliţul luminează intermitent în timpul apelurilor primite</string>
     <string name="flash_when_ring_title">Utilizare bliţ</string>
+    <string name="incall_error_sim_deactive">Card SIM inactiv</string>
 </resources>
