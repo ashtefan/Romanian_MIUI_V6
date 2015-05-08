@@ -108,10 +108,6 @@
     <string name="pref_camera_coloreffect_entry_yesteryear">Odinioară</string>
     <string name="pref_camera_coloreffect_title">Efecte culori</string>
     <string name="pref_camera_contrast_title">Contrast</string>
-    <string name="pref_camera_countdown_entry_10s">10s</string>
-    <string name="pref_camera_countdown_entry_3s">3s</string>
-    <string name="pref_camera_countdown_entry_5s">5s</string>
-    <string name="pref_camera_countdown_title">Temporizator</string>
     <string name="pref_camera_delay_capture_entry_10s">10s</string>
     <string name="pref_camera_delay_capture_entry_3s">3s</string>
     <string name="pref_camera_delay_capture_entry_5s">5s</string>
@@ -312,9 +308,7 @@
     <string name="setting_top_text">Moduri cameră</string>
     <string name="simple_mode_button_asd_flash">Dezactivaţi captarea cu bliţ</string>
     <string name="simple_mode_button_asd_hdr">Dezactivaţi captarea HDR</string>
-    <string name="simple_mode_button_text_audio_capture">Dezactivaţi înregistrarea vocii</string>
     <string name="simple_mode_button_text_color_effect">Dezactivaţi filtrele</string>
-    <string name="simple_mode_button_text_countdown">Dezactivaţi temporizatorul</string>
     <string name="simple_mode_button_text_delay_capture">Dezactivaţi temporizatorul</string>
     <string name="simple_mode_button_text_face_beauty">Dezactivaţi înfrumusețarea</string>
     <string name="simple_mode_button_text_fast_video">Dezactivaţi mişcarea lentă</string>
