@@ -85,7 +85,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_update_title">Dezinstalaţi actualizarea</string>
     <string name="uninstalling">Se dezinstalează…</string>
     <string name="unknown">Necunoscut</string>
-    <string name="unknown_apps_dlg_text">Telefonul dvs. și datele cu caracter personal sunt mai vulnerabile la atacuri de aplicații din surse necunoscute. Sunteți singurul responsabil pentru orice daune aduse dispozitivului, sau pentru pierderea de date ca rezultat al utilizării acestor aplicații. Puteți dezactiva această notificare în Setări.</string>
+    <string name="unknown_apps_dlg_text">Telefonul dvs. și datele cu caracter personal sunt mai vulnerabile la atacuri de la aplicații din surse necunoscute. Sunteți singurul responsabil pentru orice daune aduse dispozitivului, sau pentru pierderea de date ca rezultat al utilizării acestor aplicații. Puteți dezactiva această notificare în Setări.</string>
     <string name="unknown_apps_dlg_title">Instalare blocată</string>
     <string name="unknown_installer">Instalator PC neidentificat</string>
     <string name="virus_scan_caller_unknown">Necunoscut</string>
