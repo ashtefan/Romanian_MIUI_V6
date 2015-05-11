@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografii din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografie din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> fotografii din &amp;lt;font color=#323232>&amp;lt;b>nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> fotografie din &amp;lt;font color=#323232>&amp;lt;b>nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografii din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografie din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> fotografii &amp;lt;font color=#323232>&amp;lt;b>locale şi din nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> fotografie &amp;lt;font color=#323232>&amp;lt;b>locală şi din nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclipuri din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclip din ambele &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>local şi nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoclipuri &amp;lt;font color=#323232>&amp;lt;b>locale şi din nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoclip &amp;lt;font color=#323232>&amp;lt;b>local şi din nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclipuri din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;amp;lt;Data> Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclip din &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>nor&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&amp;amp;lt;/Data> "</item>
+        <item quantity="other">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoclipuri din &amp;lt;font color=#323232>&amp;lt;b>nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoclip din &amp;lt;font color=#323232>&amp;lt;b>nor&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Ştergeţi %s fotografii?</item>
