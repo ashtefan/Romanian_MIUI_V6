@@ -437,7 +437,7 @@
     <string name="process_mediaserver_label">Server media</string>
     <string name="protection_category_dangerous_title">Riscuri (%d)</string>
     <string name="protection_category_recommend_title">Schimbări recomandate (%d)</string>
-    <string name="protection_category_security_title">Curăţaţi (%d)</string>
+    <string name="protection_category_security_title">Curăţare (%d)</string>
     <string name="risk_list_header_title">%d aplicații suspecte detectate</string>
     <string name="root_apply_step_1">Acordaţi aplicaţiei %s acces root?</string>
     <string name="root_apply_step_2">Acordarea accesului root poate destabiliza dispozitivul.</string>
@@ -499,8 +499,8 @@
     <string name="title_cloud_account">Cont Mi</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="title_data_flow">Setaţi un avertisment de utilizare a datelor</string>
-    <string name="title_dev_no">Opţiuni dezvoltator dezactivate</string>
-    <string name="title_dev_yes">Opţiuni dezvoltator activate</string>
+    <string name="title_dev_no">Opţiuni dezvoltator activate</string>
+    <string name="title_dev_yes">Opţiuni dezvoltator dezactivate</string>
     <string name="title_flow_notification">Raport de utilizare a datelor</string>
     <string name="title_flow_purchase">E timpul pentru a suplimenta</string>
     <string name="title_flow_verify">Comparare contabilizare</string>
@@ -518,8 +518,8 @@
     <string name="title_saving_switch">Economisire date</string>
     <string name="title_show_notification">Controale panou notificări</string>
     <string name="title_telecom_operator">Utilizare contabilizare operator</string>
-    <string name="title_usb_no">Depanare USB dezactivată</string>
-    <string name="title_usb_yes">Depanare USB activată</string>
+    <string name="title_usb_no">Depanare USB activată</string>
+    <string name="title_usb_yes">Depanare USB dezactivată</string>
     <string name="title_virus_cloudscan">Utilizare definiții de viruși on-line</string>
     <string name="title_virus_no">Au fost găsiţi viruşi</string>
     <string name="title_virus_update_no">Actualizare automată definiții viruși dezactivată</string>
