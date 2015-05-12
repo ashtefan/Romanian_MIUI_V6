@@ -127,7 +127,7 @@
     <string name="invalid_contact_shortcut">Contact greşit</string>
     <string name="is_setting_wallpaper_toast">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">Nu se pot șterge resurse de sistem</string>
-    <string name="loading_desktop">Încărcare lansator…</string>
+    <string name="loading_desktop">Doar o secundă…</string>
     <string name="local_wallpaper">Descărcate</string>
     <string name="lock_screen_failed_message">Aplicare eşuată</string>
     <string name="lock_screen_success_message">Aplicată</string>
@@ -233,4 +233,6 @@
     <string name="failed_to_load_image">Nu se poate încărca imaginea</string>
     <string name="mtzgadget_missing_text">Obiectul widget nu este disponibil</string>
     <string name="configure_wallpaper">Setări</string>
+    <string name="download_action">Descărcare</string>
+    <string name="loading_wallpaper">Doar o secundă…</string>
 </resources>

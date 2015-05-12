@@ -575,7 +575,7 @@ necondiţionat activată"</string>
     <string name="msim_setting_sim_info_editor_title">Editaţi informaţiile cardului SIM</string>
     <string name="msim_sim_lock">Blocat</string>
     <string name="msim_sim_radio_off">Dezactivat</string>
-    <string name="msim_switch_data_conn_toast">Setările de rețea au fost modificate pentru a prefera rețelele 4G(3G). Puteți schimba acest lucru în setările cardului SIM.</string>
+    <string name="msim_switch_data_conn_toast">Cardurile SIM au fost schimbate. Tipul rețelei s-a schimbat. Vizualizaţi informații suplimentare în carduri SIM și rețele mobile din Setări.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Slotul SIM 2 susţine doar reţele GSM. Tipul de rețea preferat pentru acest slot a fost schimbat la Numai 2G.</string>
     <string name="mt_code_additional_call_forwarded">Redirecţionare apel primit suplimentar</string>
     <string name="mt_code_call_connected_ect">Transfer apel activ</string>
