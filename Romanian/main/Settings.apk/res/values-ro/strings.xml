@@ -2365,11 +2365,11 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unlock_set_unlock_none_title">Fără</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Fără</string>
-    <string name="unlock_set_unlock_password_summary">Securitate ridicată</string>
+    <string name="unlock_set_unlock_password_summary">Puteți amesteca litere și cifre</string>
     <string name="unlock_set_unlock_password_title">Parolă amestecată</string>
-    <string name="unlock_set_unlock_pattern_summary">Securitate medie</string>
+    <string name="unlock_set_unlock_pattern_summary">Trebuie să conectaţi cel puțin 4 puncte</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>
-    <string name="unlock_set_unlock_pin_summary">Nivel de securitate mediu spre ridicat</string>
+    <string name="unlock_set_unlock_pin_summary">Introduceți codul PIN din 4 cifre</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
@@ -3012,4 +3012,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="gesture_wakeup_title">Atingere dublă a ecranului pentru trezirea dispozitvului</string>
     <string name="install_no_market_app_summary">Permiteţi instalarea aplicațiilor din alte surse decât Magazin aplicaţii</string>
     <string name="install_no_market_app_title">Surse necunoscute</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">Se solicită parola imediat</string>
+    <string name="lock_screen_secure_after_timeout_summary">Se solicită parola peste %1$s</string>
+    <string name="lock_screen_secure_after_timeout_title">Solicitare parolă</string>
 </resources>

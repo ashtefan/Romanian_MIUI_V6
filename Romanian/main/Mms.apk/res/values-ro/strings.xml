@@ -561,4 +561,9 @@
     <string name="pref_title_send_delivery_reports">Trimiteţi mesaje de livrare</string>
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a livrării către expeditor, atunci când primiți un mesaj multimedia</string>
     <string name="storage_unavailable">Spaţiu indisponibil</string>
+    <string name="security_alert_desc">"Expeditorul nu este în contactele dvs. "&lt;u&gt;&lt;font color="red"&gt;Raportaţi acest număr&lt;/font&gt;&lt;/u&gt;</string>
+    <string name="security_alert_dialog_desc">Raportaţi acest număr (%s) și mesajul prin trimiterea acestuia către Xiaomi pentru revizuire.</string>
+    <string name="security_alert_dialog_title">Raportaţi</string>
+    <string name="sms_report_failed">Nu s-a putut trimite raportul</string>
+    <string name="sms_report_success">Raport trimis</string>
 </resources>

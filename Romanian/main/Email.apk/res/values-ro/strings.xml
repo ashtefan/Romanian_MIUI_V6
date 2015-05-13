@@ -974,4 +974,13 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="outbox_alert_description_reject_by_server">Respins de %s</string>
     <string name="outbox_alert_description_time_out">Conexiune la rețea eşuată</string>
     <string name="smtp_password_error">>Eroare a parolei serverului de ieşire</string>
+    <string name="contact_edit_set_black_list">Setaţi lista blocărilor</string>
+    <string name="contact_edit_set_phone_contact">Editaţi contactele din telefon</string>
+    <string name="contact_edit_set_pop_up_tips">Sfaturi</string>
+    <string name="contact_edit_set_unread_top">Se afişează mai întâi mesajele e-mail necitite</string>
+    <string name="contact_edit_set_vip">Setaţi VIP</string>
+    <string name="contact_edit_title_permission">Permisiuni contacte</string>
+    <string name="contact_edit_title_phone_contact">Lista contactelor din telefon</string>
+    <string name="re_download_message_button">Apăsaţi pentru a descărca din nou</string>
+    <string name="re_download_message_info">Descărcarea e-mailului a eşuat</string>
 </resources>

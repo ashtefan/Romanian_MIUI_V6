@@ -50,7 +50,7 @@
     <string name="normal_quality">Normală (24 bps)</string>
     <string name="download_successful">Descărcat</string>
     <string name="download_invalid">Nicio resursă</string>
-    <string name="download_start_toast">Pregătire descărcare %1$s(%2$dbps)</string>
+    <string name="download_start_toast">Descărcare %1$s (%2$dbps)</string>
     <string name="download_progress_toast">%1$d%%</string>
     <string name="download_network_is_not_available">Nu se poate conecta la rețea</string>
     <string name="play_local_sound">Redare off-line: %1$s</string>
@@ -106,6 +106,6 @@
     <string name="share_in_development" />
     <string name="action_item_delete">Ştergeţi</string>
     <string name="confirm_delete_history_text">Ştergeţi elementele selectate?</string>
-    <string name="batch_download_start_toast">Pregătire descărcare</string>
+    <string name="batch_download_start_toast">Descărcare…</string>
     <string name="dialog_title_listen_quality">Selectaţi calitatea</string>
 </resources>
