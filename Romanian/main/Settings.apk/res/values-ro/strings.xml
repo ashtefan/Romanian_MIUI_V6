@@ -484,9 +484,6 @@ Activați ferestrele plutitoare?"</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth trace</string>
     <string name="bugreport_in_power">Rapoarte despre erori în meniul de pornire</string>
     <string name="bugreport_in_power_summary">Includeţi în meniul de pornire opţiunea de a executa un raport despre erori</string>
-    <string name="bugreport_tool_log">Creaţi un raport de probleme</string>
-    <string name="bugreport_tool_log_toast">Raport salvat în %s</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Creare raport de probleme (durează aproximativ 1 minut)</string>
     <string name="build_number">Numărul versiunii</string>
     <string name="builtin_keyboard_settings_summary">Setări pentru tastatura fizică</string>
     <string name="builtin_keyboard_settings_title">Tastatură fizică</string>
@@ -1403,11 +1400,6 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="mobile_no_provisioning_url">Niciun site de provizionare cunoscut pentru %1$s</string>
     <string name="mobile_unknown_sim_operator">Operator de SIM necunoscut</string>
     <string name="model_number">Număr model</string>
-    <string name="modem_tool_log">Înregistrare jurnale modem</string>
-    <string name="modem_tool_log_start">Porniţi</string>
-    <string name="modem_tool_log_start_toast">Porniţi înregistrarea jurnalului modemului în %s</string>
-    <string name="modem_tool_log_stop">Opriţi</string>
-    <string name="modem_tool_log_stop_toast">Opriţi înregistrarea jurnalului modemului în %s</string>
     <string name="move_app">Mutaţi</string>
     <string name="move_app_failed_dlg_text">Aplicaţia nu a putut fi mutată. %1$s</string>
     <string name="move_app_failed_dlg_title" />
@@ -2365,7 +2357,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unlock_set_unlock_none_title">Fără</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Fără</string>
-    <string name="unlock_set_unlock_password_summary">Puteți amesteca litere și cifre</string>
+    <string name="unlock_set_unlock_password_summary">Poate conţine litere și cifre</string>
     <string name="unlock_set_unlock_password_title">Parolă amestecată</string>
     <string name="unlock_set_unlock_pattern_summary">Trebuie să conectaţi cel puțin 4 puncte</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>

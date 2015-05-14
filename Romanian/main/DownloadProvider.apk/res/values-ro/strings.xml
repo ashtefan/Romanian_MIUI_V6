@@ -62,4 +62,6 @@ Atingeţi %s  pentru a începe această descărcare data viitoare când vă cone
     <string name="warning_tip_cancel">Descărcaţi</string>
     <string name="warning_tip_ok">Întrerupeţi</string>
     <string name="dialog_not_show_again">Nu se mai afişează</string>
+    <string name="notification_download_failed_more">Descărcarea a %1$d (de) fişiere a eșuat</string>
+    <string name="notification_download_success_more">Au fost descărcate %1$d (de) fişiere</string>
 </resources>

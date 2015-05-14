@@ -63,4 +63,8 @@
         <item>" MO"</item>
         <item>" GO"</item>
      </string-array>
+     <string-array name="roaming_apps_sorted_type">
+        <item>Utilizate frecvent</item>
+        <item>Nume</item>
+     </string-array>
 </resources>
