@@ -1672,7 +1672,7 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="print_service_security_warning_title">Utilizați %1$s?</string>
     <string name="print_settings">Printare</string>
     <string name="print_settings_title">Servicii de imprimare</string>
-    <string name="priority_storage_app_settings">Datele de utilizator vor fi salvate în %1$s</string>
+    <string name="priority_storage_app_settings">Datele de utilizator %1$s vor fi salvate în</string>
     <string name="priority_storage_settings_summary">Dacă nu este detectat niciun card SD, datele de utilizator vor fi salvate în memoria internă a dispozitivului</string>
     <string name="priority_storage_summary">Selectaţi locaţia prestabilită pentru salvarea datelor de utilizator</string>
     <string name="priority_storage_title">Setări stocare</string>
