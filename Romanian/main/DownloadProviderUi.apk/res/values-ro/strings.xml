@@ -53,7 +53,7 @@
     <string name="download_list_get_hightspeed_flow_pay_ok">Achitare finalizată.</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Sesiune Xunlei trial creată</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Bucurați-vă de viteze de descărcare mai rapide oferite de Xunlei</string>
-    <string name="download_list_intoAuth">Intraţi pe pagina de autorizare MIUI</string>
+    <string name="download_list_intoAuth">Verificaţi contul dvs.</string>
     <string name="download_list_intoAuthAlert">Aşteptaţi</string>
     <string name="download_list_open_xl_cancel">Anulaţi</string>
     <string name="download_list_open_xl_message">Activaţi acceleratorul de descărcare Xunlei. Un serviciu de descărcare de mare viteză nelimitat.</string>
@@ -149,14 +149,14 @@
     <string name="xunlei_member_one_month">Membru Xunlei pentru o lună (platină)</string>
     <string name="xunlei_speed_service">Serviciul de accelerare a vitezei de la Xunlei</string>
     <string name="xunlei_switch">Accelerator de descărcare Xunlei</string>
-    <string name="recommend_downloading">Descărcare</string>
+    <string name="recommend_downloading">Descărcare…</string>
     <string name="recommend_failed">Eşuat</string>
     <string name="recommend_install">Instalaţi</string>
-    <string name="recommend_installing">Instalare</string>
+    <string name="recommend_installing">Instalare…</string>
     <string name="recommend_loading">Încărcare…</string>
     <string name="recommend_open">Deschideţi</string>
-    <string name="recommend_other_downloads">Hot</string>
+    <string name="recommend_other_downloads">Populare</string>
     <string name="recommend_paused">Întrerupt</string>
-    <string name="recommend_prepare">Aşteptaţi</string>
-    <string name="recommend_show_other_downloads">Afişare Hot</string>
+    <string name="recommend_prepare">Aşteptare…</string>
+    <string name="recommend_show_other_downloads">Afişare populare</string>
 </resources>

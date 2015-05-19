@@ -303,4 +303,20 @@ Ultima rezervare: %2$s"</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
     <string name="voip_dspt">Mi Voice</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="deskclock_backup">Rezervare ceasuri</string>
+    <string name="micloud_main_suggest_setting">"Așteptare conexiune Wi-Fi pentru sincronizare
+Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
+    <string name="micloud_main_sync_setting">Setări sincronizare</string>
+    <string name="micloud_main_title_sync_fail">Nu se poate sincroniza</string>
+    <string name="micloud_main_title_sync_off">Sincronizare dezactivată</string>
+    <string name="micloud_main_title_sync_on_wifi">Utilizaţi Wi-Fi</string>
+    <string name="micloud_member">Premium</string>
+    <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>
+    <string name="micloud_setting_deskclock_summary">Setări ceasuri</string>
+    <string name="micloud_storage">Stocare</string>
+    <string name="micloud_sync_alert_dialog_message">Sincronizaţi fotografiile, contactele, notele și altele între toate dispozitivele dvs.</string>
+    <string name="micloud_sync_alert_dialog_negative">Anulaţi</string>
+    <string name="micloud_sync_alert_dialog_positive">OK</string>
+    <string name="micloud_sync_alert_dialog_title">Utilizare Mi Cloud</string>
+    <string name="settings_backup_title">Rezervare setări de sistem</string>
 </resources>

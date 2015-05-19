@@ -695,10 +695,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Se cere permisiunea pentru aplicații riscante</item>
         <item>Se permite</item>
     </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Se cere permisiunea</item>
-        <item>Se permite</item>
-    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Imediat</item>
         <item>1 minut</item>
@@ -706,5 +702,17 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>5 minute</item>
         <item>15 minute</item>
         <item>30 de minute</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Se ascund animaţiile de sistem</item>
+        <item>Se afişează animaţiile de sistem</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Pentru a accelera performanța dispozitivului, ascundeţi animațiile de sistem</item>
+        <item>Afişarea animațiilor de sistem poate reduce performanțele dispozitivului</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Reporniți dispozitivul pentru a aplica această setare?</item>
+        <item>Reporniți dispozitivul pentru a aplica această setare?</item>
     </string-array>
 </resources>

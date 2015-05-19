@@ -997,10 +997,10 @@ Cardul SIM va fi şters după o altă încercare greşită."</string>
     <string name="sum_voice_call">Setări asociate apelurilor vocale</string>
     <string name="sum_voice_mail">Serviciu şi număr mesaj vocal</string>
     <string name="sum_voicemail_choose_provider">Alegeţi serviciul de mesagerie vocală</string>
-    <string name="t9_indexing_method_pinyin">Pinyin</string>
+    <string name="t9_indexing_method_pinyin">Apfabetul latin</string>
     <string name="t9_indexing_method_title">Căutare T9</string>
-    <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-    <string name="t9_indexing_rebuilding_message">Actualizare bază de date T9…</string>
+    <string name="t9_indexing_method_zhuyin">Notație fonetică Zhuyin</string>
+    <string name="t9_indexing_rebuilding_message">Doar o secundă…</string>
     <string name="technology_news_disable">Știri din tehnologie dezactivate</string>
     <string name="technology_news_enable">Știri din tehnologie activate</string>
     <string name="telephony_setting">Setările apelurilor</string>

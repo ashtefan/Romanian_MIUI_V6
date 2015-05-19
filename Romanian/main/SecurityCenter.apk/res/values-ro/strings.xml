@@ -431,7 +431,7 @@
     <string name="pref_category_title_reference_settings">Setări adiţionale</string>
     <string name="pref_category_title_securitycenter_settings">Generale</string>
     <string name="pref_category_title_virus_lib_auto_update">Definiţii de viruşi</string>
-    <string name="pref_summary_lock_screen_memory_clean">Curățare automată atunci când dispozitivul dvs. este blocat</string>
+    <string name="pref_summary_lock_screen_memory_clean">Curățare automată atunci când dispozitivul este blocat</string>
     <string name="pref_title_lock_screen_memory_clean">Curăţare la blocarea ecranului</string>
     <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="process_mediaserver_label">Server media</string>

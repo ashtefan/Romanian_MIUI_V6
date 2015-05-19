@@ -2,16 +2,17 @@
 <resources>
     <string name="about_settings">Despre telefon</string>
     <string name="about_settings_summary">Afişaţi informaţii legale, starea şi versiunea programului software</string>
-    <string name="ac_enable_title">Controlul accesului</string>
+    <string name="ac_enable_title">Blocare aplicații individuale</string>
     <string name="ac_privacy_mode_sum">Introduceţi parola pentru a anula modul Vizitator</string>
     <string name="ac_privacy_mode_title">Activaţi parola</string>
-    <string name="ac_set_apps_title">Protejaţi aplicaţiile</string>
+    <string name="ac_set_apps_title">Selectaţi aplicaţiile pentru blocare</string>
     <string name="accelerometer_summary_off">Doresc schimbarea automată a orientării la rotirea telefonului</string>
     <string name="accelerometer_summary_on">Schimbaţi automat orientarea la rotirea telefonului</string>
     <string name="accelerometer_title">Rotire automată a ecranului</string>
     <string name="access_control_app_entry_multiple">Deschideţi %s</string>
     <string name="access_control_app_entry_single">Deschideţi aplicaţia selectată</string>
-    <string name="access_control_need_password">"Acces restricţionat la %s "</string>
+    <string name="access_control_need_password">"%s a fost blocată
+"</string>
     <string name="access_control_need_to_unlock">Introduceţi parola</string>
     <string name="access_control_no_back_footer">Apăsaţi [pictograma] pt. a ieşi</string>
     <string name="access_control_password_title">Activaţi parola</string>
@@ -1676,7 +1677,7 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="priority_storage_settings_summary">Dacă nu este detectat niciun card SD, datele de utilizator vor fi salvate în memoria internă a dispozitivului</string>
     <string name="priority_storage_summary">Selectaţi locaţia prestabilită pentru salvarea datelor de utilizator</string>
     <string name="priority_storage_title">Setări stocare</string>
-    <string name="privacy_mode_dialog_message">Apelurile, notele, fotografiile, mesajele și setările lansatorului vor fi ascunse de utilizator</string>
+    <string name="privacy_mode_dialog_message">Ascundeţi apelurile și mesajele primite, notele, fotografiile și setările lansatorului</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>
     <string name="privacy_mode_enable_sum">Ascundeţi mesajele, notele, fotografiile și apelurile primite</string>
     <string name="privacy_mode_enable_title">Modul Vizitator</string>
@@ -1946,7 +1947,6 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
     <string name="search_date_time">dată oră</string>
     <string name="search_description">Setări căutare</string>
     <string name="search_display">ecran</string>
-    <string name="search_fluency_mode">optimizare performanţă sistem</string>
     <string name="search_font">font</string>
     <string name="search_gps">gps</string>
     <string name="search_handy_mode">handy mode</string>
@@ -2952,8 +2952,8 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="wifi_datanetwork_switch_not_remind">Nu se afișează din nou</string>
     <string name="location_access_on">Activat</string>
     <string name="location_access_off">Dezactivat</string>
-    <string name="privacy_mode_title">Permisiuni</string>
-    <string name="privacy_mode_summary">Datele de utilizator vor fi ascunse de utilizator</string>
+    <string name="privacy_mode_title">Setări de confidențialitate</string>
+    <string name="privacy_mode_summary">Blocați aplicații individuale sau ascundeţi informații personale</string>
     <string name="device_security_settings_title">Securitate</string>
     <string name="enable_crypt_keeper_encrypt">Activaţi criptarea</string>
     <string name="bluetooth_unlock_state_label">Stare:</string>
@@ -2996,15 +2996,12 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="title_layout_current2">Selectaţi dimensiunea fontului</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="fluency_mode">Optimizare performanţă sistem</string>
-    <string name="fluency_mode_confirm_title">Reporniţi acum?</string>
-    <string name="fluency_mode_confirm_will_fluency_mode_text">Este necesar să reporniţi dispozitivul dvs. pentru a aplica aceste setări.</string>
-    <string name="fluency_mode_confirm_will_normal_mode_text">Activarea animațiilor și utilizarea memoriei suplimentare pot provoca scăderea performanței pe unele dispozitive.</string>
-    <string name="fluency_mode_enabled_name">Optimizare performanţă sistem</string>
-    <string name="fluency_mode_summary">Dezactivaţi animațiile de sistem și reduceţi utilizarea memoriei</string>
     <string name="gesture_wakeup_title">Atingere dublă a ecranului pentru trezirea dispozitvului</string>
     <string name="install_no_market_app_summary">Permiteţi instalarea aplicațiilor din alte surse decât Magazin aplicaţii</string>
     <string name="install_no_market_app_title">Surse necunoscute</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Se solicită parola imediat</string>
     <string name="lock_screen_secure_after_timeout_summary">Se solicită parola peste %1$s</string>
     <string name="lock_screen_secure_after_timeout_title">Solicitare parolă</string>
+    <string name="fluency_mode_confirm_and_reboot">Reporniţi acum</string>
+    <string name="performance_category">Performanţă</string>
 </resources>
