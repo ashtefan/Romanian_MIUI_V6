@@ -87,7 +87,7 @@
     <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
-    <string name="cant_delete_cloud_album">Ştergere eşuată: %s este un album de sistem sau este partajat cu o altă persoană.</string>
+    <string name="cant_delete_system_album">Nu se poate şterge %s deoarece este un album de sistem.</string>
     <string name="choose_cloud_album">Selectaţi albumul</string>
     <string name="cleaning_cache">Ştergere memorie cache…</string>
     <string name="clear_thumbnail_cache">Eliminaţi miniaturile din memoria cache</string>
@@ -122,13 +122,11 @@
     <string name="comma">", "</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Ştergeţi %s fotografii?</string>
-    <string name="confirm_delete_album" formatted="false">Doriţi să ştergeţi %s (de) album(e) ce conţin(e) %s (de) elemente?</string>
     <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
     <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
     <string name="confirm_delete_has_local_image_video">Ştergeţi %s (de) elemente?</string>
     <string name="confirm_delete_init_message">Fotografia va fi ştearsă de pe acest dispozitiv şi din Mi Cloud. Dacă doriţi să o ştergeţi doar de pe dispozitiv, încercaţi această acţiune în fila Off-line.</string>
     <string name="confirm_delete_init_title">Ştergere fotografie</string>
-    <string name="confirm_delete_system_album">%s este un album de sistem.</string>
     <string name="confirm_download">Trebuie să descărcaţi %s.</string>
     <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
     <string name="confirm_download_video_title">Descărcaţi videoclipul</string>
@@ -502,7 +500,7 @@
     <string name="size_above">%1$s sau mai sus</string>
     <string name="size_below">%1$s sau mai jos</string>
     <string name="size_between">între %1$s şi %2$s</string>
-    <string name="skip_hide_special_album">Imposibil de ascuns albumele de sistem (de ex. Camera, Capturi de ecran)</string>
+    <string name="skip_hide_special_album">Imposibil de ascuns albumele de sistem (de ex. cameră, capturi de ecran, toate videoclipurile)</string>
     <string name="slideshow">Slideshow</string>
     <string name="slideshow_category">Slideshow</string>
     <string name="slideshow_dream_name">Slideshow</string>
@@ -643,4 +641,6 @@
     <string name="single_device_project_dialog_title">Distribuție la %s</string>
     <string name="ubifocus_refocus_data_invalid">Nu se poate refocaliza, deoarece unele date ale acestei imagini sunt nevalide</string>
     <string name="videos">Videoclipuri</string>
+    <string name="paint_highlight_cancel_context">Salvaţi imaginea evidenţiată?</string>
+    <string name="paint_highlight_cancel_title">Renunţaţi la modificări</string>
 </resources>

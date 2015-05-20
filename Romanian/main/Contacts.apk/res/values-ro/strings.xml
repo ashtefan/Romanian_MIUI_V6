@@ -1172,4 +1172,5 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="blacklist">Blocaţi</string>
     <string name="resource_select_ringtone_confirm_picker">Selectaţi acest sunet?</string>
     <string name="preference_contacts_recovery_introduction">Restabilire contacte</string>
+    <string name="group_sms_error_message">Eroare SMS de grup: mai mult de %s</string>
 </resources>

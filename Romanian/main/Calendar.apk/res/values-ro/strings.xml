@@ -327,4 +327,5 @@
      <string name="sync_notice_ok">Sincronizaţi acum</string>
      <string name="sync_notice_ok_toast_message">Calendarul local va fi sincronizat cu Mi Cloud</string>
      <string name="sync_notice_cancel_toast_message">Calendarul local nu va fi sincronizat cu Mi Cloud</string>
+     <string name="select_date">Selectaţi data</string>
 </resources>

@@ -1189,4 +1189,17 @@ indisponibil"</string>
     <string name="flash_when_ring_title">Utilizare bliţ</string>
     <string name="incall_error_sim_deactive">Card SIM inactiv</string>
     <string name="voip_setting">Setări VoIP</string>
+    <string name="ivr_mo_area_code_settings">Codul zonei actual</string>
+    <string name="ivr_mo_area_code_settings_hint">Introduceţi codul zonei actual</string>
+    <string name="ivr_parameter_settings">Setări parametri IVR</string>
+    <string name="ivr_type_cm_1">M-Zone</string>
+    <string name="ivr_type_cm_2">GoTone</string>
+    <string name="ivr_type_cm_3">Easy own</string>
+    <string name="ivr_type_ct_1">China Telecom VIP</string>
+    <string name="ivr_type_ct_2">Client China Telecom</string>
+    <string name="ivr_type_cu_1">China Unicom 3G</string>
+    <string name="ivr_type_cu_2">China Unicom 4G</string>
+    <string name="ivr_type_cu_3">China Unicom 2G</string>
+    <string name="ivr_type_settings">Setări plan de date</string>
+    <string name="ivr_type_settings_hint">Introduceţi codul planului de date</string>
 </resources>

@@ -68,4 +68,12 @@
         <item quantity="other">%1$s (de) fețe noi pot, de asemenea, aparține %2$s >></item>
         <item quantity="one">%1$s față nouă poate, de asemenea, aparține %2$s >></item>
     </plurals>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Ştergeţi %1$s albume (%2$s în total)?</item>
+        <item quantity="one">Ştergeţi %1$s album (%2$s în total)?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%1$d videoclipuri&amp;lt;/xliff:g> din %2$d albume?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%1$d videoclip&amp;lt;/xliff:g> din %2$d albume?&lt;/Data>" "</item>
+    </plurals
 </resources>
