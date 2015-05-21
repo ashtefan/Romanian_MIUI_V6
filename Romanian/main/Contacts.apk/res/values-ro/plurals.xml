@@ -97,10 +97,6 @@
         <item quantity="other">Ştergeţi %d (de) contacte de pe cardul SIM?</item>
         <item quantity="one">Ştergeţi %d contact de pe cardul SIM?</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Au fost copiate %d (de) contacte</item>
-        <item quantity="one">A fost copiat %d contact</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Ştergeţi %d (de) contacte</item>
         <item quantity="one">Ştergeţi contactul</item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Rezervarea aplicaţiilor de pe ecranul de pornire</string>
+    <string name="app_name">Rezervare aplicaţii</string>
     <string name="button_cancel">Anulaţi</string>
     <string name="button_next">Înainte</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -8,11 +8,11 @@
     <string name="retry">Reîncercaţi</string>
     <string name="cloud_app_current_device">Dispozitiv actual</string>
     <string name="cloud_app_other_devices">Alte dispozitive</string>
-    <string name="cloud_app_restore_app_and_data">Restabilire din Mi Cloud</string>
-    <string name="cloud_app_restore_data">Restabilire aplicații instalate anterior</string>
-    <string name="cloud_app_dont_restore">Nu se restabileşte</string>
-    <string name="cloud_app_restore_wifi_prompt">Pentru a restabili aplicația și alarmele, conectați-vă la o rețea Wi-Fi.</string>
-    <string name="cloud_app_no_data">Niciun ecran de pornire şi aplicaţii</string>
+    <string name="cloud_app_restore_app_and_data">Configuraţi dispozitivul dvs.</string>
+    <string name="cloud_app_restore_data">Datele cu caracter personal și aplicațiile instalate anterior vor apărea pe dispozitiv în mod automat</string>
+    <string name="cloud_app_dont_restore">Configuraţi ca dispozitiv nou</string>
+    <string name="cloud_app_restore_wifi_prompt">Pentru a restabili dintr-o copie de rezervă Mi Cloud, trebuie să vă conectați la o rețea Wi-Fi.</string>
+    <string name="cloud_app_no_data">Nu au fost detectate aplicații instalate anterior</string>
     <string name="cloud_app_restore_error">Nu a putut fi restabilită</string>
     <string name="cloud_app_restore_success">Aplicații restabilite</string>
     <string name="cloud_app_backup_success">Rezervarea aplicaţiilor a fost finalizată</string>
@@ -25,12 +25,12 @@
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="miui_device_name">Android</string>
-    <string name="recovering">Recuperare %s</string>
-    <string name="start_recover">Recuperaţi %s</string>
+    <string name="recovering">Restabilire %s</string>
+    <string name="start_recover">Restabiliţi %s</string>
     <string name="latest_backup_time_loading">Se încarcă…</string>
     <string name="start_backup_to_micloud">Rezervare aplicații în Mi Cloud</string>
     <string name="backing_up_to_micloud">Rezervare…</string>
-    <string name="restore_from_cloud">Restabilire din Mi Cloud</string>
+    <string name="restore_from_cloud">Restabilire dintr-o copie de rezervă Mi Cloud</string>
     <string name="backup_to_cloud">Rezervaţi aplicațiile</string>
     <string name="restoreing_file_tile">Se restabilesc %d (de) fișiere</string>
     <string name="menu_item_sort">Sortare după</string>
@@ -46,8 +46,8 @@
     <string name="desktop_downloading">Descărcare</string>
     <string name="desktop_installing">Instalare</string>
     <string name="desktop_recovering">Restabilire</string>
-    <string name="desktop_wait_wifi">Aşteptare Wi-Fi</string>
-    <string name="recover_from_micloud">Restabilire utilizând Mi Cloud</string>
+    <string name="desktop_wait_wifi">Îm aşteptare</string>
+    <string name="recover_from_micloud">Restabilire dintr-o copie de rezervă Mi Cloud</string>
     <string name="open_wifi">>Porniți Wi-Fi acum</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
     <string name="open_wifi_setting">Setări Wi-Fi</string>
@@ -60,14 +60,14 @@
     <string name="download_settings_fail">Descărcarea setărilor ecranului de pornire a eşuat</string>
     <string name="backup_fail">Rezervarea setărilor ecranului de pornire a eşuat</string>
     <string name="backup_success">Rezervarea aplicaţiilor ecranului de pornire a reuşit</string>
-    <string name="cloud_task_in_process">%s în curs! Ștergerea copiei de rezervă a dispozitivului actual va anula sarcina, ștergeți?</string>
-    <string name="cloud_back_up_task">Rezervare</string>
-    <string name="cloud_restore_task">Restabilire</string>
-    <string name="cloud_restore_from_other_device">Restabilire din %s în curs, ștergerea copiei de rezervă a acestuia va anula sarcina, ștergeți?</string>
+    <string name="cloud_task_in_process">Opriţi %s şi ștergeţi această copiei de rezervă? Nu puteți inversa această acțiune.</string>
+    <string name="cloud_back_up_task">rezervarea</string>
+    <string name="cloud_restore_task">restabilirea</string>
+    <string name="cloud_restore_from_other_device">Opriţi restabilirea din %s şi ștergeţi această copiei de rezervă? Nu puteți inversa această acțiune.</string>
     <string name="remove_task_in_process">Eliminare</string>
-    <string name="remove_task_unfinished">Eliminare nefinisate</string>
-    <string name="back_up_task_unfinished">Rezervare nefinisate</string>
-    <string name="deskclock_backup">Ceasuri</string>
+    <string name="remove_task_unfinished">Eliminare nefinalizată</string>
+    <string name="back_up_task_unfinished">Rezervare nefinalizată</string>
+    <string name="deskclock_backup">Alarmă</string>
     <string name="recover_home_settings">Restabiliţi setările ecranului de pornire</string>
     <string name="recover_miui_settings">Restabiliţi setările de sistem MIUI</string>
     <string name="settings_backup">Setări de sistem</string>

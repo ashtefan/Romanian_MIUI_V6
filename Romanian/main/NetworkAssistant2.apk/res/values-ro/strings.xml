@@ -465,7 +465,9 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
     <string name="network_mobile_exception_detail">"Dispozitivul dvs. nu se poate conecta la internet:
 
  1. Asigurați-vă că nu ați depășit limita de date mobile din planul operatorului dvs.
+
  2. Dacă tocmai ați suplinit soldul, reporniți dispozitivul și încercați din nou.
+
  3. Semnalul rețelei operatorului dvs. poate fi slab în locația curentă."</string>
     <string name="network_operator_exception_summary">Nu s-a putut activa cardul SIM. Asigurați-vă că este introdus corect cardul SIM și că planul de date mobile a fost activat de către operatorul dvs..</string>
     <string name="network_permission_exception_tips">Nu se pot utiliza datele mobile pentru conectare la rețea</string>
@@ -473,20 +475,26 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
 
-"&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
+ "&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
 "&lt;/b&gt;" Dacă sunteți conectat la o rețea Wi-Fi publică, numărul de utilizatori conectați la această rețea poate duce la încetinirea ei, sau să creeze probleme de conectivitate. Conectaţi-vă la o altă rețea și încercați din nou.
+
  2."&lt;b&gt;" Probleme de furnizor servicii internet
 A"&lt;/b&gt;"sigurați-vă că contul dvs. este în stare bună cu furnizorul de servicii de internet.
+
  3."&lt;b&gt;" Probleme de hardware router
 Î"&lt;/b&gt;"ncercați repornirea router-ului, sau verificarea setărilor admin pentru router.
+
  4."&lt;b&gt;" Alte probleme de router
 C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la setările din fabrică.
+
  5."&lt;b&gt;" Asigurați-vă că routerul este conectat corect
 Î"&lt;/b&gt;"ncercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea în casa dvs., contactați furnizorul de servicii de internet."</string>
     <string name="network_sim_exception_detail">"Este posibil să existe o problemă cu cardul SIM:
 
  1. Asigurați-vă că contul dvs. este în stare bună cu operatorul dvs.. Încercați să utilizaţi cardul SIM al unui prieten pentru a vedea dacă este posibil de conectat în mod normal.
+
  2. Dacă utilizați două carduri SIM, încercați să comutați la alt card pentru a vedea dacă este posibil de conectat în mod normal.
+
  3. Asigurați-vă că cardul SIM și slot-ul SIM al dispozitivului nu sunt deteriorate. Verificaţi dacă cardul SIM, pe care îl utilizați, este introdus corect în slot-ul SIM al dispozitivului."</string>
     <string name="open_now">Permiteți aplicației să utilizeze datele mobile</string>
     <string name="other_exception_summary">Nu aveți o conexiune la internet</string>

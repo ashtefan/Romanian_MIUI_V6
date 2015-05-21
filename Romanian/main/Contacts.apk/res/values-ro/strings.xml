@@ -342,7 +342,7 @@
     <string name="eventTypeCustom">Personalizat</string>
     <string name="event_edit_field_hint_text">Dată</string>
     <string name="export_sim_contact_finish">Export finalizat</string>
-    <string name="export_sim_contact_finish_failure">Transferate: %1$d Rămase: %2$d</string>
+    <string name="export_sim_contact_finish_msg">%1$d transferate | %2$d omise | %3$d rămase</string>
     <string name="export_to_sdcard">Export pe stocare</string>
     <string name="export_to_sim">Export pe cardul SIM</string>
     <string name="export_to_sim1">Exportaţi pe cardul SIM1</string>
@@ -386,7 +386,7 @@ Motivul: „%s”"</string>
     <string name="ghostData_title">Titlu</string>
     <string name="groupSavedErrorToast">Nu s-au putut salva modificările făcute grupului</string>
     <string name="groupSavedToast">Grupul a fost salvat</string>
-    <string name="group_add_fail_toast">Adăugarea contactelor a eşuat</string>
+    <string name="group_add_fail_toast">Adăugarea destinatarilor a eşuat</string>
     <string name="group_create_fail_toast">Crearea grupului a eşuat</string>
     <string name="group_create_success_toast">Grup creat</string>
     <string name="group_delete_success_toast">Grup şters</string>
@@ -1172,5 +1172,5 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="blacklist">Blocaţi</string>
     <string name="resource_select_ringtone_confirm_picker">Selectaţi acest sunet?</string>
     <string name="preference_contacts_recovery_introduction">Restabilire contacte</string>
-    <string name="group_sms_error_message">Eroare SMS de grup: mai mult de %s</string>
+    <string name="group_sms_error_message">Mesajul SMS nu poate avea mai mult de %s destinatari.</string>
 </resources>

@@ -695,6 +695,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Se cere permisiunea pentru aplicații riscante</item>
         <item>Se permite</item>
     </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Se cere permisiunea</item>
+        <item>Se permite</item>
+    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Imediat</item>
         <item>1 minut</item>

@@ -290,7 +290,7 @@ Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string
     <string name="cloud_back_up_open_info">"Se rezervă aspectul ecranului de pornire atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s.
 Ultima rezervare: %2$s"</string>
     <string name="cloud_back_up_interval_long">7 zile</string>
-    <string name="cloud_back_up_interval_short">1 oră</string>
+    <string name="cloud_back_up_interval_short">1 zi</string>
     <string name="cloud_back_up_close_info">Atingeţi pentru a rezerva.</string>
     <string name="cloud_backup_dialog_title">Rezervaţi cu Mi Cloud</string>
     <string name="cloud_back_up_dialog_content">Opriţi rezervarea în curs? Dacă o opriţi acum, nu veți putea utiliza această copie de rezervă pentru a restabili aplicațiile.</string>
@@ -310,7 +310,7 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_main_title_sync_fail">Nu se poate sincroniza</string>
     <string name="micloud_main_title_sync_off">Sincronizare dezactivată</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizaţi Wi-Fi</string>
-    <string name="micloud_member">Premium</string>
+    <string name="micloud_member">Apartenență Mi Cloud</string>
     <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>
     <string name="micloud_setting_deskclock_summary">Setări ceasuri</string>
     <string name="micloud_storage">Stocare</string>
@@ -319,4 +319,18 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>
     <string name="micloud_sync_alert_dialog_title">Utilizare Mi Cloud</string>
     <string name="settings_backup_title">Rezervare setări de sistem</string>
+    <string name="micloud_buy_member">Actualizare apartenență</string>
+    <string name="micloud_member_buy_content" formatted="false">"Valid pentru %s-%s-%s
+
+%s Mi Credite pe an"</string>
+    <string name="micloud_member_buy_title">Confirmaţi comanda</string>
+    <string name="micloud_member_net_error_alert_message">Nu aveți o conexiune la internet.</string>
+    <string name="micloud_member_net_error_alert_title">Nu se poate conecta la reţea</string>
+    <string name="micloud_member_pay_fail_toast">Nu se poate finaliza achitarea</string>
+    <string name="micloud_member_pay_miid_error_toast">Eroare de cont</string>
+    <string name="micloud_member_pay_order_error_toast">Eroar ede date</string>
+    <string name="micloud_member_refresh_button">Reîmprospătare</string>
+    <string name="micloud_member_webload_fail_error_message">Eroare de reţea</string>
+    <string name="micloud_member_webload_fail_toast_4xx">Nu sepoate încărca pagina</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Eroare de server</string>
 </resources>
