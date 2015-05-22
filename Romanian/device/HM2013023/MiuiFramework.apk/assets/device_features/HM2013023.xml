@@ -77,7 +77,7 @@
     <!--whether the device supports hifi-->
     <bool name="support_hifi">false</bool>
     <!--whether the device supports agps parameters-->
-    <bool name="support_agps_paras">true</bool>
+    <bool name="support_agps_paras">false</bool>
     <!--whether the device supports agps roaming-->
     <bool name="support_agps_roaming">false</bool>
     <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
