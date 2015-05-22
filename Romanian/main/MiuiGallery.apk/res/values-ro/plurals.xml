@@ -75,5 +75,5 @@
     <plurals name="confirm_delete_video_from_many_albums">
         <item quantity="other">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%1$d videoclipuri&amp;lt;/xliff:g> din %2$d albume?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> Ştergeţi &amp;lt;xliff:g id=ITEM>%1$d videoclip&amp;lt;/xliff:g> din %2$d albume?&lt;/Data>" "</item>
-    </plurals
+    </plurals>
 </resources>
