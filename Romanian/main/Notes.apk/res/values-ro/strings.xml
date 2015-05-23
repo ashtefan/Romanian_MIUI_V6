@@ -5,10 +5,10 @@
      <string name="alert_action_edit_anyway">Continuaţi editiarea</string>
      <string name="alert_edit_action_delete">Eliminaţi</string>
      <string name="alert_edit_action_update">Modificaţi</string>
-     <string name="alert_message_delete_folders">Ştergeţi %1$s (de) dosare?</string>
-     <string name="alert_message_delete_folders_notes">Ştergeţi %1$s (de) dosare şi %2$s (de) note?</string>
+     <string name="alert_message_delete_folders">Ştergeţi %1$s?</string>
+     <string name="alert_message_delete_folders_notes">Ştergeţi %1$s şi %2$s?</string>
      <string name="alert_message_delete_note">Ştergeţi această notă?</string>
-     <string name="alert_message_delete_notes">Ştergeţi %1$s (de) note?</string>
+     <string name="alert_message_delete_notes">Ştergeţi %1$s?</string>
      <string name="alert_message_edit_anyway">Dacă editați această notă o parte din conținutul său poate fi pierdut.</string>
      <string name="alert_title_edit_anyway">Această notă include conținut neacceptat</string>
      <string name="app_name">Note</string>
