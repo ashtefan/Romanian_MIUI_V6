@@ -562,4 +562,5 @@
     <string name="cmcc_app_check_dialog_message">Reporniți dispozitivul pentru a finaliza reparația.</string>
     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
+    <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
 </resources>

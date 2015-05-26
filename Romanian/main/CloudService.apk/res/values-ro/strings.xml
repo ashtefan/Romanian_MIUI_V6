@@ -127,7 +127,7 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
     <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
     <string name="micloud_main_set_internet">Reţea</string>
     <string name="micloud_main_space_full">Spațiu de stocare insuficient.</string>
-    <string name="micloud_main_space_risk">%d (de) elemente sincronizate.</string>
+    <string name="micloud_main_space_low">Spaţiu aproape epuizat…</string>
     <string name="micloud_main_stop_sync">Sincronizare oprită</string>
     <string name="micloud_main_suggest_sync">Nu a fost posibil de sincronizat totul</string>
     <string name="micloud_main_sync_exception">Eroare de sincronizare</string>

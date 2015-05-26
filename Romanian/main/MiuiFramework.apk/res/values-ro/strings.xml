@@ -1,52 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="shutdown_confirm_title">Telefonul dvs. se va închide.</string>
-    <string name="shutdown_progress">Închidere…</string>
-    <string name="reboot_confirm_title">Telefonul dvs. va reporni.</string>
-    <string name="reboot_progress">Repornire…</string>
-    <string name="memory_clear_result">%1$sO goliţi | %2$sO disponibili</string>
-    <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
     <string name="miui_device_name">Android</string>
-    <string name="lockscreen_access_pattern_start">Model început</string>
-    <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
-    <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
-    <string name="lockscreen_access_pattern_detected">Model finalizat</string>
-    <string name="global_actions_airplane_mode">Modul avion</string>
-    <string name="global_actions_reboot">Repornire</string>
-    <string name="global_actions_shutdown">Închidere</string>
-    <string name="global_actions_silent_mode">Modul silenţios</string>
-    <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar</string>
-    <string name="screen_on_proximity_sensor_summary">Nu acoperiți zona portocalie a ecranului</string>
-    <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan.</string>
-    <string name="first_back_long_press_message">"Apăsarea lungă a tastei Înapoi va opri aplicaţia curentă şi serviciile ei din fundal.
-
-Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
-    <string name="force_exit_message">%1$s a fost oprit(ă)</string>
-    <string name="force_exit_skip_message">Nu se poate opri %1$s deoarece este necesar(ă) pentru sistem.</string>
-    <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
-    <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butonul Domiciliu și Alimentare simultan.</string>
     <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>
     <string name="perm_send_push_lab">Trimitere mesaj de tip push</string>
-    <string name="select">Selectaţi</string>
-    <string name="select_all">Selectaţi tot</string>
-    <string name="cut">Decupare</string>
-    <string name="copy">Copiere</string>
-    <string name="paste">Inserare</string>
-    <string name="replace">Înlocuire</string>
-    <string name="alwaysUsePrompt">Se memorizează această alegere</string>
-    <string name="call_record_sample_prefix_miui">Apel</string>
-    <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
-    <string name="unknown_caller">Număr necunoscut</string>
-    <string name="call_record_or">" sau "</string>
     <string name="presentation_unknown">Număr necunoscut</string>
     <string name="presentation_private">Număr privat</string>
     <string name="presentation_payphone">Payphone</string>
-    <string name="caller_info_name_delimiter">" sau "</string>
-    <string name="sim_added_reboot_title">Cardul SIM se va activa după ce reporniți dispozitivul.</string>
-    <string name="sim_added_reboot_confirm">Repornire</string>
     <string name="yellow_page_unable_send_sms">Nu se poate trimite mesajul SMS</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
     <string name="yellow_page_sms_send_failed">Nu se poate trimite mesajul</string>
@@ -56,16 +18,8 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="group_name_friends">Prieteni</string>
     <string name="group_name_family">Familie</string>
     <string name="group_name_coworkers">Colegi</string>
-    <string name="auto_start_warning_title">Permiteţi %s să pornească automat în viitor?</string>
-    <string name="auto_start_warning_allow">Permiteţi</string>
-    <string name="auto_start_warning_deny">Refuzaţi</string>
-    <string name="key_btn_space">Spaţiu</string>
-    <string name="key_btn_ok">OK</string>
     <string name="no_notification_tips">Nicio notificare</string>
-    <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
-    <string name="softap_notifif_summary">%d conectat</string>
     <string name="maml_component_customization_title">Setări</string>
     <string name="default_name">Prestabilit</string>
     <string name="resource_select">Selectaţi</string>
-    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa, sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
 </resources>
