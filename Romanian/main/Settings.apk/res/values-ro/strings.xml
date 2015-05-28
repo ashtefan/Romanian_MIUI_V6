@@ -1065,7 +1065,7 @@ Dacă textul sistemul dvs. este încă prea mic, încercați să utilizați "</s
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="hidden_ssid_label">SSID ascuns:</string>
-    <string name="high_performance_notif_summary">Modul Performanţă este activ. Acest lucru va epuiza acumulatorul mai rapid.</string>
+    <string name="high_performance_notif_summary">Modul Performanță dezactivează controalele de temperatură și limitele de consum ale acumulatorului, ceea ce permite dispozitivului să ruleze la capacitate maximă. Acest lucru poate cauza încălzirea dispozitivului și să reducă durata de viață a acumulatorului.</string>
     <string name="high_performance_notif_title">Utilizare acumulator</string>
     <string name="high_performance_title">Se pare că rulează un test de evaluare. Setaţi gestionarea energiei la \"Performanţă\" pentru cele mai bune rezultate.</string>
     <string name="history_details_title">Detalii istoric</string>
@@ -1977,7 +1977,7 @@ Această setare afectează toţi utilizatorii de pe acest telefon."</string>
     <string name="security_enable_widgets_disabled_summary">Setare dezactivată de administrator</string>
     <string name="security_enable_widgets_title">Activați widgeturi</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
-    <string name="security_password_category_name">Parolă</string>
+    <string name="security_password_category_name">Blocare ecran</string>
     <string name="security_passwords_title">Parole</string>
     <string name="security_privacy_settings_title">Securitate</string>
     <string name="security_relative">Legate de securitate</string>
@@ -2069,7 +2069,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sim_lock_settings">Setări de blocare a cardului SIM</string>
     <string name="sim_lock_settings_category">Configuraţi blocarea cardului SIM</string>
     <string name="sim_lock_settings_title">Blocare card SIM</string>
-    <string name="sim_management_title">Gestionare SIM</string>
+    <string name="sim_management_title">Carduri SIM şi reţele mobile</string>
     <string name="sim_pin_change">Modificaţi codul PIN pentru SIM</string>
     <string name="sim_pin_toggle">Blocaţi cardul SIM</string>
     <string name="sim_pins_dont_match">Codurile PIN nu corespund</string>
@@ -2133,7 +2133,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_all_app_display_loading">Încărcare…</string>
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
-    <string name="status_bar_settings_custom_notification">Gestiune notificări</string>
+    <string name="status_bar_settings_manage_notification">Gestiune notificări</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
     <string name="status_bar_settings_expandable_under_keyguard">Se afișează pe blocarerea ecranului</string>
     <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a alege un comutator</string>
@@ -2151,12 +2151,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Bară de stare</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>
-    <string name="status_bar_settings_toggle_layout_style">Aspect comutatoare</string>
-    <string name="status_bar_settings_toggle_layout_style_applying">Schimbare stil…</string>
-    <string name="status_bar_settings_toggle_layout_style_compact">Bară</string>
-    <string name="status_bar_settings_toggle_layout_style_single_page">Pagină</string>
     <string name="status_bar_settings_toggle_position">Poziţii comutatoare</string>
-    <string name="status_bar_style_settings">Notificări</string>
     <string name="status_bt_address">Adresă Bluetooth</string>
     <string name="status_data_state">Starea reţelei mobile</string>
     <string name="status_icc_id">ICCID</string>
@@ -2357,11 +2352,11 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unlock_set_unlock_none_title">Fără</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Fără</string>
-    <string name="unlock_set_unlock_password_summary">Poate conţine litere și cifre</string>
+    <string name="unlock_set_unlock_password_summary">Introduceţi patru sau mai multe litere sau cifre pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_password_title">Parolă amestecată</string>
-    <string name="unlock_set_unlock_pattern_summary">Trebuie să conectaţi cel puțin 4 puncte</string>
+    <string name="unlock_set_unlock_pattern_summary">Desenați un model simplu cu degetul pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>
-    <string name="unlock_set_unlock_pin_summary">Introduceți codul PIN din 4 cifre</string>
+    <string name="unlock_set_unlock_pin_summary">Introduceți patru sau mai multe cifre pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
@@ -3005,4 +3000,5 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="fluency_mode_confirm_and_reboot">Reporniţi acum</string>
     <string name="performance_category">Performanţă</string>
     <string name="cell_broadcast_settings_summary">Selectaţi tipurile de alerte de urgenţă pentru afișare</string>
+    <string name="music_dirac_mode_piston_standard">Ediţie Standard</string>
 </resources>

@@ -23,7 +23,7 @@
     <string name="account_name_toast">Un cont cu același nume există deja</string>
     <string name="account_options_acc_title">Cont</string>
     <string name="account_options_common_title">Generale</string>
-    <string name="account_options_only_title">Se descarcă doar titlurile mesajelor, atunci când se utilizează datele mobile</string>
+    <string name="account_options_only_title">Atunci când se utilizează datele mobile, se descarcă doar titlurile mesajelor</string>
     <string name="account_options_sync_title">Sincronizare</string>
     <string name="account_password_spaces_error">Această parolă începe sau se termină cu unul sau mai multe spaţii. Numeroase servere nu acceptă parole cu spaţii.</string>
     <string name="account_security_dialog_content_fmt">%s vă solicită actualizarea setărilor dvs. de securitate.</string>
@@ -51,7 +51,7 @@
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Conectarea dvs. la %s a eşuat; motivul invocat de server a fost: %s Doriţi să actualizaţi numele de utilizator şi/sau parola?</string>
     <string name="account_settings_login_dialog_title">Nu s-a putut conecta</string>
     <string name="account_settings_mail_check_frequency_label">Frecvență</string>
-    <string name="account_settings_mibill_resolve_label">Analizarea situațiilor de e-mail</string>
+    <string name="account_settings_mibill_resolve_label">Gestionare automată a facturilor</string>
     <string name="account_settings_name_label">Porecla</string>
     <string name="account_settings_notifications">Setări notificare</string>
     <string name="account_settings_notify_label">Notificări</string>
@@ -297,7 +297,7 @@
     <string name="compose">Compuneţi</string>
     <string name="compose_help_context">compuneţi</string>
     <string name="compose_send">Trimiteţi</string>
-    <string name="compose_sent">Trimis cu succes</string>
+    <string name="compose_sent">E-mail trimis</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Ştergeţi acest e-mail?</string>
     <string name="confirm_delete_conversation_title">Ştergeţi</string>
@@ -492,8 +492,8 @@
     <string name="imap_name">IMAP</string>
     <string name="inbox_folders_heading">Dosare locale</string>
     <string name="info">Informaţii</string>
-    <string name="inline_picture_deleted">Nu se poate găsi această imagine, se descarcă…</string>
-    <string name="inline_picture_download_complete">imagine descărcată</string>
+    <string name="inline_picture_deleted">Se descărcă imaginea ce lipsește…</string>
+    <string name="inline_picture_download_complete">Imagine descărcată</string>
     <string name="input_password_prompt">Introduceţi parola dvs.</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
     <string name="invalid_recipient_title">Eroare destinatar</string>
@@ -612,7 +612,7 @@ CC: %4$s
     <string name="more_atts_total">%1$d ataşamente</string>
     <string name="more_context">Mai multe</string>
     <string name="more_string">+%1$s</string>
-    <string name="move_to_selection_dialog_title">Mutat în alt dosar</string>
+    <string name="move_to_selection_dialog_title">Mutaţi în alt dosar</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Suprimaţi</string>
     <string name="name_or_number_is_error">Numele de utilizator sau parola sunt incorecte</string>
@@ -621,7 +621,7 @@ CC: %4$s
     <string name="new_incoming_messages_one">Mesaj nou de la %s. Afişaţi.</string>
     <string name="new_messages">%1$d (de) mesaje noi</string>
     <string name="next_action">Înainte</string>
-    <string name="next_not_prompt">Nu mai întreba</string>
+    <string name="next_not_prompt">Nu se afişează din nou</string>
     <string name="no">Nu</string>
     <string name="no_application_found">Nu a fost găsită nicio aplicație pentru a deschide acest atașament.</string>
     <string name="no_application_found_title">Deschideţi acest atașament.</string>
@@ -722,11 +722,11 @@ CC: %4$s
     <string name="prefDefault_autoAdvance">listă</string>
     <string name="prefDialogTitle_conversationListIcon">Imaginea expeditorului</string>
     <string name="prefDialogTitle_removal_action">Arhivați și Ștergeți</string>
-    <string name="preference_eas_tips">Faceți clic pe “Activare” în pagina de confirmare ce vine, necesară de serverul de e-mail</string>
+    <string name="preference_eas_tips">Apăsați Activare pentru a configura serverul de e-mail</string>
     <string name="preference_head_load_description">Se descarcă doar titlurile mesajului, atunci când se utilizează datele mobile</string>
     <string name="preference_head_load_title">Economisire date mobile</string>
     <string name="preference_imap_tips" />
-    <string name="preference_pop_tips">În POP3, ataşamentele vor fi descărcate odată cu e-mailul. Aveți grijă la utilizarea datelor mobile.</string>
+    <string name="preference_pop_tips">În POP3, ataşamentele vor fi descărcate odată cu e-mailul. Acest lucru poate crește utilizarea datelor mobile.</string>
     <string name="preference_removal_action_title">Arhivați și Ștergeți</string>
     <string name="preference_sender_image_description">Afișați lângă nume în lista de conversații</string>
     <string name="preference_sender_image_title">Imaginea expeditorului în inbox</string>
@@ -937,26 +937,26 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="save_power_summary">Notificările pentru e-mailurile care sosesc vor fi reduse la tăcere</string>
     <string name="save_power_title">Nu derajaţi</string>
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
-    <string name="sdcard_cannot_use">Cardul de stocare nu poate fi utilizat</string>
+    <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
     <string name="upload_log">Încărcare jurnale</string>
-    <string name="upload_log_failed">Încărcare eşuată</string>
+    <string name="upload_log_failed">Încărcarea jurnalelor a eşuat</string>
     <string name="upload_log_no">Anulaţi</string>
-    <string name="upload_log_success">Încărcare reuşită</string>
-    <string name="upload_log_title">Încărcați jurnalele acum?</string>
+    <string name="upload_log_success">Jurnale încărcate cu succes</string>
+    <string name="upload_log_title">Încărcați</string>
     <string name="upload_log_yes">Încărcare</string>
-    <string name="uploading_logs">Încărcare jurnale</string>
-    <string name="you_are_in_mobile_network">În prezent utilizați o rețea de telefonie mobilă</string>
+    <string name="uploading_logs">Încărcare jurnale…</string>
+    <string name="you_are_in_mobile_network">Utilizați o rețea de telefonie mobilă, continuaţi să încărcați fișierul jurnal (dimensiune nKO)?</string>
     <string name="gmail_acceleration">Utilizaţi server proxy pentru contul Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Utilizaţi server proxy pentru a accesa contul Gmail?</string>
     <string name="gmail_login_verify">Adăugaţi un cont Gmail</string>
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Conectaţi-vă la Gmail</string>
     <string name="open_proxy_in_settings">Gmail nu este disponibil în locația curentă. Puteți trimite și primi mesaje, în continuare, folosind un server proxy. Activați, sau dezactivaţi această opţiune în Setări.</string>
-    <string name="mibill_privacy_policy_button1">Nu acum</string>
+    <string name="mibill_privacy_policy_button1">Nu sunt de acord</string>
     <string name="mibill_privacy_policy_button2">Acceptaţi</string>
-    <string name="mibill_privacy_policy_description">Portofel Mi va analiza toate declarațiile de e-mail primite în aplicația E-mail și va gestiona toate facturile de card de credit pentru dvs. Acest serviciu este dezactivat pentru căsuța poștală a companiei.</string>
-    <string name="mibill_privacy_policy_link">Acceptaţi <a href="https://www.mipay.com/res/doc/eula/email.html">Acordul de utilizare a serviciului Facturi card de credit</a></string>
-    <string name="mibill_privacy_policy_title">Portofel Mi analează declarațiile de e-mail</string>
+    <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată automat pentru adresele de e-mail legate de muncă.</string>
+    <string name="mibill_privacy_policy_link">Citiţi &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Condiţii de utilizare&lt;/a&gt;</string>
+    <string name="mibill_privacy_policy_title">Sunt de acord cu gestionarea în mod automat a facturilor</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">Spaţiu de stocare insuficient</string>
     <string name="toast_bar_invalid_account">Este necesar să vă reautentificaţi</string>
@@ -969,11 +969,11 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="account_settings_using_ringtone">Ton de sonerie</string>
     <string name="folder_list_display_all">Se afişează toate dosarele</string>
     <string name="folder_list_display_only_import">Se afişează doar dosarele importante</string>
-    <string name="imap_password_error">Eroare a parolei serverului de intrare</string>
-    <string name="outbox_alert_description_cannot_authenticate">Eroare de sistem %s</string>
+    <string name="imap_password_error">Parola pentru serverul de intrare este incorectă</string>
+    <string name="outbox_alert_description_cannot_authenticate">Nu se poate autentifica %s</string>
     <string name="outbox_alert_description_reject_by_server">Respins de %s</string>
-    <string name="outbox_alert_description_time_out">Conexiune la rețea eşuată</string>
-    <string name="smtp_password_error">>Eroare a parolei serverului de ieşire</string>
+    <string name="outbox_alert_description_time_out">Conexiune la rețea expirată</string>
+    <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
     <string name="contact_edit_set_black_list">Setaţi lista blocărilor</string>
     <string name="contact_edit_set_phone_contact">Editaţi contactele din telefon</string>
     <string name="contact_edit_set_pop_up_tips">Sfaturi</string>
@@ -983,4 +983,10 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="contact_edit_title_phone_contact">Lista contactelor din telefon</string>
     <string name="re_download_message_button">Apăsaţi pentru a descărca din nou</string>
     <string name="re_download_message_info">Descărcarea e-mailului a eşuat</string>
+    <string name="account_setup_incoming_username_label_default_hint">Conținut domeniu</string>
+    <string name="dialog_account_auto_sync_setting_no_open">Opțiunea de sincronizare e-mail este dezactivată, nu se pot primi mesaje noi.</string>
+    <string name="dialog_auto_sync_setting_no_open">Opțiunea de sincronizare este dezactivată, nu se pot primi mesaje noi.</string>
+    <string name="oauth_error_description">Imposibil de autentificat</string>
+    <string name="oauth_gmail_login_notify">În conformitate cu cerințele Google, ar trebui să introduceți parola pe pagina de autorizare Google</string>
+    <string name="oauth_login_continue">Continuare</string>
 </resources>

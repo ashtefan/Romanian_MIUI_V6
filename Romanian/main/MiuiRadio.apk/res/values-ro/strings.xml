@@ -108,4 +108,10 @@
     <string name="confirm_delete_history_text">Ştergeţi elementele selectate?</string>
     <string name="batch_download_start_toast">Descărcare…</string>
     <string name="dialog_title_listen_quality">Selectaţi calitatea</string>
+    <string name="all">tot</string>
+    <string name="batch_download">Descărcare în lot</string>
+    <string name="continue_play">redare</string>
+    <string name="get_channel_failed">Obținerea detaliilor canalului a eșuat</string>
+    <string name="section">selecție</string>
+    <string name="similar_programs">Programe similare</string>
 </resources>

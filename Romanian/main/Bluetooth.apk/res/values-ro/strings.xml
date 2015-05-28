@@ -12,7 +12,7 @@
     <string name="disconnect">Anulați împerecherea</string>
     <string name="ble_device_rename">Redenumiţi</string>
     <string name="ble_device_profile_header_title">Setări</string>
-    <string name="ble_device_profile_title">Dispozitive inteligente Bluetooth conectate</string>
+    <string name="ble_device_profile_title">Dispozitive inteligente Bluetooth împerecheate</string>
     <string name="mi_band_vibrate_incall">Vibrare la primirea unui apel</string>
     <string name="mi_band_vibrate_incall_in_contacts">Apeluri de la contacte</string>
     <string name="mi_band_vibrate_incall_no_contacts">Apeluri de la numere necunoscute</string>
@@ -170,4 +170,13 @@
     <string name="bluetooth_connecting">Împerechere…</string>
     <string name="bluetooth_disconnected">Neîmperecheat</string>
     <string name="bluetooth_disconnecting">Anulare împerechere…</string>
+    <string name="ble_device_profile">Profil dispozitiv Bluetooth</string>
+    <string name="goto_package">Deschideţi %1$s</string>
+    <string name="install_package">Instalaţi %1$s pentru mai multe funcţii</string>
+    <string name="mi_key_open_camera">Deschidere Cameră</string>
+    <string name="mi_key_summary_find_phone">Apăsați și țineți apăsat pe Mi-Key pentru a activa soneria</string>
+    <string name="mi_key_summary_open_camera">Faceți dublu clic pe Mi-Key pentru a deschide camera</string>
+    <string name="mi_key_summary_take_photo">Faceți clic pe Mi-Key pentru a fotografia</string>
+    <string name="reset_function_msg">Redeschiderea funcției va provoca o greşeală în %1$s</string>
+    <string name="some_app_taking">(%1$s utilizează deja această funcție…)</string>
 </resources>

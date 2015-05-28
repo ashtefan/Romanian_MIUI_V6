@@ -1173,4 +1173,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="resource_select_ringtone_confirm_picker">Selectaţi acest sunet?</string>
     <string name="preference_contacts_recovery_introduction">Restabilire contacte</string>
     <string name="group_sms_error_message">Mesajul SMS nu poate avea mai mult de %s destinatari.</string>
+    <string name="deleting_sim_entry_miui_prepare">Pregătire pentru ştergere…</string>
+    <string name="importing_sim_contacts_miui_prepare">Pregătire pentru import…</string>
+    <string name="loading_accounts">Se încarcă informaţiile despre SIM...</string>
 </resources>

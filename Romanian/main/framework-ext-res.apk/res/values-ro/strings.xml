@@ -79,4 +79,6 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="unknown_caller">Număr necunoscut</string>
+    <string name="handy_mode_summary">Pentru a închide, apăsați pe spațiul gol de pe ecran</string>
+    <string name="handy_mode_title">Modul operare cu o mână</string>
 </resources>
