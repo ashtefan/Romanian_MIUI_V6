@@ -318,7 +318,7 @@ Pentru a activa contul, urmați
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="user_avatar_update_title">Schimbaţi imaginea profilului</string>
     <string name="micloud_sync_state_pending">În aşteptare</string>
-    <string name="account_bind_new_phone">Adaăugaţi un telefon nou</string>
+    <string name="account_bind_new_phone">Adăugaţi un telefon nou</string>
     <string name="account_bind_phone_notice">Utilizați acest număr de telefon pentru a vă conecta la contul dvs., pentru a reseta parola, sau pentru a modifica setările de securitate.</string>
     <string name="account_bind_secure_email_title">Adăugaţi un e-mail pentru recuperare</string>
     <string name="account_bind_secure_phone_title">Adăugaţi un telefon pentru recuperare</string>
