@@ -12,9 +12,9 @@
     <bool name="support_oldman_mode">true</bool>
     <!--whether the device is dual sim card-->
     <bool name="support_dual_sim_card">true</bool>
-    <!-- whether the device has dual systems-->
+    <!--whether the device has dual systems-->
     <bool name="is_dual_system">false</bool>
-    <!-- whether the device has dual sd card-->
+    <!--whether the device has dual sd card-->
     <bool name="support_dual_sd_card">true</bool>
     <!--whether the device supports bt debug trace-->
     <bool name="btdebug_enabled">false</bool>
@@ -80,8 +80,10 @@
     <bool name="support_agps_paras">false</bool>
     <!--whether the device supports agps roaming-->
     <bool name="support_agps_roaming">false</bool>
+    <!--whether compass support tilt rotate calibrate  -->
+    <bool name="support_rotate_calibrate">false</bool>
+    <!--whether the device supports IR-->
+    <bool name="support_ir">false</bool>
     <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
     <string name="vendor">mediatek</string>
-    <!-- whether compass support tilt rotate calibrate  -->
-    <bool name="support_rotate_calibrate">false</bool>
 </features>
