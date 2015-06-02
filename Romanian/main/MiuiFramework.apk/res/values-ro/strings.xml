@@ -4,8 +4,6 @@
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
     <string name="miui_device_name">Android</string>
-    <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>
-    <string name="perm_send_push_lab">Trimitere mesaj de tip push</string>
     <string name="presentation_unknown">Număr necunoscut</string>
     <string name="presentation_private">Număr privat</string>
     <string name="presentation_payphone">Payphone</string>

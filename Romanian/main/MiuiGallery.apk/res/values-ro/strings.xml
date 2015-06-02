@@ -618,7 +618,7 @@
     <string name="all_video_album_display_name">Toate videoclipurile</string>
     <string name="confirm_all_photo_not_this_people_face">Nicio potrivire?</string>
     <string name="confirm_face">Potrivire</string>
-    <string name="confirm_left_photo_will_move_out">Fotografiile din stânga vor fi eliminate din acest album.</string>
+    <string name="confirm_left_photo_will_move_out">Fotografiile din stânga nu sunt ale lui(ei)?</string>
     <string name="confirm_not_face">Nu este această persoană</string>
     <string name="enabling_face_feature">Activare…</string>
     <string name="face_albumset_pending_enable_tip">Se vor sorta fotografiile atunci când dispozitivul este conectat la Wi-Fi</string>
@@ -643,4 +643,13 @@
     <string name="videos">Videoclipuri</string>
     <string name="paint_highlight_cancel_context">Salvaţi imaginea evidenţiată?</string>
     <string name="paint_highlight_cancel_title">Renunţaţi la modificări</string>
+    <string name="add_event">Adăugaţi un eveniment</string>
+    <string name="add_event_hint">Introduceţi o etichetă</string>
+    <string name="confirm_all_photo_are_this_people_face">Toate se potrivesc?</string>
+    <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Îmbinaţi aceste albume cu &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+    <string name="event_manage_photos">Gestiune fotografii</string>
+    <string name="face_albumset_loading_data">Încărcare date…</string>
+    <string name="merge_album">Îmbinaţi</string>
+    <string name="merge_album_title">Îmbinaţi albumele</string>
+    <string name="pick_from_contact">Alegeţi dintr-un contact</string>
 </resources>

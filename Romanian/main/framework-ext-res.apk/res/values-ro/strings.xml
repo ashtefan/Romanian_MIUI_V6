@@ -81,4 +81,6 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="unknown_caller">Număr necunoscut</string>
     <string name="handy_mode_summary">Pentru a închide, apăsați pe spațiul gol de pe ecran</string>
     <string name="handy_mode_title">Modul operare cu o mână</string>
+    <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>
+    <string name="perm_send_push_lab">Trimitere mesaj de tip push</string>
 </resources>

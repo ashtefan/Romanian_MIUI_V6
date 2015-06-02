@@ -125,7 +125,7 @@
     <string name="image_too_small_message">Imaginea originală nu este destul de mare</string>
     <string name="install">Instalaţi</string>
     <string name="invalid_contact_shortcut">Contact greşit</string>
-    <string name="is_setting_wallpaper_toast">Setare imagine de fundal…</string>
+    <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">Nu se pot șterge resurse de sistem</string>
     <string name="loading_desktop">Doar o secundă…</string>
     <string name="local_wallpaper">Descărcate</string>

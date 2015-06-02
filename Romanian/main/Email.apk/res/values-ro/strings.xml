@@ -939,13 +939,13 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
     <string name="upload_log">Încărcare jurnale</string>
-    <string name="upload_log_failed">Încărcarea jurnalelor a eşuat</string>
+    <string name="upload_log_failed">Trimiterea jurnalelor a eşuat</string>
     <string name="upload_log_no">Anulaţi</string>
-    <string name="upload_log_success">Jurnale încărcate cu succes</string>
-    <string name="upload_log_title">Încărcați</string>
+    <string name="upload_log_success">Jurnale trimise cu succes</string>
+    <string name="upload_log_title">Trimiteţi jurnalul către Xiaomi</string>
     <string name="upload_log_yes">Încărcare</string>
-    <string name="uploading_logs">Încărcare jurnale…</string>
-    <string name="you_are_in_mobile_network">Utilizați o rețea de telefonie mobilă, continuaţi să încărcați fișierul jurnal (dimensiune nKO)?</string>
+    <string name="uploading_logs">Doar o secundă…</string>
+    <string name="you_are_in_mobile_network">Trimiteţi jurnalul utilizând conexiunea de date mobile? Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="gmail_acceleration">Utilizaţi server proxy pentru contul Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Utilizaţi server proxy pentru a accesa contul Gmail?</string>
     <string name="gmail_login_verify">Adăugaţi un cont Gmail</string>
@@ -954,9 +954,9 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="open_proxy_in_settings">Gmail nu este disponibil în locația curentă. Puteți trimite și primi mesaje, în continuare, folosind un server proxy. Activați, sau dezactivaţi această opţiune în Setări.</string>
     <string name="mibill_privacy_policy_button1">Nu sunt de acord</string>
     <string name="mibill_privacy_policy_button2">Acceptaţi</string>
-    <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată automat pentru adresele de e-mail legate de muncă.</string>
-    <string name="mibill_privacy_policy_link">Citiţi &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Condiţii de utilizare&lt;/a&gt;</string>
-    <string name="mibill_privacy_policy_title">Sunt de acord cu gestionarea în mod automat a facturilor</string>
+    <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată în mod implicit pentru adresele de e-mail legate de muncă.</string>
+    <string name="mibill_privacy_policy_link">Prin utilizarea acestei funcții, sunteți de acord cu &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Condiţii de utilizare ale noastre&lt;/a&gt;</string>
+    <string name="mibill_privacy_policy_title">Gestionarea în mod automat a facturilor</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">Spaţiu de stocare insuficient</string>
     <string name="toast_bar_invalid_account">Este necesar să vă reautentificaţi</string>
@@ -983,10 +983,10 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="contact_edit_title_phone_contact">Lista contactelor din telefon</string>
     <string name="re_download_message_button">Apăsaţi pentru a descărca din nou</string>
     <string name="re_download_message_info">Descărcarea e-mailului a eşuat</string>
-    <string name="account_setup_incoming_username_label_default_hint">Conținut domeniu</string>
+    <string name="account_setup_incoming_username_label_default_hint">Puteți include domeniul</string>
     <string name="dialog_account_auto_sync_setting_no_open">Opțiunea de sincronizare e-mail este dezactivată, nu se pot primi mesaje noi.</string>
     <string name="dialog_auto_sync_setting_no_open">Opțiunea de sincronizare este dezactivată, nu se pot primi mesaje noi.</string>
     <string name="oauth_error_description">Imposibil de autentificat</string>
-    <string name="oauth_gmail_login_notify">În conformitate cu cerințele Google, ar trebui să introduceți parola pe pagina de autorizare Google</string>
+    <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google pe următoarea pagină de autentificare.</string>
     <string name="oauth_login_continue">Continuare</string>
 </resources>

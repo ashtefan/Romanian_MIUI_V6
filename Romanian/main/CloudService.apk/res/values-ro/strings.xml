@@ -333,4 +333,5 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_member_webload_fail_error_message">Eroare de reţea</string>
     <string name="micloud_member_webload_fail_toast_4xx">Nu sepoate încărca pagina</string>
     <string name="micloud_member_webload_fail_toast_5xx">Eroare de server</string>
+    <string name="internet_access_dspt">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
 </resources>

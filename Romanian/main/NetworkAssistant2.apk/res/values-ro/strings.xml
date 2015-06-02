@@ -510,4 +510,15 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="sim_state_exception_summary">Starea cardului SIM indică că ceva poate fi în neregulă cu cardul SIM.</string>
     <string name="wifi_network_blocked_notification_title">Nicio conexiune la internet</string>
+    <string name="miuishare_title_more">Mai mult</string>
+    <string name="miuishare_title_share">Partajare</string>
+    <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_connected_exception_title">Testare reţea</string>
+    <string name="network_not_available">Nu se poate conecta la rețea</string>
+    <string name="networkchanged_exception_summary">Conexiune la rețea s-a modificat. Testați din nou.</string>
+    <string name="networkchanged_exception_title">Conexiune modificată</string>
+    <string name="no_network_btn">Încercaţi din nou</string>
+    <string name="permission_exception_summary">Unele aplicații nu au permisiunea de a se conecta la internet</string>
+    <string name="permission_exception_title">Vizualizaţi permisiunile de reţea</string>
 </resources>
