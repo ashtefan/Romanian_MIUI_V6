@@ -258,4 +258,6 @@ accesaţi %s"</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="permlab_sendSmsNoConfirmation">Permiteţi mesaje SMS în fundal</string>
     <string name="permdesc_sendSmsNoConfirmation">Aplicaţia poate trimite mesaje SMS fără a cere permisiunea dvs. Acest lucru poate duce la cheltuieli neașteptate din parte operatorului.</string>
+    <string name="web_sso_login_fail">Trebuie să vă reconectaţi</string>
+    <string name="web_sso_login_message">Conectare…</string>
 </resources>

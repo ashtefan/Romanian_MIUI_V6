@@ -650,6 +650,8 @@
     <string name="event_manage_photos">Gestiune fotografii</string>
     <string name="face_albumset_loading_data">Încărcare date…</string>
     <string name="merge_album">Îmbinaţi</string>
-    <string name="merge_album_title">Îmbinaţi albumele</string>
+    <string name="merge_album_title">Îmbinaţi albumele în</string>
     <string name="pick_from_contact">Alegeţi dintr-un contact</string>
+    <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat o fotografie de profil</string>
+    <string name="ignore_alert_title">Dacă ignoraţi nu va mai fi afișat, continuaţi?</string>
 </resources>

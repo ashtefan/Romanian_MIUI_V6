@@ -329,7 +329,6 @@
     <string name="toast_burst_snap_finished_end">fotografii</string>
     <string name="toast_burst_snap_finished_start">Fotografiere în serie</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Nu se pot vizualiza imaginile în timp ce dispozitivul este blocat</string>
     <string name="toast_start_audio_capture">Faceţi un sunet pentru a declanșa obturator</string>
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) și din depărtare</string>
