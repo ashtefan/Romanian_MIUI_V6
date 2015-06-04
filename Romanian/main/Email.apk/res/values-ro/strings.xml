@@ -13,7 +13,6 @@
     <string name="abc_searchview_description_voice">Căutare vocală</string>
     <string name="abc_shareactionprovider_share_with">Distribuiţi prin</string>
     <string name="abc_shareactionprovider_share_with_application">Distribuiţi prin %s</string>
-    <string name="account_cache_provider">Furnizor cache cont</string>
     <string name="account_duplicate_dlg_message_fmt">Utilizaţi deja acest nume de utilizator pentru contul „%s”.</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
     <string name="account_folder_list_summary_drafts">Mesaje nefinalizate</string>
@@ -295,7 +294,6 @@
     <string name="collapse_recipient_details">Restrângeţi detaliile beneficiarului</string>
     <string name="colon">:</string>
     <string name="compose">Compuneţi</string>
-    <string name="compose_help_context">compuneţi</string>
     <string name="compose_send">Trimiteţi</string>
     <string name="compose_sent">E-mail trimis</string>
     <string name="confirm">OK</string>
@@ -329,7 +327,6 @@
     <string name="contextmenu_send_mail">Trimiteţi un e-mail</string>
     <string name="contextmenu_sharelink">Distribuiţi linkul</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Conversaţie furnizor de conţinut</string>
     <string name="conversation_folder_moved">Mutaţi în %1$s</string>
     <string name="conversation_item_mark_read">Citit</string>
     <string name="conversation_item_mark_unread">Necitit</string>
@@ -458,7 +455,6 @@
     <string name="forward_attribution_no_headers">---------- Mesaj redirecţionat ----------</string>
     <string name="forward_download_failed_ticker">Nu se pot redirecţiona unul sau mai multe ataşamente</string>
     <string name="forward_download_failed_title">Ataşamentul nu a fost trimis</string>
-    <string name="forward_subject_label">Re:</string>
     <string name="from">De la</string>
     <string name="from_heading">"De la: "</string>
     <string name="general_preference_confirm_delete_label">Confirmaţi înainte de a şterge</string>
@@ -527,14 +523,6 @@
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
-    <string name="mailbox_name_server_all_unread">Necitite</string>
-    <string name="mailbox_name_server_drafts">Mesaje nefinalizate</string>
-    <string name="mailbox_name_server_inbox">Mesaje primite</string>
-    <string name="mailbox_name_server_junk">Spam</string>
-    <string name="mailbox_name_server_outbox">Mesaje trimise</string>
-    <string name="mailbox_name_server_sent">Trimise</string>
-    <string name="mailbox_name_server_starred">Cu stea</string>
-    <string name="mailbox_name_server_trash">Coş de reciclare</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail de la</string>
@@ -607,7 +595,6 @@ CC: %4$s
     <string name="message_saved">Mesaj salvat ca nefinalizat.</string>
     <string name="message_type_name">mesaje</string>
     <string name="message_view_attachment_background_load">Unul sau mai multe atașamente din mesajul redirecţionat vor fi descărcate înainte de trimitere.</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
     <string name="more_atts_remaining">%1$d rămase</string>
     <string name="more_atts_total">%1$d ataşamente</string>
     <string name="more_context">Mai multe</string>
@@ -719,7 +706,6 @@ CC: %4$s
     <string name="policy_screen_timeout">Necesită dispozitiv inactiv pentru a bloca ecranul</string>
     <string name="policy_text_truncation">Se restricţionează dimensiunea textului e-mailului</string>
     <string name="pop3_name">POP3</string>
-    <string name="prefDefault_autoAdvance">listă</string>
     <string name="prefDialogTitle_conversationListIcon">Imaginea expeditorului</string>
     <string name="prefDialogTitle_removal_action">Arhivați și Ștergeți</string>
     <string name="preference_eas_tips">Apăsați Activare pentru a configura serverul de e-mail</string>
@@ -787,14 +773,9 @@ CC: %4$s
     <string name="reply">Răspundeţi</string>
     <string name="reply_all">Răs. tuturor</string>
     <string name="reply_attribution" formatted="false">Pe %s, %s a scris:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="replyto_heading">"Răspundeți la: "</string>
     <string name="report">Raportaţi</string>
     <string name="report_phishing">Raportaţi phishing</string>
-    <string name="report_rendering_improvement">Arată bine</string>
-    <string name="report_rendering_improvement_desc">Acest mesaj arată bine.</string>
-    <string name="report_rendering_problem">Arată rău</string>
-    <string name="report_rendering_problem_desc">Acest mesaj arată rău.</string>
     <string name="report_spam">Raportaţi ca spam</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="require_manual_sync_message">Sincronizarea în fundal pentru acest cont este dezactivată în roaming.</string>
@@ -922,7 +903,6 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">Apăsaţi pentru a finaliza configurarea.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
-    <string name="wait_help_context">aşteptare</string>
     <string name="widget_all_mail">Toate e-mailurile</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">At. pict. pt. modif.</string>
