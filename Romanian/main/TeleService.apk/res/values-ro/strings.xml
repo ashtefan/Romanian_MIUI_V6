@@ -14,7 +14,6 @@
     <string name="administrative_disable">Administrativ dezactivat</string>
     <string name="administrative_enable">Administrativ activată</string>
     <string name="advanced_settings">Setări opţionale</string>
-    <string name="advanced_settings_container">container setări avansate</string>
     <string name="advanced_settings_hide">▽ Atingeţi pentru a le ascunde pe toate</string>
     <string name="advanced_settings_show">▷ Atingeţi pentru a le afişa pe toate</string>
     <string name="advertisements_disable">Publicitate dezactivată</string>
@@ -45,7 +44,6 @@
     <string name="audio_mode_earpiece">Casca dispozitivului</string>
     <string name="audio_mode_speaker">Difuzor</string>
     <string name="audio_mode_wired_headset">Cască cu fir</string>
-    <string name="auth_username">NUmeUtilAut</string>
     <string name="auth_username_summary">Numele de utilizator folosit pentru autentificare</string>
     <string name="auth_username_title">Nume de utilizator pentru autentificare</string>
     <string name="auto_answer_delay_entries_delay_10s">10 secunde</string>
@@ -285,12 +283,10 @@
     <string name="disable_fdn_ok">Activaţi FDN</string>
     <string name="disable_pin_ok">Codul PIN al cardului SIM este dezactivat.</string>
     <string name="disable_sim_pin">Dezactivaţi codul PIN al cardului SIM</string>
-    <string name="display_name">Numele afişat</string>
     <string name="display_name_summary">&lt;Identic cu numele de utilizator></string>
     <string name="display_name_title">Numele afişat</string>
     <string name="dm_lock">DM blocat</string>
     <string name="dm_unlock">Deblocare DM</string>
-    <string name="domain_address">Domeniu SIP</string>
     <string name="domain_address_title">Server</string>
     <string name="doneButton">Terminat</string>
     <string name="dtmf_tone_enable_title">Tonuri la atingerea pt. apelare</string>
@@ -728,7 +724,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi serviciul pentru cli
     <string name="other_settings">Alte setări de apel</string>
     <string name="other_settings_category">Altele</string>
     <string name="others">Alte setări</string>
-    <string name="password">Password</string>
     <string name="password_changed">Parolă modificată cu succes</string>
     <string name="password_title">Parolă</string>
     <string name="pause_prompt_no">Nu</string>
@@ -769,7 +764,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită"</string>
     <string name="plmn_list_setting_title">Preferinţe</string>
     <string name="pocket_mode_summary">Blocarea automată atunci când este plasat într-un buzunar</string>
     <string name="pocket_mode_title">Prevenire apelare în buzunar</string>
-    <string name="port">Port</string>
     <string name="port_title">Numărul portului</string>
     <string name="pref_camera_coloreffect_entry_aqua">Bleu</string>
     <string name="pref_camera_coloreffect_entry_blackboard">Tablă neagră</string>
@@ -906,10 +900,8 @@ Cardul SIM va fi şters după o altă încercare greşită."</string>
     <string name="select_voice_call_sim">Selectaţi cardul SIM</string>
     <string name="sendSms">Trimiteţi SMS</string>
     <string name="send_button">Trimiteţi</string>
-    <string name="send_keepalive">SendKeepAlive</string>
     <string name="send_keepalive_title">Trimiteţi mesaje keep-alive</string>
     <string name="service_3g_off">oprit</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="set_primary_summary">Utilizat pentru apelurile de ieşire</string>
     <string name="set_primary_title">Setaţi drept cont principal</string>
     <string name="set_smsc_address_error">Nu a reușit setarea numărului</string>
@@ -1045,7 +1037,6 @@ Următoarea perioadă începe în %4$d (de) zile (%5$s)"</string>
     <string name="throttle_time_frame">Perioada de utilizare a datelor</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ din ciclul trecut
 Perioada următoare începe în %2$d (de) zile (%3$s)"</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Tip de transport</string>
     <string name="tty_mode_entries_full">TTY Full</string>
     <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1068,7 +1059,6 @@ Perioada următoare începe în %2$d (de) zile (%3$s)"</string>
     <string name="uplmn_list_setting_add_plmn">PLMN nou</string>
     <string name="uplmn_list_setting_title">Reţele preferate</string>
     <string name="uplmn_numeric_is_empty">Introduceţi un ID de reţea</string>
-    <string name="username">Nume utilizator</string>
     <string name="username_title">Nume de utilizator</string>
     <string name="ussdRunning">Se rulează codul USSD…</string>
     <string name="vibrate_on_ring_title">Vibrează când sună</string>
