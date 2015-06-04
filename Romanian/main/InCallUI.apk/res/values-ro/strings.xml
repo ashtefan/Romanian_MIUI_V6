@@ -968,14 +968,4 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="which_call_to_activate">Ce apel doriţi să activaţi?</string>
     <string name="wild_prompt_str">Înlocuiţi metacaracterul cu</string>
     <string name="wrong_password">Eroare parolă</string>
-    <string name="jeejen_answer_call_text">Răspuns la apel</string>
-    <string name="jeejen_card_title_call_cancel">Anulare apel</string>
-    <string name="jeejen_card_title_call_ended">Apel finalizat</string>
-    <string name="jeejen_card_title_dialing">Apelare</string>
-    <string name="jeejen_card_title_in_call"/>
-    <string name="jeejen_card_title_incoming_call">Apel de intrare</string>
-    <string name="jeejen_card_title_on_hold"/>
-    <string name="jeejen_end_call_text">Finalizare apel</string>
-    <string name="jeejen_reject_call_text">Refuzare apel</string>
-    <string name="jeejen_toggle_dialpad_text">Taste numerice</string>
 </resources>
