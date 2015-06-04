@@ -80,5 +80,4 @@ ID-ul dispozitivului tebuie să fie IMEI valid sau adresă MAC. Fără ID dispoz
     <string name="sync_notification_title_format">Sincronizare: %1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">Info activare XMSF</string>
-    <string name="activate_sms_postfix">[Acest SMS este utilizat pentru a activa dispozitivul Mi.]</string>
 </resources>
