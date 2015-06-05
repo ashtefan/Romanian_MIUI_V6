@@ -309,7 +309,7 @@ Pentru a activa contul, urmați
     <string name="device_delete_success_title">Deconectat</string>
     <string name="device_delete_success_message">Dacă nu v-ați conectat pe acest dispozitiv, schimbaţi parola imediat.</string>
     <string name="change_password">Schimbați parola</string>
-    <string name="completed">Terminat</string>
+    <string name="completed">Finalizat</string>
     <string name="no_network_title">Nu se poate conecta la rețea.</string>
     <string name="no_network_btn">Reîmprospătaţi</string>
     <string name="get_device_list_failed">Nu se pot obține dispozitivele</string>
@@ -348,9 +348,9 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="phone_send_verify_code_prompt">Trimiteţi codul de verificare la %s</string>
     <string name="replace_binded_phone">Înlocuiți telefonul</string>
     <string name="restart_action">Reporniţi</string>
-    <string name="restart_email_bind_message">Este nevoie de ceva timp pentru a primi un e-mail, schimbaţi e-mailul de recuperare?</string>
+    <string name="restart_email_bind_message">Un e-mail cu un cod de verificare va fi trimis la această adresă.</string>
     <string name="restart_email_bind_title">Schimbaţi e-mailul de recuperare</string>
-    <string name="restart_phone_bind_message">Este nevoie de ceva timp pentru a primi un SMS, schimbaţi telefonul de recuperare?</string>
+    <string name="restart_phone_bind_message">Un mesaj text cu un cod de verificare va fi trimis la acest număr.</string>
     <string name="restart_phone_bind_title">Schimbaţi telefonul de recuperare</string>
     <string name="trying_read_verify_code_sms">Obţinerea codului de verificare…</string>
     <string name="update_recovery_info_dialog_message">Trebuie să verificaţi identitatea înainte de a putea actualiza %s.</string>

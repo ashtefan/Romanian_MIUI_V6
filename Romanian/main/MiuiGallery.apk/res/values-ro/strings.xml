@@ -11,7 +11,7 @@
     <string name="add_to_cloud_exceeded_the_size_message">Dimensiune prea mare a fişierului</string>
     <string name="add_to_cloud_failed_message_with_count">%2$s (de) elemente nu pot fi adăugate la: %1$s</string>
     <string name="add_to_cloud_file_exist_message">Fotografia există deja în albumul de destinaţie</string>
-    <string name="add_to_cloud_folder">Adăugaţi într-un dosar</string>
+    <string name="add_to_cloud_folder">Adăugaţi în album</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Limită depășită</string>
     <string name="add_to_cloud_local_space_full_message">Stocare plină sau indisponibilă</string>
     <string name="add_to_cloud_reasons" />
@@ -111,13 +111,13 @@
     <string name="cloud_screenshots_display_name">Capturi de ecran</string>
     <string name="cloud_tab_albums">Albume</string>
     <string name="cloud_tab_all">Toate</string>
-    <string name="cloudfolder_already_exists">Dosarul cu acest nume există deja</string>
-    <string name="cloudfolder_cannot_start_with">"Numele fişierului nu poate începe cu '%s'"</string>
-    <string name="cloudfolder_contain_invalidate_char">"Numele fişierului nu poate conţine '%s'"</string>
+    <string name="cloudfolder_already_exists">Albumul cu acest nume există deja</string>
+    <string name="cloudfolder_cannot_start_with">"Numele dosarului nu poate începe cu '%s'"</string>
+    <string name="cloudfolder_contain_invalidate_char">"Numele dosarului nu poate conţine '%s'"</string>
     <string name="cloudfolder_fail_to_load_data">Nu se pot încărca datele. Aşteptaţi un minut sau două și încercați din nou.</string>
-    <string name="cloudfolder_loading_data">(Încărcare…)</string>
-    <string name="cloudfolder_name_cannot_empty">Introduceţi numele dosarului</string>
-    <string name="cloudfolder_name_reserved">Numele dosarului este rezervat</string>
+    <string name="cloudfolder_loading_data">Încărcare…</string>
+    <string name="cloudfolder_name_cannot_empty">Introduceţi numele albumului</string>
+    <string name="cloudfolder_name_reserved">Numele albumului este rezervat</string>
     <string name="comfirm_delete_current_album">Ştergeţi acest album?</string>
     <string name="comma">", "</string>
     <string name="confirm">OK</string>
@@ -135,7 +135,7 @@
     <string name="context_menu_copy">Copiaţi</string>
     <string name="context_menu_copy_notice">Selecția copiată în clipboard</string>
     <string name="contrast">Contrast</string>
-    <string name="create_new_cloud_folder">Creaţi un dosar nou</string>
+    <string name="create_new_cloud_folder">Creaţi un album nou</string>
     <string name="crop">Trunchiere</string>
     <string name="crop_fail_to_load_image">Încărcarea imaginii a eşuat</string>
     <string name="crop_label">Trunchiaţi</string>
@@ -252,7 +252,7 @@
     <string name="home_page_tab_cloud">Mi Cloud</string>
     <string name="home_page_tab_local">Locale</string>
     <string name="home_page_tab_photo">Fotografii</string>
-    <string name="image_download_item_title">Descărcaţi fişierul (%s)</string>
+    <string name="image_download_item_title">Descărcaţi fotografia (%s)</string>
     <string name="image_quota_fulfiled">Prea multe imagini. Ştergeţi unele imagini şi înceraţi din nou.</string>
     <string name="immomo_camera">Immomo</string>
     <string name="import_complete">Import finalizat</string>
@@ -266,7 +266,7 @@
     <string name="initial_cloud_button_text">Conectaţi-vă</string>
     <string name="initial_cloud_text">Stocaţi și vizualizaţi imaginile de oriunde</string>
     <string name="initializing_cloud">Iniţializare…</string>
-    <string name="input_cloudfolder_name">Numele dosarului</string>
+    <string name="input_cloudfolder_name">Numele albumului</string>
     <string name="internal_camera_folder_display_name">Fotografii interne Cameră</string>
     <string name="internal_miui_capture_screen_folder_display_name">Capturi de ecran interne</string>
     <string name="internal_sd_card">Stocare telefon</string>
@@ -393,7 +393,7 @@
     <string name="effect">Filtre</string>
     <string name="photo_size">Dimensiune</string>
     <string name="photoeditor_name">Foto Studio</string>
-    <string name="photos">Fotografii</string>
+    <string name="photos">" fotografii"</string>
     <string name="pick_too_many_recipients">Prea mulţi destinatari</string>
     <string name="pick_too_much_tips">Maxim %d elemente.</string>
     <string name="picker_no_album_selected">Niciun album selectat</string>
@@ -588,10 +588,10 @@
     <string name="camera_black_white">Alb-negru</string>
     <string name="black_white">Alb-negru plat</string>
     <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
-    <string name="home_page_tab_face">Chip</string>
+    <string name="home_page_tab_face">Persoane</string>
     <string name="photo_save_succeed">Salvat cu succes</string>
     <string name="face_album">Persoane</string>
-    <string name="face_albumset_use_tip">Utilizați detectarea feței pentru a sorta fotografiile după persoanele care sunt în ele</string>
+    <string name="face_albumset_use_tip">Sortaţi fotografiile după persoanele care sunt în ele</string>
     <string name="face_albumset_detecting_tip">Doar o secundă…</string>
     <string name="face_albumset_empty">Gol</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>
@@ -599,11 +599,11 @@
     <string name="rename_face_album">Schimbaţi numele</string>
     <string name="rename_fail_msg">Schimbare nume eşuată</string>
     <string name="merge_album_positive_button_text">Îmbinaţi</string>
-    <string name="confirm_merge_face_albums">" "<Data> Îmbinaţi acest album cu &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_merge_face_albums">" "&lt;Data&gt; Îmbinaţi acest album cu %s? &lt;/Data&gt;" "</string>
     <string name="create_new_face">Persoană nouă</string>
     <string name="preparing_data">Doar o secundă…</string>
     <string name="ignore_face">Ignoraţi această persoană</string>
-    <string name="who_is_this">Cine este aceasta?</string>
+    <string name="who_is_this">Cine este în această fotografie?</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
     <string name="name_wrong">Nu este %s</string>
     <string name="face_album_rename_hint">Introduceţi numele</string>
@@ -618,11 +618,11 @@
     <string name="all_video_album_display_name">Toate videoclipurile</string>
     <string name="confirm_all_photo_not_this_people_face">Nicio potrivire?</string>
     <string name="confirm_face">Potrivire</string>
-    <string name="confirm_left_photo_will_move_out">Fotografiile din stânga nu sunt ale lui(ei)?</string>
+    <string name="confirm_left_photo_will_move_out">Fotografia nu conține această persoană?</string>
     <string name="confirm_not_face">Nu este această persoană</string>
-    <string name="enabling_face_feature">Activare…</string>
+    <string name="enabling_face_feature">Doar o secundă…</string>
     <string name="face_albumset_pending_enable_tip">Se vor sorta fotografiile atunci când dispozitivul este conectat la Wi-Fi</string>
-    <string name="ignore_album">Ignoraţi</string>
+    <string name="ignore_album">Nu se afişează</string>
     <string name="in_home_page_long_press_photo_setting_secret_photo">Pentru a ascunde o fotografie, apăsați și țineți-o apăsată, apoi selectaţi \"Adăugare în album ascuns\" din meniul din colțul din stânga jos.</string>
     <string name="last_chinese_new_year">Ultimul An Nou Chinezesc</string>
     <string name="last_new_year">Ultimul An Nou</string>
@@ -636,22 +636,22 @@
     <string name="project_available_tip">Ecran detectat</string>
     <string name="return_to_top">Atingeţi \"Foto\" pentru a reveni la început</string>
     <string name="script">Script</string>
-    <string name="select_item_face">Selectați fotografiile ce aparțin %1</string>
+    <string name="select_item_face">Fotografiile ce aparțin %1</string>
     <string name="single_device_project_dialog_checkbox_text">Se memorizează acest ecran</string>
     <string name="single_device_project_dialog_title">Distribuție la %s</string>
     <string name="ubifocus_refocus_data_invalid">Nu se poate refocaliza, deoarece unele date ale acestei imagini sunt nevalide</string>
-    <string name="videos">Videoclipuri</string>
+    <string name="videos">" videoclipuri"</string>
     <string name="paint_highlight_cancel_context">Salvaţi imaginea evidenţiată?</string>
     <string name="paint_highlight_cancel_title">Renunţaţi la modificări</string>
     <string name="add_event">Adăugaţi un eveniment</string>
     <string name="add_event_hint">Introduceţi o etichetă</string>
-    <string name="confirm_all_photo_are_this_people_face">Toate se potrivesc?</string>
-    <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Îmbinaţi aceste albume cu &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+    <string name="confirm_all_photo_are_this_people_face">Asociați toate fotografiile cu această persoană?</string>
+    <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Îmbinaţi aceste albume cu %s? &lt;/Data&gt;" "</string>
     <string name="event_manage_photos">Gestiune fotografii</string>
     <string name="face_albumset_loading_data">Încărcare date…</string>
-    <string name="merge_album">Îmbinaţi</string>
-    <string name="merge_album_title">Îmbinaţi albumele în</string>
-    <string name="pick_from_contact">Alegeţi dintr-un contact</string>
+    <string name="merge_album">Îmbinare</string>
+    <string name="merge_album_title">Îmbinare albume</string>
+    <string name="pick_from_contact">Alegeţi din contacte</string>
     <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat o fotografie de profil</string>
-    <string name="ignore_alert_title">Dacă ignoraţi nu va mai fi afișat, continuaţi?</string>
+    <string name="ignore_alert_title">Ascundeţi acest album?</string>
 </resources>

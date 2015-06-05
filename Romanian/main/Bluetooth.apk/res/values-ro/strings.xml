@@ -174,9 +174,9 @@
     <string name="goto_package">Deschideţi %1$s</string>
     <string name="install_package">Instalaţi %1$s pentru mai multe funcţii</string>
     <string name="mi_key_open_camera">Deschidere Cameră</string>
-    <string name="mi_key_summary_find_phone">Apăsați și țineți apăsat pe Mi-Key pentru a activa soneria</string>
-    <string name="mi_key_summary_open_camera">Faceți dublu clic pe Mi-Key pentru a deschide camera</string>
-    <string name="mi_key_summary_take_photo">Faceți clic pe Mi-Key pentru a fotografia</string>
-    <string name="reset_function_msg">Redeschiderea funcției va provoca o greşeală în %1$s</string>
-    <string name="some_app_taking">(%1$s utilizează deja această funcție…)</string>
+    <string name="mi_key_summary_find_phone">Apăsați și țineți apăsat pe Mi Key pentru a activa soneria</string>
+    <string name="mi_key_summary_open_camera">Faceți dublu clic pe Mi Key pentru a deschide Camera</string>
+    <string name="mi_key_summary_take_photo">Faceți clic pe Mi Key pentru a fotografia</string>
+    <string name="reset_function_msg">Resetarea acestei caracteristici poate preveni lucru normal al %1$s.</string>
+    <string name="some_app_taking">(%1$s utilizează deja această funcție)</string>
 </resources>

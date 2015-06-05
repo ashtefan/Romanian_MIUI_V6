@@ -65,8 +65,8 @@
         <item quantity="one">Puteți selecta %d element</item>
      </plurals>
      <plurals name="more_face">
-        <item quantity="other">%1$s (de) fețe noi pot, de asemenea, aparține %2$s >></item>
-        <item quantity="one">%1$s față nouă poate, de asemenea, aparține %2$s >></item>
+        <item quantity="other">%1$s (de) fotografii ale %2$s</item>
+        <item quantity="one">%1$s fotografie a %2$s</item>
     </plurals>
     <plurals name="confirm_delete_album">
         <item quantity="other">Ştergeţi %1$s albume (%2$s în total)?</item>
