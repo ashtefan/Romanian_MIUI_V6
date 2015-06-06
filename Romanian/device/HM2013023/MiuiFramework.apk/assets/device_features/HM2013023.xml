@@ -80,6 +80,8 @@
     <bool name="support_agps_paras">false</bool>
     <!--whether the device supports agps roaming-->
     <bool name="support_agps_roaming">false</bool>
+    <!--whether the device supports preset music-->
+    <bool name="support_preset_music">false</bool>
     <!--whether compass support tilt rotate calibrate  -->
     <bool name="support_rotate_calibrate">false</bool>
     <!--whether the device supports IR-->
