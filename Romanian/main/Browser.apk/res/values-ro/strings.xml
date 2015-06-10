@@ -21,7 +21,7 @@
     <string name="action_menu_text_bandwidth_on">Lărgime de bandă/Activat</string>
     <string name="action_menu_text_bookmark">Adăugaţi un marcaj</string>
     <string name="action_menu_text_exit">Ieşire</string>
-    <string name="action_menu_text_history">Marcaje/istoric</string>
+    <string name="action_menu_text_history">Marcaje şi istoric</string>
     <string name="action_menu_text_nightmode">Mod nocturn</string>
     <string name="action_menu_text_nightmode_off">Mod nocturn</string>
     <string name="action_menu_text_nightmode_on">Mod nocturn</string>
@@ -366,7 +366,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="miui_search_notification_message">Atingeţi pentru a vedea bara de căutare</string>
     <string name="miui_search_notification_title">Bara de căutare</string>
     <string name="miuichromium_error_page_mobile">Reţea mobilă</string>
-    <string name="miuichromium_error_page_reason_network">Vizualizaţi link-ul URL</string>
+    <string name="miuichromium_error_page_reason_network">Nu se poate conecta la rețea</string>
     <string name="miuichromium_error_page_reason_server">Browser-ul nu poate încărca această pagină</string>
     <string name="miuichromium_error_page_reload">Reîncărcaţi</string>
     <string name="miuichromium_error_page_title">Nu se poate găsi această pagină</string>

@@ -1192,4 +1192,6 @@ indisponibil"</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Setări plan de date</string>
     <string name="ivr_type_settings_hint">Introduceţi codul planului de date</string>
+    <string name="can_not_use_for_not_data_sim">"(Nu se poate utiliza: Trebuie setat ca SIM de date prestabilit)"</string>
+    <string name="got_it">OK</string>
 </resources>

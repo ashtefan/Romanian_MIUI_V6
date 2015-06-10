@@ -9,7 +9,7 @@
     <string name="presentation_payphone">Payphone</string>
     <string name="yellow_page_unable_send_sms">Nu se poate trimite mesajul SMS</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
-    <string name="yellow_page_sms_send_failed">Nu se poate trimite mesajul</string>
+    <string name="yellow_page_sms_send_failed">Nu s-a putut trimite mesajul SMS</string>
     <string name="yellow_page_sms_sending">Trimitere…</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">Nu se pot trimite mesaje în modul Vizitator</string>
     <string name="group_name_contacts">Contacte</string>

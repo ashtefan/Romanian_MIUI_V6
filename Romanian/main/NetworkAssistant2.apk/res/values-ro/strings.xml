@@ -521,4 +521,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="no_network_btn">Încercaţi din nou</string>
     <string name="permission_exception_summary">Unele aplicații nu au permisiunea de a se conecta la internet</string>
     <string name="permission_exception_title">Vizualizaţi permisiunile de reţea</string>
+    <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
+    <string name="pref_title_diagnostics_dont_show_float_notification">Afişare alerte în panoul notificărilor</string>
 </resources>

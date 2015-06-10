@@ -410,7 +410,7 @@
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_end_time_summary">Sfârşit</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-    <string name="power_save_on_time_goout_title">Comutare la</string>
+    <string name="power_save_on_time_goout_title">După această perioadă a reveni la</string>
     <string name="power_save_on_time_option_recovery_title">Atunci când această perioadă se încheie, comutare la</string>
     <string name="power_save_on_time_option_summary">La sfârșitul acestei perioade dispozitivul va reveni la profilul cel mai recent utilizat</string>
     <string name="power_save_on_time_option_title">În această perioadă comutare la</string>

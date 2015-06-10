@@ -8,7 +8,6 @@
     <string name="action_mode_select_all">Selectaţi tot</string>
     <string name="action_mode_deselect_all">Deselectaţi tot</string>
     <string name="action_mode_title_empty">Selectare elemente</string>
-    <string name="loading">Încărcare…</string>
     <string name="date_picker_label_year" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_day" />
@@ -35,16 +34,10 @@
     <string name="date_picker_dialog_title">Setaţi data</string>
     <string name="time_picker_dialog_title">Setaţi ora</string>
     <string name="date_time_picker_dialog_title">Setaţi data şi ora</string>
-    <string name="app_name_which_call">Aplicaţiie: %s</string>
-    <string name="app_version_which_call">Versiune aplicaţie: %s</string>
-    <string name="policy_name">Politică: %s</string>
     <string name="copyright">Drepturi de autor</string>
     <string name="user_agreement">Condiţii de utilizare</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
-    <string name="mibi_license">Condiţii de utilizare Mi credit</string>
     <string name="user_manual">Manual de utilizare</string>
-    <string name="license_host_unreachable">"Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, 
-accesaţi %s"</string>
     <string name="perm_payment_lab">Mi Pay</string>
     <string name="perm_payment_dspt">Permiteţi aplicației să plătească prin serviciul Mi Pay</string>
     <string name="sync_one_time_sync">Atingeți pentru a sincroniza ( %1$s )</string>
@@ -257,7 +250,7 @@ accesaţi %s"</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="permlab_sendSmsNoConfirmation">Permiteţi mesaje SMS în fundal</string>
-    <string name="permdesc_sendSmsNoConfirmation">Aplicaţia poate trimite mesaje SMS fără a cere permisiunea dvs. Acest lucru poate duce la cheltuieli neașteptate din parte operatorului.</string>
+    <string name="permdesc_sendSmsNoConfirmation">Aplicaţia poate trimite mesaje SMS fără a cere permisiunea dvs. Operatorul dvs. vă poate taxa pentru aceste mesaje.</string>
     <string name="web_sso_login_fail">Trebuie să vă reconectaţi</string>
     <string name="web_sso_login_message">Conectare…</string>
 </resources>

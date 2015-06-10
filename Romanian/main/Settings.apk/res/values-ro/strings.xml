@@ -2121,7 +2121,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_and_notification_bar">Panou notificări şi bară de stare</string>
     <string name="status_bar_settings_notification_led">Indicator luminos intermitent</string>
     <string name="status_bar_settings_notification_sound_vibrate">Sunet şi vibrare</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary">Se afişează notificări plutitoare pe blocarea ecranului și în general peste tot</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary"/>
     <string name="status_bar_key_position_custom">Poziție personalizată a butoanelor</string>
     <string name="status_bar_screen_button_key">Butoane virtuale</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>
@@ -2147,7 +2147,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_show_notification_icon">Se afişează pictogramele notificărilor</string>
     <string name="status_bar_settings_show_screenshot_notification">Afişare notificare captură de ecran</string>
     <string name="status_bar_settings_show_home_message">Insignă pictogramă</string>
-    <string name="status_bar_settings_show_keyguard_notification">Se afişează notificările plutitoare</string>
+    <string name="status_bar_settings_show_keyguard_notification">Notificări plutitoare şi blocare ecran</string>
     <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Bară de stare</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>
