@@ -95,4 +95,13 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="virus_scan_is_virus">Această aplicație conține un virus.</string>
     <string name="dlg_appstore_notice">Obțineţi această aplicație de la &lt;u&gt;&lt;font color=#91c727&gt;Magazin aplicaţii&lt;/font&gt;&lt;/u&gt;</string>
     <string name="lift_ban_once">Permiteți o dată</string>
+    <string name="activity_package_delete_confirm_title">Avertizare importantă</string>
+    <string name="button_text_cancel">Anulaţi</string>
+    <string name="button_text_delete">Ştergeţi</string>
+    <string name="button_text_delete_timer">Ştergeţi (%d)</string>
+    <string name="button_text_next_step">Înainte</string>
+    <string name="button_text_next_step_timer">Înainte (%d)</string>
+    <string name="package_delete_confirm_step_1">Ştergeţi %s?</string>
+    <string name="package_delete_confirm_step_2">Ștergerea acestei aplicații poate cauza instabilitatea sistemului.</string>
+    <string name="package_delete_confirm_step_3">Nu veţi putea deschide această aplicație după ce o ștergeți.</string>
 </resources>
