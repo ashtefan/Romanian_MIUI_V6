@@ -67,7 +67,7 @@
     <!--whether the device supports agps-->
     <bool name="support_agps">true</bool>
     <!--whether the device supports feedback level-->
-    <bool name="support_feedback_level">false</bool>
+    <bool name="support_feedback_level">true</bool>
     <!--whether the device supports miui lite-->
     <bool name="enable_miui_lite">true</bool>
     <!--whether the device supports steps_provider-->
@@ -88,4 +88,6 @@
     <bool name="support_ir">false</bool>
     <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
     <string name="vendor">mediatek</string>
+    <!-- whether the device supports app hiding-->
+    <bool name="support_app_hiding">false</bool>
 </features>
