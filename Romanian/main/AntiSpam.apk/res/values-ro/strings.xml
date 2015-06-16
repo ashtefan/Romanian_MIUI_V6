@@ -315,4 +315,5 @@
      <string name="antispam_notificaiton_type_show_all">Toate numerele</string>
      <string name="antispam_notificaiton_type_show_except_blacklist">Numerele din lista excepţiilor</string>
      <string name="antispam_notificaiton_type_show_none">Niciodată</string>
+     <string name="action_source_sms_title">SMS blocate</string>
 </resources>

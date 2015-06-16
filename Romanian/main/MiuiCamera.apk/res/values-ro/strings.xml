@@ -228,7 +228,7 @@
     <string name="pref_camera_show_gender_age_entry_alias">Afişare vârstă când înfrumusețarea este activată</string>
     <string name="pref_camera_show_gender_age_entry_off">Oprit</string>
     <string name="pref_camera_show_gender_age_entry_on">Afişare vârstă şi sex când înfrumusețarea este activată</string>
-    <string name="pref_camera_show_gender_age_title">Recunoașterea feței</string>
+    <string name="pref_camera_show_gender_age_title">Vârstă și sex</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Îmbunătăţire automată</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Dezactivată</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Activată</string>
@@ -258,7 +258,7 @@
     <string name="pref_camera_zsl_entry_on">Dezactivat</string>
     <string name="pref_capture_settings">Camera</string>
     <string name="pref_face_beauty_title">Înfrumuseţare</string>
-    <string name="pref_front_mirror_entry_auto">Automat</string>
+    <string name="pref_front_mirror_entry_auto">Când este detectată fața</string>
     <string name="pref_front_mirror_entry_off">Oprit</string>
     <string name="pref_front_mirror_entry_on">Pornit</string>
     <string name="pref_front_mirror_title">Oglindă cameră frontală</string>

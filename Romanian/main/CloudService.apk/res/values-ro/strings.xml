@@ -199,7 +199,7 @@ Această caracteristică criptează și încarcă ID-ul dispozitivului dvs. pe s
     <string name="pref_title_sync_display_photo_on_wifi_only">Utilizaţi doar Wi-Fi pentru sincronizarea fotografiilor</string>
     <string name="pref_title_sync_my_profile_title">Sincronizare profil</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
-    <string name="remind_later">Mai târziu</string>
+    <string name="remind_later">Nu acum</string>
     <string name="restoreSync">Sincronizaţi acum</string>
     <string name="setting">Setări</string>
     <string name="share_cancel">Partajare anulată</string>
@@ -214,7 +214,7 @@ Această caracteristică criptează și încarcă ID-ul dispozitivului dvs. pe s
     <string name="sina_share_success">Trimis</string>
     <string name="sina_token_expired_warning">Cont Weibo expirat: reconectaţi-vă</string>
     <string name="sina_token_invalid_warning">Cont Weibo nevalid: reconectaţi-vă</string>
-    <string name="sms">SMS</string>
+    <string name="sms">Mesaje</string>
     <string name="start_micloud">Porniţi</string>
     <string name="storage">Stocare</string>
     <string name="sub_alert_notif_dspt_add">%s (de) elemente aşteaptă sincronizarea</string>
@@ -280,14 +280,14 @@ Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Gestionați conținutul Duokan prin utilizarea aplicației Duokan.</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
-    <string name="micloud_setting_antispam_summary">Excepții pentru Nu deranjați și numere de telefon blocate.</string>
+    <string name="micloud_setting_antispam_summary">Excepții și numere de telefon blocate</string>
     <string name="buy_more_space_b_class">"Conectaţi-vă la mi.com/micloud pentru a obține mai mult spațiu de stocare.
 Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
     <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
 Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
-    <string name="cloud_back_up_title">Rezervarea aspectului ecranului de pornire</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Se rezervă aspectul ecranului de pornire atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s</string>
-    <string name="cloud_back_up_open_info">"Se rezervă aspectul ecranului de pornire atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s.
+    <string name="cloud_back_up_title">Rezervare aplicţii</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Se rezervă aplicaţiile atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s</string>
+    <string name="cloud_back_up_open_info">"Se rezervă aplicaţiile atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s.
 Ultima rezervare: %2$s"</string>
     <string name="cloud_back_up_interval_long">7 zile</string>
     <string name="cloud_back_up_interval_short">1 zi</string>
@@ -312,14 +312,14 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizaţi Wi-Fi</string>
     <string name="micloud_member">Apartenență Mi Cloud</string>
     <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>
-    <string name="micloud_setting_deskclock_summary">Setări ceasuri</string>
+    <string name="micloud_setting_deskclock_summary">Setări fus orar şi alarmă</string>
     <string name="micloud_storage">Stocare</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizaţi fotografiile, contactele, notele și altele între toate dispozitivele dvs.</string>
     <string name="micloud_sync_alert_dialog_negative">Anulaţi</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>
     <string name="micloud_sync_alert_dialog_title">Utilizare Mi Cloud</string>
     <string name="settings_backup_title">Rezervare setări de sistem</string>
-    <string name="micloud_buy_member">Actualizare apartenență</string>
+    <string name="micloud_buy_member">Cont</string>
     <string name="micloud_member_buy_content" formatted="false">"Valid pentru %s-%s-%s
 
 %s Mi Credite pe an"</string>
@@ -334,4 +334,8 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_member_webload_fail_toast_4xx">Nu sepoate încărca pagina</string>
     <string name="micloud_member_webload_fail_toast_5xx">Eroare de server</string>
     <string name="internet_access_dspt">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
+    <string name="micloud_space_applist_detail">Gestionaţi aplicaţiile de pe ecranul de pornire</string>
+    <string name="micloud_space_applist_title">Gestionați aplicațiile</string>
+    <string name="micloud_space_soundrecorder_detail">Gestionaţi înregistrările stocate pe dispozitivul dvs.</string>
+    <string name="micloud_space_soundrecorder_title">Înregistrări</string>
 </resources>

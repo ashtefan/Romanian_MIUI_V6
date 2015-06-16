@@ -51,4 +51,5 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
      <string name="cta_declaration_ignore">Nu se afișează din nou</string>
      <string name="cta_declaration_positive_text">Acceptaţi</string>
      <string name="cta_declaration_negative_text">Refuzaţi</string>
+     <string name="searchable_sources">Surse de căutare on-line</string>
 </resources>

@@ -145,7 +145,7 @@
     <string name="higher_quality_music">Muzică de calitate superioară</string>
     <string name="higher_quality_music_summary">Ascultaţi şi descărcaţi muzică de calitate superioară</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration">Streaming on-line furnizat de Baidu Online Music Service. Prin atingerea \"Confirmaţi\" acceptaţi <a href="http://music.baidu.com/doc/agreement">Condiţii de utilizare</a>.</string>
+    <string name="impunity_declaration">Această aplicație trebuie să se conecteze la internet pentru a vizualiza și reda muzica on-line</string>
     <string name="impunity_declaration_ignore">Nu se afişează din nou</string>
     <string name="impunity_declaration_settings">Afişaţi Condiţiile de utilizare</string>
     <string name="impunity_declaration_summary">Afişaţi Condiţiile de utilizare pentru Baidu Online Music Service de fiecare dată când se deschide aplicația Muzică</string>
@@ -313,4 +313,5 @@
     <string name="preset_music_playlist">Listă de redare Mi</string>
     <string name="set_id3_not_have_read_or_write_permission">Nu aveți permisiunea de a edita acest fișier</string>
     <string name="set_id3_not_support_format">Nu se poate edita acest format de fișier</string>
+    <string name="atmd_music">Final</string>
 </resources>

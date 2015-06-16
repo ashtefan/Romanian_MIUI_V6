@@ -251,9 +251,9 @@ o conexiune de date mobilă"</string>
     <string name="read_number">86 articole</string>
     <string name="read_unit">" articole"</string>
     <string name="right_precent">100%</string>
-    <string name="roaming_not_start_body">Aplicațiile din lista albă vor putea să utilizeze datele mobile în roaming internațional.</string>
+    <string name="roaming_not_start_body">Atingeți pentru a vizualiza setările roaming-ului de date.</string>
     <string name="roaming_not_start_title">Roaming internațional</string>
-    <string name="roaming_start_body">Aplicațiile utilizează date mobile.</string>
+    <string name="roaming_start_body">Atingeți pentru a vizualiza lista albă a roaming-ului de date.</string>
     <string name="roaming_start_title">Roaming internațional</string>
     <string name="sc_allow_network_dialog_message">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="sc_allow_network_dialog_tiltle">Nu se poate utiliza această caracteristică</string>

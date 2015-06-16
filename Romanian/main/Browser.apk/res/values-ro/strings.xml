@@ -798,4 +798,20 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="sub_sync_item_browser_title_video">Sincronizare istoric video</string>
     <string name="sub_sync_item_browser_title_video_summary">Sincronizaţi lista de videoclipuri pe care le-ați vizionat recent</string>
     <string name="video_buffering_percent_string">Tamponare</string>
+    <string name="miuishare_account_activate_confirmation">Activarea este necesară</string>
+    <string name="miuishare_account_activate_ok">Activare</string>
+    <string name="miuishare_account_login_cancel">Anulare</string>
+    <string name="miuishare_account_login_confirmation">Conectarea este necesară</string>
+    <string name="miuishare_account_login_ok">Conectare</string>
+    <string name="miuishare_account_need_activate">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, care nu este activat în prezent. Activaţi contul dvs.?</string>
+    <string name="miuishare_account_need_login">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, , care este conectat în prezent. Vă conectați pentru a partaja acum?</string>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_no_network">Nicio reţea pentru partajare</string>
+    <string name="miuishare_publish">Trimiteţi</string>
+    <string name="miuishare_share_done">Conținutul partajat este trimis.</string>
+    <string name="miuishare_share_editor_title">Partajaţi</string>
+    <string name="miuishare_title_more">Mai mult</string>
+    <string name="miuishare_title_share">Partajare</string>
+    <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuishare_weibo_title">Weibo</string>
 </resources>
