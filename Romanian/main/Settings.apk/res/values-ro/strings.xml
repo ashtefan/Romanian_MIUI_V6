@@ -1022,7 +1022,7 @@ Dacă textul sistemul dvs. este încă prea mic, încercați să utilizați "</s
     <string name="handy_mode_size">Dimensiune ecran</string>
     <string name="handy_mode_tips">Glisați spre stânga sau dreapta de la butonul Home pentru a trage ecranul mai aproape de-o parte.</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
-    <string name="haptic_feedback_level">Vibrare</string>
+    <string name="haptic_feedback_level">Intensitate vibrare</string>
     <string name="hardkeyboard_category">Setări pentru tastatura fizică</string>
     <string name="hdcp_checking_dialog_title">Setaţi comp. verif. HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
