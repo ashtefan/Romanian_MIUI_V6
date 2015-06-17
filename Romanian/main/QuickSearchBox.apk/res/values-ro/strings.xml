@@ -19,37 +19,33 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
      <string name="default_search_domain">.google.com</string>
      <string name="device_settings_category_title">Ştergeţi istoricul căutării</string>
      <string name="google_app_label">Căutare Google</string>
-     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
      <string name="google_search_description">Sugestii Căutare Google</string>
      <string name="google_search_hint">Căutare Google</string>
      <string name="google_search_label">Google</string>
      <string name="google_settings_category_title">Căutare Google</string>
-     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
      <string name="menu_help">Ajutor</string>
      <string name="menu_settings">Setări căutare</string>
      <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutării?</string>
      <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
      <string name="search_in_app_store">Căutaţi în magazin</string>
-     <string name="search_in_web">Căutaţi în web</string>
+     <string name="search_in_web">Căutare on-line</string>
      <string name="search_settings">Căutare setări</string>
      <string name="search_sources">Elemente de căutat</string>
      <string name="search_sources_summary">Selectaţi ce doriţi să căutaţi pe telefon</string>
      <string name="search_widget">Căutare</string>
-     <string name="send_secret_code">Trimiteţi codul secret</string>
+     <string name="send_secret_code">Trimiteţi codul</string>
      <string name="system_search_category_title">Telefon</string>
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">Încercaţi să spuneţi:</string>
-     <string name="xiaomi_search_label">Rezultate on-line</string>
-     <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
+     <string name="xiaomi_search_label">Rezultate</string>
      <string name="recently_shortcut_label">Comenzi rapide recente</string>
      <string name="distance_unit_meter">m</string>
      <string name="distance_unit_kilometer">km</string>
      <string name="cta_declaration_title">Condiții de utilizare</string>
-     <string name="cta_declaration">Pentru toate caracteristicile de căutare, este necesar de a conecta rețeaua, poziționarea, citirea înregistrărilor de apel, citirea agendei, etc. Sunteţi de acord?</string>
+     <string name="cta_declaration">Această caracteristică trebuie să se conecteze la internet, să acceseze locația dispozitivului dvs. și să vizualizeze istoricul apelurilor și contactele pentru a funcţiona în mod normal.</string>
      <string name="cta_declaration_ignore">Nu se afișează din nou</string>
-     <string name="cta_declaration_positive_text">Acceptaţi</string>
-     <string name="cta_declaration_negative_text">Refuzaţi</string>
-     <string name="searchable_sources">Surse de căutare on-line</string>
+     <string name="cta_declaration_positive_text">Permiteţi</string>
+     <string name="cta_declaration_negative_text">Ieşire</string>
+     <string name="searchable_sources">On-line</string>
 </resources>

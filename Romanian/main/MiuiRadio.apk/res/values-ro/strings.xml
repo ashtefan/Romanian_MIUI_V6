@@ -114,7 +114,7 @@
     <string name="get_channel_failed">Nu s-au putut obține informațiile despre canal</string>
     <string name="section">Recomandate</string>
     <string name="similar_programs">Programe similare</string>
-    <string name="multi_subscriptions_subtitle_title">Apăsaţi pentru a asculta %1$s/%2$s</string>
-    <string name="multi_subscriptions_title">%1$d din abonamentele dvs. sunt actualizate</string>
-    <string name="one_subscription_title">Abonamentul dvs. la programul %1$s este actualizat!</string>
+    <string name="multi_subscriptions_subtitle_title">Apăsaţi pentru a asculta %1$s/%2$s.</string>
+    <string name="multi_subscriptions_title">%1$d abonamente actualizate</string>
+    <string name="one_subscription_title">%1$s este actualizat</string>
 </resources>

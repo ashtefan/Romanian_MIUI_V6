@@ -122,7 +122,7 @@
     <string name="comma">", "</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Ştergeţi %s fotografii?</string>
-    <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
+    <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;</string>
     <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
     <string name="confirm_delete_has_local_image_video">Ştergeţi %s (de) elemente?</string>
     <string name="confirm_delete_init_message">Fotografia va fi ştearsă de pe acest dispozitiv şi din Mi Cloud. Dacă doriţi să o ştergeţi doar de pe dispozitiv, încercaţi această acţiune în fila Off-line.</string>
@@ -212,7 +212,7 @@
     <string name="facetan">Bronz</string>
     <string name="fail_hint">Operaţiune eşuată</string>
     <string name="fail_init_gallery_db_helper">Nu s-a reușit încărcarea bazei de date</string>
-    <string name="fail_to_download_n_items">Imposibil de descărcat %s</string>
+    <string name="fail_to_download_n_items">Imposibil de descărcat %s elemente</string>
     <string name="fail_to_pick_email">Niciun e-mail valid</string>
     <string name="fail_to_sync_album">Sincronizarea albumului a eşuat. Verificați conexiunea la rețea şi încercaţi din nou.</string>
     <string name="file_not_exist_message">Fişier inexistent</string>
@@ -275,9 +275,9 @@
     <string name="invalid_invition_url">URL greşit</string>
     <string name="invalid_recipient_message">Numele destinatarilor introduse sunt greşite</string>
     <string name="iso">ISO</string>
-    <string name="item_not_sync_for_origin_image">Imposibil de descărcat această imagine din cauza că nu a fost sicronizată cu norul.</string>
-    <string name="item_not_sync_for_origin_video">Imposibil de descărcat acest videoclip din cauza că nu a fost sicronizat cu norul.</string>
-    <string name="item_not_sync_for_refocus_data">Imposibil de descărcat datele despre reorientare pentru această imagine din cauza că nu au fost sicronizate cu norul."</string>
+    <string name="item_not_sync_for_origin_image">Imposibil de descărcat imaginile care nu au fost sicronizate cu Mi Cloud.</string>
+    <string name="item_not_sync_for_origin_video">Imposibil de descărcat videoclipurile care nu au fost sicronizate cu Mi Cloud.</string>
+    <string name="item_not_sync_for_refocus_data">Imposibil de obţinut datele de focusare pentru fotografiile care nu au fost sicronizate cu Mi Cloud.</string>
     <string name="kick_owner_user_positive_button_text">Eliminaţi</string>
     <string name="kick_owner_user_title">Eliminați acest membru?</string>
     <string name="kick_sharer">Eliminaţi un destinatar</string>
@@ -479,7 +479,7 @@
     <string name="set_screensaver_path_title">Slideshow screensaver</string>
     <string name="set_wallpaper">Setare imagine de fundal…</string>
     <string name="settings">Setări</string>
-    <string name="settings_i_xiaomi_com">Stocaţi și vizualizaţi imaginile pe i.mi.com</string>
+    <string name="settings_i_xiaomi_com">Vizualizaţi fotografiile pe carea le-ați sincronizat cu Mi Cloud pe www.mi.com/micloud</string>
     <string name="shadow">Umbre</string>
     <string name="share_album">Distribuiţi albumul</string>
     <string name="share_album_owner">Proprietar</string>
@@ -598,7 +598,6 @@
     <string name="face_album_not_named">Fără nume</string>
     <string name="rename_face_album">Schimbaţi numele</string>
     <string name="rename_fail_msg">Schimbare nume eşuată</string>
-    <string name="merge_album_positive_button_text">Îmbinaţi</string>
     <string name="confirm_merge_face_albums">" "&lt;Data&gt; Îmbinaţi acest album cu %s? &lt;/Data&gt;" "</string>
     <string name="create_new_face">Persoană nouă</string>
     <string name="preparing_data">Doar o secundă…</string>
@@ -616,9 +615,9 @@
     <string name="highlight_abbr">L</string>
     <string name="contrast_abbr">C</string>
     <string name="all_video_album_display_name">Toate videoclipurile</string>
-    <string name="confirm_all_photo_not_this_people_face">Nicio potrivire?</string>
+    <string name="confirm_all_photo_not_this_people_face">Nicio potrivire pentru %s?</string>
     <string name="confirm_face">Potrivire</string>
-    <string name="confirm_left_photo_will_move_out">Fotografia nu conține această persoană?</string>
+    <string name="confirm_left_photo_will_move_out">%s nu este în niciuna dintre fotografiile rămase?</string>
     <string name="confirm_not_face">Nu este această persoană</string>
     <string name="enabling_face_feature">Doar o secundă…</string>
     <string name="face_albumset_pending_enable_tip">Se vor sorta fotografiile atunci când dispozitivul este conectat la Wi-Fi</string>
@@ -629,14 +628,14 @@
     <string name="last_valentine_day">Ultima Zi a Îndrăgostiților</string>
     <string name="last_year_today">1 an în urmă</string>
     <string name="mosaic">Mozaic</string>
-    <string name="network_connected_rescan">Conectaţi-vă la internet şi încercaţi din nou</string>
+    <string name="network_connected_rescan">Nu se poate conecta la reţea</string>
     <string name="no_secret_photo">Nicio fotografie ascunsă</string>
     <string name="paint_brush">Pensulă</string>
     <string name="paint_highlight">Evidențiere</string>
     <string name="project_available_tip">Ecran detectat</string>
     <string name="return_to_top">Atingeţi \"Foto\" pentru a reveni la început</string>
     <string name="script">Script</string>
-    <string name="select_item_face">Fotografiile ce aparțin %1</string>
+    <string name="select_item_face">"Fotografiile pot fi '%s'"</string>
     <string name="single_device_project_dialog_checkbox_text">Se memorizează acest ecran</string>
     <string name="single_device_project_dialog_title">Distribuție la %s</string>
     <string name="ubifocus_refocus_data_invalid">Nu se poate refocaliza, deoarece unele date ale acestei imagini sunt nevalide</string>
@@ -644,8 +643,8 @@
     <string name="paint_highlight_cancel_context">Salvaţi imaginea evidenţiată?</string>
     <string name="paint_highlight_cancel_title">Renunţaţi la modificări</string>
     <string name="add_event">Adăugaţi un eveniment</string>
-    <string name="add_event_hint">Introduceţi o etichetă</string>
-    <string name="confirm_all_photo_are_this_people_face">Asociați toate fotografiile cu această persoană?</string>
+    <string name="add_event_hint">Introduceţi eticheta</string>
+    <string name="confirm_all_photo_are_this_people_face">Asociați toate fotografiile cu %s?</string>
     <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Îmbinaţi aceste albume cu %s? &lt;/Data&gt;" "</string>
     <string name="event_manage_photos">Gestiune fotografii</string>
     <string name="face_albumset_loading_data">Încărcare date…</string>
@@ -654,4 +653,11 @@
     <string name="pick_from_contact">Alegeţi din contacte</string>
     <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat o fotografie de profil</string>
     <string name="ignore_alert_title">Ascundeţi acest album?</string>
+    <string name="confirm_left_photo_will_move_in">%s este în toate fotografiile rămase?</string>
+    <string name="event_create_long_photo">Creare fotografie…</string>
+    <string name="is">Este %s?</string>
+    <string name="not_is">Nu este %s?</string>
+    <string name="rename_event">Redenumire eveniment</string>
+    <string name="share_title_more">Mai multe</string>
+    <string name="wechat_timeline_title">WeChat timeline</string>
 </resources>

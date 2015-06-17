@@ -163,10 +163,10 @@ Participaţi la sondaj marţea viitoare"</string>
      <string name="update_feedback_need_network">Conectați-vă mai întâi la rețea</string>
      <string name="update_feedback_need_update">Trebuie să actualizați sistemul la cea mai recentă versiune.</string>
      <string name="update_feel">Ce credeţi?</string>
-     <string name="update_general">Aşa şi aşa</string>
-     <string name="update_happy">Awesome!</string>
+     <string name="update_general">Indiferent(ă)</string>
+     <string name="update_happy">Satisfăcut(ă)!</string>
      <string name="update_monthly_build_only">Actualizaţi doar la build-urile lunare</string>
-     <string name="update_sad">Nu este bună</string>
+     <string name="update_sad">Dezamăgit(ă)</string>
      <string name="update_success">Actualizare finalizată</string>
      <string name="update_success_body">Versiunea actuală: %s</string>
      <string name="update_success_title">Actualizare finalizată!</string>

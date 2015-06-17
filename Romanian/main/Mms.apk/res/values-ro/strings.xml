@@ -196,7 +196,7 @@
     <string name="left_cancel">Glisați spre stânga pentru a anula</string>
     <string name="loading_all_messages">Încărcarea mesajelor…</string>
     <string name="loading_conversations">Încarcare conversaţii…</string>
-    <string name="loading_mms">Încărcare…</string>
+    <string name="loading_mms">Doar o secundă…</string>
     <string name="manage_permission_app_label">Permisiuni dispozitiv</string>
     <string name="me">Eu</string>
     <string name="menu_add_black">Blocaţi acest număr</string>
@@ -525,7 +525,7 @@
     <string name="unsticked_conversation">Conversație eliberată deja</string>
     <string name="unsupported_media_format">Format %1$s neacceptat.</string>
     <string name="user_agreement1">Citiți termenii aplicabili cu atenție înainte de a instala un software suplimentar sau de a folosi acest produs.</string>
-    <string name="user_agreement2">Acordul de utilizare</string>
+    <string name="user_agreement2">Condiţii de utilizare</string>
     <string name="user_agreement3">" şi "</string>
     <string name="user_agreement4">Politica de confidențialitate</string>
     <string name="user_agreement5">Prin atingerea OK, sunteți de acord cu Termenii de utilizare și Politica de confidențialitate.</string>
@@ -567,7 +567,7 @@
     <string name="sms_report_success">Raport trimis</string>
     <string name="found_wild_messages_guide_cloud_desc">Pentru a sincroniza mesajele din Mi Cloud, conectaţi-vă la contul dvs. Mi şi activaţi sincronizarea SMS.</string>
     <string name="found_wild_messages_guide_settings_desc">Sincronizaţi mesajele SMS din Mi Could în Setările Mesageriei.</string>
-    <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în conversaţii</string>
+    <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="reply_button_msg">Răspundeţi</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
 </resources>
