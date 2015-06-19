@@ -5,7 +5,7 @@
     <string name="accessibility_flash_mode_button">Buton bliţ</string>
     <string name="accessibility_hdr">Buton comutare HDR</string>
     <string name="accessibility_module_picker">Selector modul</string>
-    <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
+    <string name="accessibility_panorama_review_cancel">Anulare salvare panoramă</string>
     <string name="accessibility_review_thumbnail">Ultimele fotografii</string>
     <string name="accessibility_seek_bar_line">SeekBarLine</string>
     <string name="accessibility_setting_button">Buton setări adiţionale</string>
@@ -82,7 +82,7 @@
     <string name="pref_camera_asd_popup_title">Se întreabă atunci când este necesar blițul</string>
     <string name="pref_camera_audio_capture_title">Audio</string>
     <string name="pref_camera_auto_capture_when_stable_title">Captare automată când este stabil</string>
-    <string name="pref_camera_auto_chroma_flash_title">Chroma bliţ</string>
+    <string name="pref_camera_auto_chroma_flash_title">Bliţ Chroma</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centrare</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Mediere</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Fix</string>
@@ -106,7 +106,7 @@
     <string name="pref_camera_coloreffect_entry_vivid">Aprins</string>
     <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
     <string name="pref_camera_coloreffect_entry_yesteryear">Odinioară</string>
-    <string name="pref_camera_coloreffect_title">Efecte culori</string>
+    <string name="pref_camera_coloreffect_title">Efecte de culori</string>
     <string name="pref_camera_contrast_title">Contrast</string>
     <string name="pref_camera_delay_capture_entry_10s">10s</string>
     <string name="pref_camera_delay_capture_entry_3s">3s</string>
@@ -162,9 +162,9 @@
     <string name="pref_camera_jpegquality_entry_low">Joasă</string>
     <string name="pref_camera_jpegquality_entry_normal">Standard</string>
     <string name="pref_camera_jpegquality_title">Calitate fotografie</string>
-    <string name="pref_camera_long_press_shutter_feature_title">Apăsați și țineți apăsat butonul de declanșare</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Ţinerea apăsată a butonului de declanșare</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Fotografiere în serie</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focusare</string>
     <string name="pref_camera_long_pressing_shutter_title">Apăsați și țineți apăsat butonul de declanșare pentru a bloca AE/AF/AWB</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
     <string name="pref_camera_movie_solid_title">Film solid</string>
@@ -270,7 +270,7 @@
     <string name="pref_simple_hdr_entry_off">Oprit</string>
     <string name="pref_simple_hdr_entry_on">Pornit</string>
     <string name="pref_video_captrue_ability_title">Abilitate captarea</string>
-    <string name="pref_video_focusmode_entry_auto">Tap</string>
+    <string name="pref_video_focusmode_entry_auto">Apăsare</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_title">Mod focusare</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
@@ -318,7 +318,7 @@
     <string name="simple_mode_button_text_panorama">Dezactivaţi panorama</string>
     <string name="simple_mode_button_text_scene">Dezactivaţi modul scenă</string>
     <string name="simple_mode_button_text_slow_video">Dezactivaţi intervalul de timp</string>
-    <string name="simple_mode_button_text_ubifocus">Dezactivaţi modul refocus</string>
+    <string name="simple_mode_button_text_ubifocus">Dezactivaţi modul refocusare</string>
     <string name="snapshot_lower_than_video">Dimensiunea fotografiei este mai mică decât dimensiunea video. Selectaţi o rezoluţie mai mare sau egală cu dimensiunea video actuală.</string>
     <string name="snapshotsize_low_powermode">Nu se poate capta fotografie în modul economisire energie. Selectaţi alt mod.</string>
     <string name="spaceIsLow_content">Spaţiul de stocare pe cardul SD s-a epuizat</string>
@@ -329,13 +329,13 @@
     <string name="toast_burst_snap_finished_end">fotografii</string>
     <string name="toast_burst_snap_finished_start">Fotografiere în serie</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
-    <string name="toast_start_audio_capture">Faceţi un sunet pentru a declanșa obturator</string>
+    <string name="toast_start_audio_capture">Faceţi un sunet pentru a declanșa obturatorul</string>
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) și din depărtare</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="wait">O secundă…</string>
-    <string name="pref_camera_peak_title">Focalizare maximă</string>
+    <string name="pref_camera_peak_title">Focusare maximă</string>
     <string name="pref_camera_peak_entry_off">Dezactivată</string>
     <string name="pref_camera_peak_entry_on">Activată</string>
     <string name="pref_camera_gradienter_title">Gradient</string>
