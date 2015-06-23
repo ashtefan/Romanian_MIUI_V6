@@ -49,9 +49,9 @@
     <string name="account_settings_login_dialog_content_fmt">Numele de utilizator sau parola pentru %s sunt incorecte. Doriţi să le actualizaţi acum?</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Conectarea dvs. la %s a eşuat; motivul invocat de server a fost: %s Doriţi să actualizaţi numele de utilizator şi/sau parola?</string>
     <string name="account_settings_login_dialog_title">Nu s-a putut conecta</string>
-    <string name="account_settings_mail_check_frequency_label">Frecvență</string>
+    <string name="account_settings_mail_check_frequency_label">Frecvența sincronizării</string>
     <string name="account_settings_mibill_resolve_label">Gestionare automată a facturilor</string>
-    <string name="account_settings_name_label">Porecla</string>
+    <string name="account_settings_name_label">Poreclă</string>
     <string name="account_settings_notifications">Setări notificare</string>
     <string name="account_settings_notify_label">Notificări</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>
@@ -160,7 +160,7 @@
     <string name="account_setup_options_mail_window_all">Tot</string>
     <string name="account_setup_options_mail_window_auto">Automat</string>
     <string name="account_setup_options_mail_window_default">Setări prestabilite cont</string>
-    <string name="account_setup_options_mail_window_label">Sincronizare e-mail de la</string>
+    <string name="account_setup_options_mail_window_label">Sincronizare e-mail</string>
     <string name="account_setup_options_notify_label">Doresc să primesc notificare la primirea de e-mailuri</string>
     <string name="account_setup_options_sync_calendar_label">Sincronizaţi calendarul acestui cont.</string>
     <string name="account_setup_options_sync_contacts_label">Doresc sincronizarea agendei acestui cont</string>
@@ -525,7 +525,7 @@
     <string name="mailbox_name_display_unread">Necitite</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
-    <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail de la</string>
+    <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail</string>
     <string name="mailbox_settings_sync_enabled_label">Se sincronizează acest dosar</string>
     <string name="mailbox_settings_sync_enabled_summary">Sincronizare mesaje în acest dosar</string>
     <string name="manual_sync">Sincron. acum</string>
@@ -935,7 +935,7 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="mibill_privacy_policy_button1">Nu sunt de acord</string>
     <string name="mibill_privacy_policy_button2">Acceptaţi</string>
     <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată în mod implicit pentru adresele de e-mail legate de muncă.</string>
-    <string name="mibill_privacy_policy_link">Prin utilizarea acestei funcții, sunteți de acord cu &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Condiţii de utilizare ale noastre&lt;/a&gt;</string>
+    <string name="mibill_privacy_policy_link">"Prin utilizarea acestei funcții, sunteți de acord cu "<a href="https://www.mipay.com/res/doc/eula/email.html">Condiţiile de utilizare</a></string>
     <string name="mibill_privacy_policy_title">Gestionarea în mod automat a facturilor</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">Spaţiu de stocare insuficient</string>
