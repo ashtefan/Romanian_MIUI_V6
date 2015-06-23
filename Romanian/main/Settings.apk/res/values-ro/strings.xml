@@ -3001,4 +3001,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="performance_category">Performanţă</string>
     <string name="cell_broadcast_settings_summary">Selectaţi tipurile de alerte de urgenţă pentru afișare</string>
     <string name="music_dirac_mode_piston_standard">Ediţie Standard</string>
+    <string name="choose_smartcover_type">Selectaţi tipul husei</string>
+    <string name="normal_smartcover_title">Carcasă frontală opacă</string>
+    <string name="smallwindow_smartcover_title">Carcasă frontală transparentă</string>
 </resources>
