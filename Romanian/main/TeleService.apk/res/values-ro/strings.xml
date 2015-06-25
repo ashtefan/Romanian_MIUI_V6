@@ -1195,4 +1195,8 @@ indisponibil"</string>
     <string name="can_not_use_for_not_data_sim">"(Nu se poate utiliza: Trebuie setat ca SIM de date prestabilit)"</string>
     <string name="got_it">OK</string>
     <string name="msim_has_been_disabled">(Dezactivat)</string>
+    <string name="msim_disable_sim_card_btn_text">OK</string>
+    <string name="msim_disable_sim_card_summary_default_card">Acest card este setat ca SIM prestabilit. Dacă încetați să-l utilizați, nu veți putea să efectuați apeluri sau să utilizaţi conexiunea de date mobile. Puteți dezactiva acest card SIM după setarea unui alt SIM ca card prestabilit.</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">Este posibil să nu puteţi efectua apeluri, sau să utilizaţi conexiunea de date mobile. Stopaţi utilizarea cardului SIM %s?</string>
+    <string name="msim_disable_sim_card_title">Stopaţi utilizarea cardului SIM</string>
 </resources>
