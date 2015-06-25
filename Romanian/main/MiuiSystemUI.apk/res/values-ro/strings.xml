@@ -216,8 +216,8 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="media_projection_dialog_text">%s va începe captarea a tot ce este afișat pe ecran.</string>
     <string name="media_projection_remember_text">Nu se afişează din nou</string>
     <string name="media_projection_action_text">Porniţi</string>
-    <string name="disable_notification_summary">Notificarea nu va apărea după dezactivare</string>
-    <string name="disable_notification_title">Dezactivare notificare</string>
-    <string name="expanded_notification_manager">Gestiune</string>
-    <string name="notification_template_text">are un mesaj, atingeți pentru afișare</string>
+    <string name="disable_notification_summary">Nu se afişează notificările acestei aplicaţii.</string>
+    <string name="disable_notification_title">Blocare notificări</string>
+    <string name="expanded_notification_manager">Gestiune notificări</string>
+    <string name="notification_template_text">" are o notificare. Atingeți pentru a vizualiza."</string>
 </resources>
