@@ -122,7 +122,7 @@
     <string name="account_setup_incoming_imap_path_prefix_hint">Opţional</string>
     <string name="account_setup_incoming_imap_path_prefix_label">Prefixul de cale pentru accesul IMAP</string>
     <string name="account_setup_incoming_mail_adress_label">Adresa de e-mail</string>
-    <string name="account_setup_incoming_mail_domain_hint">Acest câmp poate fi gol</string>
+    <string name="account_setup_incoming_mail_domain_hint">Opţional</string>
     <string name="account_setup_incoming_mail_domain_label">Domeniu</string>
     <string name="account_setup_incoming_password_label">Parolă</string>
     <string name="account_setup_incoming_port_label">Port</string>
@@ -364,10 +364,10 @@
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">Gestiune dispozitiv nu este activat</string>
     <string name="device_not_activiey_lint2">Serviciile de e-mail nu funcționează cu Exchange</string>
-    <string name="dialog_auto_download_failed">Nu se poate finaliza descărcarea automată, încercați să descărcați manual.</string>
-    <string name="dialog_insufficient_space_for_single_account_on_internal">Spaţiu insuficient pentru %s.</string>
-    <string name="dialog_insufficient_space_on_external">Nu se poate finaliza descărcarea. Nu este suficient spațiu pe stocarea externă.</string>
-    <string name="dialog_insufficient_space_on_internal">Lipseşte spațiu de stocare pentru descărcarea automată a atașamentelor.</string>
+    <string name="dialog_auto_download_failed">Nu se poate descărca în mod automat.</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Spaţiu insuficient pentru descărcarea ataşamentelor pentru %s.</string>
+    <string name="dialog_insufficient_space_on_external">Nu se poate descărca ataşamentul. Spațiu insuficient pe stocarea externă.</string>
+    <string name="dialog_insufficient_space_on_internal">Spațiu insuficient pe stocarea internă.</string>
     <string name="disable_admin_warning">AVERTISMENT: dacă dezactivaţi autoritatea aplicaţiei E-mail de administrare a dispozitivului dvs. se şterg toate conturile de e-mail care au nevoie de aceasta, împreună cu e-mailurile, agenda, evenimentele din calendar şi alte date pe care aceste conturi le conţin.</string>
     <string name="discard">Renunţaţi</string>
     <string name="discard_drafts">Renunţaţi la mesajul nefinalizat</string>
@@ -637,7 +637,7 @@ CC: %4$s
     <string name="outbox_alert_button_confirm">Editaţi</string>
     <string name="outbox_alert_button_no_resend">Nu se trimite</string>
     <string name="outbox_alert_button_resend">Retrimiteţi</string>
-    <string name="outbox_alert_certificate_error">Excepție certificat de e-mail, actualizați</string>
+    <string name="outbox_alert_certificate_error">Contactați administratorul de sistem și actualizaţi certificatul.</string>
     <string name="outbox_alert_description_auth_error">Eroare de autorizare pe server în timpul sincronizării mesajelor trimise.</string>
     <string name="outbox_alert_description_http_error">Eroare HTTP în timpul sincronizării mesajelor trimise.</string>
     <string name="outbox_alert_description_provision_error">Eroare de furnizare server în timpul sincronizării mesajelor trimise.</string>
@@ -646,7 +646,7 @@ CC: %4$s
     <string name="outbox_alert_edit_resend">Editaţi şi retrimiteţi</string>
     <string name="outbox_alert_failed_edit_resend">Nu s-a putut trimite. Editați și încercați din nou.</string>
     <string name="outbox_alert_mailbox_not_found">Adresa de e-mail nu a fost găsită</string>
-    <string name="outbox_alert_rw_io_error">Excepţie citire/scriere e-mail, încercați să scrieţi și trimiteţi-l din nou</string>
+    <string name="outbox_alert_rw_io_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="outbox_alert_select_operation">Selectaţi o acţiune</string>
     <string name="outbox_alert_title_sent_failed">Nu s-a putut trimite e-mailul</string>
     <string name="outbox_no_mails">Gol</string>
@@ -738,8 +738,8 @@ CC: %4$s
     <string name="quick_4">Să setăm o întâlnire pentru a discuta aceasta.</string>
     <string name="quick_reply_dialog_title">Selectaţi un răspuns</string>
     <string name="quick_reply_hint">Răspundeţi la %1$d persoane</string>
-    <string name="quick_reply_hint_bcc">(In BCC)</string>
-    <string name="quick_reply_hint_cc">(In CC)</string>
+    <string name="quick_reply_hint_bcc">"(In BCC) "</string>
+    <string name="quick_reply_hint_cc">"(In CC) "</string>
     <string name="quick_responses_empty_view">Niciun răspuns rapid</string>
     <string name="quote_divider_6">---Original---</string>
     <string name="quote_divider_7">Mesaj original</string>
@@ -885,7 +885,7 @@ CC: %4$s
     <string name="unsent_messages_in_outbox">%1$s netrimise în %2$s</string>
     <string name="updated_at">Actualizat la %1$s</string>
     <string name="updated_just_now">Actualizat acum</string>
-    <string name="validation_failed_prompt">Nu se poate verifica contul, verificaţi setările serverului %s</string>
+    <string name="validation_failed_prompt">Nu se poate verifica contul, verificaţi setările serverului pentru %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
@@ -964,9 +964,16 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="re_download_message_button">Apăsaţi pentru a descărca din nou</string>
     <string name="re_download_message_info">Descărcarea e-mailului a eşuat</string>
     <string name="account_setup_incoming_username_label_default_hint">Puteți include domeniul</string>
-    <string name="dialog_account_auto_sync_setting_no_open">Opțiunea de sincronizare e-mail este dezactivată, nu se pot primi mesaje noi.</string>
-    <string name="dialog_auto_sync_setting_no_open">Opțiunea de sincronizare este dezactivată, nu se pot primi mesaje noi.</string>
+    <string name="dialog_account_auto_sync_setting_no_open">Nu se pot primi mesaje noi. Sincronizarea este dezactivată.</string>
+    <string name="dialog_auto_sync_setting_no_open">Nu se pot primi mesaje noi. Sincronizarea este dezactivată.</string>
     <string name="oauth_error_description">Imposibil de autentificat</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google pe următoarea pagină de autentificare.</string>
     <string name="oauth_login_continue">Continuare</string>
+    <string name="account_setup_failed_dlg_device_locked">Adresa dvs. a fost blocată de blocarea dispozitivului</string>
+    <string name="attachment_open_SecurityException_hint">Verificare permisiuni, daune, etc.</string>
+    <string name="attachment_open_SecurityException_title">Nu a reușit deschiderea fișierului</string>
+    <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
+    <string name="ser_resp_err_map_serclosed_url_tag">Cum se rezolvă?</string>
+    <string name="unzip_file_failed">Unzip eşuat!</string>
++  <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
 </resources>

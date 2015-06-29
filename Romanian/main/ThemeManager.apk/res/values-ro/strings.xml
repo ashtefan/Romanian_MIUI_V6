@@ -49,7 +49,7 @@
     <string name="gift_present_dlg_anonymous">Cadou anonim</string>
     <string name="gift_present_dlg_input_hint">ID/Telefon cont Mi</string>
     <string name="gift_present_dlg_no_fee">Nu veţi fi taxat de către operatorul dvs. pentru trimiterea cadourilor</string>
-    <string name="gift_present_dlg_present_max_limit">Tema nu poate fi dăruită mai mult de %$1s (de) ori.</string>
+    <string name="gift_present_dlg_present_max_limit">Tema nu poate fi dăruită mai mult de %1$s (de) ori.</string>
     <string name="gift_present_dlg_share">Crearţi codul și partajaţi cadoul</string>
     <string name="gift_present_fail_dlg_content">"Nu a fost posibil de trimis cadoul. "</string>
     <string name="gift_present_fail_dlg_title">Nu a fost posibil de trimis cadoul</string>

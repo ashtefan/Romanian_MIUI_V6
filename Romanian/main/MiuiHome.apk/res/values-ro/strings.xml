@@ -234,4 +234,5 @@
     <string name="configure_wallpaper">Setări</string>
     <string name="download_action">Descărcare</string>
     <string name="loading_wallpaper">Doar o secundă…</string>
+    <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
 </resources>

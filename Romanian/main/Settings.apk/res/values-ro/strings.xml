@@ -615,7 +615,7 @@ Criptarea poate dura cel puţin o oră. Trebuie să începeţi cu un acumulator 
     <string name="crypt_keeper_encrypt_title">Criptaţi telefonul</string>
     <string name="crypt_keeper_encrypted_summary">Criptat</string>
     <string name="crypt_keeper_enter_password">Introduceţi parola</string>
-    <string name="crypt_keeper_failed_summary">"Criptarea a fost întreruptă şi nu se poate finaliza. Prin urmare, datele de pe telefonul dvs. nu mai sunt accesibile. 
+    <string name="crypt_keeper_failed_summary">"Criptarea a fost întreruptă şi nu se poate finaliza. Prin urmare, datele de pe telefonul dvs. nu mai sunt accesibile.
 
 Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valorile din fabrică. Când configuraţi telefonul după resetare, veţi putea restabili toate datele pentru care aţi creat copii de rezervă în Contul Google."</string>
     <string name="crypt_keeper_failed_title">Criptare nereuşită</string>
@@ -2214,7 +2214,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="sync_menu_sync_now">Sincronizaţi acum</string>
     <string name="sync_one_time_sync">"Atingeţi pentru a sincroniza acum
 %1$s"</string>
-    <string name="sync_plug">"<font fgcolor="#ffffffff">Bun venit la Sincronizarea Google!</font>" 
+    <string name="sync_plug">"<font fgcolor="#ffffffff">Bun venit la Sincronizarea Google!</font>"
 O abordare Google asupra sincronizării datelor, care vă permite accesul la agenda dvs., la întâlniri şi la multe alte informaţii, oriunde v-aţi afla.""</string>
     <string name="sync_settings">Sincronizare</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -3004,4 +3004,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="choose_smartcover_type">Selectaţi tipul husei</string>
     <string name="normal_smartcover_title">Carcasă frontală opacă</string>
     <string name="smallwindow_smartcover_title">Carcasă frontală transparentă</string>
+    <string name="config_charging_function_name">Încărcare</string>
+    <string name="usb_charging_summary">Opriți toate celelalte opţiuni de conexiune USB pentru a accelera încărcarea.</string>
+    <string name="usb_charging_title">Accelerare încărcare</string>
 </resources>

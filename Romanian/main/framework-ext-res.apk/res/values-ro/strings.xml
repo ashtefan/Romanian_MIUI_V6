@@ -34,7 +34,7 @@
     <string name="screen_button_enabled_message">Butoanele de navigare au fost activate.</string>
     <string name="miui">MIUI</string>
     <string name="alwaysUsePrompt">Se memorizează această alegere</string>
-    <string name="auto_start_warning_title">Permiteţi %s să pornească automat în viitor?</string>
+    <string name="auto_start_warning_title">Permiteţi %s să pornească în mod automat?</string>
     <string name="auto_start_warning_allow">Permiteţi</string>
     <string name="auto_start_warning_deny">Refuzaţi</string>
     <string name="call_record_or">" sau "</string>

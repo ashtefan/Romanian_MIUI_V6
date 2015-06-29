@@ -220,4 +220,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="disable_notification_title">Blocare notificări</string>
     <string name="expanded_notification_manager">Gestiune notificări</string>
     <string name="notification_template_text">" are o notificare. Atingeți pentru a vizualiza."</string>
+    <string name="activate_usb_message">Introduceţi cardul SIM pentru a activa funcţia USB</string>
+    <string name="activate_usb_title">Activare USB</string>
+    <string name="usb_function_charging_text">Conectat în modul încărcare</string>
 </resources>

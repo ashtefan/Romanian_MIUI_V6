@@ -305,7 +305,7 @@
     <string name="dialog_new_group_account">Creaţi un grup în contul</string>
     <string name="dialog_phone_call_prohibited_message">Apelul nu a fost trimis</string>
     <string name="dialog_sync_add">Adăugaţi grup de sincronizare</string>
-    <string name="dialog_voicemail_airplane_mode_message">Pentru a apela mesageria vocală, mai întâi dezactivaţi modul Avion.</string>
+    <string name="dialog_voicemail_airplane_mode_message">Pentru a apela mesageria vocală, dezactivaţi modul Avion.</string>
     <string name="dialog_voicemail_not_ready_message">Pentru a configura mesageria vocală, accesaţi Meniu > Setări.</string>
     <string name="directory_search_label">Director</string>
     <string name="display_all_contacts">Toată Agenda</string>
@@ -450,7 +450,7 @@ Motivul: „%s”"</string>
     <string name="insertContactDescription">Creaţi contact în agendă</string>
     <string name="insertGroupDescription">Creaţi un grup</string>
     <string name="invalidContactMessage">Contact inexistent</string>
-    <string name="keep_local">Păstraţi local</string>
+    <string name="keep_local">Nu se sincronizează</string>
     <string name="keep_local_btn">Utilizaţi stocarea internă a telefonului</string>
     <string name="label_custom_type">Personalizat</string>
     <string name="label_duplicate_count">(%1$d)</string>
@@ -479,7 +479,7 @@ Motivul: „%s”"</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
     <string name="loading_resource_detail_info">Încărcare…</string>
     <string name="local_invisible_directory">Altul</string>
-    <string name="local_profile_title">Profilul meu local</string>
+    <string name="local_profile_title">Profilul meu</string>
     <string name="local_search_label">Toată Agenda</string>
     <string name="locale_change_in_progress">Se actualizează lista contactelor din agendă pentru a reflecta schimbarea limbii.</string>
     <string name="login_ok">Conectare</string>
@@ -575,7 +575,7 @@ Motivul: „%s”"</string>
     <string name="noContactsHelpText">""Nu există contacte din agendă de afişat.
 
 Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
@@ -586,20 +586,20 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="noContactsHelpTextWithSync">""Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.){
 
 Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contactele de pe cardul SIM sau SD
 "</li></font></b>"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Niciun contact în agendă pentru afişare. (Dacă tocmai aţi adăugat un cont, poate dura câteva minute sincronizarea contactelor.)</string>
     <string name="noContactsNoSimHelpText">""Nu aveţi contacte din agendă de afişat.
 
 Pentru a adăuga contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu telefonul
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
@@ -609,13 +609,13 @@ Pentru a adăuga contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">M
     <string name="noContactsNoSimHelpTextWithSync">""Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.){
 
 Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contacte de pe cardul SD
 "</li></font></b>"</string>
     <string name="noContactsWithPhoneNumbers">Niciun contact cu numere de telefon</string>
@@ -623,10 +623,10 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
 
  Pentru a adăuga un contact în lista de favorite:
 
-       "<li>Apăsaţi pe fila <b>Agendă</b>" 
-"</li>" 
+       "<li>Apăsaţi pe fila <b>Agendă</b>"
+"</li>"
 "<li>"Apăsaţi contactul pe care doriţi să-l adăugaţi în lista de favorite
-"</li>" 
+"</li>"
 "<li>"Apăsaţi pe steaua de lângă numele contactului
 "</li>"</string>
     <string name="noGroups">Niciun grup</string>
@@ -1109,7 +1109,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="unknown">Necunoscut</string>
     <string name="unknown_contact_name">Contact necunoscut</string>
     <string name="upgrade_in_progress">Se actualizează lista contactelor din agendă.</string>
-    <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară. 
+    <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară.
 
 Acest proces necesită aproximativ %s MO din spaţiul de stocare intern.
 
@@ -1166,7 +1166,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Descărcare pictogramă…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Eşuat, verificați setările de rețea</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adăugat la ecranul de pornire</string>
-    <string name="yellowpage_search_the_yellowpage">Căutare în registru</string>
+    <string name="yellowpage_search_the_yellowpage">Căutare în Paginile Aurii</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="zero_items_selected">Selectaţi elementele</string>
     <string name="blacklist">Blocaţi</string>
@@ -1177,4 +1177,6 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="importing_sim_contacts_miui_prepare">Pregătire contacte…</string>
     <string name="loading_accounts">Doar o secundă...</string>
     <string name="cloud_recommend_msg">Atingeți pentru a sincroniza contactele cu Mi Cloud.</string>
+    <string name="unknow_phone_number_call_failed">Nu se poate apela un număr necunoscut</string>
+    <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
 </resources>

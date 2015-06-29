@@ -478,7 +478,7 @@
     <string name="summary_miui_update">Actualizare disponibilă pentru %s.</string>
     <string name="summary_mms">Filtrare mesaje nedorite (vânzări, anunțuri, etc.)</string>
     <string name="summary_network_switch">Permiteţi aplicației de securitate să se conecteze la internet</string>
-    <string name="summary_never_flow_verify">Această cifră nu a fost verificată cu operatorul dvs.</string>
+    <string name="summary_never_flow_verify">Acest număr nu a fost verificat cu operatorul dvs.</string>
     <string name="summary_permission">Protejează confidențialitate mea de aplicații terțe potențial periculoase</string>
     <string name="summary_permission_root">Dispozitivul dvs. și datele cu caracter personal sunt mai vulnerabile la atacuri de la aplicațiile care au acces root</string>
     <string name="summary_power_optimizer">Se reducere performanța dispozitivului atunci când acumulatorul este descărcat</string>

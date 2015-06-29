@@ -9,7 +9,7 @@
         <item>Zi</item>
         <item>Săptămână</item>
         <item>Lună</item>
-        <item>Agendă</item>
+        <item>Evenimente</item>
      </string-array>
      <string-array name="change_response_labels">
         <item>Doar acest eveniment</item>

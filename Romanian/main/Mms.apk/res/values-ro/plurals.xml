@@ -25,4 +25,13 @@
         <item quantity="one">%s s</item>
         <item quantity="few">%s s</item>
      </plurals>
+     <plurals name="cloud_sms_count">
+        <item quantity="other">%d (de) mesaje</item>
+        <item quantity="zero">0 mesaj</item>
+        <item quantity="one">1 mesaj</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d (de) mesaje nu au fost sincronizate</item>
+        <item quantity="one">1 mesaj nu a fost sincronizat</item>
+    </plurals>
 </resources>

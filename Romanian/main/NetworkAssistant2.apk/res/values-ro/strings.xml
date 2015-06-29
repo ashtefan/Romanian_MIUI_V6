@@ -408,8 +408,8 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
     <string name="timeshow_m">%d m</string>
     <string name="timeshow_h">%.1f h</string>
     <string name="timeshow_h_int">%d h</string>
-    <string name="lock_screen_traffic_guide_notification_title">Date mobile utilizate: %s</string>
-    <string name="lock_screen_traffic_guide_notification_summary">Date mobile utilizate în perioada blocării ecranului.</string>
+    <string name="lock_screen_traffic_guide_notification_title">%s utilizaţi la blocarea ecranului</string>
+    <string name="lock_screen_traffic_guide_notification_summary">Apăsați pentru a gestiona utilizarea datelor.</string>
     <string name="lock_screen_traffic_purchase_textview">Procuraţi date mobile</string>
     <string name="network_diagnostics">Testare reţea</string>
     <string name="btn_start_diagnostic">Testare reţea</string>
@@ -512,7 +512,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="wifi_network_blocked_notification_title">Nicio conexiune la internet</string>
     <string name="miuishare_title_more">Mai mult</string>
     <string name="miuishare_title_share">Partajare</string>
-    <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="network_connected_exception_title">Testare reţea</string>
     <string name="network_not_available">Nu se poate conecta la rețea</string>

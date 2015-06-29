@@ -34,8 +34,8 @@
     <string name="enable_cloud_service_notification">Trebuie să activați Mi Cloud</string>
     <string name="enable_find_device_error">Nu se poate opri Localizarea dispozitivului. %1$s</string>
     <string name="enable_micloud">Utilizaţi Mi Cloud</string>
-    <string name="enable_sync">Activaţi</string>
-    <string name="enable_sync_dspt">Sincronizare dezactivată</string>
+    <string name="enable_sync">Sincronizare</string>
+    <string name="enable_sync_dspt">Nu se sincronizează</string>
     <string name="error_data_in_transfer">Sincronizarea se va finaliza peste %s ore.</string>
     <string name="error_data_in_transfer_title">Mi Cloud indisponibil</string>
     <string name="error_forbidden">Sincronizarea a fost dezactivată din cauza unor probleme cu contul dvs. Mi.</string>
@@ -112,9 +112,9 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_first_login_summary" />
     <string name="micloud_first_login_title" />
-    <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile va rămâne rezervate în nor. 
+    <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile va rămâne rezervate în nor.
 
-În acest fel, dacă pierdeţi sau se deteriorează dispozitivul, datele dvs. vor fi în continuare în siguranță. 
+În acest fel, dacă pierdeţi sau se deteriorează dispozitivul, datele dvs. vor fi în continuare în siguranță.
 
 Atunci când norul este plin, datele vechi nu vor merge nicăieri. Cu toate acestea, orice conținut nou adăugat (de ex. fotografii, videoclipuri, note și aplicații) nu vor fi rezervate.
 
@@ -138,7 +138,7 @@ Pentru a rezolva acest lucru, fie puteți curăța unele fișierele vechi pentru
     <string name="micloud_main_synced_data_count">%d (de) elemente sincronizate</string>
     <string name="micloud_main_syncing">Sincronizare…</string>
     <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare</string>
-    <string name="micloud_main_wlan_sync_data_count">"%d (de) elemente aşteaptă 
+    <string name="micloud_main_wlan_sync_data_count">"%d (de) elemente aşteaptă
 sincronizarea"</string>
     <string name="micloud_more">Aflaţi mai multe</string>
     <string name="micloud_other_product_price">Comparaţi prețurile</string>
@@ -338,4 +338,7 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_space_applist_title">Gestionați aplicațiile</string>
     <string name="micloud_space_soundrecorder_detail">Gestionaţi înregistrările stocate pe dispozitivul dvs.</string>
     <string name="micloud_space_soundrecorder_title">Înregistrări</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"Această caracteristică poate solicita numărul de telefon. Operatorul vă poate taxa pentru două mesaje SMS utilizate pentru activarea aceastei caracteristici.
+
+Această caracteristică criptează și încarcă ID-ul dispozitivului dvs. pe serverele Mi."</string>
 </resources>
