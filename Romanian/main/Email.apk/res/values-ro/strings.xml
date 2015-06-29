@@ -975,5 +975,4 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
     <string name="ser_resp_err_map_serclosed_url_tag">Cum se rezolvă?</string>
     <string name="unzip_file_failed">Unzip eşuat!</string>
-+  <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
 </resources>
