@@ -96,7 +96,7 @@
     <string name="dlg_keyword_ok">Salvaţi</string>
     <string name="dlg_message_not_open_stranger_identify">Pentru a activa această funcție, mergeţi la Setări > Telefon.</string>
     <string name="dlg_no_block">Nu blocaţi acest număr?</string>
-    <string name="dlg_no_block_ok">Nu</string>
+    <string name="dlg_no_block_ok">Nu se blochează</string>
     <string name="dlg_remove_address_blacklist">Eliminaţi această locație din lista blocărilor și restabiliţi mesaje asociate în inbox?</string>
     <string name="dlg_remove_address_whitelist">Eliminaţi această locație din lista excepţiilor?</string>
     <string name="dlg_remove_blacklist">Deblocaţi acest număr?</string>
@@ -303,11 +303,11 @@
     <string name="mark_number_setting_guide_forward">Setări listă blocări</string>
     <string name="mark_number_fraud">Fraudă</string>
     <string name="mark_number_agent">Agent</string>
-    <string name="mark_number_sell">Telemarketer</string>
+    <string name="mark_number_sell">Vânzări</string>
     <string name="antispam_notification_setting_title">Notificări</string>
     <string name="antispam_notificaiton_type_show_all">Toate numerele</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Numerele din lista excepţiilor</string>
-    <string name="antispam_notificaiton_type_show_none">Niciodată</string>
+    <string name="antispam_notificaiton_type_show_none">Niciuna</string>
     <string name="action_source_sms_title">SMS blocate</string>
     <string name="mark_harass">Hărțuire</string>
     <string name="mark_harass_block">Raportat ca hărțuire</string>
