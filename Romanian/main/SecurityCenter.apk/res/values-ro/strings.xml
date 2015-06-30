@@ -295,7 +295,7 @@
     <string name="power_chooser_check_box_title">Selectați un profil</string>
     <string name="power_chooser_mine_summary">Adăugaţi un profil</string>
     <string name="power_chooser_mine_title">Personalizat</string>
-    <string name="power_chooser_sleep_summary">Dezactivarea tuturor funcțiilor de rețea (apeluri, SMS, Wi-Fi şi servicii de date) cu excepţia alarmei</string>
+    <string name="power_chooser_sleep_summary">Se dezactivează toate funcţiile de rețea (apeluri, SMS, Wi-Fi şi servicii de date) cu excepţia alarmei</string>
     <string name="power_chooser_sleep_title">Repaus</string>
     <string name="power_chooser_smart_summary">Oprirea proceselor ce rulează în fundal la  blocarea ecranului</string>
     <string name="power_chooser_smart_title">Prestabilit</string>
@@ -563,4 +563,18 @@
     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
     <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
+    <string name="month_report_activity_label">Raport lunar report</string>
+    <string name="month_report_click_reconnect_network">Încercaţi din nou</string>
+    <string name="month_report_disconnect_tip">Nu se poate conecta la reţea</string>
+    <string name="month_report_history_activity_label">Istoric</string>
+    <string name="month_report_month_report_switch">Se afişează raportul lunar</string>
+    <string name="month_report_network_dialog_description">Permiteţi aplicaţiei Securitate să se conecteze la internet pentru a obține știri?</string>
+    <string name="month_report_network_dialog_positive">Permiteţi</string>
+    <string name="month_report_network_dialog_title">Nu se pot obține știrile de securitate</string>
+    <string name="month_report_result_share">Distribuiţi</string>
+    <string name="month_report_share_img_fail">Nu s-a putut distribui</string>
+    <string name="month_report_share_loading">Încărcare</string>
+    <string name="month_report_warning_dialog_description">Pentru a vizualiza raportul lunar, activați această caracteristică în setările aplicație Securitate.</string>
+    <string name="month_report_warning_dialog_positive">Activaţi</string>
+    <string name="month_report_warning_dialog_title">Raport de securitate lunar</string>
 </resources>

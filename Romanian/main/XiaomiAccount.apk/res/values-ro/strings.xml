@@ -45,7 +45,7 @@
     <string name="passport_active_email_visit">Verificaţi căsuţa de intrare la %s</string>
     <string name="passport_click_email_to_valid">"
 
-Pentru a activa contul, urmați 
+Pentru a activa contul, urmați
  link-ul în mesajul pe care l-am trimis în căsuţa dvs de e-mail."</string>
     <string name="passport_resend_active_email">Retrimitere e-mail de activare</string>
     <string name="passport_delete_account">Deconectaţi-vă</string>
@@ -355,4 +355,5 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="trying_read_verify_code_sms">Obţinerea codului de verificare…</string>
     <string name="update_recovery_info_dialog_message">Trebuie să verificaţi identitatea înainte de a putea actualiza %s.</string>
     <string name="update_recovery_info_dialog_title">Actualizaţi %s</string>
+    <string name="exceed_binded_phone_times_notice">Acest număr este asociat cu prea multe conturi Mi, schimbaţi un alt număr și încercați din nou.</string>
 </resources>

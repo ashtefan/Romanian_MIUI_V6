@@ -314,4 +314,5 @@
     <string name="set_id3_not_have_read_or_write_permission">Nu aveți permisiunea de a edita acest fișier</string>
     <string name="set_id3_not_support_format">Nu se poate edita acest format de fișier</string>
     <string name="atmd_music">Final</string>
+    <string name="atmd_copyright_info">Serviciu de streaming furnizat de Ultimate Inc.</string>
 </resources>

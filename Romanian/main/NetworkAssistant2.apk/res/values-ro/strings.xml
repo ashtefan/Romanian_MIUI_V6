@@ -196,7 +196,7 @@ o conexiune de date mobilă"</string>
     <string name="pref_daily_adjust">Setaţi limita de date în orele de vârf</string>
     <string name="pref_daily_traffic">Limita orelor de vârf</string>
     <string name="pref_data_usage_ignore_settings">Ignorare utilizare date pentru aplicaţiile selectate</string>
-    <string name="pref_data_usage_ignore_settings_summary">Nu se duce evidența utilizării datelor de aplicații</string>
+    <string name="pref_data_usage_ignore_settings_summary">Nu se duce evidența utilizării datelor de aplicațiile selectate</string>
     <string name="pref_data_usage_not_set">Setaţi limita utilizării datelor</string>
     <string name="pref_free_adjust">Setaţi limita de date în afara orelor de vârf</string>
     <string name="pref_free_traffic_exceed_limit">Anunţă-mă atunci când utilizarea datelor a atins limita</string>
