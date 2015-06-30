@@ -563,7 +563,7 @@
     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
     <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
-    <string name="month_report_activity_label">Raport lunar report</string>
+    <string name="month_report_activity_label">Raport lunar</string>
     <string name="month_report_click_reconnect_network">Încercaţi din nou</string>
     <string name="month_report_disconnect_tip">Nu se poate conecta la reţea</string>
     <string name="month_report_history_activity_label">Istoric</string>
