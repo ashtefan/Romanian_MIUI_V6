@@ -183,7 +183,7 @@ sincronizarea"</string>
 Puteți activa, sau dezactiva această caracteristică oricând în Setări."</string>
     <string name="mx_dspt_provision_privacy">"Această caracteristică poate solicita numărul dvs. de telefon. Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa această funcție.
 
-Această caracteristică criptează și încarcă ID-ul dispozitivului dvs. pe serverele Mi."</string>
+Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe serverele Mi."</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
     <string name="next">Înainte</string>
     <string name="noRemind">Nu-mi reaminti</string>
@@ -340,5 +340,5 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_space_soundrecorder_title">Înregistrări</string>
     <string name="mx_dspt_provision_privacy_2_sim">"Această caracteristică poate solicita numărul de telefon. Operatorul vă poate taxa pentru două mesaje SMS utilizate pentru activarea aceastei caracteristici.
 
-Această caracteristică criptează și încarcă ID-ul dispozitivului dvs. pe serverele Mi."</string>
+Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe serverele Mi."</string>
 </resources>

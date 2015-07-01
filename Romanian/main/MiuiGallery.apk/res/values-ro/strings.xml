@@ -615,9 +615,7 @@
     <string name="highlight_abbr">L</string>
     <string name="contrast_abbr">C</string>
     <string name="all_video_album_display_name">Toate videoclipurile</string>
-    <string name="confirm_all_photo_not_this_people_face">Nicio potrivire pentru %s?</string>
     <string name="confirm_face">Potrivire</string>
-    <string name="confirm_left_photo_will_move_out">%s nu este în niciuna dintre fotografiile rămase?</string>
     <string name="confirm_not_face">Nu este această persoană</string>
     <string name="enabling_face_feature">Doar o secundă…</string>
     <string name="face_albumset_pending_enable_tip">Se vor sorta fotografiile atunci când dispozitivul este conectat la Wi-Fi</string>
@@ -644,7 +642,6 @@
     <string name="paint_highlight_cancel_title">Renunţaţi la modificări</string>
     <string name="add_event">Adăugaţi un eveniment</string>
     <string name="add_event_hint">Introduceţi eticheta</string>
-    <string name="confirm_all_photo_are_this_people_face">Asociați toate fotografiile cu %s?</string>
     <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Îmbinaţi aceste albume cu %s? &lt;/Data&gt;" "</string>
     <string name="event_manage_photos">Gestiune fotografii</string>
     <string name="face_albumset_loading_data">Încărcare date…</string>
@@ -653,11 +650,12 @@
     <string name="pick_from_contact">Alegeţi din contacte</string>
     <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat o fotografie de profil</string>
     <string name="ignore_alert_title">Ascundeţi acest album?</string>
-    <string name="confirm_left_photo_will_move_in">%s este în toate fotografiile rămase?</string>
     <string name="event_create_long_photo">Creare fotografie…</string>
     <string name="is">Este %s?</string>
     <string name="not_is">Nu este %s?</string>
     <string name="rename_event">Redenumire eveniment</string>
     <string name="share_title_more">Mai multe</string>
     <string name="wechat_timeline_title">WeChat timeline</string>
+    <string name="recommanded_face_abandon_tip">Eliminat din recomandare</string>
+    <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
 </resources>

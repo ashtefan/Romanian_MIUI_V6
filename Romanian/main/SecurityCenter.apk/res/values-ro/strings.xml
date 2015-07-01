@@ -249,7 +249,7 @@
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="percentage">%d%%</string>
     <string name="permission_action_accept">Acceptaţi</string>
-    <string name="permission_action_prompt">Se întrebă</string>
+    <string name="permission_action_prompt">Notificare</string>
     <string name="permission_action_reject">Refuzaţi</string>
     <string name="permission_close_permission_control_dialog_msg">Atunci când Gestiune permisiuni este oprită, aplicațiile nu vor cere permisiunea înainte de a citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările de sistem, sau de a accesa camera foto și alte resurse de pe dispozitiv.</string>
     <string name="permission_close_permission_control_dialog_title">Opriţi Gestiune permisiuni?</string>
