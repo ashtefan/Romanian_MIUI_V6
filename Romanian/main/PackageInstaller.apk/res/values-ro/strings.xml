@@ -76,7 +76,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_application_text">Această aplicaţie va fi dezinstalată</string>
     <string name="uninstall_application_title">Dezinstalaţi aplicaţia</string>
     <string name="uninstall_confirm_question">Dezinstalaţi această aplicaţie?</string>
-    <string name="uninstall_done">Dezinstalată</string>
+    <string name="uninstall_done">Aplicaţie dezinstalată</string>
     <string name="uninstall_failed">Dezinstalare eşuată</string>
     <string name="uninstall_failed_device_policy_manager">Nu se poate dezinstala, acest pachet este un administrator de dispozitive activ.</string>
     <string name="uninstall_failed_msg">%1$s nu a putut fi dezinstalată.</string>
