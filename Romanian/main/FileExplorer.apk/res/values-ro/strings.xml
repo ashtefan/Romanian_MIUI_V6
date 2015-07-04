@@ -351,4 +351,5 @@ Spațiu liber adăugat %1$s"</string>
     <string name="wechat_video">Video la %s</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="month_day_format">dd MMMM</string>
+    <string name="tab_storage">STOCARE</string>
 </resources>
