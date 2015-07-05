@@ -285,7 +285,7 @@ Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
 Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
     <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
 Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
-    <string name="cloud_back_up_title">Rezervare aplicţii</string>
+    <string name="cloud_back_up_title">Rezervare aplicaţii</string>
     <string name="cloud_back_up_open_info_no_backuptime">Se rezervă aplicaţiile atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s</string>
     <string name="cloud_back_up_open_info">"Se rezervă aplicaţiile atunci cînd sunteţi conectat la Wi-Fi, o dată la fiecare %1$s.
 Ultima rezervare: %2$s"</string>
