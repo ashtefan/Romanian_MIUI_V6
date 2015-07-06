@@ -36,4 +36,12 @@
         <item quantity="other">%d (de) aplicaţii găsite</item>
         <item quantity="one">%d aplicaţie găsită</item>
     </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d (de) aplicaţii optimizate</item>
+        <item quantity="one">%d aplicaţie optimizată</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d (de) aplicaţii pot fi optimizate</item>
+        <item quantity="one">%d aplicaţie poate fi optimizată</item>
+    </plurals>
 </resources>

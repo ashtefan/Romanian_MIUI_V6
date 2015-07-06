@@ -230,8 +230,8 @@ o conexiune de date mobilă"</string>
     <string name="pref_title_update_notification">Afişaţi utilizarea datelor în panoul notificărilor</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Activarea economisirii datelor va afecta intimitatea mea? &lt;/b>&lt;br />&lt;br />&lt;br />Nu. Datele dvs. vor rămâne private și nu vor fi partajate cu părți terțe. &lt;br />&lt;br />&lt;br />&lt;b> De ce nu funcţionează economisire date? &lt;/b>&lt;br />&lt;br /> Economisirea datelor începe doar în momentul în care utilizați rețeaua operatorului dvs. pentru a trimite sau descărca conținut."</string>
-    <string name="pref_traffic_saving_notify_switch">Afişaţi în panoul notificărilor</string>
-    <string name="pref_traffic_saving_notify_switch_hint">Afişaţi informaţia despre economisirea datelor în panoul notificărilor</string>
+    <string name="pref_traffic_saving_notify_switch">Afişare în panoul notificărilor</string>
+    <string name="pref_traffic_saving_notify_switch_hint">Se afişează informaţia despre economisirea datelor în panoul notificărilor</string>
     <string name="pref_traffic_saving_switch">Economisire date</string>
     <string name="pref_traffic_saving_switch_hint">Utilizaţi proxy pentru a comprima datele</string>
     <string name="pref_traffic_saving_title">Setări economisire date</string>
@@ -523,4 +523,24 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="permission_exception_title">Vizualizaţi permisiunile de reţea</string>
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="pref_title_diagnostics_dont_show_float_notification">Afişare alerte în panoul notificărilor</string>
+    <string name="daily_limit_network_available_body_open_traffic_saving">Apăsați pentru a activa datele mobile.</string>
+    <string name="notify_daily_traffic_saving_title">%s utilizaţi astăzi</string>
+    <string name="pref_traffic_saving_auto_add_whitelist">Reduceți utilizarea datelor pentru aplicațiile noi</string>
+    <string name="pref_traffic_saving_auto_add_whitelist_hint">Se activează în mod automat economisirea datelor pentru aplicațiile noi instalate a căror utilizare a datelor poate fi redusă în mod semnificativ</string>
+    <string name="pref_traffic_saving_compressed">Comprimat</string>
+    <string name="pref_traffic_saving_no_compress">Necomprimat</string>
+    <string name="pref_traffic_saving_pic_compress_level">Raport de compresie a imaginii</string>
+    <string name="reach_daily_limit_value_body_open_traffic_saving">Apăsați pentru a activa economisirea datelor.</string>
+    <string name="traffic_saving_button_mng">Gestionaţi aplicaţiile</string>
+    <string name="traffic_saving_need_optimize">Poate fi optimizată</string>
+    <string name="traffic_saving_notification_button_start">Activaţi</string>
+    <string name="traffic_saving_one_key_optimize">Optimizați pentru a salva date</string>
+    <string name="traffic_saving_optimized">Optimizat deja</string>
+    <string name="traffic_saving_pic_compress_orig">Original</string>
+    <string name="traffic_saving_ratio">Utilizarea datelor redusă %.2f%%</string>
+    <string name="traffic_saving_ratio_low">Nu se poate reduce semnificativ utilizarea datelor</string>
+    <string name="traffic_saving_recommanded_close">Dezactivaţi acest element</string>
+    <string name="traffic_saving_recommanded_open">Activaţi acest element</string>
+    <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Se activează în mod automat economisirea datelor pentru a reduce utilizarea datelor mobile.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Dacă aveți un abonament de date lunar, nu uitaţi să dezactivaţi economisirea datelor pentru aplicații individuale pentru a evita taxe suplimentare de la operatorul dvs..&lt;/font&gt;"</string>
+    <string name="traffic_saving_start_tip_title">Activaţi</string>
 </resources>

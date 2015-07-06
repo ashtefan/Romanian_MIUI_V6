@@ -58,4 +58,10 @@
         <item>Utilizate frecvent</item>
         <item>Nume</item>
      </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Niciunul</item>
+        <item>Redus</item>
+        <item>Mediu</item>
+        <item>Ridicat</item>
+    </string-array>
 </resources>

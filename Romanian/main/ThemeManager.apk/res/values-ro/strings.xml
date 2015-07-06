@@ -226,7 +226,6 @@
     <string name="resource_search_list_empty">Nu a fost găsit nimic.</string>
     <string name="resource_see_more">Mai multe</string>
     <string name="resource_select">Selectaţi</string>
-    <string name="resource_select_ringtone_confirm">Selectaţi acest sunet?</string>
     <string name="resource_selected">Recomandate</string>
     <string name="resource_send">Trimiteţi</string>
     <string name="resource_server_alert_dialog_title">Revenim imediat…</string>
@@ -336,7 +335,27 @@
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal blocare ecran</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
     <string name="gift_received_notification_title">%s v-a dăruit o temă.</string>
-    <string name="resource_select_ringtone_confirm_picker">Selectaţi acest sunet?</string>
     <string name="theme_is_external_priority_storage">Salvaţi pe cardul SD</string>
     <string name="theme_is_external_priority_storage_summary">Aplicaţia Teme va reporni imediat pentru a intra în vigoare</string>
+    <string name="resource_network_diagnostics">&lt;u&gt;Diagnosticare rețea&lt;/u&gt;</string>
+    <string name="resource_search_color">Alegeți o culoare pentru a căuta</string>
+    <string name="resource_search_color_hint_black">Negru</string>
+    <string name="resource_search_color_hint_blue">Albastru</string>
+    <string name="resource_search_color_hint_brown">Maro</string>
+    <string name="resource_search_color_hint_cyan">Azuriu</string>
+    <string name="resource_search_color_hint_gray">Gri</string>
+    <string name="resource_search_color_hint_green">Verde</string>
+    <string name="resource_search_color_hint_orange">Portocaliu</string>
+    <string name="resource_search_color_hint_pink">Roz</string>
+    <string name="resource_search_color_hint_purple">Violet</string>
+    <string name="resource_search_color_hint_red">Roşu</string>
+    <string name="resource_search_color_hint_white">Alb</string>
+    <string name="resource_search_color_hint_yellow">Galben</string>
+    <string name="resource_select_alarm_audio_confirm">Selectați acest sunet de notificare?</string>
+    <string name="resource_select_audio_confirm_picker">Selectați acest sunet?</string>
+    <string name="resource_select_boot_audio_confirm">Selectați acest sunet de pornire?</string>
+    <string name="resource_select_notification_audio_confirm">Selectați acest sunet de alarmă?</string>
+    <string name="resource_select_ringtone_audio_confirm">Selectați acest ton de apel?</string>
+    <string name="theme_setting">Setări</string>
+    <string name="vip_level_value">LV %d</string>
 </resources>

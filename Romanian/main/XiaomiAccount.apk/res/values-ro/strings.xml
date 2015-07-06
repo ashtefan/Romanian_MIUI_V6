@@ -355,5 +355,8 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="trying_read_verify_code_sms">Obţinerea codului de verificare…</string>
     <string name="update_recovery_info_dialog_message">Trebuie să verificaţi identitatea înainte de a putea actualiza %s.</string>
     <string name="update_recovery_info_dialog_title">Actualizaţi %s</string>
-    <string name="exceed_binded_phone_times_notice">Acest număr este asociat cu prea multe conturi Mi, schimbaţi un alt număr și încercați din nou.</string>
+    <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja cu un alt cont Mi.</string>
+    <string name="account_vip_level">Nivel Vip</string>
+    <string name="account_vip_task">Sarcină</string>
+    <string name="vip_level_value">Nivel %d</string>
 </resources>
