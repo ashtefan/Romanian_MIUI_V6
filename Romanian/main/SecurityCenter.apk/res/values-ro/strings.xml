@@ -568,12 +568,12 @@
     <string name="month_report_disconnect_tip">Nu se poate conecta la reţea</string>
     <string name="month_report_history_activity_label">Istoric</string>
     <string name="month_report_month_report_switch">Se afişează raportul lunar</string>
-    <string name="month_report_network_dialog_description">Permiteţi aplicaţiei Securitate să se conecteze la internet pentru a obține știri?</string>
+    <string name="month_report_network_dialog_description">Permiteţi acestei aplicaţii să se conecteze la internet pentru a obține informaţii despre raport?</string>
     <string name="month_report_network_dialog_positive">Permiteţi</string>
-    <string name="month_report_network_dialog_title">Nu se pot obține știrile de securitate</string>
+    <string name="month_report_network_dialog_title">Nu se pot obține informaţiile despre raport</string>
     <string name="month_report_result_share">Distribuiţi</string>
     <string name="month_report_share_img_fail">Nu s-a putut distribui</string>
-    <string name="month_report_share_loading">Încărcare</string>
+    <string name="month_report_share_loading">Doar o secundă…</string>
     <string name="month_report_warning_dialog_description">Pentru a vizualiza raportul lunar, activați această caracteristică în setările aplicație Securitate.</string>
     <string name="month_report_warning_dialog_positive">Activaţi</string>
     <string name="month_report_warning_dialog_title">Raport de securitate lunar</string>

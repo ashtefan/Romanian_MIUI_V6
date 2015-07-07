@@ -205,7 +205,7 @@ Pentru a activa contul, urmați
     <string name="hide_mibi_info">Informaţiile de spre Creditele Mi au fost ascunse</string>
     <string name="failed_get_mibi_info">Nu se poate obține soldul</string>
     <string name="mipay_center">Portofel Mi</string>
-    <string name="mi_support_service">Suport</string>
+    <string name="mi_pass">Mi Pass</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Adăugaţi un cont Sina Weibo</string>
     <string name="bind_weibo_description">Găsiţi şi sincronizați prietenii din Sina Weibo</string>

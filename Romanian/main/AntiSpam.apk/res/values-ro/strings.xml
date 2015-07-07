@@ -313,7 +313,7 @@
     <string name="mark_harass_block">Raportat ca hărțuire</string>
     <string name="mark_number_harass">Hărțuire</string>
     <string name="quiet">Silenţios</string>
-    <string name="quiet_important_interruptions_mode">Modul silenţios</string>
-    <string name="quiet_mode">Modul silenţios</string>
-    <string name="quiet_off_mode">Modul obişnuit</string>
+    <string name="quiet_important_interruptions_mode">Se permit doar excepţiile</string>
+    <string name="quiet_mode">Silenţios</string>
+    <string name="quiet_off_mode">Silenţios dezactivat</string>
 </resources>

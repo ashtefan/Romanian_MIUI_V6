@@ -591,7 +591,8 @@
     <string name="home_page_tab_face">Persoane</string>
     <string name="photo_save_succeed">Salvat cu succes</string>
     <string name="face_album">Persoane</string>
-    <string name="face_albumset_use_tip">Sortaţi fotografiile după persoanele care sunt în ele</string>
+    <string name="face_albumset_use_tip">"Sortaţi fotografiile după persoanele care sunt în ele
+Acest progres este completat în mod automat de către dispozitiv, fără intervenție umană"</string>
     <string name="face_albumset_detecting_tip">Doar o secundă…</string>
     <string name="face_albumset_empty">Gol</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>
