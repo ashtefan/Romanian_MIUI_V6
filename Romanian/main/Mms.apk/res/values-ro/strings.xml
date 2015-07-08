@@ -574,4 +574,5 @@
     <string name="cloud_state_disabled">Sincronizarea cu Mi Cloud este dezactivată</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizare cu Mi Cloud…</string>
+    <string name="mipub_messaging_entry_title">Mesaje Mi</string>
 </resources>
