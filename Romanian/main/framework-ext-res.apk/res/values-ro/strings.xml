@@ -83,4 +83,8 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="handy_mode_title">Modul operare cu o mână</string>
     <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>
     <string name="perm_send_push_lab">Trimitere mesaj de tip push</string>
+    <string name="location_usage_restricted_body">Atingeți pentru a elimina restricția.</string>
+    <string name="location_usage_restricted_title">Localizarea în fundal restricționată</string>
+    <string name="permdesc_manageLocationPolicy">Permite aplicației să gestioneze politicile de localizare și să definească norme specifice aplicaţiilor.</string>
+    <string name="permlab_manageLocationPolicy">Gestionare politică de locație</string>
 </resources>
