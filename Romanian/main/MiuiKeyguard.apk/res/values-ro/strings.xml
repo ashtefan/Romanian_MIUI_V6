@@ -24,7 +24,7 @@
      <string name="input_puk_code">Introduceţi codul PUK</string>
      <string name="invalid_confirm_pin_hint">Codurile PIN nu se potrivesc</string>
      <string name="keyguard_torch_cover_text">Pentru a păstra lanternă conectată, țineți apăsat butonul de alimentare</string>
-     <string name="lock_screen_date">EEE, d MMMM</string>
+     <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
      <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
      <string name="lockscreen_access_pattern_detected">Finalizat</string>
@@ -53,6 +53,6 @@
      <string name="unlocking_sim_card">Deblocare card SIM</string>
      <string name="unlockscreen_low_battery">Conectaţi încărcătorul</string>
      <string name="unlockscreen_recharge_completed">Încărcare finalizată</string>
-     <string name="unlockscreen_recharging_message">Încărcare %d%%</string>
+     <string name="unlockscreen_recharging_message">Se încarcă %d%%</string>
      <string name="wrong_password">Parolă incorectă</string>
 </resources>

@@ -87,7 +87,7 @@ Dacă comutaţi cardurile SIM, un alt mesaj SMS va fi trimis automat pentru a re
     <string name="header_other_settings">Setări adiţionale</string>
     <string name="i_know">OK</string>
     <string name="license_host_unreachable">Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, mergeţi la %s.</string>
-    <string name="loading">Încărcare…</string>
+    <string name="loading">Doar o secundă…</string>
     <string name="loading_hint">Încărcare</string>
     <string name="master_alert_notif_dspt_add">%s (de) elemente așteaptã sincronizarea</string>
     <string name="master_alert_notif_dspt_no">Sincronizat</string>
@@ -278,7 +278,7 @@ Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
     <string name="calendar_sync">Calendar</string>
     <string name="antispam_sync">Setări Nu deranjaţi</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_duokan_detail">Gestionați conținutul Duokan prin utilizarea aplicației Duokan.</string>
+    <string name="micloud_space_duokan_detail">Descărcați și gestionaţi cărţile electronice cu aplicația Duokan.</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
     <string name="micloud_setting_antispam_summary">Excepții și numere de telefon blocate</string>
     <string name="buy_more_space_b_class">"Conectaţi-vă la mi.com/micloud pentru a obține mai mult spațiu de stocare.

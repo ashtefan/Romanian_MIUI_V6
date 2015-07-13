@@ -316,4 +316,12 @@
     <string name="quiet_important_interruptions_mode">Se permit doar excepţiile</string>
     <string name="quiet_mode">Silenţios</string>
     <string name="quiet_off_mode">Silenţios dezactivat</string>
+    <string name="mark_agent_time_setting">Se blochează numerele raportate ca teleshoping mai mult de anumite perioade</string>
+    <string name="mark_fraud_time_setting">Se blochează numerele raportate ca escrocherii mai mult de anumite perioade</string>
+    <string name="mark_harass_time_setting">Se blochează numerele raportate ca hărțuială mai mult de anumite perioade</string>
+    <string name="mark_sell_time_setting">Se blochează numerele raportate ca vânzări mai mult de anumite perioade</string>
+    <string name="mark_time_setting_dialog_title">Setări timp raportare</string>
+    <string name="mark_time_text">%d</string>
+    <string name="repeated_marked_number_summary">Nu se blochează un al doilea apel primit de la aceeași persoană în decurs de 3 minute.</string>
++  <string name="repeated_marked_number_title">"Nu se blochează apelurile raportate repetat</string>
 </resources>

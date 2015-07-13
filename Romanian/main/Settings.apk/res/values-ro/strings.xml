@@ -1471,8 +1471,8 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="music_hifi_summary">Reducerea zgomotului și distorsiunilor și creșterea calităţii audio</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_hifi_volume">Volum Hi-Fi</string>
-    <string name="music_mi_effect_summary">Se utilizează întotdeauna Amplificatorul Mi Sound atunci când se utilizează difuzoarele</string>
-    <string name="music_mi_effect_title">Utilizaţi Amplificatorul Mi Sound</string>
+    <string name="music_mi_effect_summary">Se utilizează Amplificatorul Mi Sound, atunci când se utilizează căştile</string>
+    <string name="music_mi_effect_title">Amplificatorul Mi Sound</string>
     <string name="musicfx_title">Efecte muzicale</string>
     <string name="mvno_match_data">Valoare MVNO</string>
     <string name="mvno_type">Tip MVNO</string>

@@ -338,7 +338,7 @@
     <string name="theme_is_external_priority_storage">Salvaţi pe cardul SD</string>
     <string name="theme_is_external_priority_storage_summary">Aplicaţia Teme va reporni imediat pentru a intra în vigoare</string>
     <string name="resource_network_diagnostics">&lt;u&gt;Diagnosticare rețea&lt;/u&gt;</string>
-    <string name="resource_search_color">Alegeți o culoare pentru a căuta</string>
+    <string name="resource_search_color">Atingeţi o culoare pentru a căuta</string>
     <string name="resource_search_color_hint_black">Negru</string>
     <string name="resource_search_color_hint_blue">Albastru</string>
     <string name="resource_search_color_hint_brown">Maro</string>

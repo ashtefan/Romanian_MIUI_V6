@@ -591,8 +591,7 @@
     <string name="home_page_tab_face">Persoane</string>
     <string name="photo_save_succeed">Salvat cu succes</string>
     <string name="face_album">Persoane</string>
-    <string name="face_albumset_use_tip">"Sortaţi fotografiile după persoanele care sunt în ele
-Acest progres este completat în mod automat de către dispozitiv, fără intervenție umană"</string>
+    <string name="face_albumset_use_tip">Se sortează automat fotografiile după persoanele care sunt în ele.</string>
     <string name="face_albumset_detecting_tip">Doar o secundă…</string>
     <string name="face_albumset_empty">Gol</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>
@@ -657,6 +656,8 @@ Acest progres este completat în mod automat de către dispozitiv, fără interv
     <string name="rename_event">Redenumire eveniment</string>
     <string name="share_title_more">Mai multe</string>
     <string name="wechat_timeline_title">WeChat timeline</string>
-    <string name="recommanded_face_abandon_tip">Eliminat din recomandare</string>
+    <string name="recommanded_face_abandon_tip">Eliminat din sugestii</string>
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
+    <string name="download_without_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca fotografii va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="download_without_wifi_title">Avertizare utilizare a datelor</string>
 </resources>

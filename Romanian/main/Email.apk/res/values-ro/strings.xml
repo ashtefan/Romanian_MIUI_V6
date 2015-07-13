@@ -77,7 +77,7 @@
     <string name="account_setup_account_type_instructions">Ce tip de cont este acesta?</string>
     <string name="account_setup_account_type_title">Configurare cont</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Verificați dacă numele de utilizator, parola și setările contului sunt corecte.</string>
-    <string name="account_setup_autodiscover_dlg_authfail_title">Problemă la configurarea contului</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">Nu s-a putut configura contul</string>
     <string name="account_setup_basics_email_label">Adresă de e-mail</string>
     <string name="account_setup_basics_headline">Cont de e-mail</string>
     <string name="account_setup_basics_manual_setup_action">Configurare manuală</string>
@@ -100,7 +100,7 @@
     <string name="account_setup_failed_certificate_required">Este necesar un certificat de client. Vă conectaţi la server cu un certificat de client?</string>
     <string name="account_setup_failed_check_credentials_message">Serverul a răspuns cu o eroare. Verificaţi numele de utilizator şi parola şi încercaţi din nou.</string>
     <string name="account_setup_failed_dlg_auth_message">Nume de utilizator sau parolă incorectă.</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">"Conectare eşuată.
+    <string name="account_setup_failed_dlg_auth_message_fmt">"Nu s-a putut conecta.
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message">Nu se poate conecta în siguranţă la server.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Nu se poate conecta în siguranţă la server.
@@ -969,10 +969,23 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="oauth_error_description">Imposibil de autentificat</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google pe următoarea pagină de autentificare.</string>
     <string name="oauth_login_continue">Continuare</string>
-    <string name="account_setup_failed_dlg_device_locked">Adresa dvs. a fost blocată de blocarea dispozitivului</string>
+    <string name="account_setup_failed_dlg_device_locked">Nu s-a putut conecta. Acest cont a fost blocat.</string>
     <string name="attachment_open_SecurityException_hint">Verificare permisiuni, daune, etc.</string>
     <string name="attachment_open_SecurityException_title">Nu a reușit deschiderea fișierului</string>
     <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
     <string name="ser_resp_err_map_serclosed_url_tag">Cum se rezolvă?</string>
-    <string name="unzip_file_failed">Unzip eşuat!</string>
+    <string name="unzip_file_failed">Nu a fost posibil de dezarhivat fişierul</string>
+    <string name="contact_edit_set_black_list_from">Ștergeți toate e-mailurile de la acest expeditor</string>
+    <string name="contact_edit_set_black_list_receive">Șterge toate e-mailurile de acest destinatar (în mod normal un grup de e-mail)</string>
+    <string name="contact_edit_set_black_list_receive_summary">Listele La/Cc conţin doar acest destinatar</string>
+    <string name="push_wps_better_confirm_download">Descărcaţi</string>
+    <string name="push_wps_better_confirm_exit">Alte aplicații pentru a deschide</string>
+    <string name="push_wps_better_confirm_message">WPS Office poate susţine mai bine acest tip de atașament, astfel munca devine mai eficientă</string>
+    <string name="push_wps_better_confirm_noshow_hint">Nu se afişează din nou</string>
+    <string name="push_wps_better_confirm_title">Se recomandă WPS Office</string>
+    <string name="push_wps_confirm_cancel">Anulaţi</string>
+    <string name="push_wps_confirm_download">Descărcaţi</string>
+    <string name="push_wps_confirm_message">Nicio aplicaţie nu poate deschide acest atașament, se recomandă a utiliza WPS Office</string>
+    <string name="push_wps_confirm_title">Se recomandă WPS Office</string>
+    <string name="push_wps_no_response_app">Nicio aplicație de răspuns</string>
 </resources>

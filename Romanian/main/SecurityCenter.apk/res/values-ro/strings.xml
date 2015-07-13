@@ -49,18 +49,6 @@
     <string name="battery_history_minutes">%1$d m %2$d s</string>
     <string name="battery_history_minutes_no_seconds">%1$d m</string>
     <string name="battery_history_seconds">%1$d sec.</string>
-    <string name="boot_day_shutdown_day">Dispozitivul se va porni peste %1$d z la %2$s şi se va opri peste %3$d z la %4$s</string>
-    <string name="boot_reminder">Pornire dispozitiv la o oră programată</string>
-    <string name="boot_reminder_day">Dispozitivul se va porni peste %1$d z %2$d h %3$d m</string>
-    <string name="boot_reminder_day_hour">Dispozitivul se va porni peste %1$d z %2$d h</string>
-    <string name="boot_reminder_hour">Dispozitivul se va porni peste %1$d h %2$d m</string>
-    <string name="boot_reminder_minute">Dispozitivul se va porni peste %1$d m</string>
-    <string name="boot_reminder_only_day">Dispozitivul se va porni peste %1$d z</string>
-    <string name="boot_reminder_only_hour">Dispozitivul se va porni peste %1$d h</string>
-    <string name="boot_shutdown">Dispozitivul se va porni la %1$s şi se va opri la %2$s</string>
-    <string name="boot_shutdown_day">Dispozitivul se va porni la %1$s şi se va opri peste %2$d z la %3$s</string>
-    <string name="boot_time">Dispozitivul se va porni la %1$s</string>
-    <string name="boot_time_day">Dispozitivul se va porni peste %1$d z la %2$s</string>
     <string name="brightness_auto_adjust_off">Luminozitatea manuală poate fi ajustată cu ajutorul cursorului. Luminozitatea ecranului va rămâne neschimbată în orice împrejurare.</string>
     <string name="brightness_auto_adjust_on">Luminozitatea automată poate fi ajustată cu ajutorul cursorului. Luminozitatea ecranului va varia în dependenţă de ajustările dvs. şi împrejurări.</string>
     <string name="btn_text_cleanup_all">Curăţare</string>
@@ -278,10 +266,12 @@
     <string name="power_center_custom_summary_default">Îmbunătățiţi durata de viață a acumulatorului cu profiluri personalizate</string>
     <string name="power_center_custom_title">Profiluri acumulator</string>
     <string name="power_center_low_battery_summary_default">Comutare profiluri atunci când acumulatorul este descărcat</string>
-    <string name="power_center_low_battery_summary_dynamic">La nivelul %1$d%% din acumulator comutare la %2$s</string>
+    <string name="power_center_low_battery_summary_dynamic">"La %1$d%%
+Comutare la %2$s"</string>
     <string name="power_center_low_battery_title">Economisire acumulator</string>
     <string name="power_center_on_time_summary_default">Comutare profiluri acumulator la ora programată</string>
-    <string name="power_center_on_time_summary_dynamic">De la %1$s până la %2$s comutare la %3$s</string>
+    <string name="power_center_on_time_summary_dynamic">"De la %1$s până la %2$s
+Comutare la %3$s"</string>
     <string name="power_center_on_time_title">Program comutare profil</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
     <string name="power_center_ontime_shutdown">Ora de oprire</string>
@@ -452,13 +442,11 @@
     <string name="scanning_bar_system_title">Scanare sistem…</string>
     <string name="score_pts">%</string>
     <string name="settings_title_permission">Setări permisiuni</string>
-    <string name="shutdown_boot">Dispozitivul se va opri la %1$s şi se va porni la %2$s</string>
-    <string name="shutdown_boot_day">Dispozitivul se va opri la %1$s şi se va porni peste %2$d z la %3$s</string>
     <string name="shutdown_cancel_reminder">Dispozitivul nu s-a oprit</string>
     <string name="shutdown_cancel_reminder_detail">Dispozitivul nu s-a oprit pentru că un apel era în curs</string>
-    <string name="shutdown_day_boot_day">Dispozitivul se va opri peste %1$d z la %2$s şi se va porni peste %3$d z la %4$s</string>
-    <string name="shutdown_time">Dispozitivul se va opri la %1$s</string>
-    <string name="shutdown_time_day">Dispozitivul se va opri peste %1$d z la %2$s</string>
+    <string name="shutdown_time">Se va opri la %1$s</string>
+    <string name="shutdown_time_day">Se va opri peste %1$d z la %2$s</string>
+    <string name="shutdown_time_day_tomorrow">Se va opri mâine la %1$s</string>
     <string name="st_title_mode_choose_group">Selectați un profil</string>
     <string name="suffix_virus_count_bottom">total</string>
     <string name="suffix_virus_count_top">riscuri</string>
@@ -491,11 +479,11 @@
     <string name="summary_virus_update">Actualizare automată a Ddfinițiilor de viruși atunci când este conectat la Wi-Fi</string>
     <string name="system_check_content">%1$d elemente suspicioase</string>
     <string name="system_header_title">Eliminaţi %1$d procese pentru a elibera %2$s de memorie</string>
-    <string name="text_antivirus">Încărcare nume aplicaţii şi detalii</string>
+    <string name="text_antivirus">Se încarcă numele aplicaţiilor şi detaliile</string>
     <string name="text_antivirus_oversea">Actualizare definiții de viruși</string>
     <string name="title_antivirus">Politica de confidențialitate Tencent</string>
     <string name="title_app_update">Actualizări disponibile</string>
-    <string name="title_cleaner_cloudscan">Încărcare nume dosar</string>
+    <string name="title_cleaner_cloudscan">Se încarcă numele dosarului</string>
     <string name="title_cloud_account">Cont Mi</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="title_data_flow">Setaţi un avertisment de utilizare a datelor</string>
@@ -577,4 +565,14 @@
     <string name="month_report_warning_dialog_description">Pentru a vizualiza raportul lunar, activați această caracteristică în setările aplicație Securitate.</string>
     <string name="month_report_warning_dialog_positive">Activaţi</string>
     <string name="month_report_warning_dialog_title">Raport de securitate lunar</string>
+    <string name="battery_stats_charging_label">Se încarcă</string>
+    <string name="battery_stats_gps_on_label">GPS activat</string>
+    <string name="battery_stats_on_battery">%1$s pe acumulator</string>
+    <string name="battery_stats_phone_signal_label">Semnal reţea mobilă</string>
+    <string name="battery_stats_screen_on_label">Ecran activat</string>
+    <string name="battery_stats_wake_lock_label">Treaz</string>
+    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
+    <string name="boot_time">Se va porni la %1$s</string>
+    <string name="boot_time_day">Se va porni peste %1$d z la %2$s</string>
+    <string name="boot_time_day_tomorrow">Se va porni mâine la %1$s</string>
 </resources>

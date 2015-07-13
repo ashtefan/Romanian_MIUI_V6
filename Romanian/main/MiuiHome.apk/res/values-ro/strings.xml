@@ -237,4 +237,11 @@
     <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
     <string name="deselect_all">Deselectaţi tot</string>
     <string name="select_all">Selectaţi tot</string>
+    <string name="app_already_exist">Aplicaţia există deja</string>
+    <string name="gadget_power_clear_button_label">Super Cleaner</string>
+    <string name="recommend_apps_default_title">Gol</string>
+    <string name="recommend_apps_notice">Aplicaţii recomandate</string>
+    <string name="recommend_apps_switch_summary">Se afişează aplicațiile recomandate în partea de jos a ecranului.</string>
+    <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
+    <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a activa această caracteristică, atingeți numele acestui dosar.</string>
 </resources>

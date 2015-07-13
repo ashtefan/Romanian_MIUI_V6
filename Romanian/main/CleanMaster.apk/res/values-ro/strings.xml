@@ -165,4 +165,21 @@
     <string name="white_list_title">Excepţii</string>
     <string name="hints_garbage_handle_item_content">%1$d elemente, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Gol</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Se şterg, de asemenea, fotografiile din Mi Cloud</string>
+    <string name="dialog_content_delete_image_confirm">Ştergeţi %d (de) fotografii?</string>
+    <string name="dialog_content_select_all_confirm">Păstrați o copie a acestei fotografii?</string>
+    <string name="dialog_title_delete_image">Ştergeţi imaginile selectate</string>
+    <string name="empty_content_no_ignore_image">Gol</string>
+    <string name="empty_content_no_similar_image">Nu sunt imagini dublate</string>
+    <string name="hint_bar_select_image">%d selectate</string>
+    <string name="hint_clean_select_similar_image">Ştergere…</string>
+    <string name="similar_image_desc">Ștergeți fotografiile dublate din Galerie</string>
+    <string name="similar_image_empty">Nu există fotografii dublate</string>
+    <string name="similar_image_scaning">Verificare…</string>
+    <string name="similar_image_title">Ştergeţi fotografiile dublate</string>
+    <string name="toast_delete_select_image_succeed">Şterse</string>
+    <string name="toast_must_select_before_restore">Selectaţi fotografiile pentru a fi restabilite</string>
+    <string name="toast_scaning_similar_image">Verificare fotografii…</string>
+    <string name="toast_select_image_need_delete">Selectaţi fotografiile pentru a fi şterse</string>
+    <string name="toast_selecte_group_restore_succeed">Fotografii restabilite</string>
 </resources>
