@@ -323,5 +323,5 @@
     <string name="mark_time_setting_dialog_title">Setări timp raportare</string>
     <string name="mark_time_text">%d</string>
     <string name="repeated_marked_number_summary">Nu se blochează un al doilea apel primit de la aceeași persoană în decurs de 3 minute.</string>
-+  <string name="repeated_marked_number_title">"Nu se blochează apelurile raportate repetat</string>
+    <string name="repeated_marked_number_title">"Nu se blochează apelurile raportate repetat</string>
 </resources>
