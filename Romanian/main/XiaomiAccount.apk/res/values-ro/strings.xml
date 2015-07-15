@@ -200,10 +200,6 @@ Pentru a activa contul, urmați
     <string name="checking_account">Verificare parolă…</string>
     <string name="button_cancel">Anulaţi</string>
     <string name="mili_center">Credite Mi</string>
-    <string name="mibi_balance">%s Credite Mi</string>
-    <string name="loading_mili_center">Încărcare…</string>
-    <string name="hide_mibi_info">Informaţiile de spre Creditele Mi au fost ascunse</string>
-    <string name="failed_get_mibi_info">Nu se poate obține soldul</string>
     <string name="mipay_center">Portofel Mi</string>
     <string name="mi_pass">Mi Pass</string>
     <string name="sina_weibo">Sina Weibo</string>

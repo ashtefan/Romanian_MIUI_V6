@@ -223,4 +223,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="activate_usb_message">Pentru a activa această caracteristică, introduceţi cardul SIM</string>
     <string name="activate_usb_title">Activare USB</string>
     <string name="usb_function_charging_text">Conectat în modul încărcare</string>
+    <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
+    <string name="screen_button_notification_title">Butoane de navigare sunt dezactivate</string>
 </resources>
