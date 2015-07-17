@@ -16,17 +16,17 @@
     <string name="mi_band_vibrate_incall">Vibrare la primirea unui apel</string>
     <string name="mi_band_vibrate_incall_in_contacts">Apeluri de la contacte</string>
     <string name="mi_band_vibrate_incall_no_contacts">Apeluri de la numere necunoscute</string>
-    <string name="mi_band_vibrate_sms">Vibrare pentru mesaje SMS</string>
+    <string name="mi_band_vibrate_sms">Vibrare la recepţionarea mesajelor SMS</string>
     <string name="mi_band_vibrate_sms_in_contacts">Mesaje de la contacte</string>
     <string name="mi_band_vibrate_sms_no_contacts">Mesaje de la numere necunoscute</string>
     <string name="mi_band_vibrate_alarm">Vibrare în timpul alarmei</string>
     <string name="mi_key_take_photo">Captură fotografie</string>
     <string name="mi_key_find_phone">Găsire dispozitiv</string>
     <string name="mi_key_find_mikey">Găsire Mi Key</string>
-    <string name="miui_transfer_history_title">Trasnferuri Bluetooth</string>
+    <string name="miui_transfer_history_title">Transferuri Bluetooth</string>
     <string name="miui_transfer_inbound_title">Primit</string>
     <string name="miui_transfer_outbound_title">Expediat</string>
-    <string name="too_much_file_sent">Maxim %1$s fişiere odată</string>
+    <string name="too_much_file_sent">Maxim %1$s fişiere simultan</string>
     <string name="panu_no_need_connect">Nu se poate utiliza tetheringul prin Bluetooth cât timp sunteţi conectat la Wi-Fi</string>
     <string name="panu_disconnect_while_wifi_connected">Tetheringul prin Bluetooth a fost deconectat</string>
     <string name="sim_selected_dialog_title">Selectare SIM</string>
@@ -102,7 +102,7 @@
     <string name="bt_toast_2">Fişierul nu poate fi primit.</string>
     <string name="bt_toast_3">Primirea fişierului de la „%1$s” a fost anulată</string>
     <string name="bt_toast_4">Se trimite fişierul către „%1$s”</string>
-    <string name="bt_toast_5">Se trimit %1$s (de) fişiere către „%2$s”</string>
+    <string name="bt_toast_5">Se trimit %1$s  fişiere către „%2$s”</string>
     <string name="bt_toast_6">Trimiterea fişierului către „%1$s” a fost anulată</string>
     <string name="bt_sm_2_1">Nu există suficient spaţiu pe cardul SD pentru a salva fişierul de la „%1$s”</string>
     <string name="bt_sm_2_2">Spaţiu necesar: %1$s</string>
@@ -132,7 +132,7 @@
     <string name="transfer_menu_open">Deschideţi</string>
     <string name="transfer_menu_clear">Ștergeţi din listă</string>
     <string name="transfer_clear_dlg_title">Ștergeţi</string>
-    <string name="airplane_can_not_share">Modul avion activat. Nu se poate utiliza partajarea Bluetooth</string>
+    <string name="airplane_can_not_share">Modul Avion activat. Nu se poate utiliza partajarea Bluetooth</string>
     <string name="upload_fail_waiting">Pregătire fișier pentru trimitere, retransmisie automată mai târziu</string>
     <string name="bluetooth_in_airplane_mode">În modul avion</string>
     <string name="pbap_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
@@ -175,8 +175,8 @@
     <string name="install_package">Instalaţi %1$s pentru mai multe funcţii</string>
     <string name="mi_key_open_camera">Deschidere Cameră</string>
     <string name="mi_key_summary_find_phone">Apăsați și țineți apăsat pe Mi Key pentru a activa soneria</string>
-    <string name="mi_key_summary_open_camera">Faceți dublu clic pe Mi Key pentru a deschide Camera</string>
-    <string name="mi_key_summary_take_photo">Faceți clic pe Mi Key pentru a fotografia</string>
-    <string name="reset_function_msg">Resetarea acestei caracteristici poate preveni lucru normal al %1$s.</string>
+    <string name="mi_key_summary_open_camera">Faceți dublu click pe Mi Key pentru a deschide Camera</string>
+    <string name="mi_key_summary_take_photo">Faceți click pe Mi Key pentru a fotografia</string>
+    <string name="reset_function_msg">Resetarea acestei caracteristici poate preveni lucrul normal al %1$s.</string>
     <string name="some_app_taking">(%1$s utilizează deja această funcție)</string>
 </resources>
