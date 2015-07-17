@@ -14,7 +14,7 @@
     <string name="confirm_radio_flight_mode_on_sim_off_msg_uim">%1$s este acum dezactivată. Doriţi să dezactivaţi modul Avion şi să activaţi această cartelă UIM?</string>
     <string name="confirm_radio_flight_mode_on_sim_off_msg_card">%1$s este acum dezactivată. Doriţi să dezactivaţi modul Avion şi să activaţi această cartelă?</string>
     <string name="confirm_radio_flight_mode_on_sim_on_msg">Modul Avion este activat. Doriţi să dezactivaţi modul Avion?</string>
-    <string name="confirm_radio_msg_single">Modul pentru avion este activat acum, doriţi să îl dezactivaţi?</string>
+    <string name="confirm_radio_msg_single">Modul Avion este activat acum, doriţi să îl dezactivaţi?</string>
     <string name="confirm_pin_title">Cartelă SIM blocată</string>
     <string name="confirm_pin_title_uim">UIM blocată</string>
     <string name="confirm_pin_title_card">Cartelă blocată</string>
