@@ -22,12 +22,12 @@
     <string name="unable_to_save_cert">Nu se poate salva certificatul. Spaţiul de stocare a certificatelor nu este activat sau nu este corect iniţializat.</string>
     <string name="cert_not_saved">Certificatul nu este instalat.</string>
     <string name="no_cert_to_saved">Niciun certificat de instalat.</string>
-    <string name="invalid_cert">Certificatul este nevalid.</string>
+    <string name="invalid_cert">Certificatul nu este valid.</string>
     <string name="cert_is_added">%s este instalat.</string>
     <string name="cert_too_large_error">Nu se poate instala, deoarece dimensiunea certificatului este prea mare.</string>
     <string name="cert_missing_error">Nu se poate instala, deoarece fişierul certificat nu a putut fi găsit.</string>
     <string name="cert_read_error">Nu se poate instala, deoarece fişierul certificat nu a putut fi citit.</string>
-    <string name="no_cert_file_found">Nu s-a găsit niciun fişier certificat în stocarea telefonului.</string>
+    <string name="no_cert_file_found">Nu s-a găsit niciun fişier certificat în memoria telefonului.</string>
     <string name="sdcard_not_present">Nu există card SD.</string>
     <string name="only_primary_user_allowed">Numai proprietarul acestui dispozitiv poate instala certificate.</string>
     <string name="credential_usage_label">Utilizarea datelor de conectare:</string>
