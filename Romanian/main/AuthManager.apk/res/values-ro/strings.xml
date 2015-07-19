@@ -231,7 +231,7 @@ Notă: Aplicaţiile cu această permisiune pot cauza instabilitatea sistemului, 
      <string name="HIPS_SecurityPrompt_Reject">Refuzaţi (%d)</string>
      <string name="HIPS_SecurityPrompt_Reject_Once">Refuzaţi o dată (%d)</string>
      <string name="HIPS_SecurityPrompt_Remember">Memorează opţiunea</string>
-     <string name="HIPS_SecurityPrompt_Title">%1$s încearcă să %2$s</string>
+     <string name="HIPS_SecurityPrompt_Title">%1$s solicită %2$s</string>
      <string name="Privacy_AppPerm_Count">%1$d permisiuni</string>
      <string name="Privacy_AppPerm_Count_Trust">%1$d permisiuni - &lt;font color=#478800>De încredere&lt;/font></string>
      <string name="Privacy_App_Finish">Sfârşit</string>
