@@ -797,7 +797,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_diagnostic">Diagnosticare reţea</string>
     <string name="sub_sync_item_browser_title_video">Sincronizare istoric video</string>
     <string name="sub_sync_item_browser_title_video_summary">Sincronizaţi lista de videoclipuri pe care le-ați vizionat recent</string>
-    <string name="video_buffering_percent_string">"Memoria tampon se incarca "</string>
+    <string name="video_buffering_percent_string">"Memoria tampon se încarcă "</string>
     <string name="miuishare_account_activate_confirmation">Activarea este necesară</string>
     <string name="miuishare_account_activate_ok">Activare</string>
     <string name="miuishare_account_login_cancel">Anulare</string>
