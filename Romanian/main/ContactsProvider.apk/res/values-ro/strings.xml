@@ -3,9 +3,9 @@
      <string name="app_label">Stocarea datelor din Agendă</string>
      <string name="call_log_provider_label">Jurnal apeluri</string>
      <string name="create_contact">Contact nou</string>
-     <string name="debug_dump_database_message">Sunteţi pe cale: 1) să faceţi o copie a bazei de date ce cuprinde toate informațiile asociate contactelor și toate jurnalele apelurilor în memoria internă; 2) să-o trimiteţi prin e-mail. Amintiți-vă să ștergeţi copia de îndată ce a fost copiată cu succes de pe dispozitiv sau dacă e-mail-ul a fost primit.</string>
+     <string name="debug_dump_database_message">Sunteţi pe cale: 1) să faceţi o copie a bazei de date ce cuprinde toate informațiile asociate contactelor și toate jurnalele apelurilor în memoria internă; 2) să o trimiteţi prin e-mail. Amintiți-vă să ștergeţi copia de îndată ce a fost copiată cu succes de pe dispozitiv sau dacă e-mail-ul a fost primit.</string>
      <string name="debug_dump_delete_button">Ştergeţi acum</string>
-     <string name="debug_dump_email_body">Atașat este baza de date a contactelor mele. Trataţi cu grijă.</string>
+     <string name="debug_dump_email_body">Atașat este baza de date a contactelor mele. Trataţi cu grijă!</string>
      <string name="debug_dump_email_sender_picker">Selectaţi o aplicaţie pentru a trimite fişierul</string>
      <string name="debug_dump_email_subject">Baza de date a contactelor a fost ataşată</string>
      <string name="debug_dump_start_button">Începeţi</string>
