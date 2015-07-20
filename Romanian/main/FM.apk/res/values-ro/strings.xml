@@ -31,9 +31,9 @@
      <string name="menu_sleep">Deconectare automată</string>
      <string name="menu_sleep_cancel">Anulaţi deconectarea automată</string>
      <string name="menu_speaker">Comutaţi la difuzor</string>
-     <string name="msg_do_not_support_fm">Acest dispozitiv nu susţine Radio FM</string>
+     <string name="msg_do_not_support_fm">Acest dispozitiv nu permite Radio FM</string>
      <string name="msg_fm_starting">Pornire…</string>
-     <string name="msg_noantenna_message">Pentru a îmbunătăți calitatea sunetului, conectați căștile</string>
+     <string name="msg_noantenna_message">Pentru a îmbunătăți calitatea recepţiei, conectați căștile</string>
      <string name="new_frequency">Frecvenţă nouă</string>
      <string name="next_station">Staţia următoare</string>
      <string name="pre_station">Staţia anterioară</string>
@@ -51,11 +51,11 @@
      <string name="toast_fm_recorder_internal_error">Eroare înregistrare FM</string>
      <string name="toast_fm_recorder_storage_full">Imposibil de continuat înregistrarea: spaţiu insuficient</string>
      <string name="toast_fm_seeking">Căutare staţii, așteptați</string>
-     <string name="toast_fm_starting">Pornire FM, așteptați</string>
+     <string name="toast_fm_starting">Pornire radio FM, așteptați</string>
      <string name="toast_removed_from_presets">Eliminată din presetări</string>
-     <string name="toast_sleep_mode">Radio se va opri în %s</string>
+     <string name="toast_sleep_mode">Radio FM se va opri în %s</string>
      <string name="toast_sleep_mode_exit">Deconectare automată anulată</string>
-     <string name="turn_off_fm">Dezactivaţi FM</string>
+     <string name="turn_off_fm">Dezactivaţi radio FM</string>
      <string name="txt_divider">" | "</string>
      <string name="txt_sleep_mode">Modul repaus</string>
      <string name="view_stations_list">Vizualizaţi lista staţiilor</string>
