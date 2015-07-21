@@ -2,21 +2,21 @@
 <resources>
     <string name="Import">Importaţi</string>
     <string name="abandon">Renunţaţi</string>
-    <string name="accept">Aceptaţi</string>
+    <string name="accept">Acceptaţi</string>
     <string name="accept_or_deny">%1$s a partajat albumul %2$s cu dvs..</string>
     <string name="activity_not_found">Nu a fost găsită nicio aplicaţie pentru a finaliza acţiunea</string>
     <string name="add_account">Adăugaţi un cont</string>
     <string name="add_sharer">Adăugaţi un membru</string>
     <string name="add_to_cloud_album">Adăugaţi în</string>
     <string name="add_to_cloud_exceeded_the_size_message">Dimensiune prea mare a fişierului</string>
-    <string name="add_to_cloud_failed_message_with_count">%2$s (de) elemente nu pot fi adăugate la: %1$s</string>
+    <string name="add_to_cloud_failed_message_with_count">%2$s elemente nu pot fi adăugate la: %1$s</string>
     <string name="add_to_cloud_file_exist_message">Fotografia există deja în albumul de destinaţie</string>
     <string name="add_to_cloud_folder">Adăugaţi în album</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Limită depășită</string>
     <string name="add_to_cloud_local_space_full_message">Stocare plină sau indisponibilă</string>
     <string name="add_to_cloud_reasons" />
-    <string name="add_to_cloud_space_full_message">Albumul în Mi Cloud este plin</string>
-    <string name="add_to_cloud_successfully_message">Adăugat în albumul din nor</string>
+    <string name="add_to_cloud_space_full_message">Albumul din Mi Cloud este plin</string>
+    <string name="add_to_cloud_successfully_message">Adăugat în albumul din Mi Cloud</string>
     <string name="add_to_cloud_type_not_support_message">Tip de fişier neacceptat</string>
     <string name="add_to_cloud_unfinished_message_with_count">%1$s elemente nu au fost adăugate în Mi Cloud</string>
     <string name="add_to_cloud_unknow_reasons">Eroare necunoscută</string>
@@ -26,7 +26,7 @@
     <string name="adding_recipients">Adăugare destinatari…</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_name">Nume album</string>
-    <string name="album_quota_fulfiled">Prea multe albume. Ştergeţi unele abume şi înceraţi din nou.</string>
+    <string name="album_quota_fulfiled">Prea multe albume. Ştergeţi unele abume şi încercaţi din nou.</string>
     <string name="album_share_exit_confirm">Ieşiţi din acest album?</string>
     <string name="album_share_kicked">Albumul %1$s este închis</string>
     <string name="album_share_stat_content">Invitații</string>
@@ -37,7 +37,7 @@
     <string name="album_share_subtitle_not_ready">Lipseşte informaţia despre album.</string>
     <string name="album_share_subtitle_quitting">Ieşire…</string>
     <string name="album_share_subtitle_requesting">Obţinere informaţie album…</string>
-    <string name="album_share_title_new_album">Partaţaţi un album nou</string>
+    <string name="album_share_title_new_album">Partajaţi un album nou</string>
     <string name="albums">Albume</string>
     <string name="albumset_page_title_separator">" | "</string>
     <string name="alert">Atenţie</string>
@@ -59,7 +59,7 @@
     <string name="auto_create_recent_album_confirm">Galeria va șterge datele albumelor favorite. Favoritele marcate manual nu vor fi afectate.</string>
     <string name="auto_create_recent_album_over_ten_times">Un album va fi marcat ca Favorit automat după ce va fi deschis de mai mult de 10 ori</string>
     <string name="auto_upload_album_comfirm_to_share">Acest album va fi sincronizat în mod automat.</string>
-    <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa, sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
+    <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="auto_upload_guide_title">Sincronizare fotografii cu Mi Cloud</string>
     <string name="auto_upload_title">Sincronizare automată</string>
     <string name="autofix">Reparare automată</string>
@@ -83,7 +83,7 @@
     <string name="camera_view_none_message">Imaginile şi videoclipurile captate cu aplicaţia Cameră se vor afişa aici.</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_hint">Operaţiune anulată</string>
-    <string name="cannot_delete_sharer_photo">Imposibil de şters %s (de) elemente adăugate de alţi membri.</string>
+    <string name="cannot_delete_sharer_photo">Imposibil de şters %s elemente adăugate de alţi membri.</string>
     <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
@@ -93,7 +93,7 @@
     <string name="clear_thumbnail_cache">Eliminaţi miniaturile din memoria cache</string>
     <string name="clear_thumbnail_cache_confirm">Toate miniaturile din Galerie vor fi eliminate.</string>
     <string name="clear_thumbnail_cache_summary">Eliminaţi miniaturile din Galerie</string>
-    <string name="click_to_add_picture">Alăsaţi pentru a adăuga imagini</string>
+    <string name="click_to_add_picture">Apăsaţi pentru a adăuga imagini</string>
     <string name="click_top_right">Atingeți pictograma din dreapta-sus</string>
     <string name="close">Închideţi</string>
     <string name="cloud_album_more_settings">Sincronizare cu Mi Cloud</string>
@@ -122,9 +122,9 @@
     <string name="comma">", "</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Ştergeţi %s fotografii?</string>
-    <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;</string>
-    <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
-    <string name="confirm_delete_has_local_image_video">Ştergeţi %s (de) elemente?</string>
+    <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;</string>
+    <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
+    <string name="confirm_delete_has_local_image_video">Ştergeţi %s elemente?</string>
     <string name="confirm_delete_init_message">Fotografia va fi ştearsă de pe acest dispozitiv şi din Mi Cloud. Dacă doriţi să o ştergeţi doar de pe dispozitiv, încercaţi această acţiune în fila Off-line.</string>
     <string name="confirm_delete_init_title">Ştergere fotografie</string>
     <string name="confirm_download">Trebuie să descărcaţi %s.</string>
@@ -151,9 +151,9 @@
     <string name="dcim_viva_pics">VIVA</string>
     <string name="defalt_local_mobile">Mobil</string>
     <string name="delete">Ştergeţi</string>
-    <string name="delete_file">Ştergeţi %1$d (de) fişiere?</string>
-    <string name="delete_files_and_folders">Ştergeţi %1$d (de) fişiere şi %2$d (de) dosare?</string>
-    <string name="delete_folder">Ştergeţi %1$d (de) dosare?</string>
+    <string name="delete_file">Ştergeţi %1$d fişiere?</string>
+    <string name="delete_files_and_folders">Ştergeţi %1$d fişiere şi %2$d dosare?</string>
+    <string name="delete_folder">Ştergeţi %1$d dosare?</string>
     <string name="delete_smb_file_fail">Ştergerea fişierului SMB a eşuat</string>
     <string name="deleting_files">Ştergere fişiere…</string>
     <string name="demo_video_folder_display_name">Demo Video</string>
@@ -164,7 +164,7 @@
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_sharer">Partajat de</string>
-    <string name="details_title">%1$d din %2$d (de) elemente</string>
+    <string name="details_title">%1$d din %2$d elemente</string>
     <string name="device_model">Dispozitiv</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="do_not_save">Nu se salvează</string>
@@ -182,22 +182,22 @@
     <string name="edited_photo_bucket_name">Editare</string>
     <string name="email_picker_title">Adăugaţi e-mail partajat</string>
     <string name="enable">Activat</string>
-    <string name="enable_cloud_for_sharing">Activaţi albumele în nor pentru a vizualiza imaginile partajate.</string>
+    <string name="enable_cloud_for_sharing">Activaţi albumele în Cloud pentru a vizualiza imaginile partajate.</string>
     <string name="enter_email_hint">"Introduceţi adresa de e-mail "</string>
     <string name="error_album_not_exist">"Albumul nu există"</string>
-    <string name="error_cloud_not_active">Albume în nor dezactivate</string>
+    <string name="error_cloud_not_active">Albume în Cloud dezactivate</string>
     <string name="error_forbidden">Există unele probleme cu contul dvs. Mi: sincronizare dezactivată.</string>
     <string name="error_invalid_link">Link greşit</string>
     <string name="error_not_acceptable">Sincronizare dezactivată.</string>
     <string name="error_repeat_apply">Acest album a fost partajat deja</string>
     <string name="error_share_not_support">Această caracteristică nu este susţinută încă</string>
     <string name="error_share_with_creator">Acest album a fost partajat deja cu dvs.</string>
-    <string name="error_should_not_select_image">Tip de fişier inacceptat</string>
-    <string name="error_should_not_select_video">Tip de fişier inacceptat</string>
+    <string name="error_should_not_select_image">Tip de fişier neacceptat</string>
+    <string name="error_should_not_select_video">Tip de fişier neacceptat</string>
     <string name="error_socket_timeout">Conexiune la rețea expirată</string>
     <string name="error_title">Eroare de sincronizare</string>
-    <string name="error_unauthorized">Prea multe încercări conectare: sincronizare dezactivată.</string>
-    <string name="error_unknown_host">imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
+    <string name="error_unauthorized">Prea multe încercări de conectare: sincronizare dezactivată.</string>
+    <string name="error_unknown_host">Imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
     <string name="exit">Ieşiţi</string>
     <string name="exit_share">Anulare partajare album</string>
     <string name="exit_share_failed">Anularea partajării albumului %1$s a eşuat</string>
