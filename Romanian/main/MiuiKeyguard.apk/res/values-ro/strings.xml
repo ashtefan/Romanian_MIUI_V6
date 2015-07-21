@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="click_to_enter_text">Apăsaţi pentru a vizualiza</string>
-     <string name="confirm_pin_msg">Introduceţi codul PIN din nou</string>
+     <string name="confirm_pin_msg">Reintroduceţi codul PIN</string>
      <string name="default_lockscreen_unlock_hint_text">Glisaţi în sus pentru a debloca</string>
      <string name="delete">Ştergeţi</string>
      <string name="emergency_call_string">Apel de urgenţă</string>
@@ -13,7 +13,7 @@
      <string name="experimental_validate_thanks">Mulţumesc!</string>
      <string name="experimental_validate_username">Nume utilizator</string>
      <string name="experimental_validate_warning">Mulţumim pentru că ajutaţi MIUI să devină mai bun!</string>
-     <string name="find_device_turn_off_flight_mode">Dezactivaţi modul avion.</string>
+     <string name="find_device_turn_off_flight_mode">Dezactivaţi modul Avion.</string>
      <string name="forget_password_string">Am uitat parola</string>
      <string name="incorrect_pincode">Cod PIN incorect</string>
      <string name="incorrect_pincode_remaining_attempts">Cod PIN incorect, au rămas %d încercări</string>
@@ -23,7 +23,7 @@
      <string name="input_pin_code">Introduceţi codul PIN</string>
      <string name="input_puk_code">Introduceţi codul PUK</string>
      <string name="invalid_confirm_pin_hint">Codurile PIN nu se potrivesc</string>
-     <string name="keyguard_torch_cover_text">Pentru a păstra lanternă conectată, țineți apăsat butonul de alimentare</string>
+     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
      <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
      <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
@@ -33,10 +33,10 @@
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
      <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi introdus incorect parola dvs. de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul datelor de conectare la contul Mi.
 
- Încercaţi din nou peste %d (de) secunde."</string>
+ Încercaţi din nou peste %d secunde."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Acesta va fi acum resetat la setările prestabilite din fabrică.</string>
      <string name="lockscreen_glogin_checking_password">Verificare…</string>
-     <string name="lockscreen_glogin_invalid_input">Nume de utilizator sau parolă greşite</string>
+     <string name="lockscreen_glogin_invalid_input">Nume de utilizator sau parolă incorecte</string>
      <string name="lockscreen_glogin_password_hint">Parolă</string>
      <string name="lockscreen_glogin_submit_button">Conectaţi-vă</string>
      <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi i.xiaomi.com.</string>
