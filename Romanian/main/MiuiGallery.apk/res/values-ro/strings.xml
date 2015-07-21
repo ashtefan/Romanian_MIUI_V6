@@ -2,21 +2,21 @@
 <resources>
     <string name="Import">Importaţi</string>
     <string name="abandon">Renunţaţi</string>
-    <string name="accept">Aceptaţi</string>
+    <string name="accept">Acceptaţi</string>
     <string name="accept_or_deny">%1$s a partajat albumul %2$s cu dvs..</string>
     <string name="activity_not_found">Nu a fost găsită nicio aplicaţie pentru a finaliza acţiunea</string>
     <string name="add_account">Adăugaţi un cont</string>
     <string name="add_sharer">Adăugaţi un membru</string>
     <string name="add_to_cloud_album">Adăugaţi în</string>
     <string name="add_to_cloud_exceeded_the_size_message">Dimensiune prea mare a fişierului</string>
-    <string name="add_to_cloud_failed_message_with_count">%2$s (de) elemente nu pot fi adăugate la: %1$s</string>
+    <string name="add_to_cloud_failed_message_with_count">%2$s elemente nu pot fi adăugate la: %1$s</string>
     <string name="add_to_cloud_file_exist_message">Fotografia există deja în albumul de destinaţie</string>
     <string name="add_to_cloud_folder">Adăugaţi în album</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Limită depășită</string>
     <string name="add_to_cloud_local_space_full_message">Stocare plină sau indisponibilă</string>
     <string name="add_to_cloud_reasons" />
-    <string name="add_to_cloud_space_full_message">Albumul în Mi Cloud este plin</string>
-    <string name="add_to_cloud_successfully_message">Adăugat în albumul din nor</string>
+    <string name="add_to_cloud_space_full_message">Albumul din Mi Cloud este plin</string>
+    <string name="add_to_cloud_successfully_message">Adăugat în albumul din Mi Cloud</string>
     <string name="add_to_cloud_type_not_support_message">Tip de fişier neacceptat</string>
     <string name="add_to_cloud_unfinished_message_with_count">%1$s elemente nu au fost adăugate în Mi Cloud</string>
     <string name="add_to_cloud_unknow_reasons">Eroare necunoscută</string>
@@ -26,7 +26,7 @@
     <string name="adding_recipients">Adăugare destinatari…</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_name">Nume album</string>
-    <string name="album_quota_fulfiled">Prea multe albume. Ştergeţi unele abume şi înceraţi din nou.</string>
+    <string name="album_quota_fulfiled">Prea multe albume. Ştergeţi unele abume şi încercaţi din nou.</string>
     <string name="album_share_exit_confirm">Ieşiţi din acest album?</string>
     <string name="album_share_kicked">Albumul %1$s este închis</string>
     <string name="album_share_stat_content">Invitații</string>
@@ -37,7 +37,7 @@
     <string name="album_share_subtitle_not_ready">Lipseşte informaţia despre album.</string>
     <string name="album_share_subtitle_quitting">Ieşire…</string>
     <string name="album_share_subtitle_requesting">Obţinere informaţie album…</string>
-    <string name="album_share_title_new_album">Partaţaţi un album nou</string>
+    <string name="album_share_title_new_album">Partajaţi un album nou</string>
     <string name="albums">Albume</string>
     <string name="albumset_page_title_separator">" | "</string>
     <string name="alert">Atenţie</string>
@@ -59,7 +59,7 @@
     <string name="auto_create_recent_album_confirm">Galeria va șterge datele albumelor favorite. Favoritele marcate manual nu vor fi afectate.</string>
     <string name="auto_create_recent_album_over_ten_times">Un album va fi marcat ca Favorit automat după ce va fi deschis de mai mult de 10 ori</string>
     <string name="auto_upload_album_comfirm_to_share">Acest album va fi sincronizat în mod automat.</string>
-    <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa, sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
+    <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="auto_upload_guide_title">Sincronizare fotografii cu Mi Cloud</string>
     <string name="auto_upload_title">Sincronizare automată</string>
     <string name="autofix">Reparare automată</string>
@@ -83,7 +83,7 @@
     <string name="camera_view_none_message">Imaginile şi videoclipurile captate cu aplicaţia Cameră se vor afişa aici.</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_hint">Operaţiune anulată</string>
-    <string name="cannot_delete_sharer_photo">Imposibil de şters %s (de) elemente adăugate de alţi membri.</string>
+    <string name="cannot_delete_sharer_photo">Imposibil de şters %s elemente adăugate de alţi membri.</string>
     <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
@@ -93,7 +93,7 @@
     <string name="clear_thumbnail_cache">Eliminaţi miniaturile din memoria cache</string>
     <string name="clear_thumbnail_cache_confirm">Toate miniaturile din Galerie vor fi eliminate.</string>
     <string name="clear_thumbnail_cache_summary">Eliminaţi miniaturile din Galerie</string>
-    <string name="click_to_add_picture">Alăsaţi pentru a adăuga imagini</string>
+    <string name="click_to_add_picture">Apăsaţi pentru a adăuga imagini</string>
     <string name="click_top_right">Atingeți pictograma din dreapta-sus</string>
     <string name="close">Închideţi</string>
     <string name="cloud_album_more_settings">Sincronizare cu Mi Cloud</string>
@@ -122,9 +122,9 @@
     <string name="comma">", "</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Ştergeţi %s fotografii?</string>
-    <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;</string>
-    <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; (de) fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
-    <string name="confirm_delete_has_local_image_video">Ştergeţi %s (de) elemente?</string>
+    <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;</string>
+    <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Ştergeţi &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; fotografii de pe acest dispozitiv şi din Mi Cloud?&lt;/Data&gt;" "</string>
+    <string name="confirm_delete_has_local_image_video">Ştergeţi %s elemente?</string>
     <string name="confirm_delete_init_message">Fotografia va fi ştearsă de pe acest dispozitiv şi din Mi Cloud. Dacă doriţi să o ştergeţi doar de pe dispozitiv, încercaţi această acţiune în fila Off-line.</string>
     <string name="confirm_delete_init_title">Ştergere fotografie</string>
     <string name="confirm_download">Trebuie să descărcaţi %s.</string>
@@ -151,9 +151,9 @@
     <string name="dcim_viva_pics">VIVA</string>
     <string name="defalt_local_mobile">Mobil</string>
     <string name="delete">Ştergeţi</string>
-    <string name="delete_file">Ştergeţi %1$d (de) fişiere?</string>
-    <string name="delete_files_and_folders">Ştergeţi %1$d (de) fişiere şi %2$d (de) dosare?</string>
-    <string name="delete_folder">Ştergeţi %1$d (de) dosare?</string>
+    <string name="delete_file">Ştergeţi %1$d fişiere?</string>
+    <string name="delete_files_and_folders">Ştergeţi %1$d fişiere şi %2$d dosare?</string>
+    <string name="delete_folder">Ştergeţi %1$d dosare?</string>
     <string name="delete_smb_file_fail">Ştergerea fişierului SMB a eşuat</string>
     <string name="deleting_files">Ştergere fişiere…</string>
     <string name="demo_video_folder_display_name">Demo Video</string>
@@ -164,7 +164,7 @@
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_sharer">Partajat de</string>
-    <string name="details_title">%1$d din %2$d (de) elemente</string>
+    <string name="details_title">%1$d din %2$d elemente</string>
     <string name="device_model">Dispozitiv</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="do_not_save">Nu se salvează</string>
@@ -182,28 +182,28 @@
     <string name="edited_photo_bucket_name">Editare</string>
     <string name="email_picker_title">Adăugaţi e-mail partajat</string>
     <string name="enable">Activat</string>
-    <string name="enable_cloud_for_sharing">Activaţi albumele în nor pentru a vizualiza imaginile partajate.</string>
+    <string name="enable_cloud_for_sharing">Activaţi albumele în Cloud pentru a vizualiza imaginile partajate.</string>
     <string name="enter_email_hint">"Introduceţi adresa de e-mail "</string>
     <string name="error_album_not_exist">"Albumul nu există"</string>
-    <string name="error_cloud_not_active">Albume în nor dezactivate</string>
+    <string name="error_cloud_not_active">Albume în Cloud dezactivate</string>
     <string name="error_forbidden">Există unele probleme cu contul dvs. Mi: sincronizare dezactivată.</string>
     <string name="error_invalid_link">Link greşit</string>
     <string name="error_not_acceptable">Sincronizare dezactivată.</string>
     <string name="error_repeat_apply">Acest album a fost partajat deja</string>
     <string name="error_share_not_support">Această caracteristică nu este susţinută încă</string>
     <string name="error_share_with_creator">Acest album a fost partajat deja cu dvs.</string>
-    <string name="error_should_not_select_image">Tip de fişier inacceptat</string>
-    <string name="error_should_not_select_video">Tip de fişier inacceptat</string>
+    <string name="error_should_not_select_image">Tip de fişier neacceptat</string>
+    <string name="error_should_not_select_video">Tip de fişier neacceptat</string>
     <string name="error_socket_timeout">Conexiune la rețea expirată</string>
     <string name="error_title">Eroare de sincronizare</string>
-    <string name="error_unauthorized">Prea multe încercări conectare: sincronizare dezactivată.</string>
-    <string name="error_unknown_host">imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
+    <string name="error_unauthorized">Prea multe încercări de conectare: sincronizare dezactivată.</string>
+    <string name="error_unknown_host">Imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
     <string name="exit">Ieşiţi</string>
     <string name="exit_share">Anulare partajare album</string>
     <string name="exit_share_failed">Anularea partajării albumului %1$s a eşuat</string>
     <string name="exit_share_in_process">Anulare partajare…</string>
     <string name="exit_share_successfully">Anulare reuşită a partajării albumului %1$s</string>
-    <string name="exposure_time">Timp expunere</string>
+    <string name="exposure_time">Timp de expunere</string>
     <string name="external_sd_card">Card SD</string>
     <string name="external_sdcard_root">Director rădăcină card SD extern</string>
     <string name="external_usb_device">Stocare USB</string>
@@ -253,7 +253,7 @@
     <string name="home_page_tab_local">Locale</string>
     <string name="home_page_tab_photo">Fotografii</string>
     <string name="image_download_item_title">Descărcaţi fotografia (%s)</string>
-    <string name="image_quota_fulfiled">Prea multe imagini. Ştergeţi unele imagini şi înceraţi din nou.</string>
+    <string name="image_quota_fulfiled">Prea multe imagini. Ştergeţi unele imagini şi încercaţi din nou.</string>
     <string name="immomo_camera">Immomo</string>
     <string name="import_complete">Import finalizat</string>
     <string name="import_fail">Import eşuat</string>
@@ -261,7 +261,7 @@
     <string name="impunity_declaration_ignore">Nu se afișează din nou</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Notificare conexiune la internet</string>
-    <string name="impunity_declaration_summary">Afişare notificare conexiune la internet de fiecare dată când deschdeţi Galeria</string>
+    <string name="impunity_declaration_summary">Afişare notificare conexiune la internet de fiecare dată când deschideţi Galeria</string>
     <string name="impunity_declaration_title">Conexiune la internet</string>
     <string name="initial_cloud_button_text">Conectaţi-vă</string>
     <string name="initial_cloud_text">Stocaţi și vizualizaţi imaginile de oriunde</string>
@@ -287,9 +287,9 @@
     <string name="loading_failure">Fotografia nu poate fi încărcată</string>
     <string name="loading_image">Descărcare imagine…</string>
     <string name="loading_members">Încărcare membri…</string>
-    <string name="loading_suspend">Descărcare întreruptă. Va fi reluată atunci când Wi-Fi va fi disponibil.</string>
+    <string name="loading_suspend">Descărcare întreruptă. Acţiunea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
     <string name="loading_thumbnail">Încărcare miniaturi…</string>
-    <string name="loading_video">Descărcare videclip…</string>
+    <string name="loading_video">Descărcare videoclip…</string>
     <string name="local_albums">Off-line</string>
     <string name="local_time">(Local)</string>
     <string name="location">Locaţie</string>
@@ -306,7 +306,7 @@
     <string name="menu_item_sort_date_desc">Dată (descendent)</string>
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_name_asc">După nume (ascendent)</string>
-    <string name="menu_item_sort_name_desc">După nume (descencent)</string>
+    <string name="menu_item_sort_name_desc">După nume (descendent)</string>
     <string name="menu_item_sort_size">Dimensiune</string>
     <string name="menu_item_sort_size_asc">Dimensiune (ascendent)</string>
     <string name="menu_item_sort_size_desc">Dimensiune (descendent)</string>
@@ -324,9 +324,9 @@
     <string name="miui_wallpaper">Imagine de fundal</string>
     <string name="modified_time">Modificată</string>
     <string name="moman">Moman Camera</string>
-    <string name="moman_camera_drawing">Moman Camera drawing</string>
-    <string name="moman_camera_icon">Moman Camera emoticon</string>
-    <string name="moman_camera_picture">Moman Camera pictures</string>
+    <string name="moman_camera_drawing">Desen Moman Camera</string>
+    <string name="moman_camera_icon">Emoticon Moman Camera</string>
+    <string name="moman_camera_picture">Imagini Moman Camera</string>
     <string name="more">Mai multe</string>
     <string name="move">Mutaţi</string>
     <string name="move_to_cloud_album">Mutaţi în</string>
@@ -344,7 +344,7 @@
     <string name="no_map_app">Aplicaţia pentru hărţi lipseşte</string>
     <string name="no_network_connected">Reţeaua nu este conectată</string>
     <string name="no_picture_or_video">Gol</string>
-    <string name="no_storage_disable_cloud_albums">Albumele din nor sunt inaccesibile.</string>
+    <string name="no_storage_disable_cloud_albums">Albumele din Cloud sunt inaccesibile.</string>
     <string name="no_such_album">Albumul nu a fost găsit</string>
     <string name="no_such_item">Nu au fost găsite elemente</string>
     <string name="no_thumbnail">Nicio miniatură</string>
@@ -370,13 +370,13 @@
     <string name="operation_set_as_screensaver">Setaţi ca screensaver</string>
     <string name="operation_share">Partajaţi</string>
     <string name="operation_successful">Finalizată</string>
-    <string name="operation_too_often">Operațiune dvs. depășește limita, încercați după 1 minut.</string>
+    <string name="operation_too_often">Operațiunea dvs. depășește limita, încercați după 1 minut.</string>
     <string name="operation_unset_as_screensaver">Anulaţi screensaver</string>
     <string name="orientation">Orientare</string>
     <string name="original">Original</string>
     <string name="original_scale">Original</string>
     <string name="other_category">Setări adiţionale</string>
-    <string name="owner_album_subtitle">Partajat cu %1$s (de) utilizatori</string>
+    <string name="owner_album_subtitle">Partajat cu %1$s utilizatori</string>
     <string name="paint_cancel_context">Renunțaţi la modificările efectuate la această imagine?</string>
     <string name="paint_cancel_title">Renunțaţi la modificări</string>
     <string name="paint_crop_cancel_context">Salvaţi imaginea decupată?</string>
@@ -407,7 +407,7 @@
     <string name="ppmm_gallery">PPMM</string>
     <string name="preparing_data_to_delete">Pregătire imagini pentru ștergere…</string>
     <string name="priority_storage">Salvaţi pe cardul SD</string>
-    <string name="priority_storage_summary">Atunci când este introdus cardul SD, descarcă fișiere pe cardul SD în mod automat.</string>
+    <string name="priority_storage_summary">Atunci când este introdus cardul SD, descarcă fișierele pe cardul SD în mod automat.</string>
     <string name="projection">Transmitere</string>
     <string name="public_url_descript">Oricine poate vizualiza albumul folosind acest URL</string>
     <string name="publish_failed">Publicare eşuată</string>
@@ -433,12 +433,12 @@
     <string name="renren_image">RenRen</string>
     <string name="request_qr_code_failed">Obţinerea codului QR a eşuat</string>
     <string name="request_sms_url_failed">Nu s-a reușit solicitarea informaţiei</string>
-    <string name="request_sms_url_msg">Solictare informaţie…</string>
+    <string name="request_sms_url_msg">Solicitare informaţie…</string>
     <string name="request_sms_url_title">Sugestie</string>
     <string name="retry_to_create_album">Reîncercaţi</string>
     <string name="retry_to_request_qr_code">Reîncercaţi</string>
     <string name="rotate">Rotire</string>
-    <string name="rotate_tooltip">Trageţi fotografia pentru a roti</string>
+    <string name="rotate_tooltip">Trageţi fotografia pentru a o roti</string>
     <string name="same_name_album_exists_alert">Fotografiile vor fi adăugate într-un album existent cu același nume.</string>
     <string name="saturation">Saturaţie</string>
     <string name="save">Salvaţi</string>
@@ -460,7 +460,7 @@
     <string name="select_auto_upload_albums">Selectaţi albumele pentru sincronizare</string>
     <string name="select_image">Selectaţi o fotografie</string>
     <string name="select_item">Mod editare</string>
-    <string name="select_too_much_to_send_tips">Nu puteţi trimite aşa de multe elemente (maxim %d elemente).</string>
+    <string name="select_too_much_to_send_tips">Nu puteţi trimite aşa multe elemente (maxim %d elemente).</string>
     <string name="select_video">Selectaţi un videoclip</string>
     <string name="send">Trimiteţi</string>
     <string name="send_multiple_files_hint_format">Trimiteţi (%s)</string>
@@ -506,18 +506,18 @@
     <string name="slideshow_dream_name">Slideshow</string>
     <string name="slideshow_interval">Interval de timp</string>
     <string name="slideshow_interval_dialog_title">Intervalul de timp trebuie să fie mai mare de 0 secunde</string>
-    <string name="slideshow_interval_invalid">Intervalul trebuie să fie între 1 şi 3600 secunde</string>
+    <string name="slideshow_interval_invalid">Intervalul trebuie să fie cuprins între 1 şi 3600 secunde</string>
     <string name="slideshow_repeat_mode">Repetare</string>
     <string name="square">Pătrat</string>
     <string name="start_slide_show">Porniţi slideshow</string>
     <string name="storage_all_volumes">Toate stocările</string>
     <string name="storage_no_space">Spațiu insuficient</string>
     <string name="straighten">Îndreptare</string>
-    <string name="straighten_tooltip">Trageţi fotografia pentru a îndrepta</string>
+    <string name="straighten_tooltip">Trageţi fotografia pentru a o îndrepta</string>
     <string name="sync_album">Sincronizaţi albumele</string>
     <string name="sync_album_error">Nu s-au putut sincroniza fotografiile în acest album. Verificaţi conexiunea de date şi încercați din nou.</string>
     <string name="sync_album_in_proecess">Sincronizare album…</string>
-    <string name="sync_album_set_error">Nu s-a putut sincroniza aceste albume. Verificaţi conexiunea de date şi încercați din nou.</string>
+    <string name="sync_album_set_error">Nu s-au putut sincroniza aceste albume. Verificaţi conexiunea de date şi încercați din nou.</string>
     <string name="sync_album_summary">Sincronizare cu Mi Cloud</string>
     <string name="sync_history_power_on">Sincronizaţi istoricul imaginilor doar atunci când telefonul se încarcă</string>
     <string name="sync_in_progress_message">Sincronizare…</string>
@@ -545,9 +545,9 @@
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
     <string name="try_to_send">Trimiteţi</string>
     <string name="ubifocus_data_missing">Datele pentru această imagine lipsesc</string>
-    <string name="ubifocus_data_invalid">Unele date pentru aceasta imagine sunt nevalide</string>
+    <string name="ubifocus_data_invalid">Unele date pentru această imagine sunt nevalide</string>
     <string name="ubifocus_guide_text">Atingeți și mențineți apăsat pentru a reorienta</string>
-    <string name="ubifocus_refocus_data_missing">Imposibil de reorientat din cauza că o parte din datele pentru această imagine lipsesc</string>
+    <string name="ubifocus_refocus_data_missing">Imposibil de reorientat din cauză că o parte din datele pentru această imagine lipsesc</string>
     <string name="ubifocus_refocus_download_tip">Trebuie să descărcaţi datele acestei imagini înainte de reorientare.</string>
     <string name="uc">UC</string>
     <string name="ucdownloads_screenshot">UC Browser</string>
@@ -569,7 +569,7 @@
     <string name="weikan_weikan">Weikan TV</string>
     <string name="weixin">WeChat</string>
     <string name="where_is_barcode">Unde este codul QR?</string>
-    <string name="white_balance">Balanţă de alb</string>
+    <string name="white_balance">Balans de alb</string>
     <string name="widget_type">Selectaţi imagini</string>
     <string name="widget_type_album">Selectaţi un album</string>
     <string name="widget_type_photo">Selectaţi o imagine</string>
@@ -591,7 +591,7 @@
     <string name="home_page_tab_face">Persoane</string>
     <string name="photo_save_succeed">Salvat cu succes</string>
     <string name="face_album">Persoane</string>
-    <string name="face_albumset_use_tip">Se sortează automat fotografiile după persoanele care sunt în ele.</string>
+    <string name="face_albumset_use_tip">Se sortează automat fotografiile după persoanele pe care le conţin.</string>
     <string name="face_albumset_detecting_tip">Doar o secundă…</string>
     <string name="face_albumset_empty">Gol</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>
@@ -609,7 +609,7 @@
     <string name="face_move_dialog_title">Selectaţi un album</string>
     <string name="sports_camera">Cameră sport</string>
     <string name="always_rotate_alert_title">Rotire automată a imaginilor</string>
-    <string name="always_rotate_alert_msg">Puteți activa, sau dezactiva această caracteristică oricând în setările galeriei</string>
+    <string name="always_rotate_alert_msg">Puteți activa sau dezactiva această caracteristică oricând în setările Galeriei</string>
     <string name="always_rotate_alert_positive_button_text">Activaţi</string>
     <string name="saturation_abbr">S</string>
     <string name="highlight_abbr">L</string>
@@ -634,7 +634,7 @@
     <string name="return_to_top">Atingeţi \"Foto\" pentru a reveni la început</string>
     <string name="script">Script</string>
     <string name="select_item_face">"Fotografiile pot fi '%s'"</string>
-    <string name="single_device_project_dialog_checkbox_text">Se memorizează acest ecran</string>
+    <string name="single_device_project_dialog_checkbox_text">Se memorează acest ecran</string>
     <string name="single_device_project_dialog_title">Distribuție la %s</string>
     <string name="ubifocus_refocus_data_invalid">Nu se poate refocaliza, deoarece unele date ale acestei imagini sunt nevalide</string>
     <string name="videos">" videoclipuri"</string>
@@ -647,8 +647,8 @@
     <string name="face_albumset_loading_data">Încărcare date…</string>
     <string name="merge_album">Îmbinare</string>
     <string name="merge_album_title">Îmbinare albume</string>
-    <string name="pick_from_contact">Alegeţi din contacte</string>
-    <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat o fotografie de profil</string>
+    <string name="pick_from_contact">Alegeţi din Contacte</string>
+    <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat pe o fotografie de profil</string>
     <string name="ignore_alert_title">Ascundeţi acest album?</string>
     <string name="event_create_long_photo">Creare fotografie…</string>
     <string name="is">Este %s?</string>
@@ -659,5 +659,5 @@
     <string name="recommanded_face_abandon_tip">Eliminat din sugestii</string>
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
     <string name="download_without_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca fotografii va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="download_without_wifi_title">Avertizare utilizare a datelor</string>
+    <string name="download_without_wifi_title">Avertizare utilizare date</string>
 </resources>

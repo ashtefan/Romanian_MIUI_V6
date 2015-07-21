@@ -91,15 +91,15 @@
         <item>Obțineţi parametrii staţiei repetat de 20 de ori</item>
         <item>Obțineţi parametrii de căutare a stației</item>
         <item>Obțineţi parametrii benzii FM</item>
-        <item>Configure parametrii de căutare FM</item>
+        <item>Configuraţi parametrii de căutare FM</item>
      </string-array>
      <string-array name="search_category_rbds_entries">
         <item>Toate staţiile</item>
         <item>Adult Hits</item>
-        <item>Clasic</item>
+        <item>Muzică Clasică</item>
         <item>Rock clasic</item>
         <item>College</item>
-        <item>Country</item>
+        <item>Muzica country</item>
         <item>Urgenţă</item>
         <item>Test urgenţă</item>
         <item>Limbă străină</item>
@@ -141,7 +141,7 @@
         <item>Light classical</item>
         <item>Timp liber</item>
         <item>Noutăţi</item>
-        <item>Muzică naţională</item>
+        <item>Muzică populară</item>
         <item>Altă muzică</item>
         <item>Muzică veche</item>
         <item>Phone In</item>

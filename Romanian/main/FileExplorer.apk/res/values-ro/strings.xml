@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_bind_prompt">Migrarea datelor utilizatorului… Acest lucru poate dura câteva minute.</string>
-    <string name="add_task">Adaugaţi sarcini</string>
-    <string name="adding_upload_tasks">Adaugare sarcini…</string>
+    <string name="account_bind_prompt">Migrarea datelor de utilizator… Acest lucru poate dura câteva minute.</string>
+    <string name="add_task">Adăugaţi sarcini</string>
+    <string name="adding_upload_tasks">Adăugare sarcini…</string>
     <string name="already_signin_description">Sunteţi conectat deja</string>
     <string name="app_name">Explorer fişiere</string>
     <string name="background">Ascundeţi</string>
@@ -100,7 +100,7 @@
     <string name="finished">Finalizat</string>
     <string name="folder_exist">Dosar existent</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
-    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Atingeţi&lt;/a>pentru a merge în Coşul de reciclare</string>
+    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Atingeţi&lt;/a>pentru a merge la Coşul de reciclare</string>
     <string name="ftp_account_req_notice">4~16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
     <string name="ftp_invalid_username_or_password">Nume de utilizator sau parolă greşite</string>
@@ -189,7 +189,7 @@
     <string name="notif_title">Serverul FTP rulează</string>
     <string name="open_changed_file_message">"Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:
 1. Descărcați din nou fișierul pentru a-l actualiza.
-2. Încărcaţi-l în contul dvs. KuaiPan."</string>
+2. Îl încărcaţi în contul dvs. KuaiPan."</string>
     <string name="open_changed_file_title">Modificare aplicată</string>
     <string name="open_file_failed">Imposibil de deschis</string>
     <string name="operate_confirm_in_3g">Utilizați conexiunea de date mobile pentru a descărca acest fișier mare?</string>
@@ -297,10 +297,10 @@ Spațiu liber adăugat %1$s"</string>
     <string name="used">"Utilizat: "</string>
     <string name="user_guide">Aflați mai multe despre KuaiPan</string>
     <string name="user_guide_continue_use">OK</string>
-    <string name="user_guide_download_other_version">Descărcaţi Kuaipan pentru Windows sau OSX</string>
+    <string name="user_guide_download_other_version">Descărcaţi KuaiPan pentru Windows sau OSX</string>
     <string name="user_guide_kuaipan_copy">Accesaţi fișierele de pe mai multe dispozitive</string>
     <string name="user_guide_kuaipan_lable">KuaiPan vă aparține</string>
-    <string name="user_guide_other_version">Conectați-vă cu contul dvs. Mi (%1$s) şi decărcaţi la mi.kuaipan.cn.</string>
+    <string name="user_guide_other_version">Conectați-vă cu contul dvs. Mi (%1$s) şi descărcaţi la mi.kuaipan.cn.</string>
     <string name="user_guide_save_file">Salvați fișierele utilizând KuaiPan</string>
     <string name="user_guide_summary">O scurtă trecere în revistă</string>
     <string name="user_guide_upload_to_kuaipan">Stocaţi elemente în Kuaipan de pe dispozitivul dvs.</string>

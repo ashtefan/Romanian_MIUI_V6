@@ -5,7 +5,7 @@
         <item>Automat</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normală</item>
+        <item>Normal</item>
         <item>Lung</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">

@@ -53,11 +53,11 @@
     <string name="battery_low_percent_format">Rămas: %d%%</string>
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_profiles">Utilizaţi profiluri acumulator</string>
-    <string name="bluetooth_tethered">Conectat prin tethering prin Bluetooth</string>
+    <string name="bluetooth_tethered">Conectat prin tethering Bluetooth</string>
     <string name="call_status_dialing">Apelare</string>
     <string name="call_status_ringing">Sunet</string>
     <string name="camera_key_action_app_title">Deschideţi aplicaţia</string>
-    <string name="camera_key_action_category_title">Utilizaţi dacă aplicaţia Cameră foto nu este deschisă</string>
+    <string name="camera_key_action_category_title">Utilizaţi dacă aplicaţia Cameră foto nu este pornită</string>
     <string name="camera_key_action_none_title">Nicio acţiune</string>
     <string name="camera_key_action_setting_title">Buton MI</string>
     <string name="camera_key_action_shortcut_call">Apelaţi</string>
@@ -70,7 +70,7 @@
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
     <string name="data_usage_disabled_dialog">"Aţi atins limita specificată pentru utilizarea datelor.
 
-Dacă reactivaţi datele, puteţi fi taxat(ă) de către operator."</string>
+Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="data_usage_disabled_dialog_3g_title">Datele 2G-3G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_4g_title">Datele 4G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_enable">Reactivaţi datele</string>
@@ -85,7 +85,7 @@ Dacă reactivaţi datele, puteţi fi taxat(ă) de către operator."</string>
     <string name="dlg_error_title">Operaţiune USB nereuşită</string>
     <string name="dlg_ok">OK</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
-    <string name="ext_media_badremoval_notification_message">Demonaţi cardul SD înainte de eliminare pentru a evita pierderea de date.</string>
+    <string name="ext_media_badremoval_notification_message">Demontaţi cardul SD înainte de eliminare pentru a evita pierderea datelor.</string>
     <string name="ext_media_badremoval_notification_title">Cardul SD a fost eliminat în mod neaşteptat</string>
     <string name="ext_media_checking_notification_message">Verificare erori</string>
     <string name="ext_media_checking_notification_title">Pregătire card SD</string>
@@ -149,7 +149,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="screenshot_saving_title">Se salvează captura de ecran…</string>
     <string name="settings_custom_notification">Gestionare notificări</string>
     <string name="settings_toggle_position">Personalizaţi comutatoarele</string>
-    <string name="settings_toggle_position_divider_list">Comutatoarele mai sus de această bară sunt active</string>
+    <string name="settings_toggle_position_divider_list">Comutatoarele de mai sus de această bară sunt active</string>
     <string name="settings_toggle_position_divider_page">%1$d comutatoare mai sus de bară sunt active</string>
     <string name="settings_toggle_position_reset">Resetaţi comutatoarele</string>
     <string name="share">Partajaţi</string>
@@ -158,7 +158,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="status_bar_network_flow_content">"Astăzi: %1$s   Rămas: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Depăşit:&lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_limit">"   Limita lunară: %1$s"</string>
-    <string name="status_bar_network_flow_purchase">"   Procuraţi >"</string>
+    <string name="status_bar_network_flow_purchase">"   Achiziţionaţi >"</string>
     <string name="status_bar_network_flow_today">Astăzi: %1$s</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="status_bar_no_recent_apps">Nu există aplicaţii recente</string>
@@ -189,7 +189,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="usb_debugging_title">Permiteţi depanarea USB?</string>
     <string name="usb_device_confirm_prompt">Deschideţi %1$s la conectarea acestui dispozitiv USB?</string>
     <string name="usb_device_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
-    <string name="usb_mode_dont_ask">Memorizează această alegere</string>
+    <string name="usb_mode_dont_ask">Memorează această alegere</string>
     <string name="usb_mode_mount_storage_title">Activaţi stocarea USB?</string>
     <string name="usb_mode_notification">Stocare USB</string>
     <string name="usb_mtp_text">Fişiere</string>
@@ -202,7 +202,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="usb_ptp_text">Fotografii</string>
     <string name="usb_share_net_info">Utilizaţi conexiunea la internet de pe computer</string>
     <string name="usb_storage_error_message">Este o problemă cu cardul SD.</string>
-    <string name="usb_storage_message">V-ați conectat la computer prin USB. Atingeți butonul de mai jos dacă doriți să copiați fișiere între computer și cardul SD.</string>
+    <string name="usb_storage_message">V-ați conectat la computer prin USB. Atingeți butonul de mai jos dacă doriți să transferați fișiere între computer și cardul SD.</string>
     <string name="usb_storage_notification_message">Selectaţi pentru a copia fişiere în/din computerul dvs..</string>
     <string name="usb_storage_notification_title">USB conectat</string>
     <string name="usb_storage_stop_message">Înainte de a dezactiva stocarea USB, asiguraţi-vă că aţi eliminat în siguranţă cardul SD din computer.</string>
@@ -218,11 +218,11 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="media_projection_action_text">Porniţi</string>
     <string name="disable_notification_summary">Nu se afişează notificările acestei aplicaţii.</string>
     <string name="disable_notification_title">Blocare notificări</string>
-    <string name="expanded_notification_manager">Gestiune notificări</string>
+    <string name="expanded_notification_manager">Gestionare notificări</string>
     <string name="notification_template_text">" are o notificare. Atingeți pentru a vizualiza."</string>
-    <string name="activate_usb_message">Pentru a activa această caracteristică, introduceţi cardul SIM</string>
+    <string name="activate_usb_message">Pentru a activa această caracteristică, introduceţi cartela SIM</string>
     <string name="activate_usb_title">Activare USB</string>
     <string name="usb_function_charging_text">Conectat în modul încărcare</string>
     <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
-    <string name="screen_button_notification_title">Butoane de navigare sunt dezactivate</string>
+    <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
 </resources>

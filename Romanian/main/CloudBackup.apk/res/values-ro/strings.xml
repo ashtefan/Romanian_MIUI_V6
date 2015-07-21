@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Rezervare aplicaţii</string>
+    <string name="app_name">Copie de rezervă pentru aplicaţii</string>
     <string name="button_cancel">Anulaţi</string>
     <string name="button_next">Înainte</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -15,7 +15,7 @@
     <string name="cloud_app_no_data">Nu au fost detectate aplicații instalate anterior</string>
     <string name="cloud_app_restore_error">Nu a putut fi restabilită</string>
     <string name="cloud_app_restore_success">Aplicații restabilite</string>
-    <string name="cloud_app_backup_success">Rezervarea aplicaţiilor a fost finalizată</string>
+    <string name="cloud_app_backup_success">Crearea copiei de rezervă a fost finalizată</string>
     <string name="cloud_app_check_data">Comunicare cu Mi Cloud…</string>
     <string name="cloud_app_no_network">Nu se poate conecta la rețea</string>
     <string name="button_delete">Ștergeţi</string>
@@ -28,10 +28,10 @@
     <string name="recovering">Restabilire %s</string>
     <string name="start_recover">Restabiliţi %s</string>
     <string name="latest_backup_time_loading">Se încarcă…</string>
-    <string name="start_backup_to_micloud">Rezervare aplicații în Mi Cloud</string>
-    <string name="backing_up_to_micloud">Rezervare…</string>
+    <string name="start_backup_to_micloud">Creare copie de rezervă în Mi Cloud</string>
+    <string name="backing_up_to_micloud">Creare copie de rezervă…</string>
     <string name="restore_from_cloud">Restabilire dintr-o copie de rezervă Mi Cloud</string>
-    <string name="backup_to_cloud">Rezervaţi aplicațiile</string>
+    <string name="backup_to_cloud">Creaţi o copie de rezervă în Mi Cloud</string>
     <string name="restoreing_file_tile">Se restabilesc %d (de) fișiere</string>
     <string name="menu_item_sort">Sortare după</string>
     <string name="menu_item_sort_name">Nume</string>
@@ -46,24 +46,24 @@
     <string name="desktop_downloading">Descărcare</string>
     <string name="desktop_installing">Instalare</string>
     <string name="desktop_recovering">Restabilire</string>
-    <string name="desktop_wait_wifi">Îm aşteptare</string>
+    <string name="desktop_wait_wifi">În aşteptare</string>
     <string name="recover_from_micloud">Restabilire dintr-o copie de rezervă Mi Cloud</string>
     <string name="open_wifi">>Porniți Wi-Fi acum</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
     <string name="open_wifi_setting">Setări Wi-Fi</string>
     <string name="name_model">%2$s ale %1$s</string>
-    <string name="download_settings">Descărcaţi setările ecranul de pornire: %s%%</string>
-    <string name="recover_settings">Restabiliţi setările ecranul de pornire</string>
+    <string name="download_settings">Descărcaţi setările pentru ecranul de pornire: %s%%</string>
+    <string name="recover_settings">Restabiliţi setările pentru ecranul de pornire</string>
     <string name="cancel_recover_settings"><u>Anulaţi</u></string>
-    <string name="recover_settings_description">Păstrați dispozitivul pornit</string>
+    <string name="recover_settings_description">Nu opriţi telefonul!</string>
     <string name="wait_icon_download">Descărcarea pictogramei aplicației</string>
     <string name="download_settings_fail">Descărcarea setărilor ecranului de pornire a eşuat</string>
-    <string name="backup_fail">Rezervarea setărilor ecranului de pornire a eşuat</string>
-    <string name="backup_success">Rezervarea aplicaţiilor ecranului de pornire a reuşit</string>
-    <string name="cloud_task_in_process">Opriţi %s şi ștergeţi această copiei de rezervă? Nu puteți inversa această acțiune.</string>
+    <string name="backup_fail">Crearea copiei de rezervă pentru setările ecranului de pornire a eşuat</string>
+    <string name="backup_success">Crearea copiei de rezervă pentru ecranul de pornire a reuşit</string>
+    <string name="cloud_task_in_process">Opriţi %s şi ștergeţi această copie de rezervă? Această acţiune este ireversibilă!</string>
     <string name="cloud_back_up_task">rezervarea</string>
     <string name="cloud_restore_task">restabilirea</string>
-    <string name="cloud_restore_from_other_device">Opriţi restabilirea din %s şi ștergeţi această copiei de rezervă? Nu puteți inversa această acțiune.</string>
+    <string name="cloud_restore_from_other_device">Opriţi restabilirea din %s şi ștergeţi această copie de rezervă? Această acţiune este ireversibilă!</string>
     <string name="remove_task_in_process">Eliminare</string>
     <string name="remove_task_unfinished">Eliminare nefinalizată</string>
     <string name="back_up_task_unfinished">Rezervare nefinalizată</string>

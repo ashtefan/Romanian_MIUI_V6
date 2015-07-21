@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Only_the_wifi">Efectiv doar în Wi-Fi</string>
+    <string name="Only_the_wifi">Doar în Wi-Fi</string>
     <string name="add_flow_fail_haveget_msg">Perioada de încercare a expirat.</string>
     <string name="add_flow_fail_vip_msg">Acceleratorul descărcărilor Xunlei este activ</string>
     <string name="add_flow_success_msg">%s adăugat în această lună</string>
@@ -17,7 +17,7 @@
     <string name="cancel_running_download">Anulaţi</string>
     <string name="cancle">Anulaţi</string>
     <string name="choose_open_time">Selectaţi timpul de deschidere</string>
-    <string name="confirm_delete_downloads_message">%d desărcări vor fi şterse.</string>
+    <string name="confirm_delete_downloads_message">%d descărcări vor fi şterse.</string>
     <string name="confirm_delete_the_download_item_message">Ştergeţi aceste descărcări?</string>
     <string name="delete_download">Ştergeţi</string>
     <string name="delete_downloads_records">Ştergeţi descărcările</string>
@@ -53,8 +53,8 @@
     <string name="download_list_get_hightspeed_flow_auto_open">Accelerarea descărcărilor Xunlei este activată</string>
     <string name="download_list_get_hightspeed_flow_pay_ok">Achitare finalizată.</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Sesiune Xunlei trial creată</string>
-    <string name="download_list_get_hightspeed_flow_sucess_tail">Bucurați-vă de viteze de descărcare mai rapide oferite de Xunlei</string>
-    <string name="download_list_intoAuth">Verificaţi contul dvs.</string>
+    <string name="download_list_get_hightspeed_flow_sucess_tail">Bucurați-vă de viteze de descărcare mai mari oferite de Xunlei</string>
+    <string name="download_list_intoAuth">Verificaţi-vă contul</string>
     <string name="download_list_intoAuthAlert">Aşteptaţi</string>
     <string name="download_list_open_xl_cancel">Anulaţi</string>
     <string name="download_list_open_xl_message">Activaţi acceleratorul de descărcare Xunlei. Un serviciu de descărcare de mare viteză nelimitat.</string>

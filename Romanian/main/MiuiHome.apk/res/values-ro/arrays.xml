@@ -8,10 +8,10 @@
      </string-array>
      <string-array name="gadget_weather_image">
         <item>Senin</item>
-        <item>Înorat</item>
+        <item>Înnorat</item>
         <item>Ceaţă</item>
         <item>Ceaţă</item>
-        <item>Furtună severă</item>
+        <item>Furtună puternică</item>
         <item>Furtună</item>
         <item>Ploaie abundentă</item>
         <item>Furtună</item>
@@ -49,7 +49,7 @@
      </string-array>
      <string-array name="wallpaper_scroll_entries">
         <item>Setată de temă</item>
-        <item>La centru</item>
+        <item>În centru</item>
         <item>La stânga</item>
         <item>La dreapta</item>
      </string-array>

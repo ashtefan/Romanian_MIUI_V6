@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Dispozitive de introducere de date</string>
+    <string name="app_label">Dispozitive de introducere date</string>
     <string name="keyboard_layouts_label">Tastatură Android</string>
     <string name="keyboard_layout_english_uk_label">Engleză (Regatul Unit)</string>
     <string name="keyboard_layout_english_us_label">Engleză (SUA)</string>

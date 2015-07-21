@@ -2,7 +2,7 @@
 <resources>
      <string-array name="contact_entries">
         <item>Nume</item>
-        <item>Porecla</item>
+        <item>Poreclă</item>
         <item>Telefon</item>
         <item>E-mail</item>
         <item>Organizaţie</item>
@@ -34,7 +34,7 @@
         <item>Inimă</item>
         <item>Nervos</item>
         <item>Rânjet</item>
-        <item>Faţă de poker</item>
+        <item>Faţă de joker</item>
      </string-array>
      <string-array name="entries_date_type">
         <item>Afişaţi ora primirii</item>
@@ -49,16 +49,16 @@
      </string-array>
      <string-array name="prefEntries_vibrateWhen">
         <item>Mereu</item>
-        <item>Doar în profilul silenţios</item>
+        <item>Doar în profilul Silenţios</item>
         <item>Niciodată</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
         <item>Prin mesaj</item>
-        <item>Prin mesaj Nor</item>
+        <item>Prin mesaj Cloud</item>
      </string-array>
      <string-array name="resent_via_entries_sms">
         <item>Prin mesaj</item>
-        <item>Prin mesaj Nor</item>
+        <item>Prin mesaj Cloud</item>
      </string-array>
      <string-array name="select_dialog_items">
         <item>1 secundă</item>
