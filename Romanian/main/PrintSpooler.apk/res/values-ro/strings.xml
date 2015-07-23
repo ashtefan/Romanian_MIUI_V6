@@ -12,10 +12,10 @@
     <string name="label_pages">Pagini (%1$s)</string>
     <string name="pages_range_example">de ex. 1-5, 8, 11-13</string>
     <string name="print_preview">Previzualizați printarea</string>
-    <string name="install_for_print_preview">Instalați PDF viewer pentru previzualizare</string>
+    <string name="install_for_print_preview">Instalați PDF Viewer pentru previzualizare</string>
     <string name="printing_app_crashed">Aplicația de printare s-a blocat</string>
     <string name="page_count_unknown">Pagini</string>
-    <string name="generating_print_job">Se generează sarcină printare</string>
+    <string name="generating_print_job">Se generează o sarcină de printare</string>
     <string name="save_as_pdf">Salvați ca PDF</string>
     <string name="all_printers">Toate imprimantele...</string>
     <string name="print_dialog">Caseta de dialog de printare</string>
