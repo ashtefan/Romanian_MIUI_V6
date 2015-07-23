@@ -4,7 +4,7 @@
     <string name="Parse_error_dlg_title">Erori de analizare</string>
     <string name="allow_source_dlg_text">"%1$s doreşte să instaleze alte aplicaţii.
 
-Permite întotdeauna această acțiune?"</string>
+Permiteţi întotdeauna această acțiune?"</string>
     <string name="allow_source_dlg_title">Sursă nouă pentru aplicaţii</string>
     <string name="app_name">Program de instalare a pachetelor</string>
     <string name="app_not_found_dlg_text">Aplicaţia nu a fost găsită în lista de aplicaţii instalate</string>
@@ -34,14 +34,14 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_failed_msg">%1$s nu poate fi instalată</string>
     <string name="install_failed_older_sdk">Acest pachet funcţionează numai pe versiunile Android mai recente.</string>
     <string name="install_failed_system_incompatible">Această aplicaţie nu este compatibilă cu MIUI</string>
-    <string name="install_failed_verify_failed">Pachetul nu a trecut de verificare şi nu pot fi instalat.</string>
+    <string name="install_failed_verify_failed">Pachetul nu a trecut de verificare şi nu poate fi instalat.</string>
     <string name="install_failed_verify_timeout">La verificarea pachetului timpul limită a expirat.</string>
     <string name="installing">Se instalează…</string>
     <string name="launch">Deschideţi</string>
     <string name="lift_ban">Dezactivaţi interdicţia</string>
     <string name="low_risk_perms">Permisiuni cu risc scăzut</string>
-    <string name="manage_applications">Gestionaţi aplicaţile</string>
-    <string name="manage_device_administrators">Gestionaţi administratori de dispozitive</string>
+    <string name="manage_applications">Gestionaţi aplicaţiile</string>
+    <string name="manage_device_administrators">Gestionaţi administratorii de dispozitive</string>
     <string name="ok">OK</string>
     <string name="other_relative">Alte permisiuni</string>
     <string name="out_of_space_dlg_text">Imposibil de instalat %1$s: spaţiu insuficient.</string>
@@ -66,12 +66,12 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="permission_group_title_privacy_related">Confidenţialitate</string>
     <string name="permission_group_title_settings_related">Setări</string>
     <string name="permission_send_sms_descx">Aplicaţia poate trimite SMS şi MMS</string>
-    <string name="privacy_relative">Permisiuni relativ private</string>
+    <string name="privacy_relative">Permisiuni relativ periculoase</string>
     <string name="safe_guard_support">Suport tehnic oferit de %1$s</string>
     <string name="safe_relative">Permisiuni relativ sigure</string>
     <string name="security_settings_desc">Permiteţi acestei aplicaţii să:</string>
     <string name="settings">Setări</string>
-    <string name="trust_switch_dialog_msg">MIUI nu va cere confirmarea dvs. pt. operaţiunile legate de securitate şi confidențialitate efectuate de acestă aplicaţie.</string>
+    <string name="trust_switch_dialog_msg">MIUI nu va cere confirmarea dvs. pt. operaţiunile legate de securitate şi confidențialitate efectuate de această aplicaţie.</string>
     <string name="uninstall_activity_text">" %1$s face parte din următoarea aplicaţie: "</string>
     <string name="uninstall_application_text">Această aplicaţie va fi dezinstalată</string>
     <string name="uninstall_application_title">Dezinstalaţi aplicaţia</string>
@@ -81,11 +81,11 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_failed_device_policy_manager">Nu se poate dezinstala, acest pachet este un administrator de dispozitive activ.</string>
     <string name="uninstall_failed_msg">%1$s nu a putut fi dezinstalată.</string>
     <string name="uninstall_failed_retained_app_msg">Această aplicație a fost modificată și nu poate fi dezinstalată în forma sa actuală</string>
-    <string name="uninstall_update_text">Această aplicaţie vaf fi înlocuită cu versiune MIUI</string>
+    <string name="uninstall_update_text">Această aplicaţie va fi înlocuită cu versiunea MIUI</string>
     <string name="uninstall_update_title">Dezinstalaţi actualizarea</string>
     <string name="uninstalling">Se dezinstalează…</string>
     <string name="unknown">Necunoscut</string>
-    <string name="unknown_apps_dlg_text">Telefonul dvs. și datele cu caracter personal sunt mai vulnerabile la atacuri de la aplicații din surse necunoscute. Sunteți singurul responsabil pentru orice daune aduse dispozitivului, sau pentru pierderea de date ca rezultat al utilizării acestor aplicații. Puteți dezactiva această notificare în Setări.</string>
+    <string name="unknown_apps_dlg_text">Telefonul dvs. și datele cu caracter personal sunt mai vulnerabile la atacuri de la aplicații provenite din surse necunoscute. Sunteți singurul responsabil pentru orice daune aduse dispozitivului sau pentru pierderea de date ca rezultat al utilizării acestor aplicații. Puteți dezactiva această notificare în Setări.</string>
     <string name="unknown_apps_dlg_title">Instalare blocată</string>
     <string name="unknown_installer">Instalator PC neidentificat</string>
     <string name="virus_scan_caller_unknown">Necunoscut</string>
