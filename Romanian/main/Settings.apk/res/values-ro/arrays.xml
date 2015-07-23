@@ -5,9 +5,9 @@
         <item>Toate reţelele</item>
      </string-array>
      <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
+        <item>FIERBINTE</item>
+        <item>CALD</item>
+        <item>RECE</item>
      </string-array>
      <string-array name="animator_duration_scale_entries">
         <item>Animaţie dezactivată</item>
@@ -105,7 +105,7 @@
         <item>scanează Wi-Fi</item>
         <item>notificare</item>
         <item>scanează semnal mobil</item>
-        <item>apelează un telefon</item>
+        <item>iniţiază apel</item>
         <item>citește mesaje SMS</item>
         <item>scrie mesaje SMS</item>
         <item>primește mesaje SMS</item>
@@ -165,7 +165,7 @@
         <item>2 secunde</item>
         <item>5 secunde</item>
         <item>10 secunde</item>
-        <item>20 secunde</item>
+        <item>20 de secunde</item>
         <item>Mereu</item>
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
@@ -235,12 +235,12 @@
         <item>Mică</item>
         <item>Normală</item>
         <item>Mare</item>
-        <item>Enorm</item>
+        <item>Enormă</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inci</item>
-        <item>4.0 inci</item>
-        <item>3.5 inci</item>
+        <item>4.5 inchi</item>
+        <item>4.0 inchi</item>
+        <item>3.5 inchi</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Puternică</item>
@@ -325,11 +325,11 @@
      </string-array>
      <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Create a directory: mkdir /media/mtp</item>
+        <item>Crează un director: mkdir /media/mtp</item>
         <item>Confirm user group permissions in the current fuse user group</item>
-        <item>Sign in again</item>
+        <item>Reconectare</item>
         <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
-        <item>"Uninstall device: fusermount -u /media/mtp
+        <item>"Dezinstalare dispozitiv: fusermount -u /media/mtp
 Note: Only for Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="msd_pc_system_retry_xp">
@@ -343,7 +343,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>GID</item>
      </string-array>
      <string-array name="network_speed_slow_summary">
-        <item>Reţeaua este lentă din cauza a prea mult trafic</item>
+        <item>Reţeaua este lentă din cauza traficului foarte intens</item>
         <item>Reţeaua este lentă din cauza semnalului slab</item>
         <item>Mutare…</item>
      </string-array>
@@ -371,7 +371,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Echilibrat</item>
      </string-array>
      <string-array name="preferred_app_entries">
-        <item>Lansator</item>
+        <item>Lansator de sistem</item>
         <item>Apelare</item>
         <item>Mesagerie</item>
         <item>Browser</item>
@@ -386,7 +386,7 @@ Note: Only for Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="screen_color_title">
         <item>Caldă</item>
-        <item>Standardă</item>
+        <item>Standard</item>
         <item>Rece</item>
      </string-array>
      <string-array name="screen_key_long_press_action">
@@ -394,7 +394,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Afişarea aplicaţiilor recente</item>
         <item>Lansare Asistent</item>
         <item>Lansare Google now</item>
-        <item>Închiderea aplicaţie curente</item>
+        <item>Închiderea aplicaţiei curente</item>
         <item>Afişare meniu</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
@@ -486,11 +486,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Animaţie la scara 10x</item>
      </string-array>
      <string-array name="tts_pitch_entries">
-        <item>Foarte scăzut</item>
+        <item>Foarte scăzută</item>
         <item>Redusă</item>
         <item>Normală</item>
         <item>Ridicată</item>
-        <item>Foarte ridicat</item>
+        <item>Foarte ridicată</item>
      </string-array>
      <string-array name="tts_rate_entries">
         <item>Foarte încet</item>
@@ -685,7 +685,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Animaţie la scara 10x</item>
      </string-array>
      <string-array name="pink_panel_led_color_entries">
-        <item>Lilac</item>
+        <item>Lila</item>
         <item>Rubin</item>
         <item>Portocaliu</item>
         <item>Verde</item>
