@@ -2,11 +2,11 @@
 <resources>
     <string-array name="reverb_preset_list">
         <item>Niciunul</item>
-        <item>Odaie mică</item>
-        <item>Odaie medie</item>
-        <item>Odaie mare</item>
+        <item>Cameră mică</item>
+        <item>Cameră medie</item>
+        <item>Cameră mare</item>
         <item>Sală medie</item>
-        <item>Slaă mare</item>
+        <item>Sală mare</item>
         <item>Plat</item>
     </string-array>
 </resources>
