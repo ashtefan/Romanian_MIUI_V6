@@ -21,12 +21,12 @@
     <string name="audio_picker_title">Selectaţi o melodie</string>
     <string name="auto_download_in_wifi"> Se descarcă melodiile favorite prin Wi-Fi</string>
     <string name="available_playlist_name_format">Listă de redare nouă %d</string>
-    <string name="avoid_to_use_traffic_summary">Nu se utilizează rețeaua de telefonie mobilă pentru a reda muzica</string>
+    <string name="avoid_to_use_traffic_summary">Nu se utilizează rețeaua de date mobile pentru a reda muzica</string>
     <string name="avoid_to_use_traffic_title">Se utilizează doar Wi-Fi pentru a reda muzica</string>
     <string name="baidu_music">Muzică Baidu</string>
     <string name="bill_list_fragment_title">Chart-uri</string>
     <string name="bluetooth_device">Dispozitiv Bluetooth</string>
-    <string name="buffering">Tamponare…</string>
+    <string name="buffering">Încărcare memorie tampon…</string>
     <string name="button_add">Adăugaţi</string>
     <string name="can_not_find_resource">Nu se pot să găsi resurse</string>
     <string name="cancel">Anulaţi</string>
@@ -38,7 +38,7 @@
     <string name="close_music_time">"Timp rămas: "</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="data_usage_warning">Utilizare date</string>
-    <string name="data_usage_warning_summary">Utilizând conexiunea de date mobile pentru a reda muzica de calitate superioară poate crește costurile de utilizare a datelor.</string>
+    <string name="data_usage_warning_summary">Utilizând conexiunea de date mobile pentru a reda muzica la o calitate superioară pot crește costurile de utilizare a datelor.</string>
     <string name="delete_file_as_well">Stergeţi, de asemenea, fişierul local</string>
     <string name="delete_file_end">Ștergeți definitiv</string>
     <string name="delete_file_start">Ștergeți fișierele selectate</string>
@@ -63,7 +63,7 @@
     <string name="download_auto_after_favorite_summary">Se descarcă automat melodiile preferate</string>
     <string name="download_auto_after_favorite_title">Descărcare favorite</string>
     <string name="download_auto_cancel">Descărcare favorite dezactivată</string>
-    <string name="download_auto_message">Melodii pe care le-aţi adăugat la favorite vor fi descărcate automat atunci când vă conectaţi la internet prin Wi-Fi. Puteți modifica acest lucru în Setări.</string>
+    <string name="download_auto_message">Melodiile pe care le-aţi adăugat la favorite vor fi descărcate automat atunci când vă conectaţi la internet prin Wi-Fi. Puteți modifica acest lucru în Setări.</string>
     <string name="download_auto_quality_alert_sub_title_for_expired">Perioada de încercare sau abonamentul dvs. au expirat. Selectați altă calitate de descărcare.</string>
     <string name="download_auto_quality_alert_sub_title_for_login">Pentru a activa, conectați-vă la contul dvs. Mi.</string>
     <string name="download_auto_quality_alert_title">Calitate descărcare muzică</string>
@@ -76,7 +76,7 @@
     <string name="download_quality">Calitate descărcare</string>
     <string name="download_quality_summary">Setări suplimentare pentru melodiile pe care le descărcați</string>
     <string name="download_while_playing_summary">Descărcare automată a melodiilor pe care le ascultaţi on-line</string>
-    <string name="download_while_playing_title">Descărcare în timpul ascultării</string>
+    <string name="download_while_playing_title">Descărcare în timpul redării</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -105,10 +105,10 @@
     <string name="eq_preset_select">Selectaţi o presetare</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Egalizator</string>
-    <string name="error_forbidden">Sincronizarea a fost oprită din cauza unor probleme cu contul dvs..</string>
+    <string name="error_forbidden">Sincronizarea a fost oprită din cauza unor probleme legate de contul dvs..</string>
     <string name="error_not_acceptable">Sincronizarea a fost oprită.</string>
     <string name="error_title">Nu se poate sincroniza cu contul Mi</string>
-    <string name="error_unauthorized">Sincronizarea a fost oprită din cauza a prea multe încercări de conectare.</string>
+    <string name="error_unauthorized">Sincronizarea a fost oprită din cauza prea multor încercări de conectare.</string>
     <string name="expired">Expirat</string>
     <string name="fail_to_play">Nu se poate reda melodia</string>
     <string name="favorite_canceled">Eliminat din favorite</string>
@@ -143,7 +143,7 @@
     <string name="headset_settings">Căști și efecte audio</string>
     <string name="high_quality">Calitate superioară</string>
     <string name="higher_quality_music">Muzică de calitate superioară</string>
-    <string name="higher_quality_music_summary">Ascultaţi şi descărcaţi muzică de calitate superioară</string>
+    <string name="higher_quality_music_summary">Ascultaţi şi descărcaţi muzică la calitate superioară</string>
     <string name="i_know">OK</string>
     <string name="impunity_declaration">Această aplicație trebuie să se conecteze la internet pentru a vizualiza și reda muzica on-line</string>
     <string name="impunity_declaration_ignore">Nu se afişează din nou</string>
@@ -208,7 +208,7 @@
     <string name="ok">OK</string>
     <string name="online_music">Descoperiţi</string>
     <string name="online_playlist_is_empty">Listă de redare goală</string>
-    <string name="order_process_fail">Nu a fost posibil de autorizat contul dvs. Așteptați câteva minute și încercați din nou.</string>
+    <string name="order_process_fail">Nu s-a putut autoriza contul dvs. Așteptați câteva minute și încercați din nou.</string>
     <string name="payment_fail">Achitare eşuată</string>
     <string name="payment_success">Achitare finalizată</string>
     <string name="period_format">%1$s-%2$s</string>
@@ -253,7 +253,7 @@
     <string name="similar_songs">Melodii similare</string>
     <string name="sleep_mode">Temporizator</string>
     <string name="sleep_mode_canceled">Temporizator oprit</string>
-    <string name="sleep_mode_summary">Se opreşte redarea după un timp anumit</string>
+    <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
     <string name="sleep_mode_title">Temporizator</string>
     <string name="song_name">Melodie</string>
     <string name="song_not_find">Această melodie nu este disponibilă.</string>
@@ -284,7 +284,7 @@
     <string name="unknown_album_name">Album necunoscut</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="valid_period">"Valid : "</string>
-    <string name="vip_recommend_title">Obţineţi muzică de calitate superioară</string>
+    <string name="vip_recommend_title">Obţineţi muzică la o calitate superioară</string>
     <string name="server_error">Eroare de server. Încercați din nou mai târziu</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Refuzaţi</string>
