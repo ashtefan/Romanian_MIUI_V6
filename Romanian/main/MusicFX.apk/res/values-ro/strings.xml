@@ -16,7 +16,7 @@
     <string name="main_toggle_effects_title">Efecte audio</string>
     <string name="eq_dialog_title">Egalizator</string>
     <string name="headset_plug">Pentru aceste efecte trebuie să conectaţi căştile.</string>
-    <string name="bass_boost_strength">Amplificare bas</string>
+    <string name="bass_boost_strength">Amplificare bass</string>
     <string name="virtualizer_strength">Efect 3D</string>
     <string name="pr_title">Reverberaţii:</string>
     <string name="pr_summary">Efecte suplimentare de reverberaţie în încăpere</string>
