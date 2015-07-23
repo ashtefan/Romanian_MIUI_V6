@@ -3,7 +3,7 @@
      <string-array name="alarm_repeat_type">
         <item>O dată</item>
         <item>În fiecare zi</item>
-        <item>Zile de lucru juridice</item>
+        <item>Zile de lucru</item>
         <item>Zilele săptămânii</item>
         <item>Personalizat</item>
      </string-array>
@@ -49,7 +49,7 @@
         <item>Nu se modifică</item>
      </string-array>
      <string-array name="preferred_app_entries">
-        <item>Lansator</item>
+        <item>Lansator de sistem</item>
         <item>Telefon</item>
         <item>Mesaje</item>
         <item>Browser</item>
