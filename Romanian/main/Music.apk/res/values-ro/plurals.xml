@@ -45,7 +45,7 @@
         <item quantity="one">1 melodie va fi trimisă</item>
      </plurals>
      <plurals name="Nnew_local_audios">
-        <item quantity="other">%d (de) melodii adăugate</item>
+        <item quantity="other">%d melodii adăugate</item>
         <item quantity="one">%d melodie adăugată</item>
     </plurals>
 </resources>
