@@ -37,23 +37,23 @@
         <item quantity="other">Într-o jumătate de oră</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d (de) minute în urmă</item>
+        <item quantity="other">%d minute în urmă</item>
         <item quantity="one">1 minut în urmă</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d (de) minute în urmă</item>
+        <item quantity="other">%d minute în urmă</item>
         <item quantity="one">1 minut în urmă</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">în %d (de) minute</item>
+        <item quantity="other">în %d minute</item>
         <item quantity="one">intr-un minut</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">în %d (de) minute</item>
+        <item quantity="other">în %d minute</item>
         <item quantity="one">intr-un minut</item>
     </plurals>
     <plurals name="items_selected">
-        <item quantity="other">%d (de) elemente selectate</item>
+        <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
 </resources>
