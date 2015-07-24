@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="keyguard_pinword_enter_pinword_code">Introduceţi PIN pentru deblocare</string>
+    <string name="keyguard_pinword_enter_pinword_code">Introduceţi codul PIN pentru deblocare</string>
     <string name="badPin2">PIN2 vechi introdus nu este corect.</string>
     <string name="badPuk2">PUK2 introdus nu este corect.</string>
     <string name="checkPwdLen">Verificaţi dacă parola are între 4 şi 8 cifre.</string>
@@ -117,21 +117,21 @@
     <string name="wifi_display_unstable_connection">Conexiune instabilă</string>
     <string name="wifi_display_connection_is_not_steady">Conexiunea curentă cu afişajul wireless nu este stabilă.</string>
     <string name="wifi_display_unstable_suggestion">Conexiunea curentă cu afişajul wireless nu este stabilă. Încercaţi să vă apropiaţi de dispozitivul de afişare.</string>
-    <string name="usb_storage_ready_title">Dispozitivul de stocarea USB extern este pregătit</string>
+    <string name="usb_storage_ready_title">Dispozitivul de stocare USB extern este pregătit</string>
     <string name="wifi_display_reconnect">Reconectare</string>
     <string name="wifi_display_disconnect_then_reconnect">Afişajul wireless a fost deconectat. Doriţi să îi reconectaţi?</string>
     <string name="wifi_display_disconnected">Afişajul wireless a fost deconectat.</string>
     <string name="wifi_wps_failed_overlap">A fost detectată altă sesiune WPS. Încercaţi din nou peste câteva minute.</string>
     <string name="wifi_display_wfd_and_wifi_are_turned_on">Afișarea fără fir și funcția Wi-Fi sunt activate.</string>
     <string name="wifi_display_sound_path_reminder">Sunetul multimedia nu se redă de la căști.</string>
-    <string name="for_first_simcard">Pentru prima SIM</string>
-    <string name="for_second_simcard">Pentru a doua SIM</string>
+    <string name="for_first_simcard">Pentru primul SIM</string>
+    <string name="for_second_simcard">Pentru al doilea SIM</string>
     <string name="for_third_simcard">Pentru cea de-a treia cartelă SIM</string>
     <string name="for_fourth_simcard">Pentru cea de-a patra cartelă SIM</string>
     <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"Cod PIN introdus incorect de %d ori. 
-ncercaţi din nou în %d secunde."</string>
+Încercaţi din nou în %d secunde."</string>
     <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Parolă introdusă incorect de %d ori. 
-ncercaţi din nou în %d secunde."</string>
+Încercaţi din nou în %d secunde."</string>
     <string name="wifi_display_change_resolution_reminder">Modificarea rezoluției va reconecta automat afișarea fără fir.</string>
     <string name="wifi_display_do_not_remind_again">Nu se mai reamintește.</string>
     <string name="wifi_display_wifi_ap_affects_quality">Este posibil ca punctul de acces Wi-Fi existent să afecteze calitatea afişării wireless.</string>
@@ -151,7 +151,7 @@ ncercaţi din nou în %d secunde."</string>
     <string name="ext_media_badremoval_notification_title_otg">Stoc. USB elim. în mod neaşt.</string>
     <string name="ext_media_nomedia_notification_title_otg">Stocarea USB a fost eliminată</string>
     <string name="ext_media_badremoval_notification_message_otg">Demontaţi stocarea USB înaintea eliminării, pentru a evita pierderea datelor.</string>
-    <string name="ext_media_nomedia_notification_message_otg">Stocarea USB a fost eliminată. Inseraţi mediu de stocare nou.</string>
+    <string name="ext_media_nomedia_notification_message_otg">Stocarea USB a fost eliminată. Inseraţi un mediu de stocare nou.</string>
     <string name="ext_media_unmountable_notification_title_otg">Stocare USB deteriorată</string>
     <string name="ext_media_unmountable_notification_message_otg">Stocarea USB a fost deteriorată. Probabil este necesară reformatarea acesteia.</string>
     <string name="ext_media_nofs_notification_title_otg">Stocare USB goală</string>
@@ -200,7 +200,7 @@ ncercaţi din nou în %d secunde."</string>
     <string name="url_dialog_choice_title">Mesaje</string>
     <string name="url_dialog_choice_message">Se va deschide browserul, continuaţi?</string>
     <string name="deleteApp">Dezinstalare aplicaţii</string>
-    <string name="deleteMail">Copiere de rezervă a mesajelor şi eliberaţi spaţiul de stocare</string>
+    <string name="deleteMail">Faceţi o copie de rezervă a mesajelor şi eliberaţi spaţiul de stocare</string>
     <string name="storage_withsd">Spaţiul de stocare nu este suficient. Eliberaţi spaţiu sau modificaţi discul implicit de scriere din setări.</string>
     <string name="storage_withoutsd">Spaţiul de stocare nu este suficient. Eliberaţi spaţiu sau inseraţi un card SD.</string>
     <string name="storage_sd">Cardul SD nu are spaţiu suficient. Eliberaţi spaţiu sau modificaţi discul de scriere implicit din setări.</string>
