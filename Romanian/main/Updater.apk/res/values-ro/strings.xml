@@ -13,10 +13,10 @@
      <string name="auto_button_examine_immediately">Vizualizaţi</string>
      <string name="auto_button_sure_cancel">Anulaţi</string>
      <string name="auto_check_clause_button">Vizualizaţi</string>
-     <string name="auto_dialog_msg">"Am actualizat Politica noastră de confidențialitate. Vă rugăm să citiți cu atenție înainte de a actualizarea sistemului dvs. "</string>
+     <string name="auto_dialog_msg">"Am actualizat Politica noastră de confidențialitate. Vă rugăm să citiți cu atenție înainte de a actualiza sistemul dvs. "</string>
      <string name="auto_dialog_msg_check_again">"Trebuie să acceptați Politica de confidențialitate actualizată înainte de a putea actualiza sistemul dvs. "</string>
      <string name="auto_dialog_title_check_again">Anulaţi actualizarea?</string>
-     <string name="auto_update">Descărcare actualizări automat</string>
+     <string name="auto_update">Descărcare actualizări în mod automat</string>
      <string name="auto_update_sum">Se descarcă automat actualizările când este conectat la Wi-Fi</string>
      <string name="autosetmode">Setări</string>
      <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
@@ -60,7 +60,7 @@
      <string name="fourgrid_hint_text">Vă mulțumim pentru utilizarea MIUI. Spuneţi-ne ce credeţi și ajutaţi-ne să facem MIUI mai bun.</string>
      <string name="fourgrid_no_notificaiont">Nu afișaţi în bara de stare</string>
      <string name="fourgrid_notificaiont">Afișaţi în bara de stare</string>
-     <string name="get_auto">Utilizaţi rețea mobilă sau Wi-Fi</string>
+     <string name="get_auto">Utilizaţi rețeaua mobilă sau Wi-Fi</string>
      <string name="get_current">Obţineţi fişierul actual</string>
      <string name="get_update_error">Obținerea informațiilor despre actualizare a eşuat</string>
      <string name="go_on_download">Descărcaţi</string>
@@ -88,9 +88,9 @@
      <string name="network_error">A apărut o eroare de rețea</string>
      <string name="new_updates_found_notification_title">Este disponibilă o actualizare</string>
      <string name="next">Înainte</string>
-     <string name="no_log">Niciun rezumat disponibile</string>
+     <string name="no_log">Niciun rezumat disponibil</string>
      <string name="no_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca actualizarea va creşte utilizarea de date. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-     <string name="no_wifi_title">Avertisment utilizare a datelor</string>
+     <string name="no_wifi_title">Avertisment de utilizare a datelor</string>
      <string name="not_open">Nu acum</string>
      <string name="notification_downloading">Descărcare actualizare…</string>
      <string name="notification_load_body_alpha">Obțineți cele mai recente actualizări pentru dispozitivul dvs.</string>
@@ -113,7 +113,7 @@
      <string name="pause">Pauză</string>
      <string name="previous">Înapoi</string>
      <string name="progress_title_checking">Verificare pentru actualizări…</string>
-     <string name="reboot">Repoorniţi</string>
+     <string name="reboot">Reporniţi</string>
      <string name="repeat">Reîncercaţi</string>
      <string name="set_auto">Se verifică pentru actualizări în mod automat</string>
      <string name="set_auto_msg">Se descarcă automat actualizările când este conectat la Wi-Fi.</string>
@@ -129,10 +129,10 @@
      <string name="share_qq">Postaţi pe Tencent Weibo</string>
      <string name="share_sina">Postaţi pe Sina Weibo</string>
      <string name="share_update">Distribuiţi informaţia despre actualizare</string>
-     <string name="share_update_content_sign">Am actualizat MIUI la %1$s! Starea actualizărilor mele este %2$s. Pentru jurnalul schimbărilor detaliat, accesaţi %3$s</string>
-     <string name="share_update_content_unsign">Am actualizat MIUI la %1$s! Pentru jurnalul schimbărilor detaliat, accesaţi %2$s</string>
+     <string name="share_update_content_sign">Am actualizat MIUI la %1$s! Starea actualizărilor mele este %2$s. Pentru jurnalul detaliat al schimbărilor, accesaţi %3$s</string>
+     <string name="share_update_content_unsign">Am actualizat MIUI la %1$s! Pentru jurnalul detaliat al schimbărilor, accesaţi %2$s</string>
      <string name="sina_share_fail">Trimitere eşuată</string>
-     <string name="sina_share_fail_content_repeat">Nu se poate putea partaja, conținut existent…</string>
+     <string name="sina_share_fail_content_repeat">Nu se poate partaja, conținut existent…</string>
      <string name="sina_share_pendding">Trimitere…</string>
      <string name="sina_share_success">Trimis</string>
      <string name="sina_token_expired_warning">Cont Weibo expirat, reconectaţi-vă</string>
@@ -156,17 +156,17 @@
      <string name="update_downfull_no_info_title">Nu se poate descărca actualizarea</string>
      <string name="update_feedback">Evaluaţi această actualizare</string>
      <string name="update_feedback_end">Aţi ratat votarea din această săptămână</string>
-     <string name="update_feedback_end_sum">Vă puteți alătura în fiecare Luni.</string>
+     <string name="update_feedback_end_sum">Vă puteți alătura în fiecare zi de Luni.</string>
      <string name="update_feedback_expired">"Aţi ratat votarea din această săptămână.
 Participaţi la sondaj Lunea viitoare"</string>
      <string name="update_feedback_need_account">Trebuie să vă conectați la contul dvs. Mi</string>
      <string name="update_feedback_need_network">Conectați-vă mai întâi la rețea</string>
      <string name="update_feedback_need_update">Trebuie să actualizați sistemul la cea mai recentă versiune.</string>
      <string name="update_feel">Ce credeţi?</string>
-     <string name="update_general">Indiferent(ă)</string>
-     <string name="update_happy">Satisfăcut(ă)!</string>
+     <string name="update_general">Indiferent</string>
+     <string name="update_happy">Satisfăcut!</string>
      <string name="update_monthly_build_only">Actualizaţi doar la build-urile lunare</string>
-     <string name="update_sad">Dezamăgit(ă)</string>
+     <string name="update_sad">Dezamăgit</string>
      <string name="update_success">Actualizare finalizată</string>
      <string name="update_success_body">Versiunea actuală: %s</string>
      <string name="update_success_title">Actualizare finalizată!</string>
@@ -180,7 +180,7 @@ Participaţi la sondaj Lunea viitoare"</string>
      <string name="user_begin">Descărcare</string>
      <string name="user_intertup_download_msg">Descărcările au fost întrerupte. Le puteți relua în orice moment în aplicația Actualizare.</string>
      <string name="user_intertup_download_title">Descărcare în pauză</string>
-     <string name="validate_pkg_failed_msg">Nu a fost posibil de verificat sursa acestei actualizări. Încercați să descărcați din nou.</string>
+     <string name="validate_pkg_failed_msg">Nu s-a putut verifica sursa acestei actualizări. Încercați să descărcați din nou.</string>
      <string name="validate_pkg_failed_title">Nu se poate verifica actualizarea</string>
      <string name="view_upgrade_tutorial">Vizualizaţi tutorialul</string>
      <string name="weekly_build">Săptămânal</string>
