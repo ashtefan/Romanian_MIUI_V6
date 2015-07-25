@@ -298,9 +298,9 @@ o conexiune de date mobilă"</string>
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
-    <string name="ten_percent_total_pkg">%s (10% din datele mobile lunare)</string>
+    <string name="ten_percent_total_pkg">%s (10%% din datele mobile lunare)</string>
     <string name="text_day"></string>
-    <string name="three_percent_total_pkg">%s (3% din datele mobile lunare)</string>
+    <string name="three_percent_total_pkg">%s (3%% din datele mobile lunare)</string>
     <string name="timeshow_h_m">%1$d h %2$d m</string>
     <string name="timeshow_m_s">%1$d m %2$d s</string>
     <string name="timeshow_s">%d s</string>
