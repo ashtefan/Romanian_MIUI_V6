@@ -102,7 +102,7 @@ Pentru a activa contul, urmați
     <string name="passport_skip_setup_account_msg">Puteți configura un cont Mi mai târziu în Setări.</string>
     <string name="passport_xiaomi_account_dspt">Utilizaţi contul dvs. Mi pentru a vă conecta la Mi Cloud, Magazin Teme MIUI, precum și alte servicii Mi de oriunde.</string>
     <string name="passport_xiaomi_account_sec_dspt" />
-    <string name="passport_xiaomi_account_sec_dspt2" />
+    <string name="passport_xiaomi_account_sec_dspt2">Pentru a vă conecta la contul dvs. Mi, trebuie să vă conectați la internet, să localizați dispozitivul și să activaţi Mi Cloud și sistemul VIP.</string>
     <string name="passport_remove_unactivated_account_notice">Contul dvs. nu a fost activat.</string>
     <string name="passport_remove_confirm">Deconectare</string>
     <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a reseta parola dvs.</string>
@@ -352,7 +352,7 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="update_recovery_info_dialog_message">Trebuie să verificaţi identitatea înainte de a putea actualiza %s.</string>
     <string name="update_recovery_info_dialog_title">Actualizaţi %s</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja cu un alt cont Mi.</string>
-    <string name="account_vip_level">Nivel Vip</string>
-    <string name="account_vip_task">Sarcină</string>
+    <string name="account_vip_level">Cont</string>
+    <string name="account_vip_task">Progres</string>
     <string name="vip_level_value">Nivel %d</string>
 </resources>

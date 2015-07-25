@@ -358,4 +358,7 @@
     <string name="resource_select_ringtone_audio_confirm">Selectați acest ton de apel?</string>
     <string name="theme_setting">Setări</string>
     <string name="vip_level_value">LV %d</string>
+    <string name="choose_new_themes">Teme noi</string>
+    <string name="present_local_themes">Descărcate</string>
++  <string name="present_online_themes">On-line</string>
 </resources>

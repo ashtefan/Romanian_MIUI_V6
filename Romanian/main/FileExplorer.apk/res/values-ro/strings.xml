@@ -344,7 +344,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="sdcard">Card SD</string>
     <string name="sdcard_available">Disponibil %1$s</string>
     <string name="sdcard_total">Total %1$s</string>
-    <string name="tab_more">Mai mult</string>
+    <string name="tab_more">Mai multe</string>
     <string name="tab_source">Aplicaţii</string>
     <string name="title_more_source">Mai multe aplicaţii</string>
     <string name="title_recent">Recent</string>
@@ -352,4 +352,6 @@ Spațiu liber adăugat %1$s"</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="month_day_format">dd MMMM</string>
     <string name="tab_storage">STOCARE</string>
+    <string name="operation_add_fav">Adăugare la favorite…</string>
+    <string name="operation_del_fav">Eliminare din favorite…</string>
 </resources>

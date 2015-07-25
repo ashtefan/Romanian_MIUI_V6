@@ -243,5 +243,8 @@
     <string name="recommend_apps_notice">Aplicaţii recomandate</string>
     <string name="recommend_apps_switch_summary">Se afişează aplicațiile recomandate în partea de jos a ecranului.</string>
     <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
-    <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a activa această caracteristică, atingeți numele acestui dosar.</string>
+    <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar.</string>
+    <string name="choose_theme">Temă</string>
+    <string name="default_theme_name">Prestabilită</string>
+    <string name="wallpaper_settings_for_pad">Imagine de fundal</string>
 </resources>

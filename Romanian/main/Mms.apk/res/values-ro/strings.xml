@@ -261,7 +261,6 @@
     <string name="mx_activate_int_hint_malformed_info">Operatorul dvs. poate percepe taxe pentru un mesaj SMS internaţional trimis pentru a reactiva Mesagerie Mi.</string>
     <string name="mx_activate_int_hint_server">Operatorul dvs. poate percepe taxe pentru un mesaj SMS internaţional trimis pentru a reactiva Mesagerie Mi.</string>
     <string name="mx_activate_int_hint_sim_change">Se pare că aţi schimbat cartelele SIM. Operatorul dvs. poate percepe taxe pentru un mesaj SMS internaţional trimis pentru a reactiva Mesagerie Mi.</string>
-    <string name="mx_activate_user_agreement_p1">"Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
     <string name="mx_auto_resend_mms">Trimiteţi ca MMS</string>
     <string name="mx_auto_resend_mms_summary">Se trimite ca MMS prin conexiunea de date mobile atunci când nu sunteți conectat la Wi-Fi (se aplică tarife normale de utilizare a datelor).</string>
     <string name="mx_auto_resend_sms">Trimiteţi ca SMS</string>
@@ -560,7 +559,9 @@
     <string name="pref_title_send_delivery_reports">Trimiteţi mesaje de livrare</string>
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
     <string name="storage_unavailable">Spaţiu indisponibil</string>
-    <string name="security_alert_desc">"Expeditorul nu există în contactele dvs. "&lt;u&gt;&lt;font color="red"&gt;Raportaţi acest număr&lt;/font&gt;&lt;/u&gt;</string>
+    <string name="security_alert_desc">&lt;font color="#7f000000"&gt;Expeditorul nu este în contactele dvs.
+"&lt;/font&gt;</string>
+    <string name="security_alert_desc_highlight">Raportaţi acest număr</string>
     <string name="security_alert_dialog_desc">Trimiteţi acest număr (%s) și mesajul către Xiaomi pentru revizuire.</string>
     <string name="security_alert_dialog_title">Raportaţi</string>
     <string name="sms_report_failed">Nu s-a putut trimite raportul</string>
@@ -574,5 +575,9 @@
     <string name="cloud_state_disabled">Sincronizarea cu Mi Cloud este dezactivată</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizare cu Mi Cloud…</string>
-    <string name="mipub_messaging_entry_title">Mesaje Mi</string>
+    <string name="mipub_messaging_entry_title">Mesaj Mi</string>
+    <string name="mx_activate_dlg_title_ex">Activaţi Mesaj şi Voce Mi</string>
+    <string name="mx_dspt_provision_ex">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs.. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui.</string>
+    <string name="mx_dspt_provision_ex2">Politica de Confidențialitate</string>
+    <string name="mx_enable_ex">Mesaj şi Voce Mi</string>
 </resources>

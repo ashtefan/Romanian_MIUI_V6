@@ -40,43 +40,43 @@
         <item quantity="many">%d selectate</item>
      </plurals>
      <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> arhivate.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> arhivată.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> arhivate.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> arhivată.</item>
      </plurals>
      <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> şterse.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> ştearsă.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> şterse.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> ştearsă.</item>
      </plurals>
      <plurals name="conversation_folder_changed">
         <item quantity="other">Dosare modificate.</item>
         <item quantity="one">Dosar modificat.</item>
      </plurals>
      <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> mute</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> mută.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> mute</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> mută.</item>
      </plurals>
      <plurals name="conversation_not_important">
-        <item quantity="other">"&lt;b>%1$d&lt;/b> mesaje eliminate din dosarul 'important'"</item>
-        <item quantity="one">"&lt;b>%1$d&lt;/b> mesaj eliminat din dosarul 'important'"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> mesaje eliminate din dosarul 'important'"</item>
+        <item quantity="one">"&lt;b> %1$d &lt;/b> mesaj eliminat din dosarul 'important'"</item>
      </plurals>
      <plurals name="conversation_not_spam">
-        <item quantity="other">"&lt;b>%1$d&lt;/b> eliminate din dosarul 'spam'"</item>
-        <item quantity="one">"&lt;b>%1$d&lt;/b> eliminat din dosarul 'spam'"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> eliminate din dosarul 'spam'"</item>
+        <item quantity="one">"&lt;b> %1$d &lt;/b> eliminat din dosarul 'spam'"</item>
      </plurals>
      <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> mesaje raportate ca spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> mesaj raportat ca spam</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> mesaje raportate ca spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> mesaj raportat ca spam</item>
      </plurals>
      <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b>%1$d&lt;/b> marcate ca spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> marcat ca spam</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> marcate ca spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> marcat ca spam</item>
      </plurals>
      <plurals name="conversation_unstarred">
         <item quantity="other">%1$d conversaţii eliminate din favorite</item>
         <item quantity="one">Unstarred %1$d conversaţie eliminată din favorite</item>
      </plurals>
      <plurals name="draft">
-        <item quantity="other">Drafts</item>
+        <item quantity="other">Draft</item>
         <item quantity="one">Draft</item>
      </plurals>
      <plurals name="empty_folder_dialog_message">

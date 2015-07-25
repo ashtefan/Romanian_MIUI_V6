@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="DOWNLOAD_UNIT_BIT">O</string>
+    <string name="DOWNLOAD_UNIT_GB">GO</string>
+    <string name="DOWNLOAD_UNIT_KB">KO</string>
+    <string name="DOWNLOAD_UNIT_MB">MO</string>
+    <string name="DOWNLOAD_UNIT_TB">TO</string>
     <string name="Only_the_wifi">Doar în Wi-Fi</string>
     <string name="add_flow_fail_haveget_msg">Perioada de încercare a expirat.</string>
     <string name="add_flow_fail_vip_msg">Acceleratorul descărcărilor Xunlei este activ</string>
@@ -42,11 +47,11 @@
     <string name="display_expire_netiv1">În această lună</string>
     <string name="doc_filter">Document</string>
     <string name="download">Descărcări</string>
-    <string name="download_complete">Finalizat</string>
+    <string name="download_complete">FINALIZAT</string>
     <string name="download_error">Nereuşit</string>
     <string name="download_error_insufficient_space">Spaţiu insuficient</string>
     <string name="download_filesize_unknown">Necunoscut</string>
-    <string name="download_in_process">Se descarcă</string>
+    <string name="download_in_process">SE DESCARCĂ</string>
     <string name="download_info_count_deleted_tasks">%s descărcări eliminate</string>
     <string name="download_info_start_deleted_tasks">Ştergeţi descărcările</string>
     <string name="download_list_get_free_vip">Xunlei trial</string>
@@ -135,7 +140,7 @@
     <string name="toast_xunlei_engine_open">Acceleratorul descărcărilor Xunlei este activat</string>
     <string name="turn_off_xunlei_message">Este posibil să scadă viteza de descărcare</string>
     <string name="turn_off_xunlei_tips">Acceleratorul descărcărilor Xunlei este dezactivat</string>
-    <string name="turn_off_xunlei_title">Dezactivaţi acceleratorul de descărcare Xunlei</string>
+    <string name="turn_off_xunlei_title">Dezactivaţi Xunlei</string>
     <string name="unbind_xunlei_2_success">Cont Xunlei adăugat</string>
     <string name="unbind_xunlei_success">Deconectat din contul Xunlei</string>
     <string name="valid_in_this_month">Valabil pentru această lună</string>
@@ -160,7 +165,7 @@
     <string name="recommend_paused">Întrerupt</string>
     <string name="recommend_prepare">Aşteptare…</string>
     <string name="recommend_show_other_downloads">Afişare populare</string>
-    <string name="downloaded_empty">Niciun conținut descărcat</string>
-    <string name="downloading_empty">Nu se descarcă niciun conținut</string>
+    <string name="downloaded_empty">Gol</string>
+    <string name="downloading_empty">Gol</string>
     <string name="show_more">Mai multe (%s)</string>
 </resources>

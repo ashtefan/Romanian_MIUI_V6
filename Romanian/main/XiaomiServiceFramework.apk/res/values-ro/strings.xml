@@ -83,4 +83,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
 Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva %s"</string>
 <string name="activate_popup_title_all_gateway_failed_query_info">Nu se poate găsi numărul</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Nu se poate trimite mesajul text</string>
+    <string name="activate_feature_mx_and_voip">Mesaj şi Video Mi</string>
+    <string name="activate_popup_desc_voip_privacy">Politica de Confidențialitate Weihui</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". VoIP este susținut de Weihui. Vizualizaţi "</string>
 </resources>

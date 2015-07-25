@@ -3016,6 +3016,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="music_dirac_mode_headset">Căști Mi</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-    <string name="power_hide_mode_summary">Controlul comportamentului aplicațiilor în fundal, economisire semnificativă de energie</string>
-    <string name="power_hide_mode_title">Mod ascuns</string>
+    <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea proceselor de fundal ale aplicațiilor, conexiunilor Wi-Fi și datelor mobile, precum și GPS</string>
+    <string name="power_hide_mode_title">Gestionați utilizarea acumulatorului de aplicații</string>
+    <string name="wifi_eap_sim_simcard">Selectaţi cartela SIM</string>
 </resources>

@@ -660,4 +660,19 @@
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
     <string name="download_without_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca fotografii va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="download_without_wifi_title">Avertizare utilizare date</string>
+    <string name="cloud_gallery_space_full_buy_more">Nu se pot sincroniza fotografiile cu Mi Cloud. Pentru a sincroniza mai multe fotografii, procuraţi spaţiu de stocare suplimentar.</string>
+    <string name="cloud_gallery_space_full_title">Mi Cloud este plin</string>
+    <string name="face_album_new_name_hint">Nume nou</string>
+    <string name="face_choose_tip">Selectaţi dintr-un album existent</string>
+    <string name="upgrade_micloud_space">Obţineţi mai mult spaţiu</string>
+    <string name="hybrid_check_network">Setări reţea</string>
+    <string name="hybrid_data_error">A apărut o eroare</string>
+    <string name="hybrid_locating_fail">Nu s-a putut găsi locația dvs.</string>
+    <string name="hybrid_network_access_denied">Acces la rețea refuzat</string>
+    <string name="hybrid_network_unavaliable">Nu se poate conecta la reţea</string>
+    <string name="hybrid_pull_to_refresh_pull_label">Trageți pentru a reîmprospăta…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Încărcare…</string>
+    <string name="hybrid_pull_to_refresh_release_label">Eliberați pentru a actualiza…</string>
+    <string name="hybrid_service_unavailiable">Serviciu indisponibil</string>
+    <string name="hybrid_try_again">Încercaţi din nou</string>
 </resources>

@@ -988,4 +988,9 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="push_wps_confirm_message">Nicio aplicaţie nu poate deschide acest atașament, se recomandă a se utiliza WPS Office</string>
     <string name="push_wps_confirm_title">Se recomandă WPS Office</string>
     <string name="push_wps_no_response_app">Nicio aplicație de răspuns</string>
+    <string name="contextmenu_call">Apelaţi</string>
+    <string name="contextmenu_open">Deschideţi</string>
+    <string name="copied">Copiat</string>
+    <string name="download_message_failed_for_too_large">Mesajul este prea mare pentru a fi descărcat.</string>
+    <string name="print">Imprimaţi</string>
 </resources>

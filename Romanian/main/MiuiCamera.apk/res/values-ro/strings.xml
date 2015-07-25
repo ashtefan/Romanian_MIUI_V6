@@ -79,7 +79,7 @@
     <string name="pref_camera_antibanding_entry_3">Automat</string>
     <string name="pref_camera_antibanding_title">Antipâlpâire</string>
     <string name="pref_camera_asd_night_title">Îmbunătăţire automată a imaginilor cu iluminare redusă</string>
-    <string name="pref_camera_asd_popup_title">Se întreabă atunci când este necesar blițul</string>
+    <string name="pref_camera_asd_popup_title">Se notifică, atunci când este necesar blițul</string>
     <string name="pref_camera_audio_capture_title">Audio</string>
     <string name="pref_camera_auto_capture_when_stable_title">Captare automată când este stabil</string>
     <string name="pref_camera_auto_chroma_flash_title">Bliţ Chroma</string>
@@ -340,4 +340,7 @@
     <string name="pref_camera_peak_entry_on">Activată</string>
     <string name="pref_camera_gradienter_title">Gradient</string>
     <string name="simple_mode_button_text_gradienter">Dezactivare Gradient</string>
+    <string name="confirm_recording_fail_calling_alert">Nu se poate înregistra în timpul apelului.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">O altă aplicație poate utiliza deja microfonul dispozitivului pentru a înregistra.</string>
+    <string name="confirm_recording_fail_title">Nu se poate înregistra</string>
 </resources>
