@@ -90,7 +90,7 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
     <string name="firewall_rule_group_title_roaming">Roaming internaţional</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_service_network_blocked">Utilizarea reţelelor %2$s a fost restricţionată pentru %1$s</string>
-    <string name="five_percent_total_pkg">%s (5% din datele mobile lunare)</string>
+    <string name="five_percent_total_pkg">%s (5%% din datele mobile lunare)</string>
     <string name="force_stop_dlg_text">Dacă restricționați datele mobile în fundal, unele aplicații și servicii nu vor funcționa decât dacă sunteți conectat la o rețea Wi-Fi.</string>
     <string name="force_stop_dlg_title">Restricționaţi datele în fundal</string>
     <string name="foreground_traffic">În prim plan: %s</string>
