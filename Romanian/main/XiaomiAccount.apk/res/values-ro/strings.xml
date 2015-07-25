@@ -4,7 +4,7 @@
     <string name="passport_account_hint_text">E-mail sau număr de telefon</string>
     <string name="passport_phone_num_hint_text">Număr de telefon</string>
     <string name="passport_login">Conectaţi-vă</string>
-    <string name="passport_login_with_email_or_id"><u>Conectaţi-vă cu adresa de e-mail sau ID cont Mi</u></string>
+    <string name="passport_login_with_email_or_id"><u>Conectaţi-vă cu adresa de e-mail sau ID-ul contului Mi</u></string>
     <string name="passport_email_or_id_hint_text">Adresa de e-mail sau ID cont Mi</string>
     <string name="passport_verify">Verificaţi</string>
     <string name="passport_register">Creaţi un cont</string>
@@ -46,7 +46,7 @@
     <string name="passport_click_email_to_valid">"
 
 Pentru a activa contul, urmați
- link-ul în mesajul pe care l-am trimis în căsuţa dvs de e-mail."</string>
+ link-ul în mesajul pe care l-am trimis în căsuţa dvs. de e-mail."</string>
     <string name="passport_resend_active_email">Retrimitere e-mail de activare</string>
     <string name="passport_delete_account">Deconectaţi-vă</string>
     <string name="passport_completed">Finalizare</string>
@@ -59,12 +59,12 @@ Pentru a activa contul, urmați
     <string name="passport_login_failed">Nu se poate conecta</string>
     <string name="passport_verification_failed">Autentificarea a eșuat</string>
     <string name="passport_error_network">Nu se poate conecta la rețea</string>
-    <string name="passport_error_ssl_hand_shake">Eroare cu conexiunea la server. Încercați să setați sistemul de data/ora la timpul actual.</string>
+    <string name="passport_error_ssl_hand_shake">Eroare de conectare la server. Încercați să setați sistemul la data/ora actuale.</string>
     <string name="passport_error_device_id">Nu se poate obține ID-ul dispozitivului</string>
     <string name="passport_error_dup_phone">Acest număr de telefon este deja asociat cu un alt cont</string>
     <string name="passport_error_phone_error">Număr de telefon greşit</string>
     <string name="passport_error_server">Eroare server</string>
-    <string name="passport_error_sim_not_ready">Nu se poate găsi cardul SIM</string>
+    <string name="passport_error_sim_not_ready">Nu se poate găsi cartela SIM</string>
     <string name="passport_error_unknown">Nu se poate conecta</string>
     <string name="passport_error_invalid_dev_id">ID dispozitiv greşit</string>
     <string name="passport_error_user_name">Nume de utilizator greşit</string>
@@ -82,7 +82,7 @@ Pentru a activa contul, urmați
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
     <string name="passport_confirm">Confirmaţi</string>
     <string name="passport_login_notice">Conectare…</string>
-    <string name="passport_failed_to_send_activate_email">Nu a fost posibil de trimis e-mailul de activare</string>
+    <string name="passport_failed_to_send_activate_email">Nu s-a putut trimite e-mailul de activare</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_reging">Creare cont…</string>
     <string name="passport_reg_success">Cont creat</string>
@@ -129,9 +129,9 @@ Pentru a activa contul, urmați
     <string name="passport_account_not_activated">Contul nu a fost activat</string>
     <string name="passport_change_account"><u>Schimbaţi contul</u></string>
     <string name="passport_register_account_verified_confirm">Ați verificat deja contul dvs.</string>
-    <string name="passport_register_account_goto_email">Mergeţi la casuţa de email</string>
+    <string name="passport_register_account_goto_email">Mergeţi la casuţa de e-mail</string>
     <string name="passport_notification_title">Eroare conectare pentru %1$s</string>
-    <string name="passport_sim_index_info">Card SIM %1$d - %2$s</string>
+    <string name="passport_sim_index_info">Cartelă SIM %1$d - %2$s</string>
     <string name="passport_choose_which_one_sim">Alegeţi un număr de telefon</string>
     <string name="app_name">Cont Mi</string>
     <string name="account">Cont</string>
@@ -180,7 +180,7 @@ Pentru a activa contul, urmați
     <string name="input_vcode_hint">Introduceţi codul de verificare</string>
     <string name="confirm">OK</string>
     <string name="alert_title_remove_account">Eliminaţi contul?</string>
-    <string name="remove_account_notice">Ce aţi dori să faceţi cu mesaje, contactele și alte date care au fost sincronizate din contul Mi?</string>
+    <string name="remove_account_notice">Ce aţi dori să faceţi cu mesajele, contactele și alte date care au fost sincronizate din contul Mi?</string>
     <string name="data_keep_in_device">Păstrați pe acest dispozitiv</string>
     <string name="data_wipe_from_device">Ștergeți de pe acest aparat</string>
     <string name="access_denied">Acces refuzat</string>
@@ -283,7 +283,7 @@ Pentru a activa contul, urmați
     <string name="cloud_service_dspt">Sincronizaţi fotografiile, contactele, notele, aplicațiile și altele între toate dispozitivele.</string>
     <string name="theme_store">Magazin Teme MIUI</string>
     <string name="theme_store_dspt">Alegeţi aspectul dvs. Sute de teme personalizate gratuite pentru a face telefonul dvs. unic.</string>
-    <string name="mi_account_dspt_provision">"Conectați-vă la Mi Cloud, Magazin Teme MIUI, precum și alte servicii Mi, de oriunde. "</string>
+    <string name="mi_account_dspt_provision">"Conectați-vă la Mi Cloud, Magazin Teme MIUI, precum și la alte servicii Mi, de oriunde. "</string>
     <string name="authorize_title">Autorizare</string>
     <string name="my_device_title">Dispozitiv actual</string>
     <string name="device_list_title">Lista de dispozitive</string>
@@ -298,7 +298,7 @@ Pentru a activa contul, urmați
     <string name="delete_device_btn">Eliminaţi</string>
     <string name="phone_activated">%s activat</string>
     <string name="phone_unactivated">Nu este activat</string>
-    <string name="no_sim_card">Niciun card SIM</string>
+    <string name="no_sim_card">Nicio cartelă SIM</string>
     <string name="phone_unknown">Necunsocut</string>
     <string name="remove_device_success_notice">Dacă eliminați acest dispozitiv din dispozitive de încredere, ar putea fi necesar să treceţi din nou procesul de verificare atunci când vă conectați.​</string>
     <string name="device_delete_loading">Doar o secundă…</string>

@@ -23,7 +23,7 @@
   <string name="yellow_page_sms_send_failed">Nu s-a putut trimite mesajul SMS</string>
   <string name="yellow_page_sms_sending">Trimitere…</string>
   <string name="yellow_page_unable_send_sms">Nu se poate trimite mesajul SMS</string>
-  <string name="app_name_which_call">Aplicaţiie: %s</string>
+  <string name="app_name_which_call">Aplicaţie: %s</string>
   <string name="app_version_which_call">Versiune aplicaţie: %s</string>
   <string name="license_host_unreachable">"Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, 
 accesaţi %s"</string>

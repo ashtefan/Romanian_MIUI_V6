@@ -33,7 +33,7 @@
     <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butonul Acasă și Alimentare simultan.</string>
     <string name="screen_button_enabled_message">Butoanele de navigare au fost activate.</string>
     <string name="miui">MIUI</string>
-    <string name="alwaysUsePrompt">Se memorizează această alegere</string>
+    <string name="alwaysUsePrompt">Se memorează această alegere</string>
     <string name="auto_start_warning_title">Permiteţi %s să pornească în mod automat?</string>
     <string name="auto_start_warning_allow">Permiteţi</string>
     <string name="auto_start_warning_deny">Refuzaţi</string>
@@ -48,7 +48,7 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
     <string name="force_exit_message">%1$s a fost oprit(ă)</string>
     <string name="force_exit_skip_message">Nu se poate opri %1$s deoarece este necesar(ă) pentru sistem.</string>
-    <string name="global_actions_airplane_mode">Modul avion</string>
+    <string name="global_actions_airplane_mode">Modul Avion</string>
     <string name="global_actions_reboot">Repornire</string>
     <string name="global_actions_shutdown">Închidere</string>
     <string name="global_actions_silent_mode">Modul silenţios</string>
@@ -69,12 +69,12 @@ Pentru a activa această funcţie accesaţi Setări > Sistem > Butoane"</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butonul Domiciliu și Alimentare simultan.</string>
-    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa, sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
+    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="shutdown_confirm_title">Telefonul dvs. se va închide.</string>
     <string name="shutdown_progress">Închidere…</string>
-    <string name="sim_added_reboot_title">Cardul SIM se va activa după ce reporniți dispozitivul.</string>
+    <string name="sim_added_reboot_title">Cartela SIM se va activa după ce reporniți dispozitivul.</string>
     <string name="sim_added_reboot_confirm">Repornire</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="softap_notifif_summary">%d conectat</string>

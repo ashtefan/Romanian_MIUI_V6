@@ -58,12 +58,12 @@
     <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
     <string name="view_aqi_source">China National Environmental Monitoring Center</string>
     <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
-    <string name="view_aqi_title">Calitate aer</string>
+    <string name="view_aqi_title">Calitatea aerului</string>
     <string name="view_dropwater_title">Precipitaţii</string>
     <string name="view_forecast_item_yesterday">Ieri</string>
     <string name="view_indexes_item_today">Astăzi</string>
     <string name="view_indexes_item_tommorrow">Mâine</string>
-    <string name="view_indexes_title_feel">Se simte a fi (°C)</string>
+    <string name="view_indexes_title_feel">Se simte ca la (°C)</string>
     <string name="view_indexes_title_humidity">Umiditate (%)</string>
     <string name="view_indexes_title_pressure">Presiune (hPa)</string>
     <string name="view_indexes_title_uv">Indice UV</string>

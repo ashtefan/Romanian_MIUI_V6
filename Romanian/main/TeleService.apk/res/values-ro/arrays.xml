@@ -10,7 +10,7 @@
         <item>Afişaţi numărul</item>
      </string-array>
      <string-array name="dtmf_tone_entries">
-        <item>Normală</item>
+        <item>Normal</item>
         <item>Lung</item>
      </string-array>
      <string-array name="enabled_networks_except_gsm_choices">
@@ -19,7 +19,7 @@
      </string-array>
      <string-array name="gsm_umts_network_preferences_choices">
         <item>2G/3G (mod automat)</item>
-        <item>Numai 3G</item>
+        <item>Doar 3G</item>
         <item>Doar 2G</item>
      </string-array>
      <string-array name="language_list_values">

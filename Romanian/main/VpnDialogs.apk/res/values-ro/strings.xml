@@ -10,5 +10,5 @@
     <string name="duration">Durată:</string>
     <string name="data_transmitted">Trimise:</string>
     <string name="data_received">Primite:</string>
-    <string name="data_value_format">%1$s (de) octeţi/%2$s (de) pachete</string>
+    <string name="data_value_format">%1$s octeţi/%2$s pachete</string>
 </resources>
