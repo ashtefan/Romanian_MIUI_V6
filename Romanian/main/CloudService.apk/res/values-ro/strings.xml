@@ -341,5 +341,5 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="mx_dspt_provision_privacy_2_sim">"Această caracteristică poate solicita numărul dvs. de telefon. Operatorul vă poate taxa pentru două mesaje SMS utilizate pentru activarea acestei caracteristici.
 
 Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe serverele Mi."</string>
-    <string name="mx_voip_dspt">Comunicaţie Mi</string>
+    <string name="mx_voip_dspt">Comunicare Mi</string>
 </resources>
