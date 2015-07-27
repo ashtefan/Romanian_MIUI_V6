@@ -168,4 +168,23 @@
     <string name="downloaded_empty">Gol</string>
     <string name="downloading_empty">Gol</string>
     <string name="show_more">Mai multe (%s)</string>
+    <string name="expire_notification_msg">Calitatea de membru Xunlei expiră în curând.</string>
+    <string name="expire_today_notification_msg">Calitatea de membru Xunlei expiră astăzi.</string>
+    <string name="no_vip_info">Obțineți calitatea de membru Xunlei pentru a accelera descărcările</string>
+    <string name="no_vip_show_info">"Accelerare descărcări
+pe toate dispozitivele cu Xunlei"</string>
+    <string name="start_xunlei_speedup_info">Conectaţi-vă pentru a accelera descărcările dvs.</string>
+    <string name="third_web_cancel">Anulaţi</string>
+    <string name="third_web_confirm">OK</string>
+    <string name="third_web_default">Se memorizează această alegere</string>
+    <string name="third_web_filename_hint">Nume</string>
+    <string name="third_web_filesize">Dimensiune</string>
+    <string name="third_web_savepath">Locaţie</string>
+    <string name="third_web_title">Salvaţi</string>
+    <string name="vip_expire_show_info">"Calitatea de membru Xunlei a expirat.
+Reînnoiţi acum și obțineţi 5% reducere."</string>
+    <string name="vip_expire_today_show_info">"Calitatea de membru Xunlei a expirat.
+Reînnoiţi acum și obțineţi 5% reducere."</string>
+    <string name="vip_show_info">"5 millioane de membri.
+Accelerare descărcări pe toate dispozitivele."</string>
 </resources>

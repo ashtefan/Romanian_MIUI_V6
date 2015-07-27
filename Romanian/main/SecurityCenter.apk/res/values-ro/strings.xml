@@ -575,6 +575,6 @@ Se comută la %3$s"</string>
     <string name="boot_time">Se va porni la %1$s</string>
     <string name="boot_time_day">Se va porni peste %1$d z la %2$s</string>
     <string name="boot_time_day_tomorrow">Se va porni mâine la %1$s</string>
-    <string name="btn_text_power_cleanup">Curăţare extra</string>
+    <string name="btn_text_power_cleanup">Curăţare profundă</string>
     <string name="history_details_title">Detalii istoric</string>
 </resources>

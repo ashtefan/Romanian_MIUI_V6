@@ -381,7 +381,7 @@
     <string name="paint_cancel_title">Renunțaţi la modificări</string>
     <string name="paint_crop_cancel_context">Salvaţi imaginea decupată?</string>
     <string name="paint_crop_cancel_title">Renunțaţi la modificări</string>
-    <string name="paint_crop_tips">Pentru a obține o imagine mai bună, încercați să plasaţi părțile sale de interes în punctele grilei prin redimensionare și mutare.</string>
+    <string name="paint_crop_tips">Plasați zona țintă a imaginii în apropiere de centrul grilei.</string>
     <string name="path">Cale</string>
     <string name="people">Persoane</string>
     <string name="photo_page_always_rotate">Rotirea automată a imaginilor</string>
@@ -671,7 +671,7 @@
     <string name="hybrid_network_access_denied">Acces la rețea refuzat</string>
     <string name="hybrid_network_unavaliable">Nu se poate conecta la reţea</string>
     <string name="hybrid_pull_to_refresh_pull_label">Trageți pentru a reîmprospăta…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">Încărcare…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Doar o secundă…</string>
     <string name="hybrid_pull_to_refresh_release_label">Eliberați pentru a actualiza…</string>
     <string name="hybrid_service_unavailiable">Serviciu indisponibil</string>
     <string name="hybrid_try_again">Încercaţi din nou</string>

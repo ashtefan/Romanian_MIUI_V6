@@ -105,8 +105,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="package_delete_confirm_step_2">Ștergerea acestei aplicații poate cauza instabilitatea sistemului.</string>
     <string name="package_delete_confirm_step_3">Nu veţi putea deschide această aplicație după ce o ștergeți.</string>
     <string name="app_store_install_hint">Instalaţi acum</string>
-    <string name="app_store_installing_message">Instalare Magazin Aplicaţii ……</string>
-    <string name="app_store_missing_message">S-a detectat că Magazinul Aplicaţiilor Xiaomi nu este instalat pe acest dispozitiv, vă sugerăm să instalați imediat Magazin Aplicaţii.</string>
-    <string name="app_store_missing_title">Magazin Aplicaţii absent</string>
-    <string name="reboot_time">Pregătire pentru repornire……(%1$s)</string>
+    <string name="app_store_installing_message">Instalare…</string>
+    <string name="app_store_missing_message">Se pare că nu ați instalat Magazinul nostru oficial al aplicaţiilor. Instalați acum?</string>
+    <string name="app_store_missing_title">Magazinul Aplicaţiilor nu este instalat</string>
+    <string name="reboot_time">Pregătire pentru repornire… (%1$s)</string>
 </resources>

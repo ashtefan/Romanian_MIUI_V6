@@ -171,7 +171,7 @@
     <string name="my_photo_desc" />
     <string name="my_video">Videoclipuri</string>
     <string name="my_video_desc" />
-    <string name="name_illegal">Introduceți un nume</string>
+    <string name="name_empty">Introduceți un nume</string>
     <string name="net_lose_connected">Conexiune pierdută</string>
     <string name="networkView_notConnected">Imposibil de conectat la rețea</string>
     <string name="network_connect_confirm_des">Utilizarea KuaiPan necesită o conexiune la internet.</string>
@@ -354,4 +354,8 @@ Spațiu liber adăugat %1$s"</string>
     <string name="tab_storage">STOCARE</string>
     <string name="operation_add_fav">Adăugare la favorite…</string>
     <string name="operation_del_fav">Eliminare din favorite…</string>
+    <string name="file_name_invalid">"Numele fișierelor nu pot conține următoarele caractere: /\\:*?&lt;&gt;"</string>
+    <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
+    <string name="port_range">Port-ul trebuie să fie între 1024–65535</string>
+    <string name="rename_alert">Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi.</string>
 </resources>
