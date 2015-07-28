@@ -963,8 +963,8 @@ Dacă textul sistemului dvs. este încă prea mic, încercați să utilizați "<
     <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desen în 2D</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
     <string name="force_msaa_summary">Activaţi MSAA 4x în aplicaţiile OpenGL ES 2.0</string>
-    <string name="force_rtl_layout_all_locales">Direcție aspect dr. - stg.</string>
-    <string name="force_rtl_layout_all_locales_summary">Direcție obligatorie aspect ecran dreapta - stânga</string>
+    <string name="force_rtl_layout_all_locales">Direcție aspect stg.-dr.</string>
+    <string name="force_rtl_layout_all_locales_summary">Direcție obligatorie aspect ecran stânga-dreapta</string>
     <string name="force_stop">Opriţi forţat</string>
     <string name="force_stop_dlg_text">Dacă forţaţi oprirea unei aplicaţii, aceasta se poate comporta necorespunzător.</string>
     <string name="force_stop_dlg_title">Opriţi forţat?</string>
@@ -1011,14 +1011,14 @@ Dacă textul sistemului dvs. este încă prea mic, încercați să utilizați "<
     <string name="gadget_toggle_bluetooth">Se actualizează setarea pentru Bluetooth</string>
     <string name="gadget_toggle_wifi">Se actualizează setarea Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="game_controller_settings_category">Controler de joc</string>
+    <string name="game_controller_settings_category">Controler de jocuri</string>
     <string name="global_change_warning">Această setare afectează toţi utilizatorii acestui telefon.</string>
     <string name="global_font_change_title">Modificaţi dimensiunea fontului</string>
     <string name="global_locale_change_title">Schimbaţi limba</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
-    <string name="handy_mode">Modul operare cu o mână</string>
-    <string name="handy_mode_enable">Modul operare cu o mână</string>
+    <string name="handy_mode">Modul Operare cu o mână</string>
+    <string name="handy_mode_enable">Modul Operare cu o mână</string>
     <string name="handy_mode_size">Dimensiune ecran</string>
     <string name="handy_mode_tips">Glisați spre stânga sau spre dreapta de la butonul Home pentru a minimiza ecranul mai aproape de-o parte.</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
@@ -1043,7 +1043,7 @@ Dacă textul sistemului dvs. este încă prea mic, încercați să utilizați "<
     <string name="header_category_device">DISPOZITIV</string>
     <string name="header_category_personal">PERSONAL</string>
     <string name="header_category_system">SISTEM</string>
-    <string name="header_category_wireless_networks">WIRELESS ŞI REŢELE</string>
+    <string name="header_category_wireless_networks">WIRELESS ŞI REŢELE MOBILE</string>
     <string name="header_data_and_synchronization">Datele şi sincronizarea</string>
     <string name="heavy_weight_stop_description">Această aplicaţie nu poate fi oprită în siguranţă. Oprirea aplicaţiei ar putea duce la pierderea datelor curente.</string>
     <string name="help_label">Ajutor</string>
@@ -1616,7 +1616,7 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="power_idle">Telefon inactiv</string>
     <string name="power_mgr">Acumulator</string>
     <string name="power_mode">Mod utilizare acumulator</string>
-    <string name="power_mode_balanced_title">Activaţi Energia echilibrată</string>
+    <string name="power_mode_balanced_title">Activaţi Energie echilibrată</string>
     <string name="power_phone">Apeluri vocale</string>
     <string name="power_screen">Ecran</string>
     <string name="power_settings_title">Performanţă sistem</string>
@@ -2047,7 +2047,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="show_touches">Afişaţi atingerile</string>
     <string name="show_touches_summary">Afişaţi feedback vizual pentru atingeri</string>
     <string name="show_user_info_on_lockscreen_label">Informații utilizator pe ecranul de blocare</string>
-    <string name="silent_mode_title">Modul silenţios</string>
+    <string name="silent_mode_title">Modul Silenţios</string>
     <string name="sim_bad_pin">Introduceți un cod PIN format din 4-8 cifre</string>
     <string name="sim_change_failed">"Nu se poate schimba codul PIN.
 Codul PIN poate fi incorect."</string>
@@ -3017,6 +3017,6 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="music_dirac_mode_headset">Căști Mi</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
     <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea proceselor de fundal ale aplicațiilor, conexiunilor Wi-Fi și datelor mobile, precum și GPS</string>
-    <string name="power_hide_mode_title">Gestionați utilizarea acumulatorului de aplicații</string>
+    <string name="power_hide_mode_title">Gestionați utilizarea acumulatorului de către aplicații</string>
     <string name="wifi_eap_sim_simcard">Selectaţi cartela SIM</string>
 </resources>
