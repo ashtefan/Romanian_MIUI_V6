@@ -539,7 +539,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="video_push_multi_title">Actualizări disponibile</string>
     <string name="video_push_single_message">Apăsaţi pentru a actualiza la %1$d.</string>
     <string name="view_certificate">Vizualizaţi certificatul</string>
-    <string name="voice_sub_title">Nu știţi ce să spuneţi? Încercaţi, Deschide mi.com!</string>
+    <string name="voice_sub_title">Nu știţi ce să spuneţi? Încercaţi, deschideţi mi.com!</string>
     <string name="voice_title">Rostiți comanda…</string>
     <string name="voice_title_distinguish">Procesare…</string>
     <string name="voice_title_listening">Ascultare…</string>
@@ -549,7 +549,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="webpage_history_title">Istoric</string>
     <string name="webpage_title">Marcaje şi istoric</string>
     <string name="webview_find_on_page">Găsiți pe pagină</string>
-    <string name="webviewchromium_private_browsing_warning">Această funcţionalitate nu este susţinută în această versiune Android.</string>
+    <string name="webviewchromium_private_browsing_warning">Această funcţionalitate nu este susţinută în versiunea Android actuală.</string>
     <string name="week_picker_dialog_title">Setaţi săptămâna</string>
     <string name="action_menu_text_fullscreen">Ecran complet</string>
     <string name="sub_sync_item_browser_title_useful">Sincronizarea paginii de pornire</string>
@@ -564,7 +564,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="miuishare_account_login_confirmation">Conectarea este necesară</string>
     <string name="miuishare_account_login_ok">Conectare</string>
     <string name="miuishare_account_need_activate">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, care nu este activat în prezent. Activaţi contul dvs.?</string>
-    <string name="miuishare_account_need_login">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, , care este conectat în prezent. Vă conectați pentru a partaja acum?</string>
+    <string name="miuishare_account_need_login">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, care este deconectat în prezent. Vă conectați pentru a partaja acum?</string>
     <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_no_network">Nicio reţea pentru partajare</string>
     <string name="miuishare_publish">Trimiteţi</string>
@@ -576,7 +576,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="abc_action_bar_home_description">Navigaţi acasă</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
-    <string name="abc_action_menu_overflow_description">MAi multe</string>
+    <string name="abc_action_menu_overflow_description">Mai multe</string>
     <string name="abc_action_mode_done">Finalizat</string>
     <string name="action_menu_text_add_bookmark">Adăugaţi un marcaj</string>
     <string name="action_menu_text_bookmark_added">Marcaj adăugat</string>
@@ -584,13 +584,13 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
     <string name="action_menu_text_find_in_page">Găsiţi în pagină</string>
     <string name="action_menu_text_refresh">Reîmprospătaţi</string>
-    <string name="dont_remind_again">Se memorizează această alegere</string>
+    <string name="dont_remind_again">Se memorează această alegere</string>
     <string name="find_new_version">Actualizări disponibile</string>
     <string name="license_activity_title">Licenţe WebView de sistem</string>
     <string name="next_button_label">Înainte</string>
     <string name="pref_auto_update_under_wifi">Actualizare automată în Wi-Fi</string>
     <string name="pref_extras_title_version">Versiune</string>
-    <string name="pref_version_info">Informaţi versiune</string>
+    <string name="pref_version_info">Informaţii versiune</string>
     <string name="save_page_capture_tip">Deschideţi panoul notificărilor pentru a vizualiza captura de ecran.</string>
     <string name="save_page_capture_to_camera">Captură de ecran salvată</string>
     <string name="secure_download_in_xiaomi_market">Descărcaţi în Magazin Aplicaţii</string>
