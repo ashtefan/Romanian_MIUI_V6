@@ -132,7 +132,7 @@
     <string name="mark_number_info">Rețineți că, uneori, aceste apeluri pot fi utile (de exemplu atunci când sunteți în căutarea unui apartament). Blocaţi numai numerele de la care nu doriți să primiți apeluri.</string>
     <string name="mark_sell">Vânzări</string>
     <string name="mark_sell_block">Raportat ca vânzări</string>
-    <string name="marked_by_others">"alţi %d (de) utilizatori l-au etichetat ca "</string>
+    <string name="marked_by_others">"alţi %d utilizatori l-au etichetat ca "</string>
     <string name="marked_by_user">"l-aţi etichetat ca "</string>
     <string name="menu_add">Adăugaţi</string>
     <string name="menu_add_into_contact">Adăugaţi la un contact existent</string>
@@ -165,7 +165,7 @@
     <string name="open_callwait">Activaţi</string>
     <string name="read_all_sms">Marcaţi ca citit</string>
     <string name="report">Raportaţi</string>
-    <string name="report_error">Nu a fost posibil de raportat mesajul</string>
+    <string name="report_error">Nu s-a putut raporta mesajul</string>
     <string name="report_error_not_net">Nu se poate conecta la rețea</string>
     <string name="report_only">Alegeți un mesaj de raportat</string>
     <string name="report_sms">Raportaţi mesajele</string>
@@ -291,7 +291,7 @@
     <string name="tab_title">Listă blocări</string>
     <string name="toast_keyword_blank">Trebuie să introduceţi un cuvânt cheie</string>
     <string name="toast_keyword_exist">Cuvânt cheie adăgat</string>
-    <string name="toast_keyword_invalid">Cuvânt cheie introdus este greşit</string>
+    <string name="toast_keyword_invalid">Cuvântul cheie introdus este greşit</string>
     <string name="two_address_choose_hint">%1$s, %2$s2 locaţii</string>
     <string name="user_define_title">Adăugaţi reguli</string>
     <string name="whitelist_prefix_add_hint">Adăugaţi toate numerele cu acest prefix în lista excepţiilor</string>
@@ -316,10 +316,10 @@
     <string name="quiet_important_interruptions_mode">Se permit doar excepţiile</string>
     <string name="quiet_mode">Silenţios</string>
     <string name="quiet_off_mode">Silenţios dezactivat</string>
-    <string name="mark_agent_time_setting">Se blochează numerele ce au fost raportate ca teleshoping un anumit număr de ori</string>
-    <string name="mark_fraud_time_setting">Se blochează numerele ce au fost raportate ca escrocherii un anumit număr de ori</string>
-    <string name="mark_harass_time_setting">Se blochează numerele ce au fost raportate pentru hărțuială un anumit număr de ori</string>
-    <string name="mark_sell_time_setting">Se blochează numerele ce au fost raportate ca vânzări un anumit număr de ori</string>
+    <string name="mark_agent_time_setting">Se blochează numerele ce au fost raportate ca teleshoping de un anumit număr de ori</string>
+    <string name="mark_fraud_time_setting">Se blochează numerele ce au fost raportate ca escrocherii de un anumit număr de ori</string>
+    <string name="mark_harass_time_setting">Se blochează numerele ce au fost raportate pentru hărțuială de un anumit număr de ori</string>
+    <string name="mark_sell_time_setting">Se blochează numerele ce au fost raportate ca vânzări de un anumit număr de ori</string>
     <string name="mark_time_setting_dialog_title">Setări numere raportare</string>
     <string name="mark_time_text">%d</string>
     <string name="repeated_marked_number_summary">Nu se blochează un al doilea apel primit în decurs de 3 minute de la acelaşi număr ce a fost raportat.</string>
