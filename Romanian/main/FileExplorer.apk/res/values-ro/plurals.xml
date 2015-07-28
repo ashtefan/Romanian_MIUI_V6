@@ -64,4 +64,68 @@
         <item quantity="few"> (%1$d elemente)</item>
         <item quantity="many"> (%1$d elemente)</item>
     </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Fișiere asociate cu aplicaţia %1$s (%2$d elemente)</item>
+        <item quantity="zero">Fișiere asociate cu aplicaţia %1$s (%2$d elemente)</item>
+        <item quantity="one">Fișiere asociate cu aplicaţia %1$s (%2$d element)</item>
+        <item quantity="two">Fișiere asociate cu aplicaţia %1$s (%2$d elemente)</item>
+        <item quantity="few">Fișiere asociate cu aplicaţia %1$s (%2$d elemente)</item>
+        <item quantity="many">Fișiere asociate cu aplicaţia %1$s (%2$d elemente)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Fișiere asociate cu %1$s (%2$d elemente)</item>
+        <item quantity="zero">Fișiere asociate cu %1$s (%2$d elemente)</item>
+        <item quantity="one">Fișiere asociate cu %1$s (%2$d element)</item>
+        <item quantity="two">Fișiere asociate cu %1$s (%2$d elemente)</item>
+        <item quantity="few">Fișiere asociate cu %1$s (%2$d elemente)</item>
+        <item quantity="many">Fișiere asociate cu %1$s (%2$d elemente)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
+        <item quantity="zero">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
+        <item quantity="one">Fișiere asociate cu eticheta %1$s (%2$d element)</item>
+        <item quantity="two">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
+        <item quantity="few">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
+        <item quantity="many">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minute în urmă</item>
+        <item quantity="zero">%1$d minute în urmă</item>
+        <item quantity="one">%1$d minut în urmă</item>
+        <item quantity="two">%1$d minute în urmă</item>
+        <item quantity="few">%1$d minute în urmă</item>
+        <item quantity="many">%1$d minute în urmă</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ore în urmă</item>
+        <item quantity="zero">%1$d ore în urmă</item>
+        <item quantity="one">%1$d oră în urmă</item>
+        <item quantity="two">%1$d ore în urmă</item>
+        <item quantity="few">%1$d ore în urmă</item>
+        <item quantity="many">%1$d ore în urmă</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d zile în urmă</item>
+        <item quantity="zero">%1$d zile în urmă</item>
+        <item quantity="one">%1$d zi în urmă</item>
+        <item quantity="two">%1$d zile în urmă</item>
+        <item quantity="few">%1$d zile în urmă</item>
+        <item quantity="many">%1$d zile în urmă</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Au fost găsite %1$d fişere noi</item>
+        <item quantity="zero">Au fost găsite %1$d fişere noi</item>
+        <item quantity="one">A fost găsit %1$d fişer nou</item>
+        <item quantity="two">Au fost găsite %1$d fişere noi</item>
+        <item quantity="few">Au fost găsite %1$d fişere noi</item>
+        <item quantity="many">Au fost găsite %1$d fişere noi</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
+        <item quantity="zero">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
+        <item quantity="one">A fost recepţionat %1$d fişier al aplicaţiei %2$s</item>
+        <item quantity="two">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
+        <item quantity="few">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
+        <item quantity="many">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
+    </plurals>
 </resources>
