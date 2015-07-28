@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_to_whitelist_button">Gestiune excepţii</string>
+    <string name="add_to_whitelist_button">Gestionare excepţii</string>
     <string name="add_white_list">Adăugaţi</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizată cu mai mult de o lună în urmă</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizată cu mai mult de o săptămână în urmă</string>
@@ -25,7 +25,7 @@
     <string name="daily_pkg_traffic">Setați limita de utilizare în orele de vârf</string>
     <string name="data_usage_correction_timeout_body">Atingeți pentru a actualiza manual.</string>
     <string name="data_usage_correction_timeout_title">Timpul pentru sincronizarea utilizării datelor a expirat</string>
-    <string name="data_usage_disabled_dialog">Ați atins limita de utilizare a datelor din planul dvs.. Dacă treceţi peste limita dvs., operatorul poate percepe taxe suplimentare.</string>
+    <string name="data_usage_disabled_dialog">Ați atins limita de utilizare a datelor din planul dvs. Dacă depăşiţi această limită, operatorul vă poate percepe taxe suplimentare.</string>
     <string name="data_usage_disabled_dialog_enable">Activaţi datele</string>
     <string name="data_usage_leisure_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
     <string name="data_usage_leisure_warning_title">Limita utilizării datelor în afara orelor de vârf</string>
@@ -212,7 +212,7 @@ o conexiune de date mobilă"</string>
     <string name="pref_package_traffic_settings">Limita datelor mobile</string>
     <string name="pref_pkg_begin_date">Data de resetare a ciclului de utilizare</string>
     <string name="pref_setting_operators_message">Editați mesajul pe care dispozitivul dvs. îl trimite operatorului pentru a sincroniza statistica de utilizare a datelor</string>
-    <string name="pref_show_mobile_traffic">Se afişează statistica de utilizare a datelor în timpul deblocării, după ce dispozitivul a fost blocat timp de mai mult de 5 minute</string>
+    <string name="pref_show_mobile_traffic">Se afişează statistica de utilizare a datelor în timpul deblocării, dacă dispozitivul a fost blocat timp de mai mult de 5 minute</string>
     <string name="pref_special_traffic_exceed_limit">Anunţă-mă atunci când utilizarea datelor a atins limita</string>
     <string name="pref_special_traffic_limit_warn">Setaţi valoarea de avertizare pentru utilizarea datelor</string>
     <string name="pref_specified_adjust">Setaţi o limită personalizată</string>
@@ -235,7 +235,7 @@ o conexiune de date mobilă"</string>
     <string name="pref_traffic_saving_whitelist_hint">Nu se limitează utilizarea datelor pentru aplicaţiile selectate</string>
     <string name="pref_version">Versiune %s</string>
     <string name="pref_warning_values">Nivelul de avertizare</string>
-    <string name="pref_whitelist_setting">Gestiune excepţii</string>
+    <string name="pref_whitelist_setting">Gestionare excepţii</string>
     <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteti de acord cu &lt;a href=%s> Termenii și condițiile&lt;/a> Opera."</string>
     <string name="privacy_declare_dialog_title">Termeni și condiții</string>
     <string name="privacy_prompt_tc_sms_report_message">Numărul dvs. de telefon și detaliile operatorului vor fi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor.</string>
@@ -518,7 +518,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="daily_limit_network_available_body_open_traffic_saving">Apăsați pentru a activa datele mobile.</string>
     <string name="notify_daily_traffic_saving_title">%s utilizaţi astăzi</string>
-    <string name="pref_traffic_saving_auto_add_whitelist">Să permit excepții inteligente</string>
+    <string name="pref_traffic_saving_auto_add_whitelist">Se permit excepții inteligente</string>
     <string name="pref_traffic_saving_auto_add_whitelist_hint">Se adaugă automat aplicații cu capacități de economisire a datelor în excepții</string>
     <string name="pref_traffic_saving_compressed">Comprimat</string>
     <string name="pref_traffic_saving_no_compress">Necomprimat</string>
@@ -547,7 +547,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="network_speed_for_apps_others">Alte</string>
     <string name="network_speed_for_apps_title">Detalii viteză conexiune</string>
     <string name="network_speed_for_apps_total">Viteză conexiune</string>
-    <string name="operator_setted_error_dialog_message">Cartela SIM pe care o utilizați este din %1$s, ceea ce este diferit de locația setată manual (%2$s). Schimbaţi locaţia cartelei SIM în %3$s?</string>
+    <string name="operator_setted_error_dialog_message">Cartela SIM pe care o utilizați este din %1$s, ceea ce este diferită de locația setată manual (%2$s). Schimbaţi locaţia cartelei SIM în %3$s?</string>
     <string name="operator_setted_error_notify_message">Atingeți pentru a schimba locația cartelei SIM.</string>
     <string name="operator_setted_error_notify_title">Eroare cartelă SIM</string>
     <string name="pref_roaming_setting_gategory">Roaming de date</string>
