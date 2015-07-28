@@ -48,7 +48,7 @@
     <string name="delete_timezone_title">Ştergeţi ceasul</string>
     <string name="dialog_confirm_abort">Renunțați la modificări?</string>
     <string name="done">Terminat</string>
-    <string name="edit_systemtime">Editaţi data si ora sistemului</string>
+    <string name="edit_systemtime">Editaţi data şi ora sistemului</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="every_day">În fiecare zi</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>

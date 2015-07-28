@@ -963,8 +963,8 @@ Dacă textul sistemului dvs. este încă prea mic, încercați să utilizați "<
     <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desen în 2D</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
     <string name="force_msaa_summary">Activaţi MSAA 4x în aplicaţiile OpenGL ES 2.0</string>
-    <string name="force_rtl_layout_all_locales">Direcție aspect stg.-dr.</string>
-    <string name="force_rtl_layout_all_locales_summary">Direcție obligatorie aspect ecran stânga-dreapta</string>
+    <string name="force_rtl_layout_all_locales">Direcție aspect dr. - st.</string>
+    <string name="force_rtl_layout_all_locales_summary">Direcție obligatorie aspect ecran dreapta - stânga</string>
     <string name="force_stop">Opriţi forţat</string>
     <string name="force_stop_dlg_text">Dacă forţaţi oprirea unei aplicaţii, aceasta se poate comporta necorespunzător.</string>
     <string name="force_stop_dlg_title">Opriţi forţat?</string>
