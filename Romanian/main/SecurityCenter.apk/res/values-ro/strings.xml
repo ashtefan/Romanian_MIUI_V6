@@ -143,12 +143,12 @@
     <string name="hints_handle_item_text_safe">Sigur</string>
     <string name="hints_handle_item_text_virus">Viruşi: %d</string>
     <string name="hints_last_virus_scan_none">Nu a fost scanat înainte</string>
-    <string name="hints_last_virus_scan_risk">Scanat %d zile înainte: suspicios</string>
-    <string name="hints_last_virus_scan_safe">Scanat %d zile înainte: sigur</string>
+    <string name="hints_last_virus_scan_risk">Scanat cu %d zile înainte: suspicios</string>
+    <string name="hints_last_virus_scan_safe">Scanat cu %d zile înainte: sigur</string>
     <string name="hints_last_virus_scan_today_risk">Scanat astăzi: suspicios</string>
     <string name="hints_last_virus_scan_today_safe">Scanat astăzi: sigur</string>
     <string name="hints_last_virus_scan_today_virus">Scanat astăzi: periculos</string>
-    <string name="hints_last_virus_scan_virus">Scanat %d zile înainte: periculos</string>
+    <string name="hints_last_virus_scan_virus">Scanat cu %d zile înainte: periculos</string>
     <string name="hints_last_virus_scan_yesterday_risk">Scanat ieri: suspicios</string>
     <string name="hints_last_virus_scan_yesterday_safe">Scanat ieri: sigur</string>
     <string name="hints_last_virus_scan_yesterday_virus">Scanat ieri: periculos</string>
@@ -164,7 +164,7 @@
     <string name="hints_scan_result_safe">Sigur</string>
     <string name="hints_scan_result_virus">Viruşi detectaţi</string>
     <string name="hints_scanning_text">Scanare…</string>
-    <string name="hints_scanning_virus_by_cloud">Scanare cloud în curs de desfășurare…</string>
+    <string name="hints_scanning_virus_by_cloud">Scanare Cloud în curs de desfășurare…</string>
     <string name="hints_unknown_virus_name">Necunoscut</string>
     <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
     <string name="hints_virus_apk_summary">%s (apk)</string>
@@ -186,8 +186,8 @@
     <string name="last_check_date_today">"Scanat astăzi "</string>
     <string name="last_check_date_yesterday">"Scanat ieri "</string>
     <string name="last_check_never_checked">Scanaţi acum</string>
-    <string name="last_checked_date2">Scanat %d zile în urmă</string>
-    <string name="last_checked_default">Scanat %s zile în urmă</string>
+    <string name="last_checked_date2">Scanat cu %d zile în urmă</string>
+    <string name="last_checked_default">Scanat cu %s zile în urmă</string>
     <string name="legal_workday">Sărbători</string>
     <string name="legal_workday_invalidate">Lu-Vi (informaţie despre sărbători expirată)</string>
     <string name="legal_workday_invalidate_message">Apăsați pentru a actualiza informaţiile despre sărbătorile legale.</string>
@@ -201,7 +201,7 @@
     <string name="menu_item_about_summary">Versiune %s</string>
     <string name="menu_item_about_title">Despre</string>
     <string name="menu_item_app_details">Detalii</string>
-    <string name="menu_item_app_permissions_control">Gestiune permisiuni</string>
+    <string name="menu_item_app_permissions_control">Gestionare permisiuni</string>
     <string name="menu_item_control_app_permissions">Se solicită acceptul înainte de a permite aplicațiilor să citească contactele dvs., să vizualizeze istoricul apelurilor, să schimbe setările de sistem sau să acceseze camera și alte resurse ale dispozitivului</string>
     <string name="menu_item_force_stop">Oprire forţată</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
@@ -267,17 +267,17 @@
     <string name="power_center_custom_title">Profiluri acumulator</string>
     <string name="power_center_low_battery_summary_default">Comutare profiluri atunci când acumulatorul este descărcat</string>
     <string name="power_center_low_battery_summary_dynamic">"La %1$d%%
-Se comută la %2$s"</string>
+se comută la %2$s"</string>
     <string name="power_center_low_battery_title">Economisire acumulator</string>
     <string name="power_center_on_time_summary_default">Comutare profiluri acumulator la ora programată</string>
     <string name="power_center_on_time_summary_dynamic">"De la %1$s până la %2$s
-Se comută la %3$s"</string>
+se comută la %3$s"</string>
     <string name="power_center_on_time_title">Program comutare profil</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
     <string name="power_center_ontime_shutdown">Ora de oprire</string>
     <string name="power_center_repeat">Repetare</string>
-    <string name="power_center_state_off">Oprit</string>
-    <string name="power_center_state_on">Pornit</string>
+    <string name="power_center_state_off">Oprită</string>
+    <string name="power_center_state_on">Pornită</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
     <string name="power_center_title">Energie</string>
@@ -376,7 +376,7 @@ Se comută la %3$s"</string>
     <string name="power_mode_touch_with_vibration">Vibrare la atingere</string>
     <string name="power_mode_vibration">Vibrare</string>
     <string name="power_mode_vibration_no">Niciodată</string>
-    <string name="power_mode_vibration_silence">În modul silenţios</string>
+    <string name="power_mode_vibration_silence">În modul Silenţios</string>
     <string name="power_mode_vibration_yes">Mereu</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_new_choose_mode">Selectaţi un profil</string>
@@ -460,7 +460,7 @@ Se comută la %3$s"</string>
     <string name="summary_flow_notification">Afişaţi statisticile lunare de utilizare a datelor în panoul notificărilor</string>
     <string name="summary_flow_purchase_beyond">Ați depășit limita de date lunare din planul operatorului dvs. cu %s MO</string>
     <string name="summary_flow_purchase_left">Aveţi doar %s MO din datele mobile rămase în această lună</string>
-    <string name="summary_flow_verify">Nu au fost sincronizate statisticile de utilizare a datelor de la operatorul dvs. %d zile</string>
+    <string name="summary_flow_verify">Nu au fost sincronizate statisticile de utilizare a datelor de la operatorul dvs. de %d zile</string>
     <string name="summary_garbage_lib">Utilizați cele mai recente definiții pentru a elimina programele spyware, adware și alte reziduuri nedorite</string>
     <string name="summary_install_virus">Verificare aplicații pentru viruși înainte de instalare</string>
     <string name="summary_miui_update">Actualizare disponibilă pentru %s.</string>
