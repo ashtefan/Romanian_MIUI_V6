@@ -256,7 +256,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="battery_info_health_cold">Golit</string>
     <string name="battery_info_health_dead">Epuizat</string>
     <string name="battery_info_health_good">Bun</string>
-    <string name="battery_info_health_label">Bună funcţionare a acumulatorului:</string>
+    <string name="battery_info_health_label">Acumulator în stare bună:</string>
     <string name="battery_info_health_over_voltage">Peste voltaj</string>
     <string name="battery_info_health_overheat">Supraîncălzire</string>
     <string name="battery_info_health_unknown">Necunoscut</string>
@@ -283,7 +283,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="battery_info_status_unknown">Necunoscut</string>
     <string name="battery_info_technology_label">Tehnologia acumulatorului:</string>
     <string name="battery_info_temperature_label">Temperatură acumulator:</string>
-    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">Durată de la pornire:</string>
     <string name="battery_info_voltage_label">Voltaj acumulator:</string>
     <string name="battery_info_voltage_units">mV</string>
@@ -337,7 +337,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="bluetooth_connection_permission_request">Solicitare de conectare Bluetooth</string>
     <string name="bluetooth_device">Dispozitiv Bluetooth nedenumit</string>
     <string name="bluetooth_device_address">Adresă:</string>
-    <string name="bluetooth_device_advanced_enable_opp_title">Permiteţi transfer de fişiere</string>
+    <string name="bluetooth_device_advanced_enable_opp_title">Permiteţi transferul de fişiere</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Conectaţi-vă la dispozitivul Bluetooth</string>
     <string name="bluetooth_device_advanced_online_mode_title">Conectaţi-vă</string>
     <string name="bluetooth_device_advanced_profile_header_title">Profiluri</string>
@@ -376,7 +376,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="bluetooth_enter_passkey_msg">Pentru împerecherea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Introduceţi cheia de acces necesară a dispozitivului:</string>
     <string name="bluetooth_enter_passkey_other_device">Ar putea fi necesar, de asemenea, să introduceţi această parolă pe celălalt dispozitiv.</string>
     <string name="bluetooth_enter_pin_msg">Pentru împerecherea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Introduceţi codul PIN necesar al dispozitivului:</string>
-    <string name="bluetooth_enter_pin_other_device">Ar putea fi necesar, de asemenea, să introduceţi acest cod PIN pe celălalt dispozitiv.</string>
+    <string name="bluetooth_enter_pin_other_device">Ar putea fi necesar, de asemenea, să introduceţi acest cod PIN şi pe celălalt dispozitiv.</string>
     <string name="bluetooth_error_title" />
     <string name="bluetooth_headset_profile_summary_connected">Conectat la componenta audio a telefonului</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizaţi pentru componenta audio a telefonului</string>
@@ -579,7 +579,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="contributors_title">Colaboratori</string>
     <string name="controls_label">Comenzi</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
-    <string name="copyright_title">Drept de autor</string>
+    <string name="copyright_title">Drepturi de autor</string>
     <string name="create">Creaţi</string>
     <string name="credential_storage_type">Tip de stocare</string>
     <string name="credential_storage_type_hardware">Stocare hardware</string>
@@ -590,7 +590,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="credentials_install">Instalaţi de pe stocare</string>
     <string name="credentials_install_gesture_explanation">Trebuie să desenaţi modelul de deblocare pentru a confirma instalarea acreditării.</string>
     <string name="credentials_install_gesture_prompt">Desenaţi modelul pentru deblocare</string>
-    <string name="credentials_install_summary">Instalaţi certificate de pe stocare</string>
+    <string name="credentials_install_summary">Instalaţi certificate din spaţiul de stocare</string>
     <string name="credentials_not_erased">Nu s-a şters sp. stoc. cert.</string>
     <string name="credentials_old_password">Parola actuală:</string>
     <string name="credentials_password_too_short">Parola trebuie să conţină minimum 8 caractere.</string>
@@ -638,7 +638,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="data_usage_app_restrict_background_summary_disabled">Pt. restr. dat. fundal pt. aplic., set. întâi lim. pt. date mob.</string>
     <string name="data_usage_app_restrict_dialog">"Această funcţie poate face ca o aplicaţie care depinde de datele de fundal să nu mai funcţioneze când sunt disponibile numai reţele mobile.
 
-Puteţi găsi comenzi mai adecvate pentru utilizarea datelor în setările disponibile în cadrul aplicaţiei."</string>
+Puteţi găsi comenzi mai adecvate pentru utilizarea datelor în setările disponibile din cadrul aplicaţiei."</string>
     <string name="data_usage_app_restrict_dialog_title">Restricţionaţi datele de fundal?</string>
     <string name="data_usage_app_restricted">limitată</string>
     <string name="data_usage_app_settings">Afişaţi setările aplicaţiei</string>
@@ -778,9 +778,9 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="device_status_summary">Număr de telefon, semnal etc.</string>
     <string name="dialog_content_login">Vă conectaţi la contul dvs. Mi pentru a actualiza?</string>
     <string name="dialog_no">Nu</string>
-    <string name="dialog_title_color_calibration">Presetare corecţie culoare</string>
+    <string name="dialog_title_color_calibration">Presetare corecţie de culoare</string>
     <string name="dialog_title_font_size">Dimensiune text</string>
-    <string name="dialog_title_hdmi_color_calibration">Presetare corecţie culoare</string>
+    <string name="dialog_title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="dialog_yes">Da</string>
     <string name="dirac_control">Optimizaţi calitatea sunetului</string>
@@ -880,7 +880,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="downloading_description">Descărcare…</string>
     <string name="drive_mode">Mod Automobil</string>
     <string name="drive_mode_auto_reply">Răspuns automat</string>
-    <string name="drive_mode_auto_sms_reply_content">Nu pot vorbi acum ... Te sun eu mai târziu</string>
+    <string name="drive_mode_auto_sms_reply_content">Nu pot vorbi acum ... Este ceva urgent?</string>
     <string name="drive_mode_auto_sms_reply_content_title">Răspuns rapid</string>
     <string name="drive_mode_calling_auto_sms_reply">Răspuns automat cu SMS</string>
     <string name="drive_mode_invert_stop_report">Întoarceţi pentru a opri semnalarea</string>
