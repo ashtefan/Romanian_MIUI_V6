@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Mod Prestabilit</item>
+        <item>Mod Ascuns</item>
+        <item>Mod Citire</item>
+        <item>Mod Media</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Aplicaţia se execută în prim plan</item>
+        <item>Ecran pornit</item>
+        <item>Ecran oprit</item>
+        <item>Oprire ecran peste 10 minute</item>
+        <item>Intrare în ecran complet</item>
+        <item>Ieşire din ecran complet</item>
+        <item>Aplicaţia se execută în fundal</item>
+        <item>Telefonul se încarcă</item>
+        <item>Telefonul nu se încarcă</item>
+        <item>Telefonul se execută în modul inactiv</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Luminozitate maximă</item>
+        <item>Frecvenţă maximă a procesorului</item>
+        <item>Modul ecranului</item>
+        <item>Utilizare procesor</item>
+        <item>Conexiune de date</item>
+        <item>Locaţie</item>
+        <item>Notificarea primului mesaj</item>
+        <item>Notificare blocare ecran</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Nicio operaţie</item>
+        <item>Standard</item>
+        <item>Imagine</item>
+        <item>Film</item>
+        <item>Economisire acumulator</item>
+        <item>Echilibrat</item>
+        <item>Performanţă</item>
+        <item>Activare</item>
+        <item>Dezactivare</item>
+    </string-array>
+</resources>
