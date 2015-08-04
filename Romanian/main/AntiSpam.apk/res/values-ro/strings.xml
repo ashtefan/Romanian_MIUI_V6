@@ -55,8 +55,8 @@
     <string name="bl_no_block_call">Niciun apel blocat</string>
     <string name="bl_no_block_sms">Niciun mesaj blocat</string>
     <string name="blacklist_prefix_add_hint">Blocaţi toate numerele ce încep cu acest prefix</string>
-    <string name="block_message_number">Mesaje: %d</string>
-    <string name="block_phone_number">Apeluri: %d</string>
+    <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="block_phone_number">Apeluri: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="button_text_delete">Ştergeţi</string>
     <string name="button_to_setting">Setări</string>
     <string name="call_delete_hint">Ștergeți toate apelurile blocate primite de la numărul selectat?</string>
@@ -324,4 +324,6 @@
     <string name="mark_time_text">%d</string>
     <string name="repeated_marked_number_summary">Nu se blochează un al doilea apel primit în decurs de 3 minute de la acelaşi număr ce a fost raportat.</string>
     <string name="repeated_marked_number_title">"Nu se blochează apelurile repetate de la numere raportate</string>
+    <string name="quiet_group">Nu deranjaţi</string>
+    <string name="sim_not_ready_toast">Cartela SIM nu este gata, setare eşuată</string>
 </resources>

@@ -25,8 +25,6 @@
     <string name="cloud_space_upgrade_message">Apăsați pentru a adăuga %sGO în norul dvs.</string>
     <string name="cloud_space_upgrade_no_quota_info">Nu s-au putut obține informații despre stocare</string>
     <string name="cloud_space_upgrade_title">Mai mult spațiu pentru Mi Cloud</string>
-    <string name="cloud_sync_setting_summary_standard">Utilizați conexiunea de date mobile pentru a sincroniza contactele, mesajele, istoricul apelurilor, notele, setările Wi-Fi, datele Browser-ului și listele de redare</string>
-    <string name="cloud_sync_setting_summary_wlan">Se sincronizează datele doar atunci când există conexiune Wi-Fi</string>
     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs. și pentru a partaja lucruri prietenilor</string>
     <string name="contact">Contacte</string>
     <string name="disable_find_device_error">Nu se poate opri localizarea dispozitivului. %1$s</string>
@@ -188,7 +186,6 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="next">Înainte</string>
     <string name="noRemind">Nu-mi reaminti</string>
     <string name="no_sim">Niciun card SIM detectat</string>
-    <string name="only_in_wlan">Dezactivat</string>
     <string name="other_settings">Alte setări</string>
     <string name="password">Introduceţi parola dvs.</string>
     <string name="phone_number_may_required_dspt_provision">"Acest serviciu poate solicita numărul dvs. de telefon. "</string>
@@ -240,8 +237,6 @@ Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele
     <string name="sync_off">Dezactivat</string>
     <string name="sync_on">Activat</string>
     <string name="sync_resend_sms_dspt_provision">" Dacă schimbaţi cartela SIM, operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a reactiva acest serviciu."</string>
-    <string name="sync_setting">Utilizare date mobile</string>
-    <string name="sync_standard">Mesaje SMS și istoric apeluri</string>
     <string name="sync_sub_1_intl_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS internaţional utilizat pentru a activa acest serviciu.</string>
     <string name="sync_sub_1_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
     <string name="sync_sub_1_sms_1_intl_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS local şi unul internaţional utilizate pentru a activa acest serviciu.</string>

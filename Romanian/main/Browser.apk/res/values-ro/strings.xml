@@ -13,9 +13,9 @@
     <string name="accessibility_time_picker_second">Secundă</string>
     <string name="account_prifix">Cont:</string>
     <string name="action">Conectaţi-vă</string>
-    <string name="action_menu_text_bandwidth">Lărgime de bandă</string>
-    <string name="action_menu_text_bandwidth_off">Lărgime de bandă/Dezactivat</string>
-    <string name="action_menu_text_bandwidth_on">Lărgime de bandă/Activat</string>
+    <string name="action_menu_text_bandwidth">Economisire date</string>
+    <string name="action_menu_text_bandwidth_off">Economisire date dezactivat</string>
+    <string name="action_menu_text_bandwidth_on">Economisire date activat</string>
     <string name="action_menu_text_exit">Ieşire</string>
     <string name="action_menu_text_history">Marcaje şi istoric</string>
     <string name="action_menu_text_nightmode">Mod nocturn</string>
@@ -81,7 +81,7 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisaţi în sus pentru a închide</string>
     <string name="browserFrameFileErrorLabel">Problemă cu fişierul</string>
     <string name="browserFrameFormResubmitLabel" />
-    <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise („POSTDATA”). În caz că retransmiteţi datele, orice acţiune efectuată prin formularul de pe pagină (cum ar fi o căutare sau o achiziţie online), se va repeta.</string>
+    <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise. În caz că retransmiteţi datele, acţiunile anterioare (de ex. căutările, sau achiziţiile) se vor repeta.</string>
     <string name="browserFrameNetworkErrorLabel">Problemă de conexiune</string>
     <string name="cancel">Anulaţi</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
@@ -159,7 +159,7 @@
     <string name="delete_bookmark_warning">Ştergeţi marcajul „%s”?</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_default_path_txt">Memorează această alegere</string>
-    <string name="download_dialog_default_path_invalid">Calea pentru descărcare nu este validă, utilizaţi calea de descărcare prestabilită</string>
+    <string name="download_dialog_default_path_invalid">Locația de descărcare pe care ați selectat-o nu este validă. Salvare în locaţia prestabilită…</string>
     <string name="download_dialog_file_length_hint_txt">"Dimensiune fişier: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 kb</string>
     <string name="download_dialog_file_length_nolength_error_txt">Descărcare eşuată</string>
@@ -195,7 +195,7 @@
     <string name="filename_illegal_alert_message">Un caracter interzis a fost eliminat din numele fișierului</string>
     <string name="find_next">Găsiţi următorul</string>
     <string name="find_on_page_cancel">Anulaţi</string>
-    <string name="find_on_page_hint">Introduceţi căutarea dvs.</string>
+    <string name="find_on_page_hint">Căutare în pagină</string>
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
@@ -224,9 +224,9 @@
     <string name="is_page_top">Sunteţi în partea de sus a paginii</string>
     <string name="js_dialog_before_unload">"%s
 
-Sunteți sigur că doriți să părăsiţi această pagină?"</string>
-    <string name="js_dialog_before_unload_negative_button">Rămâneți pe această pagină</string>
-    <string name="js_dialog_before_unload_positive_button">Părăsiţi această pagină</string>
+Părăsiţi această pagină?"</string>
+    <string name="js_dialog_before_unload_negative_button">Rămâneți</string>
+    <string name="js_dialog_before_unload_positive_button">Părăsiţi</string>
     <string name="js_dialog_before_unload_title">Confirmaţi navigarea</string>
     <string name="js_dialog_title">Pagina de la \" %s \" zice:</string>
     <string name="js_dialog_title_default">JavaScript</string>
@@ -237,7 +237,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="local_bookmarks">Mi</string>
     <string name="low_memory_error">Imposibil de a finaliza operaţiunea anterioară din cauza memoriei insuficiente</string>
     <string name="max_tabs_warning">Limită de file atinsă</string>
-    <string name="maximum_input_alert">Introducere maximă de 2048 de caractere</string>
+    <string name="maximum_input_alert">Nu se pot introduce mai mult de 2048 de caractere</string>
     <string name="media_error_action_refresh">Reîmprospătaţi</string>
     <string name="media_error_action_replace_video_source">Nu s-a putut schimba sursa</string>
     <string name="media_error_failure">Nu se poate reda videoclipul</string>
@@ -275,11 +275,11 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="miui_search_notification_message">Atingeţi pentru a vedea bara de căutare</string>
     <string name="miui_search_notification_title">Bara de căutare</string>
     <string name="miuichromium_error_page_mobile">Reţea mobilă</string>
-    <string name="miuichromium_error_page_reason_network">Vizualizaţi URL-ul link-ului</string>
-    <string name="miuichromium_error_page_reason_server">Browser-ul nu poate încărca această pagină</string>
+    <string name="miuichromium_error_page_reason_network">Nu se poate conecta la reţea</string>
+    <string name="miuichromium_error_page_reason_server">Nu se poate încărca această pagină</string>
     <string name="miuichromium_error_page_reload">Reîncărcaţi</string>
     <string name="miuichromium_error_page_title">Nu se poate găsi această pagină</string>
-    <string name="miuichromium_error_page_url">Vizualizaţi pagina URL</string>
+    <string name="miuichromium_error_page_url">Nu se poate conecta la reţea</string>
     <string name="miuichromium_error_page_wlan">Setări Wi-Fi</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Cardul SD este necesar pentru a putea modifica această cale.</string>
     <string name="month_picker_dialog_title">Setaţi luna</string>
@@ -428,7 +428,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="save_file_already_exist_alert_title">Alertă</string>
     <string name="save_image_failed">Imposibil de salvat imaginea</string>
     <string name="save_image_success">Imagine salvată</string>
-    <string name="save_password_message">Doriţi ca browser-ul să memoreze această parolă?</string>
+    <string name="save_password_message">Se memorizează această parolă?</string>
     <string name="save_password_never">Niciodată</string>
     <string name="save_password_notnow">Nu acum</string>
     <string name="save_password_remember">Memorare</string>
@@ -461,7 +461,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="show_check_security_url_check_tip_dialog_title">Verificare securitate URL</string>
     <string name="sign_in_to" formatted="false">Conectaţi-vă la %s1 „%s2”</string>
     <string name="snapshot_failed">Nu s-a putut salva pentru citire offline</string>
-    <string name="snapshot_successed">Salvare reuşită pentru lectură offline</string>
+    <string name="snapshot_successed">Salvare pentru lectură offline</string>
     <string name="ssl_certificate">Certificat de securitate</string>
     <string name="ssl_certificate_is_valid">Acest certificat este valabil.</string>
     <string name="ssl_continue">Continuaţi</string>
@@ -540,7 +540,7 @@ Sunteți sigur că doriți să părăsiţi această pagină?"</string>
     <string name="video_push_single_message">Apăsaţi pentru a actualiza la %1$d.</string>
     <string name="view_certificate">Vizualizaţi certificatul</string>
     <string name="voice_sub_title">Nu știţi ce să spuneţi? Încercaţi, Deschide mi.com!</string>
-    <string name="voice_title">Rostiți comanda…</string>
+    <string name="voice_title">Rostiți comanda dvs…</string>
     <string name="voice_title_distinguish">Procesare…</string>
     <string name="voice_title_listening">Ascultare…</string>
     <string name="voice_title_please">Vorbire…</string>

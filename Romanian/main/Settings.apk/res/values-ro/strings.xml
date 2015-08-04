@@ -3019,4 +3019,5 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea proceselor de fundal ale aplicațiilor, conexiunilor Wi-Fi și datelor mobile, precum și GPS</string>
     <string name="power_hide_mode_title">Gestionați utilizarea acumulatorului de către aplicații</string>
     <string name="wifi_eap_sim_simcard">Selectaţi cartela SIM</string>
+    <string name="screen_color_and_optimize">Culori şi Contrast</string>
 </resources>
