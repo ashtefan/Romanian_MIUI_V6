@@ -77,8 +77,8 @@
     <string name="callFailed_powerOff">Radio oprit</string>
     <string name="callFailed_server_error">Eroare de server. Încercaţi din nou mai târziu.</string>
     <string name="callFailed_server_unreachable">Server inaccesibil</string>
-    <string name="callFailed_simError">Nu există SIM sau eroare de SIM</string>
-    <string name="callFailed_simError_cdma">No UIM/SIM, sau eroare de UIM/SIM</string>
+    <string name="callFailed_simError">Nu există SIM sau a apărut o eroare de SIM</string>
+    <string name="callFailed_simError_cdma">Nu există UIM/SIM, sau a apărut o eroare de UIM/SIM</string>
     <string name="callFailed_simError_slotNumber">Niciun SIM sau eroare de SIM în slotul %s</string>
     <string name="callFailed_timedOut">Fără răspuns, durata a expirat</string>
     <string name="callFailed_unobtainable_number">Număr greşit</string>
@@ -170,8 +170,8 @@
     <string name="confirmPinLabel">Confirmaţi noul cod PIN</string>
     <string name="confirm_3g_switch">Sunteți sigur că doriți să setați serviciul 3G pentru acest SIM? Acest lucru va stabili, de asemenea, SIM-ul prestabilit pentru apeluri video în mod automat.</string>
     <string name="confirm_3g_switch_to_off">Sigur doriți să dezactivați serviciul 3G? Acest lucru va dezactiva, de asemenea, serviciul apel video în mod automat.</string>
-    <string name="confirm_device_info_full">Spaţiul liber pe cardul SD s-a terminat, înregistrarea a fost salvată.</string>
-    <string name="confirm_password_label">Confirmaţi parola nouă</string>
+    <string name="confirm_device_info_full">Nu mai există spaţiu liber pe cardul SD, înregistrarea a fost salvată.</string>
+    <string name="confirm_password_label">Confirmaţi noua parolă</string>
     <string name="confirm_save_info_saved">Înregistrarea a fost salvată</string>
     <string name="confirm_save_info_saved_to">Înregistrarea a fost salvată în</string>
     <string name="connect_later">Nu se poate efectua conectarea la această reţea. Încercaţi din nou mai târziu.</string>
@@ -339,7 +339,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="incall_error_emergency_only">Neînregistrat în reţea.</string>
     <string name="incall_error_no_phone_number_supplied">Apelul nu a fost efectuat; niciun număr valid introdus.</string>
     <string name="incall_error_out_of_service">Reţeaua mobilă nu este disponibilă.</string>
-    <string name="incall_error_power_off">Pentru a efectua un apel, mai întâi dezactivaţi modul Avion.</string>
+    <string name="incall_error_power_off">Pentru a efectua un apel, dezactivaţi mai întâi modul Avion.</string>
     <string name="incall_error_supp_service_conference">Teleconferinţa nu se poate efectua.</string>
     <string name="incall_error_supp_service_hangup">Apelul (apelurile) nu poate (pot) fi încheiat (încheiate).</string>
     <string name="incall_error_supp_service_reject">Apelul nu poate fi respins.</string>
@@ -497,7 +497,7 @@ necondiționată activată"</string>
     <string name="name">Nume</string>
     <string name="national_disable">Ştiri naţionale dezactivate</string>
     <string name="national_enable">Ştiri naţionale activate</string>
-    <string name="net_or_simcard_busy">Reţea sau card SIM ocupate, încercaţi mai târziu</string>
+    <string name="net_or_simcard_busy">Reţea sau cartelă SIM ocupate, încercaţi mai târziu</string>
     <string name="network_forbidden">interzis</string>
     <string name="network_id">ID Reţea</string>
     <string name="network_message">Mesaj de reţea</string>
