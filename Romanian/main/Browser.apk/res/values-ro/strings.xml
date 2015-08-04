@@ -14,8 +14,8 @@
     <string name="account_prifix">Cont:</string>
     <string name="action">Conectaţi-vă</string>
     <string name="action_menu_text_bandwidth">Economisire date</string>
-    <string name="action_menu_text_bandwidth_off">Economisire date dezactivat</string>
-    <string name="action_menu_text_bandwidth_on">Economisire date activat</string>
+    <string name="action_menu_text_bandwidth_off">Economisire date dezactivată</string>
+    <string name="action_menu_text_bandwidth_on">Economisire date activată</string>
     <string name="action_menu_text_exit">Ieşire</string>
     <string name="action_menu_text_history">Marcaje şi istoric</string>
     <string name="action_menu_text_nightmode">Mod nocturn</string>
