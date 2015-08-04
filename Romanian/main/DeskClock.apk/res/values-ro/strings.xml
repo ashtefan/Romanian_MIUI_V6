@@ -28,7 +28,7 @@
     <string name="auto_silence_title">Dezactivare automată a sunetului</string>
     <string name="battery_charging_level">%d %%</string>
     <string name="cancel">Anulaţi</string>
-    <string name="close_alarm">Închideţi alarma</string>
+    <string name="close_alarm">Opriţi alarma</string>
     <string name="common_settings">Setări</string>
     <string name="confirm_abort">Renunţaţi</string>
     <string name="control_set_alarm">Setaţi alarma</string>
@@ -36,7 +36,7 @@
     <string name="day">1 zi</string>
     <string name="day_concat">", "</string>
     <string name="days">%s zile</string>
-    <string name="default_alarm_alert">Setaţi sunetul alarmei prestabilit</string>
+    <string name="default_alarm_alert">Setaţi sunetul prestabilit al alarmei</string>
     <string name="default_alarm_title">Ton sonerie prestabilit</string>
     <string name="default_label">Alarmă</string>
     <string name="delelte_selected_timezone">Ştergeţi fusul orar selectat?</string>
@@ -62,7 +62,7 @@
     <string name="lap_num">circuit</string>
     <string name="legal_workday">Zile de lucru legale</string>
     <string name="legal_workday_invalidate">Date expirate (în prezent, alarma sună de Luni până Vineri)</string>
-    <string name="legal_workday_invalidate_message">(Date expirate. Actualizaţi în setări)</string>
+    <string name="legal_workday_invalidate_message">(Date expirate. Actualizaţi în Setări)</string>
     <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
     <string name="loading_ringtone">Se încarcă tonul soneriei…</string>
     <string name="menu_add_worldclock">Adăugaţi un ceas</string>
