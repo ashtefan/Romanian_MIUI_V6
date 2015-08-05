@@ -4,5 +4,5 @@
     <string name="label_reboot">Repornire</string>
     <string name="label_shutdown">Oprire</string>
     <string name="label_alert_reboot">Apăsați mai sus pentru a reporni</string>
-    <string name="label_alert_shutdown">Apăsați mai sus pentru a opri alimentarea</string>
+    <string name="label_alert_shutdown">Apăsați mai sus pentru a închide telefonul</string>
 </resources>
