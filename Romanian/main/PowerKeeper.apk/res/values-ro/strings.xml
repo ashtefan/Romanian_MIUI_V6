@@ -33,9 +33,9 @@
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
     <string name="alter_message_delete">Ştergeţi?</string>
     <string name="alter_message_switch_mode">Comutaţi modurile?</string>
-    <string name="alter_message_switch_mode_message">Când comutați modurile, setarile anterioare nu se vor mai aplica la această aplicație.</string>
+    <string name="alter_message_switch_mode_message">Când comutați modurile, setările anterioare nu se vor mai aplica la această aplicație.</string>
     <string name="alter_message_open_hide_title">Gestionaţi utilizarea acumulatorului de către aplicații?</string>
-    <string name="alter_message_open_hide_message">Aplicaţiile pe care le adăugați la această listă nu vor putea să se conecteze la rețele Wi-Fi, reţele de date mobile, sau GPS și nu vor putea să funcţioneze în mod normal.</string>
+    <string name="alter_message_open_hide_message">Aplicaţiile pe care le adăugați în această listă nu vor putea să se conecteze la rețele Wi-Fi, reţele de date mobile sau GPS și nu vor putea funcţiona în mod normal.</string>
     <string name="alter_message_abandon_title">Renunţaţi la modificări?</string>
     <string name="power_configure_screen_brightness_enable">Setaţi luminozitatea ecranului</string>
     <string name="power_dialog_event_trigger_title">Eveniment</string>
