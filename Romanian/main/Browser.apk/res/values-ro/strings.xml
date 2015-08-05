@@ -159,7 +159,7 @@
     <string name="delete_bookmark_warning">Ştergeţi marcajul „%s”?</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_default_path_txt">Memorează această alegere</string>
-    <string name="download_dialog_default_path_invalid">Locația de descărcare pe care ați selectat-o nu este validă. Salvare în locaţia prestabilită…</string>
+    <string name="download_dialog_default_path_invalid">Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…</string>
     <string name="download_dialog_file_length_hint_txt">"Dimensiune fişier: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 kb</string>
     <string name="download_dialog_file_length_nolength_error_txt">Descărcare eşuată</string>
@@ -428,7 +428,7 @@ Părăsiţi această pagină?"</string>
     <string name="save_file_already_exist_alert_title">Alertă</string>
     <string name="save_image_failed">Imposibil de salvat imaginea</string>
     <string name="save_image_success">Imagine salvată</string>
-    <string name="save_password_message">Se memorizează această parolă?</string>
+    <string name="save_password_message">Se memorează această parolă?</string>
     <string name="save_password_never">Niciodată</string>
     <string name="save_password_notnow">Nu acum</string>
     <string name="save_password_remember">Memorare</string>
