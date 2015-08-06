@@ -713,7 +713,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>Pentru a accelera performanța dispozitivului, ascundeţi animațiile de sistem</item>
-        <item>Afişarea animațiilor de sistem poate reduce performanțele dispozitivului</item>
+        <item>Animațiile de sistem pot reduce performanțele dispozitivului</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reporniți dispozitivul pentru a aplica această setare?</item>

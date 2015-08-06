@@ -737,7 +737,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="debug_log">Program Experienţă Utilizator</string>
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="default_date_format">dd/MM/yyyy</string>
-    <string name="default_input_method">Selectaţi metoda de intrare prestabilită</string>
+    <string name="default_input_method">Selectaţi tastatura prestabilită</string>
     <string name="default_usb_mode">Conexiune USB</string>
     <string name="delete">Ştergeţi</string>
     <string name="deny">Refuzaţi</string>
@@ -770,7 +770,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="device_name">Nume dispozitiv</string>
     <string name="device_name_input_error">Nu s-a putut salva numele dispozitivului</string>
     <string name="device_name_input_hint">Introduceţi numele dispozitivului dvs.</string>
-    <string name="device_name_usage_point">Afişaţi acest nume la stabilirea conexiunilor bluetooth, tethering, etc.</string>
+    <string name="device_name_usage_point">Alte dispozitive din apropiere pot vedea acest nume</string>
     <string name="device_picker">Selector de dispozitive Bluetooth</string>
     <string name="device_sd_memory">Card SD</string>
     <string name="device_status">Stare</string>
@@ -938,7 +938,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="filter">Filtraţi</string>
     <string name="filter_apps_all">Toate</string>
     <string name="filter_apps_cached">În memoria cache</string>
-    <string name="filter_apps_disabled">Disabled</string>
+    <string name="filter_apps_disabled">Dezactivat</string>
     <string name="filter_apps_onsdcard">Card SD</string>
     <string name="filter_apps_running">Rulează</string>
     <string name="filter_apps_third_party">Descărcate</string>
@@ -949,16 +949,17 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="floating_window_switch_label">Activaţi fereastra plutitoare</string>
     <string name="floating_window_switch_label_disable">Dezactivaţi fereastra plutitoare</string>
     <string name="font_size_huge">Imens</string>
-    <string name="font_size_large">Mare</string>
-    <string name="font_size_medium">Mediu</string>
-    <string name="font_size_normal">Prestabilit</string>
+    <string name="font_size_large">Mai mare</string>
+    <string name="font_size_medium">Mare</string>
+    <string name="font_size_normal">Mic</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_save">OK</string>
-    <string name="font_size_small">Mic</string>
-    <string name="font_size_summary">Se modifică dimensiunea fontului pentru textul de pe ecranul de pornire, panou notificări, taste numerice, etc.</string>
-    <string name="font_size_summary1">"
-Dacă textul sistemului dvs. este încă prea mic, încercați să utilizați "</string>
-    <string name="font_size_summary2">Lite mode</string>
+    <string name="font_size_small">Mai mic</string>
+    <string name="font_size_summary">"Se modifică dimensiunea fontului pentru textul de pe ecranul de pornire, panoul notificărilor, tastele numerice şi meniurile de sistem.
+
+"</string>
+    <string name="font_size_summary1">"Dacă textul sistemului dvs. este încă prea mic, încercați "</string>
+    <string name="font_size_summary2">Modul \"Uşor\"</string>
     <string name="force_hw_ui">Forţaţi redarea cu GPU</string>
     <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desen în 2D</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
@@ -1080,7 +1081,7 @@ Dacă textul sistemului dvs. este încă prea mic, încercați să utilizați "<
     <string name="incoming_call_breathing_light_color_title">Apeluri</string>
     <string name="incoming_call_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pt. apeluri</string>
     <string name="incoming_call_volume_title">Ton de apel</string>
-    <string name="input_method">Metodă de intrare</string>
+    <string name="input_method">Tastatură</string>
     <string name="input_method_selector">Selector al metodei de intrare</string>
     <string name="input_method_selector_always_hide_title">Ascundeţi întotdeauna</string>
     <string name="input_method_selector_always_show_title">Afişaţi întotdeauna</string>
@@ -1528,12 +1529,12 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="nsd_quick_toggle_title">Descoperire serviciu de reţea</string>
     <string name="oem_radio_info_label">Informaţii/Setări caracteristice OEM</string>
     <string name="oldman_mode_confirm_title">Reporniţi telefonul?</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Ieşiţi din modul \"simplu\"?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Telefonul va reporni pentru a intra în modul \"simplu\".</string>
-    <string name="oldman_mode_enabled_name">Modul \"simplu\"</string>
-    <string name="oldman_mode_entry_name">Mod \"simplu\"</string>
-    <string name="oldman_mode_entry_title">Mod \"simplu\"</string>
-    <string name="oldman_mode_settings_caption">Setări mod \"simplu\"</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Ieşiţi din modul \"Uşor\"?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Telefonul va reporni pentru a intra în modul \"Uşor\".</string>
+    <string name="oldman_mode_enabled_name">Modul \"Uşor\"</string>
+    <string name="oldman_mode_entry_name">Mod \"Uşor\"</string>
+    <string name="oldman_mode_entry_title">Mod \"Uşor\"</string>
+    <string name="oldman_mode_settings_caption">Setări mod \"Uşor\"</string>
     <string name="oldman_mode_summary">Utilizaţi un ecran de pornire şi meniuri simplificate</string>
     <string name="online_resource_entry">Resurse on-line</string>
     <string name="only_one_home_message">Setările pentru ecranul de pornire vor fi ascunse până la instalarea altei aplicații ecran de pornire.</string>
@@ -1756,8 +1757,8 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="radioInfo_phone_idle">Inactiv</string>
     <string name="radioInfo_phone_offhook">Apel în curs</string>
     <string name="radioInfo_phone_ringing">Sună</string>
-    <string name="radioInfo_roaming_in">Roaming</string>
-    <string name="radioInfo_roaming_not">Nu se utilizează roaming</string>
+    <string name="radioInfo_roaming_in">Activat</string>
+    <string name="radioInfo_roaming_not">Dezactivat</string>
     <string name="radioInfo_service_emergency">Numai apeluri de urgenţă</string>
     <string name="radioInfo_service_in">În aria de acoperire</string>
     <string name="radioInfo_service_off">Radio oprit</string>
@@ -2245,10 +2246,10 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_color_calibration">Presetare corecţie culoare</string>
     <string name="title_dolby_control">Dolby digital plus</string>
     <string name="title_font">Font</string>
-    <string name="title_font_current">Se utilizează</string>
+    <string name="title_font_current">Fontul sistemului</string>
     <string name="title_font_size">Dimensiune text</string>
     <string name="title_hdmi_color_calibration">Presetare corecţie culoare</string>
-    <string name="title_layout_current">Selectaţi dimensiunea fontului</string>
+    <string name="title_layout_current">Dimensiunea textului</string>
     <string name="title_local_resource">Resurse locale</string>
     <string name="title_system_resource">Resurse de sistem</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>
@@ -2987,8 +2988,8 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Blocarea ecranului, panoul notificărilor</string>
     <string name="status_bar_app_enable_on_notificationBar">Panoul notificărilor</string>
     <string name="title_font2">Font</string>
-    <string name="title_font_current2">Selectaţi fontul sistemului</string>
-    <string name="title_layout_current2">Selectaţi dimensiunea fontului</string>
+    <string name="title_font_current2">Fontul sistemului</string>
+    <string name="title_layout_current2">Dimensiunea textului</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="fluency_mode">Optimizare performanţă sistem</string>
     <string name="gesture_wakeup_title">Atingere dublă a ecranului pentru trezirea dispozitvului</string>

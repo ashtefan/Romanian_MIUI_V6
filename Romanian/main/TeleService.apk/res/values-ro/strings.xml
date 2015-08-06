@@ -713,12 +713,12 @@ Acest proces poate dura până la 5 minute."</string>
     <string name="ota_title_activate">Activaţi-vă telefonul</string>
     <string name="ota_title_activate_success">Telefonul este activat.</string>
     <string name="ota_title_problem_with_activation">Problemă de activare</string>
-    <string name="ota_touch_activate">"Pentru a vă activa serviciul de telefonie, trebuie să efectuaţi un apel special. 
+    <string name="ota_touch_activate">"Pentru a vă activa serviciul de telefonie, trebuie să efectuaţi un apel special.
 
 După ce apăsaţi „Activaţi”, ascultaţi instrucţiunile furnizate pentru a vă activa telefonul."</string>
     <string name="ota_try_again">Încercaţi din nou</string>
-    <string name="ota_unsuccessful">"Telefonul dvs. nu s-a activat. 
-Vă recomandăm să găsiţi o zonă cu acoperire mai bună (lângă fereastră sau afară). 
+    <string name="ota_unsuccessful">"Telefonul dvs. nu s-a activat.
+Vă recomandăm să găsiţi o zonă cu acoperire mai bună (lângă fereastră sau afară).
 
 Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."</string>
     <string name="other_settings">Alte setări de apel</string>
@@ -1180,7 +1180,7 @@ indisponibil"</string>
     <string name="incall_error_sim_deactive">Cartelă SIM inactivă</string>
     <string name="voip_setting">Setări VoIP</string>
     <string name="ivr_mo_area_code_settings">Codul zonei actual</string>
-    <string name="ivr_mo_area_code_settings_hint">Introduceţi codul zonei actual</string>
+    <string name="ivr_mo_area_code_settings_hint">Introduceţi prefixul actual al zonei</string>
     <string name="ivr_parameter_settings">Setări parametri IVR</string>
     <string name="ivr_type_cm_1">M-Zone</string>
     <string name="ivr_type_cm_2">GoTone</string>

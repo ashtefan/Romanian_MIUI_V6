@@ -116,5 +116,5 @@
     <string name="power_hide_mode_app_list_summary">Setări aplicaţie</string>
     <string name="power_hide_mode_app_list_total">%d aplicaţii</string>
     <string name="empty_title_apps_container_list">Nicio aplicaţie</string>
-    <string name="hints_loading_text">Încărcare…</string>
+    <string name="hints_loading_text">Doar o secundă…</string>
 </resources>

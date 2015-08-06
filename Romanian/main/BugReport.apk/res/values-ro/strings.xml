@@ -85,7 +85,7 @@
     <string name="submit_dialog_confirm">Trimiteţi</string>
     <string name="submit_dialog_content">Feedback-ul dvs., împreună cu jurnalurile erorilor și imagini atașate, vor fi trimise la serverele Mi.</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu probleme</string>
-    <string name="suggestion_description">Scrieţi sugestia aici</string>
+    <string name="suggestion_description">Adăugaţi descrierea aici</string>
     <string name="suggestion_problem1">Spuneţi-ne ce caracteristici doriți să vedeți în viitor</string>
     <string name="system_app_select">Aplicații încorporate</string>
     <string name="systemui">Panou notificări</string>

@@ -181,8 +181,8 @@
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="custom_message_cancel">Anulaţi</string>
     <string name="custom_message_send">Trimiteţi</string>
-    <string name="data_enable_summary">Activaţi accesul la date prin reţeaua mobilă</string>
-    <string name="data_enabled">Date activate</string>
+    <string name="data_enable_summary">Accesare date prin reţeaua mobilă</string>
+    <string name="data_enabled">Date mobile</string>
     <string name="deactivate_all">Dezactivaţi toate restricţiile</string>
     <string name="default_notification_description">Sunet prestabilit (%1$s)</string>
     <string name="default_preference_summary">&lt;Nesetat></string>
@@ -614,12 +614,12 @@ Vă recomandăm să folosiți \"Selectare automată\" sau puteţi selecta manual
     <string name="ota_title_activate">Activaţi-vă telefonul</string>
     <string name="ota_title_activate_success">Telefonul este activat.</string>
     <string name="ota_title_problem_with_activation">Problemă de activare</string>
-    <string name="ota_touch_activate">"Pentru a vă activa serviciul de telefonie, trebuie să efectuaţi un apel special. 
+    <string name="ota_touch_activate">"Pentru a vă activa serviciul de telefonie, trebuie să efectuaţi un apel special.
 
 După ce apăsaţi „Activaţi”, ascultaţi instrucţiunile furnizate pentru a vă activa telefonul."</string>
     <string name="ota_try_again">Încercaţi din nou</string>
     <string name="ota_unsuccessful">"Telefonul dvs. nu s-a activat.
-Vă recomandăm să găsiţi o zonă cu acoperire mai bună (lângă fereastră sau afară). 
+Vă recomandăm să găsiţi o zonă cu acoperire mai bună (lângă fereastră sau afară).
 
 Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."</string>
     <string name="other_settings">Alte setări de apel</string>

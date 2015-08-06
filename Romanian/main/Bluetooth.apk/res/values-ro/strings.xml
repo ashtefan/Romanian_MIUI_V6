@@ -48,7 +48,7 @@
     <string name="bt_enable_cancel">Anulaţi</string>
     <string name="bt_enable_ok">Activaţi</string>
     <string name="incoming_file_confirm_title">Transfer de fişier</string>
-    <string name="incoming_file_confirm_content">"„%1$s” doreşte să vă trimită %2$s (%3$s). 
+    <string name="incoming_file_confirm_content">"„%1$s” doreşte să vă trimită %2$s (%3$s).
 
  Acceptaţi acest fişier?"</string>
     <string name="incoming_file_confirm_cancel">Refuzaţi</string>
@@ -91,10 +91,10 @@
     <string name="upload_fail_cancel">Închideţi</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">Fişier necunoscut</string>
-    <string name="unknown_file_desc">"Nu există nicio aplicaţie care să gestioneze acest tip de fişier. 
+    <string name="unknown_file_desc">"Nu există nicio aplicaţie care să gestioneze acest tip de fişier.
 "</string>
     <string name="not_exist_file">Niciun fişier</string>
-    <string name="not_exist_file_desc">"Fişierul nu există. 
+    <string name="not_exist_file_desc">"Fişierul nu există.
 "</string>
     <string name="enabling_progress_title">Aşteptaţi...</string>
     <string name="enabling_progress_content">Se activează Bluetooth...</string>
@@ -145,7 +145,6 @@
     <string name="defaultname">Set de maşină</string>
     <string name="unknownName">Nume necunoscut</string>
     <string name="localPhoneName">Numele meu</string>
-    <string name="defaultnumber">000000</string>
     <string name="hello">Bună ziua tuturor! Test de activitate!</string>
     <string name="app_name">Distribuire prin Bluetooth</string>
     <string name="insert_record">Inseraţi o înregistrare</string>
@@ -179,4 +178,10 @@
     <string name="mi_key_summary_take_photo">Faceți click pe Mi Key pentru a fotografia</string>
     <string name="reset_function_msg">Resetarea acestei caracteristici poate preveni lucrul normal al %1$s.</string>
     <string name="some_app_taking">(%1$s utilizează deja această funcție)</string>
+    <string name="notify_device_lose_connection_text">%1$s pierde conexiunea pentru mult timp, apăsaţi pentru a anula asocierea.</string>
+    <string name="notify_device_lose_connection_title">Dispozitivul %1$s pierde conexiunea</string>
+    <string name="unbind_device_alert_cancel">Anulaţi</string>
+    <string name="unbind_device_alert_content">Dispozitivul %1$s pierde conexiunea pentru mult timp, anularea asocierii va îmbunătăți performanța. Anulaţi asocierea?</string>
+    <string name="unbind_device_alert_ok">OK</string>
+    <string name="unbind_device_alert_title">Anulare asociere dispozitiv</string>
 </resources>
